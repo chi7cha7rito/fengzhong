@@ -1,0 +1,125 @@
+<!doctype html>
+<html>
+
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="initial-scale=1.0, user-scalable=no, width=device-width">
+    <title>自定义点标记</title>
+    <link rel="stylesheet" href="https://a.amap.com/jsapi_demos/static/demo-center/css/demo-center.css" />
+    <style>
+        html,
+        body,
+        #container {
+            height: 100%;
+            width: 100%;
+        }
+
+        .custom-content-marker {
+            position: relative;
+            width: 25px;
+            height: 34px;
+        }
+
+        .custom-content-marker img {
+            width: 100%;
+            height: 100%;
+        }
+
+        .custom-content-marker .close-btn {
+            position: absolute;
+            top: -6px;
+            right: -8px;
+            width: 15px;
+            height: 15px;
+            font-size: 12px;
+            background: #ccc;
+            border-radius: 50%;
+            color: #fff;
+            text-align: center;
+            line-height: 15px;
+            box-shadow: -1px 1px 1px rgba(10, 10, 10, .2);
+        }
+
+        .custom-content-marker .close-btn:hover {
+            background: #666;
+        }
+    </style>
+</head>
+
+<body>
+    <div id="container"></div>
+    <script type="text/javascript" src="./addresses.js"></script>
+    <script type="text/javascript" src="./fenzhong.js"></script>
+    <script type="text/javascript"
+        src="https://webapi.amap.com/maps?v=1.4.15&key=ade154cd66fa7d3a25fdbb216debbd9a&plugin=AMap.Geocoder"></script>
+    <script type="text/javascript">
+
+        // 创建地图实例
+        var map = new AMap.Map("container", {
+            zoom: 13,
+            // center: position,
+            resizeEnable: true
+        });
+
+        var geocoder = new AMap.Geocoder({
+            city: "上海", //城市设为北京，默认：“全国”
+        });
+        var style = [{
+            url: 'https://a.amap.com/jsapi_demos/static/images/mass0.png',
+            anchor: new AMap.Pixel(6, 6),
+            size: new AMap.Size(11, 11)
+        }, {
+            url: 'https://a.amap.com/jsapi_demos/static/images/mass1.png',
+            anchor: new AMap.Pixel(4, 4),
+            size: new AMap.Size(7, 7)
+        }, {
+            url: 'https://a.amap.com/jsapi_demos/static/images/mass2.png',
+            anchor: new AMap.Pixel(3, 3),
+            size: new AMap.Size(5, 5)
+        }
+        ];
+
+        // var markers = []
+        // for (let index = 0; index < summary.length; index++) {
+        //     geoCode(summary[index])
+        // }
+
+        // function geoCode(a) {
+        //     geocoder.getLocation(a.address, function (status, result) {
+        //         if (status === 'complete' && result.geocodes.length) {
+        //             if (result.geocodes[0].location) {
+        //                 var style = 2
+        //                 if (a.count > 10) style = 1
+        //                 if (a.count > 30) style = 0
+        //                 markers.push({
+        //                     "lnglat": [result.geocodes[0].location.lng, result.geocodes[0].location.lat],
+        //                     "address": a.address,
+        //                     "name": a.name,
+        //                     "count": a.count,
+        //                     "style": style
+        //                 })
+        //             }
+        //         }
+        //     });
+        // }
+
+        var mass = new AMap.MassMarks(addresses, {
+            opacity: 0.8,
+            zIndex: 111,
+            cursor: 'pointer',
+            style: style
+        });
+
+        var marker = new AMap.Marker({ content: ' ', map: map });
+
+        mass.on('mouseover', function (e) {
+            marker.setPosition(e.data.lnglat);
+            marker.setLabel({ content: e.data.name + ',' + e.data.address + ',' + e.data.count })
+        });
+
+        mass.setMap(map);
+    </script>
+</body>
+
+</html>
