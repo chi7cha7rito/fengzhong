@@ -7,7 +7,7 @@ var addresses = [
         "address": "阿克苏路1099号",
         "name": "宝龙城市广场_公寓楼",
         "count": 20,
-        "style": 1
+        "style": 2
     },
     {
         "lnglat": [
@@ -17,7 +17,7 @@ var addresses = [
         "address": "北园路258弄",
         "name": "东方汇景苑",
         "count": 79,
-        "style": 0
+        "style": 7
     },
     {
         "lnglat": [
@@ -27,7 +27,7 @@ var addresses = [
         "address": "北张家浜路88弄",
         "name": "左岸88",
         "count": 10,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -37,7 +37,7 @@ var addresses = [
         "address": "海防路429弄8号",
         "name": "领航静安艺庭",
         "count": 3,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -57,7 +57,7 @@ var addresses = [
         "address": "闵城路199弄",
         "name": "好世鹿鸣苑",
         "count": 92,
-        "style": 0
+        "style": 9
     },
     {
         "lnglat": [
@@ -67,7 +67,7 @@ var addresses = [
         "address": "颛兴东路745号",
         "name": "拉法叶园区B楼墨空间",
         "count": 3,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -87,7 +87,7 @@ var addresses = [
         "address": "阿克苏路1358号",
         "name": "惟乐教育文化园（赢嘉商务楼）",
         "count": 6,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -97,7 +97,7 @@ var addresses = [
         "address": "安波路533弄1-3号，安波路569号",
         "name": "海上硕和国际办公楼",
         "count": 4,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -107,7 +107,7 @@ var addresses = [
         "address": "安波路567号",
         "name": "海上硕和国际城",
         "count": 80,
-        "style": 0
+        "style": 8
     },
     {
         "lnglat": [
@@ -127,7 +127,7 @@ var addresses = [
         "address": "安国路28弄",
         "name": "荣胜公寓",
         "count": 2,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -137,7 +137,7 @@ var addresses = [
         "address": "安顺路158弄",
         "name": "金电大厦",
         "count": 6,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -157,7 +157,7 @@ var addresses = [
         "address": "安顺路251号",
         "name": "虹桥银都大楼",
         "count": 5,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -167,7 +167,7 @@ var addresses = [
         "address": "安顺路255弄",
         "name": "虹桥府邸",
         "count": 10,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -177,7 +177,7 @@ var addresses = [
         "address": "安顺路358弄",
         "name": "联鑫虹桥苑",
         "count": 9,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -197,7 +197,7 @@ var addresses = [
         "address": "安亭镇和静路986号",
         "name": "世康大厦",
         "count": 1,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -207,7 +207,7 @@ var addresses = [
         "address": "安谐路99弄",
         "name": "新城尚上城",
         "count": 54,
-        "style": 0
+        "style": 5
     },
     {
         "lnglat": [
@@ -217,7 +217,7 @@ var addresses = [
         "address": "安远路16弄",
         "name": "宗鑫公寓",
         "count": 3,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -227,7 +227,7 @@ var addresses = [
         "address": "安远路501弄2-5号梅山大楼",
         "name": "梅山大楼",
         "count": 2,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -237,7 +237,7 @@ var addresses = [
         "address": "安远路518号",
         "name": "宝华名邸（晶典）",
         "count": 3,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -247,7 +247,7 @@ var addresses = [
         "address": "安远路531号",
         "name": "阳光商务广场",
         "count": 1,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -257,7 +257,7 @@ var addresses = [
         "address": "安远路597弄",
         "name": "静安四季公寓",
         "count": 2,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -267,7 +267,7 @@ var addresses = [
         "address": "安远路710号",
         "name": "大昌商务楼",
         "count": 2,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -277,7 +277,7 @@ var addresses = [
         "address": "安远路777弄",
         "name": "静安阳光名都_上海",
         "count": 30,
-        "style": 1
+        "style": 3
     },
     {
         "lnglat": [
@@ -287,7 +287,7 @@ var addresses = [
         "address": "安远路84号",
         "name": "新天大厦",
         "count": 3,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -297,7 +297,7 @@ var addresses = [
         "address": "安悦路100弄",
         "name": "新城尚上城二期",
         "count": 24,
-        "style": 1
+        "style": 2
     },
     {
         "lnglat": [
@@ -307,7 +307,7 @@ var addresses = [
         "address": "安智路155号",
         "name": "万创坊",
         "count": 22,
-        "style": 1
+        "style": 2
     },
     {
         "lnglat": [
@@ -317,7 +317,7 @@ var addresses = [
         "address": "鞍山路160弄",
         "name": "申安公寓",
         "count": 8,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -327,7 +327,7 @@ var addresses = [
         "address": "鞍山路5号",
         "name": "杨浦商城（上海）",
         "count": 4,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -337,7 +337,7 @@ var addresses = [
         "address": "奥纳路188号",
         "name": "诚信国际大厦",
         "count": 4,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -347,7 +347,7 @@ var addresses = [
         "address": "奥纳路55号",
         "name": "金港大厦（上海）",
         "count": 5,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -357,7 +357,7 @@ var addresses = [
         "address": "奥纳路79号2幢",
         "name": "交能国际大厦",
         "count": 4,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -367,7 +367,7 @@ var addresses = [
         "address": "澳门路330弄",
         "name": "浅水湾恺悦名城",
         "count": 22,
-        "style": 1
+        "style": 2
     },
     {
         "lnglat": [
@@ -377,7 +377,7 @@ var addresses = [
         "address": "澳门路356号",
         "name": "三维大厦",
         "count": 1,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -387,7 +387,7 @@ var addresses = [
         "address": "澳门路477号",
         "name": "中华1912创意园",
         "count": 8,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -397,7 +397,7 @@ var addresses = [
         "address": "澳门路519弄",
         "name": "华生大厦",
         "count": 4,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -417,7 +417,7 @@ var addresses = [
         "address": "澳门路715号",
         "name": "715创意园",
         "count": 1,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -427,7 +427,7 @@ var addresses = [
         "address": "澳门路756弄",
         "name": "澳门公寓",
         "count": 2,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -437,7 +437,7 @@ var addresses = [
         "address": "澳门路872弄3号",
         "name": "绿洲尧舜公寓",
         "count": 3,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -447,7 +447,7 @@ var addresses = [
         "address": "白渡路188弄",
         "name": "申江新苑",
         "count": 4,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -457,7 +457,7 @@ var addresses = [
         "address": "白渡路258弄",
         "name": "福鑫大楼",
         "count": 4,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -467,7 +467,7 @@ var addresses = [
         "address": "白桦路266弄",
         "name": "金色碧云",
         "count": 24,
-        "style": 1
+        "style": 2
     },
     {
         "lnglat": [
@@ -477,7 +477,7 @@ var addresses = [
         "address": "白兰路169弄",
         "name": "沙田新苑",
         "count": 9,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -507,7 +507,7 @@ var addresses = [
         "address": "白杨路199弄",
         "name": "大唐盛世花园一期",
         "count": 106,
-        "style": 0
+        "style": 9
     },
     {
         "lnglat": [
@@ -517,7 +517,7 @@ var addresses = [
         "address": "白杨路360弄",
         "name": "环龙新纪园",
         "count": 8,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -527,7 +527,7 @@ var addresses = [
         "address": "白银路399号",
         "name": "晶鼎大厦",
         "count": 4,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -537,7 +537,7 @@ var addresses = [
         "address": "白玉路669弄",
         "name": "创世纪滨河花园",
         "count": 31,
-        "style": 0
+        "style": 3
     },
     {
         "lnglat": [
@@ -557,7 +557,7 @@ var addresses = [
         "address": "百安公路2699弄",
         "name": "路劲海尚苑三期",
         "count": 49,
-        "style": 0
+        "style": 4
     },
     {
         "lnglat": [
@@ -567,7 +567,7 @@ var addresses = [
         "address": "百安公路2999弄",
         "name": "兰郡名苑",
         "count": 22,
-        "style": 1
+        "style": 2
     },
     {
         "lnglat": [
@@ -597,7 +597,7 @@ var addresses = [
         "address": "百业路167弄31号",
         "name": "泊寓翡翠公园店",
         "count": 6,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -607,7 +607,7 @@ var addresses = [
         "address": "板泉路1555弄",
         "name": "尚东国际名园一期",
         "count": 45,
-        "style": 0
+        "style": 4
     },
     {
         "lnglat": [
@@ -617,7 +617,7 @@ var addresses = [
         "address": "半淞园路388号",
         "name": "越界世博园",
         "count": 7,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -627,7 +627,7 @@ var addresses = [
         "address": "半淞园路585弄",
         "name": "欣安基",
         "count": 6,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -637,7 +637,7 @@ var addresses = [
         "address": "包头南路628弄",
         "name": "杨浦欣园二期",
         "count": 2,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -657,7 +657,7 @@ var addresses = [
         "address": "宝安公路2999弄",
         "name": "东方慧谷",
         "count": 8,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -667,7 +667,7 @@ var addresses = [
         "address": "宝安公路3136号",
         "name": "清水湾上海",
         "count": 56,
-        "style": 0
+        "style": 5
     },
     {
         "lnglat": [
@@ -697,7 +697,7 @@ var addresses = [
         "address": "宝安公路7弄1号",
         "name": "上坤极客公寓宝安公路店",
         "count": 8,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -707,7 +707,7 @@ var addresses = [
         "address": "宝昌路399弄",
         "name": "绿景晓园",
         "count": 10,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -717,7 +717,7 @@ var addresses = [
         "address": "宝昌路738弄",
         "name": "广盛公寓",
         "count": 9,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -727,7 +727,7 @@ var addresses = [
         "address": "宝城路155弄",
         "name": "名都新城一二期",
         "count": 58,
-        "style": 0
+        "style": 5
     },
     {
         "lnglat": [
@@ -737,7 +737,7 @@ var addresses = [
         "address": "宝城路500弄",
         "name": "利景花苑",
         "count": 54,
-        "style": 0
+        "style": 5
     },
     {
         "lnglat": [
@@ -747,7 +747,7 @@ var addresses = [
         "address": "宝东路888弄",
         "name": "中艺花园",
         "count": 29,
-        "style": 1
+        "style": 2
     },
     {
         "lnglat": [
@@ -757,7 +757,7 @@ var addresses = [
         "address": "宝菊路133弄",
         "name": "保利叶语",
         "count": 110,
-        "style": 0
+        "style": 9
     },
     {
         "lnglat": [
@@ -767,7 +767,7 @@ var addresses = [
         "address": "宝联路88弄",
         "name": "枫荷兰庭",
         "count": 6,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -777,7 +777,7 @@ var addresses = [
         "address": "宝林路458号",
         "name": "云派PARK",
         "count": 2,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -797,7 +797,7 @@ var addresses = [
         "address": "宝南路58号",
         "name": "宝南商务中心",
         "count": 3,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -807,7 +807,7 @@ var addresses = [
         "address": "宝山路268弄",
         "name": "复地新都国际",
         "count": 22,
-        "style": 1
+        "style": 2
     },
     {
         "lnglat": [
@@ -827,7 +827,7 @@ var addresses = [
         "address": "宝山路748号",
         "name": "鑫成大厦",
         "count": 1,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -837,7 +837,7 @@ var addresses = [
         "address": "宝山路778号",
         "name": "海伦国际",
         "count": 30,
-        "style": 1
+        "style": 3
     },
     {
         "lnglat": [
@@ -847,7 +847,7 @@ var addresses = [
         "address": "宝山路888弄",
         "name": "虹祺花苑",
         "count": 9,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -877,7 +877,7 @@ var addresses = [
         "address": "宝通路239弄",
         "name": "包运大厦",
         "count": 4,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -887,7 +887,7 @@ var addresses = [
         "address": "宝通路425弄",
         "name": "宝通公寓",
         "count": 4,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -907,7 +907,7 @@ var addresses = [
         "address": "宝翔路888弄",
         "name": "上海绿色家园(朗诗绿色街区)",
         "count": 40,
-        "style": 0
+        "style": 4
     },
     {
         "lnglat": [
@@ -917,7 +917,7 @@ var addresses = [
         "address": "宝杨路2000号",
         "name": "宝杨慧照商务楼",
         "count": 2,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -937,7 +937,7 @@ var addresses = [
         "address": "宝杨路2121号",
         "name": "2121创意园",
         "count": 3,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -957,7 +957,7 @@ var addresses = [
         "address": "宝杨路3288弄",
         "name": "宝启花园",
         "count": 4,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -967,7 +967,7 @@ var addresses = [
         "address": "宝源路301弄",
         "name": "申桂公寓",
         "count": 4,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -997,7 +997,7 @@ var addresses = [
         "address": "保屯路129弄",
         "name": "北方花苑",
         "count": 1,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -1007,7 +1007,7 @@ var addresses = [
         "address": "报春路128弄",
         "name": "东苑绿世界花园",
         "count": 5,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -1017,7 +1017,7 @@ var addresses = [
         "address": "报春路558弄",
         "name": "绿茵苑",
         "count": 10,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -1027,7 +1027,7 @@ var addresses = [
         "address": "北艾路1077弄",
         "name": "大华锦绣华城11街区",
         "count": 128,
-        "style": 0
+        "style": 9
     },
     {
         "lnglat": [
@@ -1037,7 +1037,7 @@ var addresses = [
         "address": "北艾路1500号",
         "name": "大华锦绣华城2街区",
         "count": 10,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -1047,7 +1047,7 @@ var addresses = [
         "address": "北艾路1765弄",
         "name": "大华锦绣华城4街区",
         "count": 58,
-        "style": 0
+        "style": 5
     },
     {
         "lnglat": [
@@ -1067,7 +1067,7 @@ var addresses = [
         "address": "北宝兴路158号",
         "name": "嘉利明珠商务楼",
         "count": 1,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -1077,7 +1077,7 @@ var addresses = [
         "address": "北翠路1000弄",
         "name": "地中海小区",
         "count": 6,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -1087,7 +1087,7 @@ var addresses = [
         "address": "北海路8号",
         "name": "福申大厦",
         "count": 3,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -1097,7 +1097,7 @@ var addresses = [
         "address": "北华路168弄",
         "name": "万博家园",
         "count": 35,
-        "style": 0
+        "style": 3
     },
     {
         "lnglat": [
@@ -1107,7 +1107,7 @@ var addresses = [
         "address": "北华路22弄",
         "name": "虹桥乐贤居",
         "count": 28,
-        "style": 1
+        "style": 2
     },
     {
         "lnglat": [
@@ -1117,7 +1117,7 @@ var addresses = [
         "address": "北江榉路588弄",
         "name": "万科早城",
         "count": 20,
-        "style": 1
+        "style": 2
     },
     {
         "lnglat": [
@@ -1127,7 +1127,7 @@ var addresses = [
         "address": "北江燕路228弄(近江月路)",
         "name": "世博家园五街坊",
         "count": 8,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -1137,7 +1137,7 @@ var addresses = [
         "address": "北江燕路338弄浦江世博家园6街坊(近浦池路)",
         "name": "世博家园六街坊",
         "count": 8,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -1147,7 +1147,7 @@ var addresses = [
         "address": "北京东路431号",
         "name": "松柏公寓(上海)",
         "count": 8,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -1157,7 +1157,7 @@ var addresses = [
         "address": "北京东路668号",
         "name": "科技京城",
         "count": 10,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -1167,7 +1167,7 @@ var addresses = [
         "address": "碧泉路36弄1号",
         "name": "金霄大厦",
         "count": 1,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -1177,7 +1177,7 @@ var addresses = [
         "address": "北京西路1399号",
         "name": "信达大厦（上海）",
         "count": 6,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -1187,7 +1187,7 @@ var addresses = [
         "address": "北京西路1465号",
         "name": "国立大厦",
         "count": 2,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -1197,7 +1197,7 @@ var addresses = [
         "address": "北京西路1701号",
         "name": "静安中华大厦",
         "count": 5,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -1207,7 +1207,7 @@ var addresses = [
         "address": "北京西路1号",
         "name": "新金桥广场",
         "count": 3,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -1217,7 +1217,7 @@ var addresses = [
         "address": "北京西路355弄",
         "name": "华盛大公馆",
         "count": 10,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -1227,7 +1227,7 @@ var addresses = [
         "address": "北京西路605弄57号",
         "name": "嘉发大厦",
         "count": 2,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -1237,7 +1237,7 @@ var addresses = [
         "address": "北京西路669号",
         "name": "东展商业大厦",
         "count": 1,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -1247,7 +1247,7 @@ var addresses = [
         "address": "北京西路758弄",
         "name": "国际丽都城",
         "count": 37,
-        "style": 0
+        "style": 3
     },
     {
         "lnglat": [
@@ -1257,7 +1257,7 @@ var addresses = [
         "address": "北京西路819号",
         "name": "北泰电信大楼",
         "count": 2,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -1267,7 +1267,7 @@ var addresses = [
         "address": "北京西路833号",
         "name": "京泰大楼",
         "count": 3,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -1277,7 +1277,7 @@ var addresses = [
         "address": "北欧新镇罗芬路1199弄",
         "name": "朗诗绿岛",
         "count": 31,
-        "style": 0
+        "style": 3
     },
     {
         "lnglat": [
@@ -1287,7 +1287,7 @@ var addresses = [
         "address": "北沈路288弄",
         "name": "万博欣园",
         "count": 21,
-        "style": 1
+        "style": 2
     },
     {
         "lnglat": [
@@ -1297,7 +1297,7 @@ var addresses = [
         "address": "北石路500弄30号",
         "name": "舒庭苑",
         "count": 1,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -1307,7 +1307,7 @@ var addresses = [
         "address": "北松路489号",
         "name": "沫谷文创园",
         "count": 3,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -1317,7 +1317,7 @@ var addresses = [
         "address": "北苏州河路668号",
         "name": "河滨豪园",
         "count": 20,
-        "style": 1
+        "style": 2
     },
     {
         "lnglat": [
@@ -1327,7 +1327,7 @@ var addresses = [
         "address": "北苏州路1040号",
         "name": "JK1933",
         "count": 1,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -1337,7 +1337,7 @@ var addresses = [
         "address": "北行路555弄",
         "name": "朗诗未来街区",
         "count": 20,
-        "style": 1
+        "style": 2
     },
     {
         "lnglat": [
@@ -1347,7 +1347,7 @@ var addresses = [
         "address": "北张家浜路28弄",
         "name": "嘉德公寓",
         "count": 6,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -1367,7 +1367,7 @@ var addresses = [
         "address": "本溪路181号",
         "name": "同和凤凰园",
         "count": 2,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -1377,7 +1377,7 @@ var addresses = [
         "address": "本溪路152-222号",
         "name": "中通雅苑_华元豪庭",
         "count": 22,
-        "style": 1
+        "style": 2
     },
     {
         "lnglat": [
@@ -1387,7 +1387,7 @@ var addresses = [
         "address": "本溪路61号",
         "name": "新凤城商务中心",
         "count": 1,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -1397,7 +1397,7 @@ var addresses = [
         "address": "毕升路299弄",
         "name": "富海商务苑",
         "count": 6,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -1407,7 +1407,7 @@ var addresses = [
         "address": "碧波路177号",
         "name": "华虹科技园办公楼",
         "count": 4,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -1417,7 +1417,7 @@ var addresses = [
         "address": "碧云路199弄",
         "name": "金桥爱建园",
         "count": 85,
-        "style": 0
+        "style": 8
     },
     {
         "lnglat": [
@@ -1437,7 +1437,7 @@ var addresses = [
         "address": "碧云路580号",
         "name": "S8碧云花园",
         "count": 57,
-        "style": 0
+        "style": 5
     },
     {
         "lnglat": [
@@ -1447,7 +1447,7 @@ var addresses = [
         "address": "碧云路777号",
         "name": "S4碧云花园",
         "count": 10,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -1467,7 +1467,7 @@ var addresses = [
         "address": "宾阳路28弄",
         "name": "保利星苑",
         "count": 10,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -1477,7 +1477,7 @@ var addresses = [
         "address": "宾阳路62弄",
         "name": "乾骏大厦",
         "count": 4,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -1487,7 +1487,7 @@ var addresses = [
         "address": "宾阳路9弄",
         "name": "宾阳苑",
         "count": 3,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -1497,7 +1497,7 @@ var addresses = [
         "address": "博丰路158弄",
         "name": "金水和璟园北区",
         "count": 46,
-        "style": 0
+        "style": 4
     },
     {
         "lnglat": [
@@ -1507,7 +1507,7 @@ var addresses = [
         "address": "博航路68号",
         "name": "招商局上海中心",
         "count": 9,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -1537,7 +1537,7 @@ var addresses = [
         "address": "博山东路20弄",
         "name": "锦绣河山小区",
         "count": 20,
-        "style": 1
+        "style": 2
     },
     {
         "lnglat": [
@@ -1547,7 +1547,7 @@ var addresses = [
         "address": "博山路200弄",
         "name": "名门河滨花园",
         "count": 29,
-        "style": 1
+        "style": 2
     },
     {
         "lnglat": [
@@ -1557,7 +1557,7 @@ var addresses = [
         "address": "博园路1333号",
         "name": "北虹桥科创中心",
         "count": 5,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -1567,7 +1567,7 @@ var addresses = [
         "address": "博园路1333号1号楼",
         "name": "北虹桥电子商务智慧产业园",
         "count": 3,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -1627,7 +1627,7 @@ var addresses = [
         "address": "彩云路843弄",
         "name": "云树仁居",
         "count": 5,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -1637,7 +1637,7 @@ var addresses = [
         "address": "蔡伦路780号",
         "name": "推广大楼",
         "count": 4,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -1647,7 +1647,7 @@ var addresses = [
         "address": "沧源路1200号",
         "name": "思源创新园",
         "count": 2,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -1657,7 +1657,7 @@ var addresses = [
         "address": "曹安公路1509号",
         "name": "福瑞大厦",
         "count": 5,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -1667,7 +1667,7 @@ var addresses = [
         "address": "曹安公路1718号",
         "name": "威隆大厦",
         "count": 5,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -1677,7 +1677,7 @@ var addresses = [
         "address": "曹安公路1909号",
         "name": "锦银休闲广场银座印象",
         "count": 9,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -1687,7 +1687,7 @@ var addresses = [
         "address": "曹安公路1930弄",
         "name": "曹安商办楼",
         "count": 9,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -1697,7 +1697,7 @@ var addresses = [
         "address": "曹安公路3918号",
         "name": "协通大厦",
         "count": 4,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -1707,7 +1707,7 @@ var addresses = [
         "address": "曹安公路4671号",
         "name": "北虹桥协通科技大厦",
         "count": 3,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -1727,7 +1727,7 @@ var addresses = [
         "address": "曹安公路4908弄",
         "name": "曹安景林",
         "count": 39,
-        "style": 0
+        "style": 3
     },
     {
         "lnglat": [
@@ -1737,7 +1737,7 @@ var addresses = [
         "address": "曹安公路5588号、5616号",
         "name": "安亭财富广场",
         "count": 22,
-        "style": 1
+        "style": 2
     },
     {
         "lnglat": [
@@ -1747,7 +1747,7 @@ var addresses = [
         "address": "曹安路1775号",
         "name": "上海国际鞋城",
         "count": 5,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -1757,7 +1757,7 @@ var addresses = [
         "address": "曹安路295，323号",
         "name": "振光大厦",
         "count": 4,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -1767,7 +1767,7 @@ var addresses = [
         "address": "曹安路4671号",
         "name": "上海北虹桥协通产业园",
         "count": 7,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -1777,7 +1777,7 @@ var addresses = [
         "address": "曹家塘路220弄-1-35号",
         "name": "塘泾南苑",
         "count": 28,
-        "style": 1
+        "style": 2
     },
     {
         "lnglat": [
@@ -1787,7 +1787,7 @@ var addresses = [
         "address": "曹家塘路390弄",
         "name": "塘泾北苑",
         "count": 100,
-        "style": 0
+        "style": 9
     },
     {
         "lnglat": [
@@ -1797,7 +1797,7 @@ var addresses = [
         "address": "曹穗北路135弄",
         "name": "忆华里",
         "count": 76,
-        "style": 0
+        "style": 7
     },
     {
         "lnglat": [
@@ -1807,7 +1807,7 @@ var addresses = [
         "address": "曹农路538号",
         "name": "上海娃娃谷工业园(上海宏隆包装制品有限公司)",
         "count": 7,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -1817,7 +1817,7 @@ var addresses = [
         "address": "曹杨路1040弄1号",
         "name": "中友大厦",
         "count": 4,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -1827,7 +1827,7 @@ var addresses = [
         "address": "曹杨路1040弄2号",
         "name": "中谊大厦",
         "count": 4,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -1837,7 +1837,7 @@ var addresses = [
         "address": "曹杨路2168弄",
         "name": "金纺苑",
         "count": 10,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -1857,7 +1857,7 @@ var addresses = [
         "address": "曹杨路2170弄",
         "name": "恒力锦沧花园",
         "count": 30,
-        "style": 1
+        "style": 3
     },
     {
         "lnglat": [
@@ -1867,7 +1867,7 @@ var addresses = [
         "address": "曹杨路2288弄",
         "name": "曹杨新苑",
         "count": 6,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -1877,7 +1877,7 @@ var addresses = [
         "address": "曹杨路303弄",
         "name": "锦绿新城二期",
         "count": 5,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -1887,7 +1887,7 @@ var addresses = [
         "address": "曹杨路450号",
         "name": "绿地和创大厦",
         "count": 6,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -1897,7 +1897,7 @@ var addresses = [
         "address": "曹杨路500号",
         "name": "普陀科技馆",
         "count": 2,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -1907,7 +1907,7 @@ var addresses = [
         "address": "曹杨路455弄",
         "name": "尚诚国际苑",
         "count": 8,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -1927,7 +1927,7 @@ var addresses = [
         "address": "曹杨路903弄",
         "name": "中桥大楼",
         "count": 6,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -1937,7 +1937,7 @@ var addresses = [
         "address": "曹杨路710弄",
         "name": "中关村公寓_上海",
         "count": 52,
-        "style": 0
+        "style": 5
     },
     {
         "lnglat": [
@@ -1947,7 +1947,7 @@ var addresses = [
         "address": "曹杨路540号",
         "name": "中联大厦",
         "count": 8,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -1957,7 +1957,7 @@ var addresses = [
         "address": "曹杨路922弄",
         "name": "枫桥苑",
         "count": 8,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -1967,7 +1967,7 @@ var addresses = [
         "address": "曹杨路930号",
         "name": "汇尚商务楼",
         "count": 5,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -1977,7 +1977,7 @@ var addresses = [
         "address": "漕宝路1011号",
         "name": "漕河泾印象城",
         "count": 28,
-        "style": 1
+        "style": 2
     },
     {
         "lnglat": [
@@ -1987,7 +1987,7 @@ var addresses = [
         "address": "漕宝路1555弄",
         "name": "大上海国际花园",
         "count": 62,
-        "style": 0
+        "style": 6
     },
     {
         "lnglat": [
@@ -1997,7 +1997,7 @@ var addresses = [
         "address": "漕宝路1108号",
         "name": "燎申漕宝大厦",
         "count": 5,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -2007,7 +2007,7 @@ var addresses = [
         "address": "漕宝路400号",
         "name": "明申商务广场",
         "count": 7,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -2017,7 +2017,7 @@ var addresses = [
         "address": "漕宝路401号",
         "name": "漕宝路401号园区",
         "count": 4,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -2027,7 +2027,7 @@ var addresses = [
         "address": "漕宝路650号",
         "name": "知汇大厦",
         "count": 4,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -2037,7 +2037,7 @@ var addresses = [
         "address": "漕宝路70-86号",
         "name": "光大会展中心",
         "count": 24,
-        "style": 1
+        "style": 2
     },
     {
         "lnglat": [
@@ -2057,7 +2057,7 @@ var addresses = [
         "address": "漕溪北路28-38号",
         "name": "实业公寓(上海)",
         "count": 10,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -2067,7 +2067,7 @@ var addresses = [
         "address": "漕溪北路18号",
         "name": "实业大厦",
         "count": 28,
-        "style": 1
+        "style": 2
     },
     {
         "lnglat": [
@@ -2077,7 +2077,7 @@ var addresses = [
         "address": "漕溪北路375号",
         "name": "中金国际广场",
         "count": 9,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -2087,7 +2087,7 @@ var addresses = [
         "address": "漕溪北路41号",
         "name": "汇嘉大厦",
         "count": 2,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -2097,7 +2097,7 @@ var addresses = [
         "address": "漕溪北路398号",
         "name": "汇智大厦",
         "count": 30,
-        "style": 1
+        "style": 3
     },
     {
         "lnglat": [
@@ -2107,7 +2107,7 @@ var addresses = [
         "address": "漕溪北路45号",
         "name": "航空科技大厦",
         "count": 36,
-        "style": 0
+        "style": 3
     },
     {
         "lnglat": [
@@ -2127,7 +2127,7 @@ var addresses = [
         "address": "漕溪北路88号",
         "name": "圣爱大厦",
         "count": 40,
-        "style": 0
+        "style": 4
     },
     {
         "lnglat": [
@@ -2147,7 +2147,7 @@ var addresses = [
         "address": "漕溪北路99弄",
         "name": "尊园",
         "count": 6,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -2157,7 +2157,7 @@ var addresses = [
         "address": "漕溪路125号",
         "name": "金谷园",
         "count": 6,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -2167,7 +2167,7 @@ var addresses = [
         "address": "漕溪路135号",
         "name": "上海金浦大楼",
         "count": 1,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -2177,7 +2177,7 @@ var addresses = [
         "address": "漕溪路167弄",
         "name": "铭源大楼（上海）",
         "count": 7,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -2187,7 +2187,7 @@ var addresses = [
         "address": "漕溪路190号",
         "name": "华林大楼",
         "count": 3,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -2197,7 +2197,7 @@ var addresses = [
         "address": "漕溪路169号",
         "name": "东宇商务楼",
         "count": 1,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -2207,7 +2207,7 @@ var addresses = [
         "address": "漕溪路250号",
         "name": "银海大楼",
         "count": 8,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -2217,7 +2217,7 @@ var addresses = [
         "address": "漕溪路280号",
         "name": "汇腾广场",
         "count": 10,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -2227,7 +2227,7 @@ var addresses = [
         "address": "漕溪四村70号",
         "name": "兆嘉园",
         "count": 3,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -2237,7 +2237,7 @@ var addresses = [
         "address": "漕溪路222号",
         "name": "航天大厦（南楼）",
         "count": 2,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -2247,7 +2247,7 @@ var addresses = [
         "address": "茶陵北路20号",
         "name": "X2创意空间",
         "count": 3,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -2257,7 +2257,7 @@ var addresses = [
         "address": "茶陵路1号",
         "name": "紫汇苑",
         "count": 2,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -2267,7 +2267,7 @@ var addresses = [
         "address": "槎溪路222弄",
         "name": "万城银座",
         "count": 42,
-        "style": 0
+        "style": 4
     },
     {
         "lnglat": [
@@ -2277,7 +2277,7 @@ var addresses = [
         "address": "昌吉路168号",
         "name": "龙安佳苑",
         "count": 24,
-        "style": 1
+        "style": 2
     },
     {
         "lnglat": [
@@ -2287,7 +2287,7 @@ var addresses = [
         "address": "昌平路1009",
         "name": "昌平综合大楼",
         "count": 2,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -2297,7 +2297,7 @@ var addresses = [
         "address": "昌平路399号",
         "name": "良清公寓",
         "count": 2,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -2327,7 +2327,7 @@ var addresses = [
         "address": "昌平路556号",
         "name": "金昌大厦",
         "count": 1,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -2337,7 +2337,7 @@ var addresses = [
         "address": "昌平路658弄",
         "name": "丽致公寓",
         "count": 6,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -2347,7 +2347,7 @@ var addresses = [
         "address": "昌平路68号",
         "name": "静安现代大厦",
         "count": 6,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -2367,7 +2367,7 @@ var addresses = [
         "address": "昌平路958号",
         "name": "自然美大楼",
         "count": 2,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -2377,7 +2377,7 @@ var addresses = [
         "address": "昌平路935号",
         "name": "昌平大楼",
         "count": 1,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -2387,7 +2387,7 @@ var addresses = [
         "address": "昌平路988弄999弄",
         "name": "长丰公寓",
         "count": 8,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -2397,7 +2397,7 @@ var addresses = [
         "address": "昌平路990号",
         "name": "航创990",
         "count": 2,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -2407,7 +2407,7 @@ var addresses = [
         "address": "昌平路994号",
         "name": "传媒文化园",
         "count": 2,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -2417,7 +2417,7 @@ var addresses = [
         "address": "昌邑路538弄5号",
         "name": "裕景国际商务广场",
         "count": 8,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -2427,7 +2427,7 @@ var addresses = [
         "address": "昌邑路555弄",
         "name": "滨江茗园",
         "count": 24,
-        "style": 1
+        "style": 2
     },
     {
         "lnglat": [
@@ -2437,7 +2437,7 @@ var addresses = [
         "address": "昌邑路55弄",
         "name": "浦江茗园(艺术传家堡)",
         "count": 39,
-        "style": 0
+        "style": 3
     },
     {
         "lnglat": [
@@ -2457,7 +2457,7 @@ var addresses = [
         "address": "常德路1158弄",
         "name": "同德公寓",
         "count": 7,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -2467,7 +2467,7 @@ var addresses = [
         "address": "常德路1211号",
         "name": "宝华大厦",
         "count": 3,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -2477,7 +2477,7 @@ var addresses = [
         "address": "常德路1239号",
         "name": "常德大厦",
         "count": 8,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -2487,7 +2487,7 @@ var addresses = [
         "address": "常德路1258弄",
         "name": "上青佳园",
         "count": 47,
-        "style": 0
+        "style": 4
     },
     {
         "lnglat": [
@@ -2497,7 +2497,7 @@ var addresses = [
         "address": "常德路1436号",
         "name": "德诚大厦",
         "count": 3,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -2507,7 +2507,7 @@ var addresses = [
         "address": "常德路1339号",
         "name": "金昌商务中心",
         "count": 4,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -2517,7 +2517,7 @@ var addresses = [
         "address": "常德路1265号",
         "name": "兴运大厦",
         "count": 3,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -2527,7 +2527,7 @@ var addresses = [
         "address": "常德路175",
         "name": "轻工机械大厦",
         "count": 5,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -2537,7 +2537,7 @@ var addresses = [
         "address": "常德路319号",
         "name": "京德大楼",
         "count": 2,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -2547,7 +2547,7 @@ var addresses = [
         "address": "常德路800号",
         "name": "800秀创意园",
         "count": 3,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -2557,7 +2557,7 @@ var addresses = [
         "address": "常德路812弄1-3号",
         "name": "德安大厦",
         "count": 3,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -2567,7 +2567,7 @@ var addresses = [
         "address": "常德路818弄",
         "name": "德安商务楼",
         "count": 6,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -2587,7 +2587,7 @@ var addresses = [
         "address": "常熟路100弄10号",
         "name": "宝立大厦",
         "count": 3,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -2597,7 +2597,7 @@ var addresses = [
         "address": "常熟路113弄",
         "name": "创艺大厦",
         "count": 2,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -2607,7 +2607,7 @@ var addresses = [
         "address": "常熟路85弄",
         "name": "神州商务大楼",
         "count": 3,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -2617,7 +2617,7 @@ var addresses = [
         "address": "场北路399弄",
         "name": "新梅绿岛苑",
         "count": 35,
-        "style": 0
+        "style": 3
     },
     {
         "lnglat": [
@@ -2627,7 +2627,7 @@ var addresses = [
         "address": "常熟路8号",
         "name": "静安广场",
         "count": 10,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -2637,7 +2637,7 @@ var addresses = [
         "address": "场北路39弄",
         "name": "和欣国际花园",
         "count": 74,
-        "style": 0
+        "style": 7
     },
     {
         "lnglat": [
@@ -2647,7 +2647,7 @@ var addresses = [
         "address": "场北路550弄",
         "name": "恒泰家园",
         "count": 33,
-        "style": 0
+        "style": 3
     },
     {
         "lnglat": [
@@ -2667,7 +2667,7 @@ var addresses = [
         "address": "场北路669弄",
         "name": "中环国际公寓三期",
         "count": 32,
-        "style": 0
+        "style": 3
     },
     {
         "lnglat": [
@@ -2677,7 +2677,7 @@ var addresses = [
         "address": "场中路201号",
         "name": "元博商务楼",
         "count": 2,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -2697,7 +2697,7 @@ var addresses = [
         "address": "场中路2600弄6-8号",
         "name": "海运小区",
         "count": 6,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -2707,7 +2707,7 @@ var addresses = [
         "address": "潮州路536号",
         "name": "太安堂广场",
         "count": 2,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -2717,7 +2717,7 @@ var addresses = [
         "address": "车墩镇车阳路177弄",
         "name": "松南城尚雅苑",
         "count": 29,
-        "style": 1
+        "style": 2
     },
     {
         "lnglat": [
@@ -2727,7 +2727,7 @@ var addresses = [
         "address": "车墩镇车阳路77弄",
         "name": "松南城舒雅苑",
         "count": 48,
-        "style": 0
+        "style": 4
     },
     {
         "lnglat": [
@@ -2737,7 +2737,7 @@ var addresses = [
         "address": "车泾路99号",
         "name": "三宝园区",
         "count": 4,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -2747,7 +2747,7 @@ var addresses = [
         "address": "车亭公路3489弄",
         "name": "长三角物流园",
         "count": 3,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -2757,7 +2757,7 @@ var addresses = [
         "address": "场中路28弄1-10号",
         "name": "场中公寓",
         "count": 4,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -2767,7 +2767,7 @@ var addresses = [
         "address": "车阳路50号",
         "name": "文昌企业园一期",
         "count": 9,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -2787,7 +2787,7 @@ var addresses = [
         "address": "车站北路177弄",
         "name": "虹口玫瑰苑",
         "count": 7,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -2817,7 +2817,7 @@ var addresses = [
         "address": "陈春东路88弄",
         "name": "德圣苑",
         "count": 25,
-        "style": 1
+        "style": 2
     },
     {
         "lnglat": [
@@ -2827,7 +2827,7 @@ var addresses = [
         "address": "陈春东路99弄",
         "name": "德铭苑",
         "count": 29,
-        "style": 1
+        "style": 2
     },
     {
         "lnglat": [
@@ -2837,7 +2837,7 @@ var addresses = [
         "address": "陈家宅路56",
         "name": "上海古林都市工业大厦",
         "count": 2,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -2847,7 +2847,7 @@ var addresses = [
         "address": "陈桥路299弄",
         "name": "同盛南桥花园",
         "count": 26,
-        "style": 1
+        "style": 2
     },
     {
         "lnglat": [
@@ -2857,7 +2857,7 @@ var addresses = [
         "address": "晨晖路377弄",
         "name": "张江汤臣豪园一期",
         "count": 26,
-        "style": 1
+        "style": 2
     },
     {
         "lnglat": [
@@ -2867,7 +2867,7 @@ var addresses = [
         "address": "陈行公路2388号",
         "name": "漕河泾浦江科技广场",
         "count": 43,
-        "style": 0
+        "style": 4
     },
     {
         "lnglat": [
@@ -2877,7 +2877,7 @@ var addresses = [
         "address": "晨晖路828弄",
         "name": "张江汤臣豪园三期",
         "count": 38,
-        "style": 0
+        "style": 3
     },
     {
         "lnglat": [
@@ -2887,7 +2887,7 @@ var addresses = [
         "address": "晨晖路88号",
         "name": "金蝶软件园",
         "count": 8,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -2897,7 +2897,7 @@ var addresses = [
         "address": "成都北路199号",
         "name": "海银国际大厦（恒利国际大厦）",
         "count": 9,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -2907,7 +2907,7 @@ var addresses = [
         "address": "成都北路333号",
         "name": "招商局广场",
         "count": 4,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -2917,7 +2917,7 @@ var addresses = [
         "address": "成都北路500号",
         "name": "峻岭广场",
         "count": 37,
-        "style": 0
+        "style": 3
     },
     {
         "lnglat": [
@@ -2927,7 +2927,7 @@ var addresses = [
         "address": "成山路1339号",
         "name": "大华锦绣优嘉",
         "count": 3,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -2937,7 +2937,7 @@ var addresses = [
         "address": "成都北路600号",
         "name": "中华保险华盛大厦",
         "count": 6,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -2947,7 +2947,7 @@ var addresses = [
         "address": "晨阳路225号",
         "name": "东方现代商业广场",
         "count": 8,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -2957,7 +2957,7 @@ var addresses = [
         "address": "成山路1488弄",
         "name": "大华锦绣华城15街区二期",
         "count": 32,
-        "style": 0
+        "style": 3
     },
     {
         "lnglat": [
@@ -2977,7 +2977,7 @@ var addresses = [
         "address": "成山路2008弄",
         "name": "大华锦绣华城18街区",
         "count": 56,
-        "style": 0
+        "style": 5
     },
     {
         "lnglat": [
@@ -2987,7 +2987,7 @@ var addresses = [
         "address": "成山路1728弄",
         "name": "大华锦绣华城16街区",
         "count": 170,
-        "style": 0
+        "style": 9
     },
     {
         "lnglat": [
@@ -2997,7 +2997,7 @@ var addresses = [
         "address": "成山路220号",
         "name": "上海城建大厦",
         "count": 3,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -3007,7 +3007,7 @@ var addresses = [
         "address": "成山路2399弄",
         "name": "海上国际花园",
         "count": 4,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -3017,7 +3017,7 @@ var addresses = [
         "address": "成山路588号",
         "name": "展峰大楼",
         "count": 3,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -3027,7 +3027,7 @@ var addresses = [
         "address": "成山路668弄",
         "name": "恒大星级公寓",
         "count": 6,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -3037,7 +3037,7 @@ var addresses = [
         "address": "成山路800号",
         "name": "云顶国际广场",
         "count": 4,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -3047,7 +3047,7 @@ var addresses = [
         "address": "城北路1355号",
         "name": "上海大学国家大学科技园嘉定基地",
         "count": 32,
-        "style": 0
+        "style": 3
     },
     {
         "lnglat": [
@@ -3057,7 +3057,7 @@ var addresses = [
         "address": "成泽路386弄",
         "name": "新城馥华里",
         "count": 98,
-        "style": 0
+        "style": 9
     },
     {
         "lnglat": [
@@ -3067,7 +3067,7 @@ var addresses = [
         "address": "城东路96弄",
         "name": "惠城大厦",
         "count": 3,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -3087,7 +3087,7 @@ var addresses = [
         "address": "城南路555弄",
         "name": "鼎城丽景苑",
         "count": 32,
-        "style": 0
+        "style": 3
     },
     {
         "lnglat": [
@@ -3107,7 +3107,7 @@ var addresses = [
         "address": "城南路278弄",
         "name": "东方城市豪苑",
         "count": 22,
-        "style": 1
+        "style": 2
     },
     {
         "lnglat": [
@@ -3117,7 +3117,7 @@ var addresses = [
         "address": "城中北路866弄",
         "name": "贺桥公寓",
         "count": 48,
-        "style": 0
+        "style": 4
     },
     {
         "lnglat": [
@@ -3127,7 +3127,7 @@ var addresses = [
         "address": "城中北路588弄",
         "name": "城中公园",
         "count": 47,
-        "style": 0
+        "style": 4
     },
     {
         "lnglat": [
@@ -3137,7 +3137,7 @@ var addresses = [
         "address": "城中路200号",
         "name": "冠寓_嘉定城中路店",
         "count": 2,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -3147,7 +3147,7 @@ var addresses = [
         "address": "城中路285号",
         "name": "桃园公寓",
         "count": 6,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -3157,7 +3157,7 @@ var addresses = [
         "address": "程家桥路175弄",
         "name": "虹桥奕境文创园",
         "count": 6,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -3167,7 +3167,7 @@ var addresses = [
         "address": "程家桥路258号",
         "name": "银洲国际商务大厦",
         "count": 6,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -3177,7 +3177,7 @@ var addresses = [
         "address": "程家桥路168弄39号",
         "name": "大树下新媒体创意产业园区",
         "count": 7,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -3187,7 +3187,7 @@ var addresses = [
         "address": "澄浏中路2500弄",
         "name": "沧海绿苑",
         "count": 30,
-        "style": 1
+        "style": 3
     },
     {
         "lnglat": [
@@ -3197,7 +3197,7 @@ var addresses = [
         "address": "澄浏中路2539弄",
         "name": "嘉乐东润广场",
         "count": 2,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -3207,7 +3207,7 @@ var addresses = [
         "address": "池月路333弄",
         "name": "丽都华庭",
         "count": 36,
-        "style": 0
+        "style": 3
     },
     {
         "lnglat": [
@@ -3217,7 +3217,7 @@ var addresses = [
         "address": "赤峰路301-303号",
         "name": "峰茂大楼",
         "count": 2,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -3227,7 +3227,7 @@ var addresses = [
         "address": "赤峰路525号",
         "name": "赤峰路525号小区",
         "count": 3,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -3237,7 +3237,7 @@ var addresses = [
         "address": "赤峰路59弄",
         "name": "书香公寓",
         "count": 27,
-        "style": 1
+        "style": 2
     },
     {
         "lnglat": [
@@ -3247,7 +3247,7 @@ var addresses = [
         "address": "赤峰路95、97号",
         "name": "赤峰冶金公寓",
         "count": 2,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -3267,7 +3267,7 @@ var addresses = [
         "address": "川和路55弄",
         "name": "张江人工智能岛",
         "count": 8,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -3277,7 +3277,7 @@ var addresses = [
         "address": "川和路中科路",
         "name": "万科翡翠公园六期",
         "count": 26,
-        "style": 1
+        "style": 2
     },
     {
         "lnglat": [
@@ -3287,7 +3287,7 @@ var addresses = [
         "address": "川宏路365号",
         "name": "圣御工业总部园",
         "count": 4,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -3297,7 +3297,7 @@ var addresses = [
         "address": "川宏路508号",
         "name": "贺海科技孵化器",
         "count": 7,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -3307,7 +3307,7 @@ var addresses = [
         "address": "川桥路350号",
         "name": "华东资产产业园",
         "count": 2,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -3317,7 +3317,7 @@ var addresses = [
         "address": "川六公路1159弄",
         "name": "龙馨公寓",
         "count": 10,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -3337,7 +3337,7 @@ var addresses = [
         "address": "川沙路4000号",
         "name": "新馨白领公寓川沙路店",
         "count": 5,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -3347,7 +3347,7 @@ var addresses = [
         "address": "川沙路4198号",
         "name": "爱情谷",
         "count": 5,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -3367,7 +3367,7 @@ var addresses = [
         "address": "川沙路688号",
         "name": "浦江智汇创业园",
         "count": 6,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -3377,7 +3377,7 @@ var addresses = [
         "address": "川沙路718号",
         "name": "曹路创新产业园",
         "count": 26,
-        "style": 1
+        "style": 2
     },
     {
         "lnglat": [
@@ -3387,7 +3387,7 @@ var addresses = [
         "address": "川沙路809号",
         "name": "超煜809文创园",
         "count": 8,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -3407,7 +3407,7 @@ var addresses = [
         "address": "川周公路8682弄",
         "name": "鼎鑫名流苑",
         "count": 48,
-        "style": 0
+        "style": 4
     },
     {
         "lnglat": [
@@ -3427,7 +3427,7 @@ var addresses = [
         "address": "船山街49弄",
         "name": "禹洲城市广场东区",
         "count": 6,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -3437,7 +3437,7 @@ var addresses = [
         "address": "川周公路8288弄",
         "name": "浦发馨汇佳苑",
         "count": 124,
-        "style": 0
+        "style": 9
     },
     {
         "lnglat": [
@@ -3447,7 +3447,7 @@ var addresses = [
         "address": "创新西路333弄",
         "name": "唐丰苑",
         "count": 78,
-        "style": 0
+        "style": 7
     },
     {
         "lnglat": [
@@ -3457,7 +3457,7 @@ var addresses = [
         "address": "春常路142号",
         "name": "抱家燕汇谷智慧产业园",
         "count": 9,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -3477,7 +3477,7 @@ var addresses = [
         "address": "春都路358弄1-35号",
         "name": "君莲宏润丽苑",
         "count": 37,
-        "style": 0
+        "style": 3
     },
     {
         "lnglat": [
@@ -3487,7 +3487,7 @@ var addresses = [
         "address": "春都路75弄",
         "name": "君莲新城中城苑",
         "count": 90,
-        "style": 0
+        "style": 9
     },
     {
         "lnglat": [
@@ -3497,7 +3497,7 @@ var addresses = [
         "address": "春光路99弄55号",
         "name": "广陆创客佳园",
         "count": 9,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -3507,7 +3507,7 @@ var addresses = [
         "address": "春晖路148弄",
         "name": "运银公寓",
         "count": 5,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -3517,7 +3517,7 @@ var addresses = [
         "address": "春晖路446弄",
         "name": "浦发春晖苑",
         "count": 25,
-        "style": 1
+        "style": 2
     },
     {
         "lnglat": [
@@ -3537,7 +3537,7 @@ var addresses = [
         "address": "春申路1955号",
         "name": "陇盛大厦",
         "count": 4,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -3547,7 +3547,7 @@ var addresses = [
         "address": "春泉路45弄",
         "name": "张江名流豪庭",
         "count": 48,
-        "style": 0
+        "style": 4
     },
     {
         "lnglat": [
@@ -3557,7 +3557,7 @@ var addresses = [
         "address": "春申路2328弄12幢",
         "name": "M创客空间",
         "count": 1,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -3587,7 +3587,7 @@ var addresses = [
         "address": "春申路3755号",
         "name": "春申路3755号商务楼",
         "count": 5,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -3597,7 +3597,7 @@ var addresses = [
         "address": "春申路3758弄",
         "name": "凯利大楼（上海）",
         "count": 2,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -3607,7 +3607,7 @@ var addresses = [
         "address": "慈竹路836弄",
         "name": "同盛园",
         "count": 28,
-        "style": 1
+        "style": 2
     },
     {
         "lnglat": [
@@ -3627,7 +3627,7 @@ var addresses = [
         "address": "萃浦路200弄",
         "name": "上海派嘉悦澜庭",
         "count": 20,
-        "style": 1
+        "style": 2
     },
     {
         "lnglat": [
@@ -3637,7 +3637,7 @@ var addresses = [
         "address": "达尔文路88号",
         "name": "新希望半岛科技园",
         "count": 28,
-        "style": 1
+        "style": 2
     },
     {
         "lnglat": [
@@ -3647,7 +3647,7 @@ var addresses = [
         "address": "打浦路1号",
         "name": "金玉兰广场",
         "count": 5,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -3657,7 +3657,7 @@ var addresses = [
         "address": "打浦路258号",
         "name": "扬子江家园",
         "count": 28,
-        "style": 1
+        "style": 2
     },
     {
         "lnglat": [
@@ -3667,7 +3667,7 @@ var addresses = [
         "address": "打浦路38弄",
         "name": "海华花园",
         "count": 5,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -3677,7 +3677,7 @@ var addresses = [
         "address": "打浦路398弄",
         "name": "东晖花苑",
         "count": 5,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -3687,7 +3687,7 @@ var addresses = [
         "address": "打浦路398弄4号-2临",
         "name": "衡辰商务楼",
         "count": 6,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -3697,7 +3697,7 @@ var addresses = [
         "address": "打浦路443号",
         "name": "荣科大厦（上海）",
         "count": 5,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -3717,7 +3717,7 @@ var addresses = [
         "address": "大场镇场中路4098号",
         "name": "大华老镇嘉年华",
         "count": 5,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -3727,7 +3727,7 @@ var addresses = [
         "address": "大道站路94弄",
         "name": "三林世博家园B区",
         "count": 23,
-        "style": 1
+        "style": 2
     },
     {
         "lnglat": [
@@ -3737,7 +3737,7 @@ var addresses = [
         "address": "大渡河路1142号",
         "name": "长风大楼",
         "count": 2,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -3747,7 +3747,7 @@ var addresses = [
         "address": "大渡河路1516弄",
         "name": "真西驰骋苑",
         "count": 2,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -3757,7 +3757,7 @@ var addresses = [
         "address": "打浦路88号",
         "name": "海丽大厦",
         "count": 6,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -3767,7 +3767,7 @@ var addresses = [
         "address": "大渡河路196号",
         "name": "长风大悦城",
         "count": 47,
-        "style": 0
+        "style": 4
     },
     {
         "lnglat": [
@@ -3777,7 +3777,7 @@ var addresses = [
         "address": "大沽路186弄",
         "name": "宏泰公寓",
         "count": 2,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -3787,7 +3787,7 @@ var addresses = [
         "address": "大沽路398弄23号",
         "name": "中凯诚仕会",
         "count": 3,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -3797,7 +3797,7 @@ var addresses = [
         "address": "大沽路368号",
         "name": "中凯城市之光花园",
         "count": 46,
-        "style": 0
+        "style": 4
     },
     {
         "lnglat": [
@@ -3827,7 +3827,7 @@ var addresses = [
         "address": "大华三路81号",
         "name": "美隆大厦",
         "count": 6,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -3837,7 +3837,7 @@ var addresses = [
         "address": "大华一路210号",
         "name": "嘉年华大厦（宝山）",
         "count": 7,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -3847,7 +3847,7 @@ var addresses = [
         "address": "大华路988弄",
         "name": "滨江雅苑",
         "count": 33,
-        "style": 0
+        "style": 3
     },
     {
         "lnglat": [
@@ -3857,7 +3857,7 @@ var addresses = [
         "address": "大华一路239弄",
         "name": "大华虎城商务中心",
         "count": 55,
-        "style": 0
+        "style": 5
     },
     {
         "lnglat": [
@@ -3867,7 +3867,7 @@ var addresses = [
         "address": "大康路1079弄",
         "name": "中环国际公寓二期",
         "count": 36,
-        "style": 0
+        "style": 3
     },
     {
         "lnglat": [
@@ -3877,7 +3877,7 @@ var addresses = [
         "address": "大吉路135弄",
         "name": "实华公寓",
         "count": 4,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -3887,7 +3887,7 @@ var addresses = [
         "address": "大康路896弄",
         "name": "恒达家园",
         "count": 73,
-        "style": 0
+        "style": 7
     },
     {
         "lnglat": [
@@ -3897,7 +3897,7 @@ var addresses = [
         "address": "大连路1548号",
         "name": "莱克大厦",
         "count": 5,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -3907,7 +3907,7 @@ var addresses = [
         "address": "大康路891弄",
         "name": "共康雅苑",
         "count": 195,
-        "style": 0
+        "style": 9
     },
     {
         "lnglat": [
@@ -3917,7 +3917,7 @@ var addresses = [
         "address": "大连路1619号",
         "name": "骏丰国际财富广场",
         "count": 9,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -3927,7 +3927,7 @@ var addresses = [
         "address": "大连路265号",
         "name": "振天商务楼",
         "count": 2,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -3947,7 +3947,7 @@ var addresses = [
         "address": "大连西路100号",
         "name": "玉山大楼",
         "count": 1,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -3957,7 +3957,7 @@ var addresses = [
         "address": "大连路990号",
         "name": "海上海新城",
         "count": 58,
-        "style": 0
+        "style": 5
     },
     {
         "lnglat": [
@@ -3967,7 +3967,7 @@ var addresses = [
         "address": "大连西路180号",
         "name": "玉四大楼",
         "count": 3,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -3977,7 +3977,7 @@ var addresses = [
         "address": "大连西路201弄1-2号",
         "name": "虹连大楼(上海)",
         "count": 4,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -3987,7 +3987,7 @@ var addresses = [
         "address": "大连西路253弄",
         "name": "玉龙大厦",
         "count": 4,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -3997,7 +3997,7 @@ var addresses = [
         "address": "大连西路257弄1-2号",
         "name": "文宇公寓",
         "count": 4,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -4007,7 +4007,7 @@ var addresses = [
         "address": "大连西路280号",
         "name": "马华大楼",
         "count": 1,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -4017,7 +4017,7 @@ var addresses = [
         "address": "大林路10弄",
         "name": "兴林公寓二期",
         "count": 2,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -4027,7 +4027,7 @@ var addresses = [
         "address": "大林路10弄1号",
         "name": "兴林公寓一期",
         "count": 1,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -4037,7 +4037,7 @@ var addresses = [
         "address": "大林路10弄2号",
         "name": "兴林办公楼",
         "count": 2,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -4047,7 +4047,7 @@ var addresses = [
         "address": "大连西路40弄",
         "name": "大连西路40弄小区",
         "count": 4,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -4057,7 +4057,7 @@ var addresses = [
         "address": "大木桥路100号",
         "name": "祥和公寓",
         "count": 2,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -4067,7 +4067,7 @@ var addresses = [
         "address": "大木桥路158弄",
         "name": "金色港湾公寓",
         "count": 39,
-        "style": 0
+        "style": 3
     },
     {
         "lnglat": [
@@ -4077,7 +4077,7 @@ var addresses = [
         "address": "大木桥路340弄2号",
         "name": "银海苑",
         "count": 4,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -4087,7 +4087,7 @@ var addresses = [
         "address": "大木桥路451号",
         "name": "协合徐汇公寓",
         "count": 1,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -4097,7 +4097,7 @@ var addresses = [
         "address": "大木桥路65号",
         "name": "新路大楼",
         "count": 1,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -4107,7 +4107,7 @@ var addresses = [
         "address": "大宁路535弄",
         "name": "绿色丽园",
         "count": 22,
-        "style": 1
+        "style": 2
     },
     {
         "lnglat": [
@@ -4117,7 +4117,7 @@ var addresses = [
         "address": "大宁路701号",
         "name": "歌林汇",
         "count": 2,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -4127,7 +4127,7 @@ var addresses = [
         "address": "大统路1038号",
         "name": "博苑公寓",
         "count": 3,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -4137,7 +4137,7 @@ var addresses = [
         "address": "大统路938弄",
         "name": "越秀苑",
         "count": 8,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -4147,7 +4147,7 @@ var addresses = [
         "address": "大统路958弄1号",
         "name": "协诚中心大厦B座",
         "count": 2,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -4157,7 +4157,7 @@ var addresses = [
         "address": "大学路63弄",
         "name": "创智坊SOHO办公楼",
         "count": 142,
-        "style": 0
+        "style": 9
     },
     {
         "lnglat": [
@@ -4167,7 +4167,7 @@ var addresses = [
         "address": "大团镇南芦公路989弄",
         "name": "同润蓝美俊庭",
         "count": 26,
-        "style": 1
+        "style": 2
     },
     {
         "lnglat": [
@@ -4177,7 +4177,7 @@ var addresses = [
         "address": "大盈浦路1800弄",
         "name": "中南君悦府",
         "count": 59,
-        "style": 0
+        "style": 5
     },
     {
         "lnglat": [
@@ -4217,7 +4217,7 @@ var addresses = [
         "address": "丹桂路899号",
         "name": "张江国创中心二号楼",
         "count": 21,
-        "style": 1
+        "style": 2
     },
     {
         "lnglat": [
@@ -4227,7 +4227,7 @@ var addresses = [
         "address": "丹桂路999号",
         "name": "张江国创中心1期",
         "count": 7,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -4237,7 +4237,7 @@ var addresses = [
         "address": "丹徒路405号",
         "name": "景泰大楼",
         "count": 4,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -4257,7 +4257,7 @@ var addresses = [
         "address": "淡家浜街88弄",
         "name": "金色茸城苑(梦想派二期)",
         "count": 53,
-        "style": 0
+        "style": 5
     },
     {
         "lnglat": [
@@ -4267,7 +4267,7 @@ var addresses = [
         "address": "淡水路361号",
         "name": "淡水公寓",
         "count": 8,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -4277,7 +4277,7 @@ var addresses = [
         "address": "德爱路450弄",
         "name": "阳光城MODO自由区",
         "count": 8,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -4287,7 +4287,7 @@ var addresses = [
         "address": "淡家浜街99弄",
         "name": "信达蓝爵",
         "count": 56,
-        "style": 0
+        "style": 5
     },
     {
         "lnglat": [
@@ -4307,7 +4307,7 @@ var addresses = [
         "address": "德富路1198号",
         "name": "太湖世家国际大厦（世家双塔）",
         "count": 9,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -4317,7 +4317,7 @@ var addresses = [
         "address": "德平路1060号",
         "name": "天虹苑",
         "count": 9,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -4327,7 +4327,7 @@ var addresses = [
         "address": "德平路12弄10号",
         "name": "沪东船厂大楼",
         "count": 1,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -4337,7 +4337,7 @@ var addresses = [
         "address": "德富路1199号",
         "name": "太湖世家环球大厦（世家双塔）",
         "count": 8,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -4357,7 +4357,7 @@ var addresses = [
         "address": "德平路58弄",
         "name": "金云苑",
         "count": 3,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -4377,7 +4377,7 @@ var addresses = [
         "address": "德园路1055弄",
         "name": "海谊苑",
         "count": 23,
-        "style": 1
+        "style": 2
     },
     {
         "lnglat": [
@@ -4387,7 +4387,7 @@ var addresses = [
         "address": "德悦路375弄",
         "name": "登云苑",
         "count": 48,
-        "style": 0
+        "style": 4
     },
     {
         "lnglat": [
@@ -4397,7 +4397,7 @@ var addresses = [
         "address": "德园路1259弄",
         "name": "溪岸澜庭",
         "count": 37,
-        "style": 0
+        "style": 3
     },
     {
         "lnglat": [
@@ -4447,7 +4447,7 @@ var addresses = [
         "address": "淀山湖大道1079弄",
         "name": "青浦万达茂商务楼",
         "count": 37,
-        "style": 0
+        "style": 3
     },
     {
         "lnglat": [
@@ -4457,7 +4457,7 @@ var addresses = [
         "address": "淀山湖大道851号(淀山湖大道地铁站2号口步行180米)",
         "name": "青浦万达茂",
         "count": 24,
-        "style": 1
+        "style": 2
     },
     {
         "lnglat": [
@@ -4467,7 +4467,7 @@ var addresses = [
         "address": "丁香路1399弄",
         "name": "仁恒河滨城",
         "count": 77,
-        "style": 0
+        "style": 7
     },
     {
         "lnglat": [
@@ -4477,7 +4477,7 @@ var addresses = [
         "address": "丁香路1089弄",
         "name": "联洋花园三期",
         "count": 38,
-        "style": 0
+        "style": 3
     },
     {
         "lnglat": [
@@ -4487,7 +4487,7 @@ var addresses = [
         "address": "淀山湖大道丁家港路路口",
         "name": "首创禧悦",
         "count": 55,
-        "style": 0
+        "style": 5
     },
     {
         "lnglat": [
@@ -4497,7 +4497,7 @@ var addresses = [
         "address": "丁香路1399弄30号",
         "name": "仁恒邻里之家",
         "count": 7,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -4507,7 +4507,7 @@ var addresses = [
         "address": "丁香路425号",
         "name": "东方艺术中心",
         "count": 5,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -4517,7 +4517,7 @@ var addresses = [
         "address": "丁香路901弄",
         "name": "联洋花园一期",
         "count": 2,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -4527,7 +4527,7 @@ var addresses = [
         "address": "丁香路999弄",
         "name": "联洋花园二期",
         "count": 32,
-        "style": 0
+        "style": 3
     },
     {
         "lnglat": [
@@ -4537,7 +4537,7 @@ var addresses = [
         "address": "鼎源路618弄",
         "name": "时尚谷创意园",
         "count": 68,
-        "style": 0
+        "style": 6
     },
     {
         "lnglat": [
@@ -4547,7 +4547,7 @@ var addresses = [
         "address": "定边路35号",
         "name": "东方汽配城",
         "count": 6,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -4557,7 +4557,7 @@ var addresses = [
         "address": "定边路377弄",
         "name": "阳光建华城二期",
         "count": 34,
-        "style": 0
+        "style": 3
     },
     {
         "lnglat": [
@@ -4567,7 +4567,7 @@ var addresses = [
         "address": "定边路629号",
         "name": "智谷S06园区",
         "count": 9,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -4577,7 +4577,7 @@ var addresses = [
         "address": "定边路99弄",
         "name": "东珠苑",
         "count": 4,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -4587,7 +4587,7 @@ var addresses = [
         "address": "定西路1118号",
         "name": "武夷坊文化创意园",
         "count": 2,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -4597,7 +4597,7 @@ var addresses = [
         "address": "定西路1100号",
         "name": "辽油大厦",
         "count": 1,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -4607,7 +4607,7 @@ var addresses = [
         "address": "定西路1232号",
         "name": "大盈商务中心",
         "count": 8,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -4617,7 +4617,7 @@ var addresses = [
         "address": "定西路1277-1279号",
         "name": "长峰大厦",
         "count": 5,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -4627,7 +4627,7 @@ var addresses = [
         "address": "定西路1279号",
         "name": "名光大厦",
         "count": 3,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -4637,7 +4637,7 @@ var addresses = [
         "address": "定西路1310弄10号",
         "name": "建宁大厦",
         "count": 2,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -4647,7 +4647,7 @@ var addresses = [
         "address": "定西路1310弄2号",
         "name": "南天大厦",
         "count": 2,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -4657,7 +4657,7 @@ var addresses = [
         "address": "定西路1310弄4号",
         "name": "国泰大厦(上海)",
         "count": 3,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -4667,7 +4667,7 @@ var addresses = [
         "address": "定西路1310弄",
         "name": "金都苑",
         "count": 1,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -4677,7 +4677,7 @@ var addresses = [
         "address": "定西路1310弄8号",
         "name": "长乐大厦(长宁)",
         "count": 2,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -4687,7 +4687,7 @@ var addresses = [
         "address": "定西路685号",
         "name": "新华商务大楼",
         "count": 1,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -4707,7 +4707,7 @@ var addresses = [
         "address": "定西路710弄83号",
         "name": "达安长宁公寓",
         "count": 20,
-        "style": 1
+        "style": 2
     },
     {
         "lnglat": [
@@ -4717,7 +4717,7 @@ var addresses = [
         "address": "定西路717弄",
         "name": "上海映巷创意园",
         "count": 6,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -4727,7 +4727,7 @@ var addresses = [
         "address": "定西路720弄1号",
         "name": "华云大厦",
         "count": 3,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -4737,7 +4737,7 @@ var addresses = [
         "address": "定西路768号",
         "name": "东方金门花园",
         "count": 5,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -4747,7 +4747,7 @@ var addresses = [
         "address": "定西路988号",
         "name": "银统大厦",
         "count": 6,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -4757,7 +4757,7 @@ var addresses = [
         "address": "定西路778号",
         "name": "凯阳大厦",
         "count": 1,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -4767,7 +4767,7 @@ var addresses = [
         "address": "东安路149弄",
         "name": "四季园（上海）",
         "count": 42,
-        "style": 0
+        "style": 4
     },
     {
         "lnglat": [
@@ -4777,7 +4777,7 @@ var addresses = [
         "address": "东安路271弄",
         "name": "广汇花苑",
         "count": 3,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -4787,7 +4787,7 @@ var addresses = [
         "address": "东安路338弄1号",
         "name": "东安小区",
         "count": 1,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -4797,7 +4797,7 @@ var addresses = [
         "address": "东安路562号",
         "name": "绿地国际广场",
         "count": 5,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -4807,7 +4807,7 @@ var addresses = [
         "address": "东宝兴路118号",
         "name": "谊华大厦",
         "count": 2,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -4817,7 +4817,7 @@ var addresses = [
         "address": "东宝兴路157号",
         "name": "精武大厦",
         "count": 2,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -4827,7 +4827,7 @@ var addresses = [
         "address": "东昌路600号",
         "name": "东昌大楼",
         "count": 2,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -4837,7 +4837,7 @@ var addresses = [
         "address": "东城二路1号",
         "name": "中国留学人才创新港",
         "count": 8,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -4847,7 +4847,7 @@ var addresses = [
         "address": "东川路1779号",
         "name": "新闵创意园",
         "count": 10,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -4857,7 +4857,7 @@ var addresses = [
         "address": "东川路3533号",
         "name": "上海天星苑",
         "count": 5,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -4867,7 +4867,7 @@ var addresses = [
         "address": "东大名路1096号",
         "name": "长江大楼",
         "count": 3,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -4877,7 +4877,7 @@ var addresses = [
         "address": "东大名路1050号",
         "name": "绿地浦创商务大厦",
         "count": 10,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -4897,7 +4897,7 @@ var addresses = [
         "address": "东大名路888弄19号",
         "name": "新外滩花苑综合楼",
         "count": 3,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -4907,7 +4907,7 @@ var addresses = [
         "address": "东大名路908号",
         "name": "金岸大厦",
         "count": 2,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -4937,7 +4937,7 @@ var addresses = [
         "address": "东大名路999号",
         "name": "北外滩来福士广场",
         "count": 23,
-        "style": 1
+        "style": 2
     },
     {
         "lnglat": [
@@ -4947,7 +4947,7 @@ var addresses = [
         "address": "东方路135号",
         "name": "海东大楼",
         "count": 4,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -4957,7 +4957,7 @@ var addresses = [
         "address": "东方路1381号",
         "name": "兰村大厦",
         "count": 24,
-        "style": 1
+        "style": 2
     },
     {
         "lnglat": [
@@ -4967,7 +4967,7 @@ var addresses = [
         "address": "东方路1381号、1383号",
         "name": "base(蓝村路)",
         "count": 2,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -4977,7 +4977,7 @@ var addresses = [
         "address": "东方路1523弄",
         "name": "金龙花园（上海）",
         "count": 6,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -4987,7 +4987,7 @@ var addresses = [
         "address": "东方路1663弄1669弄",
         "name": "贵龙园",
         "count": 36,
-        "style": 0
+        "style": 3
     },
     {
         "lnglat": [
@@ -4997,7 +4997,7 @@ var addresses = [
         "address": "东方路1800弄",
         "name": "东方城市花园一期",
         "count": 57,
-        "style": 0
+        "style": 5
     },
     {
         "lnglat": [
@@ -5007,7 +5007,7 @@ var addresses = [
         "address": "东方路1870号",
         "name": "东方明珠商务楼",
         "count": 3,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -5017,7 +5017,7 @@ var addresses = [
         "address": "东方路1881弄",
         "name": "东方城市花园二期",
         "count": 242,
-        "style": 0
+        "style": 9
     },
     {
         "lnglat": [
@@ -5027,7 +5027,7 @@ var addresses = [
         "address": "东方路2851弄",
         "name": "明丰佳园",
         "count": 6,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -5037,7 +5037,7 @@ var addresses = [
         "address": "东方路1988号",
         "name": "华南大厦",
         "count": 3,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -5047,7 +5047,7 @@ var addresses = [
         "address": "东方路286号",
         "name": "IC_PARK",
         "count": 5,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -5057,7 +5057,7 @@ var addresses = [
         "address": "东方路2880弄",
         "name": "临沂大楼",
         "count": 4,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -5067,7 +5067,7 @@ var addresses = [
         "address": "东方路1968弄",
         "name": "馥园(东方名筑）",
         "count": 25,
-        "style": 1
+        "style": 2
     },
     {
         "lnglat": [
@@ -5077,7 +5077,7 @@ var addresses = [
         "address": "东方路3261号B座",
         "name": "振华企业广场B座",
         "count": 64,
-        "style": 0
+        "style": 6
     },
     {
         "lnglat": [
@@ -5087,7 +5087,7 @@ var addresses = [
         "address": "东方路3539号",
         "name": "东方尚博园",
         "count": 3,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -5107,7 +5107,7 @@ var addresses = [
         "address": "东方路710号",
         "name": "汤臣金融大厦",
         "count": 21,
-        "style": 1
+        "style": 2
     },
     {
         "lnglat": [
@@ -5117,7 +5117,7 @@ var addresses = [
         "address": "东方路738号",
         "name": "裕安大厦",
         "count": 59,
-        "style": 0
+        "style": 5
     },
     {
         "lnglat": [
@@ -5127,7 +5127,7 @@ var addresses = [
         "address": "东方路573弄1号",
         "name": "市政大楼",
         "count": 2,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -5137,7 +5137,7 @@ var addresses = [
         "address": "东方路778号",
         "name": "上海紫金山大酒店（江苏大厦）",
         "count": 2,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -5147,7 +5147,7 @@ var addresses = [
         "address": "东方路800号",
         "name": "宝安大酒店",
         "count": 10,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -5167,7 +5167,7 @@ var addresses = [
         "address": "东方路818号",
         "name": "众城大厦",
         "count": 2,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -5177,7 +5177,7 @@ var addresses = [
         "address": "东方路838号",
         "name": "齐鲁大厦",
         "count": 4,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -5187,7 +5187,7 @@ var addresses = [
         "address": "勤政路88弄",
         "name": "华发四季",
         "count": 40,
-        "style": 0
+        "style": 4
     },
     {
         "lnglat": [
@@ -5197,7 +5197,7 @@ var addresses = [
         "address": "东方路877号",
         "name": "嘉兴大厦",
         "count": 6,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -5207,7 +5207,7 @@ var addresses = [
         "address": "东方路971号",
         "name": "钱江大厦",
         "count": 5,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -5217,7 +5217,7 @@ var addresses = [
         "address": "东方路985号",
         "name": "一百杉杉大厦",
         "count": 2,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -5227,7 +5227,7 @@ var addresses = [
         "address": "东方路989号",
         "name": "中达广场",
         "count": 3,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -5237,7 +5237,7 @@ var addresses = [
         "address": "东汉阳路309弄",
         "name": "名江七星城",
         "count": 68,
-        "style": 0
+        "style": 6
     },
     {
         "lnglat": [
@@ -5247,7 +5247,7 @@ var addresses = [
         "address": "东汉阳路338弄",
         "name": "宇泰公寓",
         "count": 8,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -5257,7 +5257,7 @@ var addresses = [
         "address": "东环龙路181弄",
         "name": "欣晟家园",
         "count": 1,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -5267,7 +5267,7 @@ var addresses = [
         "address": "东建路228弄",
         "name": "东方龙苑",
         "count": 27,
-        "style": 1
+        "style": 2
     },
     {
         "lnglat": [
@@ -5277,7 +5277,7 @@ var addresses = [
         "address": "东江湾路188号",
         "name": "空间188创意园",
         "count": 9,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -5297,7 +5297,7 @@ var addresses = [
         "address": "东兰路238号",
         "name": "古美创智中心",
         "count": 3,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -5307,7 +5307,7 @@ var addresses = [
         "address": "东兰路1111号",
         "name": "欧风花都",
         "count": 24,
-        "style": 1
+        "style": 2
     },
     {
         "lnglat": [
@@ -5317,7 +5317,7 @@ var addresses = [
         "address": "东陆路2000弄、金高路2131弄",
         "name": "金桥新城",
         "count": 39,
-        "style": 0
+        "style": 3
     },
     {
         "lnglat": [
@@ -5327,7 +5327,7 @@ var addresses = [
         "address": "东明路2000号",
         "name": "2049五玠坊",
         "count": 26,
-        "style": 1
+        "style": 2
     },
     {
         "lnglat": [
@@ -5337,7 +5337,7 @@ var addresses = [
         "address": "东明路355弄",
         "name": "博爱家园",
         "count": 20,
-        "style": 1
+        "style": 2
     },
     {
         "lnglat": [
@@ -5347,7 +5347,7 @@ var addresses = [
         "address": "东三街30号",
         "name": "东三街大楼",
         "count": 2,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -5357,7 +5357,7 @@ var addresses = [
         "address": "东明路660弄",
         "name": "住友昌盛新苑",
         "count": 1,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -5377,7 +5377,7 @@ var addresses = [
         "address": "东三里桥路211弄",
         "name": "爱嘉苑",
         "count": 4,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -5387,7 +5387,7 @@ var addresses = [
         "address": "东体育会路100弄2号",
         "name": "兴华小区",
         "count": 4,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -5397,7 +5397,7 @@ var addresses = [
         "address": "东体育会路390号",
         "name": "上海外国语大学贤达经济人文学院",
         "count": 2,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -5407,7 +5407,7 @@ var addresses = [
         "address": "东体育会路880弄",
         "name": "银联花园",
         "count": 3,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -5417,7 +5417,7 @@ var addresses = [
         "address": "东体育会路816号",
         "name": "置汇谷",
         "count": 6,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -5437,7 +5437,7 @@ var addresses = [
         "address": "东新路88弄",
         "name": "新湖明珠城北区",
         "count": 29,
-        "style": 1
+        "style": 2
     },
     {
         "lnglat": [
@@ -5447,7 +5447,7 @@ var addresses = [
         "address": "东新路99弄",
         "name": "新湖明珠城南区",
         "count": 43,
-        "style": 0
+        "style": 4
     },
     {
         "lnglat": [
@@ -5457,7 +5457,7 @@ var addresses = [
         "address": "东新支路90弄8号",
         "name": "东新苑",
         "count": 3,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -5467,7 +5467,7 @@ var addresses = [
         "address": "东绣路1155弄",
         "name": "中福公寓",
         "count": 10,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -5477,7 +5477,7 @@ var addresses = [
         "address": "东绣路99弄",
         "name": "陆家嘴中央公寓",
         "count": 40,
-        "style": 0
+        "style": 4
     },
     {
         "lnglat": [
@@ -5487,7 +5487,7 @@ var addresses = [
         "address": "东绣路1389弄",
         "name": "涵合园",
         "count": 34,
-        "style": 0
+        "style": 3
     },
     {
         "lnglat": [
@@ -5497,7 +5497,7 @@ var addresses = [
         "address": "东余杭路1320、1350号",
         "name": "唐山新苑",
         "count": 2,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -5507,7 +5507,7 @@ var addresses = [
         "address": "东园路18号",
         "name": "中国金融信息中心",
         "count": 31,
-        "style": 0
+        "style": 3
     },
     {
         "lnglat": [
@@ -5517,7 +5517,7 @@ var addresses = [
         "address": "东园三村331号、335号",
         "name": "东泰大楼",
         "count": 6,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -5537,7 +5537,7 @@ var addresses = [
         "address": "东园四村436号、439号",
         "name": "东安大楼",
         "count": 6,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -5547,7 +5547,7 @@ var addresses = [
         "address": "洞泾镇同乐路699号",
         "name": "智象中心",
         "count": 6,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -5557,7 +5557,7 @@ var addresses = [
         "address": "洞伟路650弄",
         "name": "泗泾海康苑",
         "count": 20,
-        "style": 1
+        "style": 2
     },
     {
         "lnglat": [
@@ -5567,7 +5567,7 @@ var addresses = [
         "address": "洞塔路500弄",
         "name": "樾山璟里",
         "count": 51,
-        "style": 0
+        "style": 5
     },
     {
         "lnglat": [
@@ -5597,7 +5597,7 @@ var addresses = [
         "address": "都市路1800弄",
         "name": "金榜新苑",
         "count": 69,
-        "style": 0
+        "style": 6
     },
     {
         "lnglat": [
@@ -5607,7 +5607,7 @@ var addresses = [
         "address": "都会路1699号",
         "name": "全方位科技园",
         "count": 91,
-        "style": 0
+        "style": 9
     },
     {
         "lnglat": [
@@ -5617,7 +5617,7 @@ var addresses = [
         "address": "西江湾路230号",
         "name": "驰民大楼",
         "count": 6,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -5627,7 +5627,7 @@ var addresses = [
         "address": "都市路2888弄",
         "name": "都市府邸",
         "count": 5,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -5637,7 +5637,7 @@ var addresses = [
         "address": "都市路388弄",
         "name": "复地北桥城三期",
         "count": 46,
-        "style": 0
+        "style": 4
     },
     {
         "lnglat": [
@@ -5647,7 +5647,7 @@ var addresses = [
         "address": "都市路399弄",
         "name": "复地北桥城一二期",
         "count": 28,
-        "style": 1
+        "style": 2
     },
     {
         "lnglat": [
@@ -5657,7 +5657,7 @@ var addresses = [
         "address": "都市路431号",
         "name": "铂客公寓",
         "count": 3,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -5667,7 +5667,7 @@ var addresses = [
         "address": "都市路4418号",
         "name": "金铭大厦",
         "count": 1,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -5677,7 +5677,7 @@ var addresses = [
         "address": "都市路4580弄",
         "name": "春申复地城二期",
         "count": 46,
-        "style": 0
+        "style": 4
     },
     {
         "lnglat": [
@@ -5687,7 +5687,7 @@ var addresses = [
         "address": "都市路384号",
         "name": "铂晶商务楼",
         "count": 2,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -5697,7 +5697,7 @@ var addresses = [
         "address": "都园路4288号",
         "name": "都园白领公寓",
         "count": 7,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -5707,7 +5707,7 @@ var addresses = [
         "address": "都市路4633弄",
         "name": "春申城四季苑",
         "count": 10,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -5717,7 +5717,7 @@ var addresses = [
         "address": "杜鹃路58弄",
         "name": "锦绣前程阳光苑",
         "count": 8,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -5727,7 +5727,7 @@ var addresses = [
         "address": "都市路4855号",
         "name": "解放日报大厦（莘庄总部）",
         "count": 4,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -5737,7 +5737,7 @@ var addresses = [
         "address": "杜鹃路188弄",
         "name": "上海市浦东新区花木星晨苑小区",
         "count": 4,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -5747,7 +5747,7 @@ var addresses = [
         "address": "杜鹃路192号",
         "name": "青慧谷",
         "count": 7,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -5757,7 +5757,7 @@ var addresses = [
         "address": "渡桥路78弄",
         "name": "中骏柏景湾(上海)",
         "count": 32,
-        "style": 0
+        "style": 3
     },
     {
         "lnglat": [
@@ -5767,7 +5767,7 @@ var addresses = [
         "address": "渡桥路288弄",
         "name": "保利首创颂",
         "count": 100,
-        "style": 0
+        "style": 9
     },
     {
         "lnglat": [
@@ -5777,7 +5777,7 @@ var addresses = [
         "address": "峨眉路299弄",
         "name": "耀江国际公寓",
         "count": 10,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -5787,7 +5787,7 @@ var addresses = [
         "address": "峨山路679弄",
         "name": "浦江映象",
         "count": 10,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -5797,7 +5797,7 @@ var addresses = [
         "address": "峨山路613号",
         "name": "尚街loft上海双创产业园",
         "count": 1,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -5807,7 +5807,7 @@ var addresses = [
         "address": "峨山路485弄",
         "name": "山泉花苑",
         "count": 7,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -5827,7 +5827,7 @@ var addresses = [
         "address": "峨山路91弄101号5号楼",
         "name": "陆家嘴科技园区",
         "count": 2,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -5837,7 +5837,7 @@ var addresses = [
         "address": "鄂尔多斯路98弄",
         "name": "南秀雅苑",
         "count": 46,
-        "style": 0
+        "style": 4
     },
     {
         "lnglat": [
@@ -5847,7 +5847,7 @@ var addresses = [
         "address": "洱海路99弄",
         "name": "春申玫瑰苑",
         "count": 40,
-        "style": 0
+        "style": 4
     },
     {
         "lnglat": [
@@ -5857,7 +5857,7 @@ var addresses = [
         "address": "峨山路91弄48号",
         "name": "开伦鑫座",
         "count": 8,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -5877,7 +5877,7 @@ var addresses = [
         "address": "法华镇路123弄",
         "name": "法华苑酒店式公寓",
         "count": 4,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -5887,7 +5887,7 @@ var addresses = [
         "address": "法华镇路129号",
         "name": "上海新华豪庭",
         "count": 2,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -5897,7 +5897,7 @@ var addresses = [
         "address": "法华镇路310号",
         "name": "晶采名人大厦",
         "count": 1,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -5907,7 +5907,7 @@ var addresses = [
         "address": "法华镇路457弄/483弄",
         "name": "海富公寓",
         "count": 5,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -5917,7 +5917,7 @@ var addresses = [
         "address": "法华镇路555号",
         "name": "法华门大厦",
         "count": 3,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -5927,7 +5927,7 @@ var addresses = [
         "address": "法华镇路881弄",
         "name": "东湖名苑",
         "count": 9,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -5937,7 +5937,7 @@ var addresses = [
         "address": "番禺路290弄28号",
         "name": "长发花园",
         "count": 4,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -5947,7 +5947,7 @@ var addresses = [
         "address": "番禺路300弄7号",
         "name": "鑫汉森商务园区(汉森商务园区)",
         "count": 2,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -5957,7 +5957,7 @@ var addresses = [
         "address": "番禺路5号",
         "name": "盛源大厦",
         "count": 5,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -5967,7 +5967,7 @@ var addresses = [
         "address": "番禺路617弄1号",
         "name": "淮新大楼",
         "count": 1,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -5977,7 +5977,7 @@ var addresses = [
         "address": "番禺路801弄",
         "name": "番禺路801弄",
         "count": 2,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -5987,7 +5987,7 @@ var addresses = [
         "address": "番禺路888号",
         "name": "魔方公寓番禺路店",
         "count": 1,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -5997,7 +5997,7 @@ var addresses = [
         "address": "番愚路1099弄",
         "name": "东方时空公寓",
         "count": 6,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -6007,7 +6007,7 @@ var addresses = [
         "address": "番愚路390号",
         "name": "时代大厦",
         "count": 4,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -6017,7 +6017,7 @@ var addresses = [
         "address": "繁锦路1288弄",
         "name": "新城碧翠园",
         "count": 34,
-        "style": 0
+        "style": 3
     },
     {
         "lnglat": [
@@ -6027,7 +6027,7 @@ var addresses = [
         "address": "繁锦路688弄",
         "name": "中冶尚城",
         "count": 45,
-        "style": 0
+        "style": 4
     },
     {
         "lnglat": [
@@ -6037,7 +6037,7 @@ var addresses = [
         "address": "繁兴路1000弄",
         "name": "景平苑",
         "count": 62,
-        "style": 0
+        "style": 6
     },
     {
         "lnglat": [
@@ -6047,7 +6047,7 @@ var addresses = [
         "address": "繁兴路300弄",
         "name": "西郊九韵城",
         "count": 22,
-        "style": 1
+        "style": 2
     },
     {
         "lnglat": [
@@ -6057,7 +6057,7 @@ var addresses = [
         "address": "繁兴路333号",
         "name": "虹桥晶邸",
         "count": 5,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -6067,7 +6067,7 @@ var addresses = [
         "address": "繁兴路399弄1号",
         "name": "华漕生活馆",
         "count": 7,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -6077,7 +6077,7 @@ var addresses = [
         "address": "繁兴路46号",
         "name": "上寓极客公寓(国家会展中心店)",
         "count": 3,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -6087,7 +6087,7 @@ var addresses = [
         "address": "方塔北路605号",
         "name": "企德天地",
         "count": 5,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -6097,7 +6097,7 @@ var addresses = [
         "address": "方斜路525号",
         "name": "明华大厦",
         "count": 4,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -6107,7 +6107,7 @@ var addresses = [
         "address": "芳甸路199弄",
         "name": "大拇指广场",
         "count": 7,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -6117,7 +6117,7 @@ var addresses = [
         "address": "芳甸路333号",
         "name": "水清木华国际公寓",
         "count": 85,
-        "style": 0
+        "style": 8
     },
     {
         "lnglat": [
@@ -6127,7 +6127,7 @@ var addresses = [
         "address": "放鹤路2323号",
         "name": "万顺苑小区",
         "count": 34,
-        "style": 0
+        "style": 3
     },
     {
         "lnglat": [
@@ -6137,7 +6137,7 @@ var addresses = [
         "address": "飞虹路238弄、258弄",
         "name": "金鑫怡苑",
         "count": 5,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -6157,7 +6157,7 @@ var addresses = [
         "address": "菲拉路45号",
         "name": "众上文化大厦",
         "count": 8,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -6167,7 +6167,7 @@ var addresses = [
         "address": "汾西路88弄",
         "name": "临汾名城二期",
         "count": 45,
-        "style": 0
+        "style": 4
     },
     {
         "lnglat": [
@@ -6177,7 +6177,7 @@ var addresses = [
         "address": "汾阳路77号",
         "name": "安盛商务楼",
         "count": 4,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -6187,7 +6187,7 @@ var addresses = [
         "address": "丰皓路138弄",
         "name": "乾皓苑",
         "count": 34,
-        "style": 0
+        "style": 3
     },
     {
         "lnglat": [
@@ -6197,7 +6197,7 @@ var addresses = [
         "address": "丰华路1200号",
         "name": "富锋科技园",
         "count": 5,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -6217,7 +6217,7 @@ var addresses = [
         "address": "丰皓路658弄1-14号",
         "name": "丰皓苑",
         "count": 26,
-        "style": 1
+        "style": 2
     },
     {
         "lnglat": [
@@ -6227,7 +6227,7 @@ var addresses = [
         "address": "海门路609号",
         "name": "远虹大厦",
         "count": 7,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -6237,7 +6237,7 @@ var addresses = [
         "address": "丰庄路99弄",
         "name": "金沙丽晶苑一期",
         "count": 8,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -6247,7 +6247,7 @@ var addresses = [
         "address": "丰庄西路460弄",
         "name": "绿地新丰苑",
         "count": 6,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -6267,7 +6267,7 @@ var addresses = [
         "address": "枫湾路680号",
         "name": "正荣璟园",
         "count": 90,
-        "style": 0
+        "style": 9
     },
     {
         "lnglat": [
@@ -6277,7 +6277,7 @@ var addresses = [
         "address": "枫林路420号",
         "name": "枫林国际中心二期",
         "count": 6,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -6287,7 +6287,7 @@ var addresses = [
         "address": "凤城路1号",
         "name": "同和凤城园（凤城巷）",
         "count": 2,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -6297,7 +6297,7 @@ var addresses = [
         "address": "凤城路51弄",
         "name": "新凤城银座",
         "count": 7,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -6307,7 +6307,7 @@ var addresses = [
         "address": "凤城路5号",
         "name": "凤城巷二期",
         "count": 4,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -6317,7 +6317,7 @@ var addresses = [
         "address": "凤坚塘路65弄",
         "name": "欣乐苑东苑",
         "count": 26,
-        "style": 1
+        "style": 2
     },
     {
         "lnglat": [
@@ -6327,7 +6327,7 @@ var addresses = [
         "address": "凤马塘路205弄",
         "name": "瑞和锦庭西区",
         "count": 41,
-        "style": 0
+        "style": 4
     },
     {
         "lnglat": [
@@ -6337,7 +6337,7 @@ var addresses = [
         "address": "凤马塘路200弄",
         "name": "瑞和锦庭东区",
         "count": 34,
-        "style": 0
+        "style": 3
     },
     {
         "lnglat": [
@@ -6347,7 +6347,7 @@ var addresses = [
         "address": "凤强塘路1120弄",
         "name": "春江三月二期",
         "count": 4,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -6377,7 +6377,7 @@ var addresses = [
         "address": "凤阳路288号",
         "name": "黄浦大楼",
         "count": 1,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -6387,7 +6387,7 @@ var addresses = [
         "address": "凤阳路358弄",
         "name": "金瓯万国大厦",
         "count": 4,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -6407,7 +6407,7 @@ var addresses = [
         "address": "扶兰路9弄",
         "name": "南渡新苑",
         "count": 28,
-        "style": 1
+        "style": 2
     },
     {
         "lnglat": [
@@ -6417,7 +6417,7 @@ var addresses = [
         "address": "芙蓉江路388弄",
         "name": "仁恒河滨花园",
         "count": 31,
-        "style": 0
+        "style": 3
     },
     {
         "lnglat": [
@@ -6437,7 +6437,7 @@ var addresses = [
         "address": "福建中路205号",
         "name": "中怡公寓",
         "count": 2,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -6447,7 +6447,7 @@ var addresses = [
         "address": "福泉路111号",
         "name": "神州数码（上海）科技园",
         "count": 3,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -6457,7 +6457,7 @@ var addresses = [
         "address": "芙蓉江路555号",
         "name": "新天地河滨花园",
         "count": 20,
-        "style": 1
+        "style": 2
     },
     {
         "lnglat": [
@@ -6467,7 +6467,7 @@ var addresses = [
         "address": "福泉路123弄",
         "name": "世纪之春花园",
         "count": 36,
-        "style": 0
+        "style": 3
     },
     {
         "lnglat": [
@@ -6477,7 +6477,7 @@ var addresses = [
         "address": "福泉路550弄",
         "name": "樱源晶舍",
         "count": 26,
-        "style": 1
+        "style": 2
     },
     {
         "lnglat": [
@@ -6487,7 +6487,7 @@ var addresses = [
         "address": "福山路309号",
         "name": "竹园商务公寓",
         "count": 4,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -6497,7 +6497,7 @@ var addresses = [
         "address": "福山路388号",
         "name": "越秀大厦",
         "count": 56,
-        "style": 0
+        "style": 5
     },
     {
         "lnglat": [
@@ -6507,7 +6507,7 @@ var addresses = [
         "address": "福山路450号",
         "name": "新天国际大厦",
         "count": 6,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -6527,7 +6527,7 @@ var addresses = [
         "address": "福特北路399号",
         "name": "华三实业",
         "count": 2,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -6537,7 +6537,7 @@ var addresses = [
         "address": "福山路455号",
         "name": "全华信息大厦",
         "count": 7,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -6547,7 +6547,7 @@ var addresses = [
         "address": "福佑路333号",
         "name": "时代城隍广场",
         "count": 1,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -6557,7 +6557,7 @@ var addresses = [
         "address": "福州路318号",
         "name": "华设大厦(浦汇大厦)",
         "count": 4,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -6567,7 +6567,7 @@ var addresses = [
         "address": "福州路655号",
         "name": "黄浦图书馆大厦",
         "count": 1,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -6577,7 +6577,7 @@ var addresses = [
         "address": "福州路666号",
         "name": "华鑫海欣大厦",
         "count": 3,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -6587,7 +6587,7 @@ var addresses = [
         "address": "抚远路1211弄",
         "name": "正荣国领(上海)",
         "count": 119,
-        "style": 0
+        "style": 9
     },
     {
         "lnglat": [
@@ -6597,7 +6597,7 @@ var addresses = [
         "address": "抚远路1288弄",
         "name": "美兰湖中华园",
         "count": 189,
-        "style": 0
+        "style": 9
     },
     {
         "lnglat": [
@@ -6607,7 +6607,7 @@ var addresses = [
         "address": "抚远路699弄",
         "name": "远洋博悦花园中心",
         "count": 2,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -6617,7 +6617,7 @@ var addresses = [
         "address": "阜康路19弄",
         "name": "玉兰一村商住楼",
         "count": 2,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -6627,7 +6627,7 @@ var addresses = [
         "address": "复兴东路248号",
         "name": "中复大楼",
         "count": 3,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -6637,7 +6637,7 @@ var addresses = [
         "address": "复兴东路2号",
         "name": "豫园股份",
         "count": 2,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -6647,7 +6647,7 @@ var addresses = [
         "address": "复兴中路1199号",
         "name": "明园商务中心",
         "count": 8,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -6657,7 +6657,7 @@ var addresses = [
         "address": "复兴中路1号",
         "name": "申能国际大厦",
         "count": 5,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -6667,7 +6667,7 @@ var addresses = [
         "address": "复兴中路369号",
         "name": "大同商务大厦",
         "count": 1,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -6677,7 +6677,7 @@ var addresses = [
         "address": "富贵东路229弄",
         "name": "古北国际广场",
         "count": 30,
-        "style": 1
+        "style": 3
     },
     {
         "lnglat": [
@@ -6687,7 +6687,7 @@ var addresses = [
         "address": "富都路111弄",
         "name": "都市星城",
         "count": 32,
-        "style": 0
+        "style": 3
     },
     {
         "lnglat": [
@@ -6697,7 +6697,7 @@ var addresses = [
         "address": "富城路99号",
         "name": "震旦国际大楼",
         "count": 2,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -6707,7 +6707,7 @@ var addresses = [
         "address": "富联二路99号",
         "name": "保集e智谷",
         "count": 4,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -6717,7 +6717,7 @@ var addresses = [
         "address": "富民路83号",
         "name": "巨富大厦",
         "count": 1,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -6727,7 +6727,7 @@ var addresses = [
         "address": "富民路291号",
         "name": "悟锦世纪大楼",
         "count": 1,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -6737,7 +6737,7 @@ var addresses = [
         "address": "富平路889弄",
         "name": "万里雅筑",
         "count": 36,
-        "style": 0
+        "style": 3
     },
     {
         "lnglat": [
@@ -6747,7 +6747,7 @@ var addresses = [
         "address": "富平路399弄",
         "name": "中环家园二期",
         "count": 22,
-        "style": 1
+        "style": 2
     },
     {
         "lnglat": [
@@ -6757,7 +6757,7 @@ var addresses = [
         "address": "富民路89号",
         "name": "巨富大厦(上海)",
         "count": 2,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -6767,7 +6767,7 @@ var addresses = [
         "address": "富特北路258号",
         "name": "高华大楼",
         "count": 1,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -6777,7 +6777,7 @@ var addresses = [
         "address": "富特北路33号",
         "name": "卓越金融大厦",
         "count": 7,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -6787,7 +6787,7 @@ var addresses = [
         "address": "富特北路353号",
         "name": "凯邦大楼",
         "count": 7,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -6797,7 +6797,7 @@ var addresses = [
         "address": "富特北路432号",
         "name": "万荣大厦",
         "count": 3,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -6807,7 +6807,7 @@ var addresses = [
         "address": "富特北路500号",
         "name": "京贸大厦",
         "count": 6,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -6817,7 +6817,7 @@ var addresses = [
         "address": "富特东一路200号",
         "name": "嘉利斯大楼",
         "count": 1,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -6827,7 +6827,7 @@ var addresses = [
         "address": "富特西三路77号",
         "name": "北八道集团大厦",
         "count": 6,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -6837,7 +6837,7 @@ var addresses = [
         "address": "富特南路301号",
         "name": "松港U库",
         "count": 3,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -6847,7 +6847,7 @@ var addresses = [
         "address": "富特西三路77号10幢",
         "name": "信泰融资大厦",
         "count": 6,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -6857,7 +6857,7 @@ var addresses = [
         "address": "富特西一路355号",
         "name": "高翔大厦",
         "count": 2,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -6867,7 +6867,7 @@ var addresses = [
         "address": "富蕴路555弄",
         "name": "景河名苑",
         "count": 34,
-        "style": 0
+        "style": 3
     },
     {
         "lnglat": [
@@ -6877,7 +6877,7 @@ var addresses = [
         "address": "富特西一路135号",
         "name": "东上海石化商务楼",
         "count": 1,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -6887,7 +6887,7 @@ var addresses = [
         "address": "富特西一路139号",
         "name": "中国石化物资大厦",
         "count": 1,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -6897,7 +6897,7 @@ var addresses = [
         "address": "富竹路39弄",
         "name": "秋月朗庭",
         "count": 76,
-        "style": 0
+        "style": 7
     },
     {
         "lnglat": [
@@ -6907,7 +6907,7 @@ var addresses = [
         "address": "港辉路372号",
         "name": "海滨时代大厦",
         "count": 22,
-        "style": 1
+        "style": 2
     },
     {
         "lnglat": [
@@ -6917,7 +6917,7 @@ var addresses = [
         "address": "高安路61弄",
         "name": "汇成花园",
         "count": 1,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -6927,7 +6927,7 @@ var addresses = [
         "address": "高潮路215号",
         "name": "北虹桥松日中心",
         "count": 9,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -6937,7 +6937,7 @@ var addresses = [
         "address": "高登山路350弄",
         "name": "咏泽苑",
         "count": 30,
-        "style": 1
+        "style": 3
     },
     {
         "lnglat": [
@@ -6947,7 +6947,7 @@ var addresses = [
         "address": "高安路30号",
         "name": "华绮公寓",
         "count": 1,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -6957,7 +6957,7 @@ var addresses = [
         "address": "金海路2449号",
         "name": "宝龙广场2期（曹路）",
         "count": 26,
-        "style": 1
+        "style": 2
     },
     {
         "lnglat": [
@@ -6967,7 +6967,7 @@ var addresses = [
         "address": "高光路215弄99号",
         "name": "中国北斗产业技术创新西虹桥基地高光路园区",
         "count": 3,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -6977,7 +6977,7 @@ var addresses = [
         "address": "高泾路599号",
         "name": "中国北斗产业基地",
         "count": 9,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -6987,7 +6987,7 @@ var addresses = [
         "address": "高技路655号",
         "name": "绿亮科创园(高技路)",
         "count": 9,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -7007,7 +7007,7 @@ var addresses = [
         "address": "高泾路999弄",
         "name": "高景花园",
         "count": 35,
-        "style": 0
+        "style": 3
     },
     {
         "lnglat": [
@@ -7017,7 +7017,7 @@ var addresses = [
         "address": "高科东路与庆利路交界口东北角",
         "name": "绿地海岸城",
         "count": 4,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -7027,7 +7027,7 @@ var addresses = [
         "address": "高科西路1862号",
         "name": "浦东外贸大楼",
         "count": 3,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -7037,7 +7037,7 @@ var addresses = [
         "address": "高科中路1976号",
         "name": "衡谷1976",
         "count": 10,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -7057,7 +7057,7 @@ var addresses = [
         "address": "高青路2878号",
         "name": "万科新里程二期",
         "count": 60,
-        "style": 0
+        "style": 6
     },
     {
         "lnglat": [
@@ -7087,7 +7087,7 @@ var addresses = [
         "address": "高雄路189号",
         "name": "望江苑",
         "count": 3,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -7107,7 +7107,7 @@ var addresses = [
         "address": "高邮路1号、3号",
         "name": "兴盛公寓",
         "count": 2,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -7117,7 +7117,7 @@ var addresses = [
         "address": "高州路100弄",
         "name": "金辉天鹅湾",
         "count": 32,
-        "style": 0
+        "style": 3
     },
     {
         "lnglat": [
@@ -7127,7 +7127,7 @@ var addresses = [
         "address": "公平路761号",
         "name": "虹业大楼",
         "count": 1,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -7137,7 +7137,7 @@ var addresses = [
         "address": "高跃路176号，殷高西路608号，殷高西路638号",
         "name": "景瑞生活广场",
         "count": 10,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -7147,7 +7147,7 @@ var addresses = [
         "address": "公平路768弄",
         "name": "东方都市景苑",
         "count": 23,
-        "style": 1
+        "style": 2
     },
     {
         "lnglat": [
@@ -7157,7 +7157,7 @@ var addresses = [
         "address": "公园路348号",
         "name": "青浦科技园商务中心",
         "count": 2,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -7167,7 +7167,7 @@ var addresses = [
         "address": "拱北路289弄29支弄1-28号",
         "name": "华钜御庭二期",
         "count": 66,
-        "style": 0
+        "style": 6
     },
     {
         "lnglat": [
@@ -7177,7 +7177,7 @@ var addresses = [
         "address": "拱北路336弄",
         "name": "东原逸墅",
         "count": 32,
-        "style": 0
+        "style": 3
     },
     {
         "lnglat": [
@@ -7187,7 +7187,7 @@ var addresses = [
         "address": "拱川路411弄",
         "name": "荣春苑北苑",
         "count": 65,
-        "style": 0
+        "style": 6
     },
     {
         "lnglat": [
@@ -7197,7 +7197,7 @@ var addresses = [
         "address": "公园路700号",
         "name": "东方商厦青浦店",
         "count": 3,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -7207,7 +7207,7 @@ var addresses = [
         "address": "拱海路240弄",
         "name": "民乐城惠康苑(东苑)",
         "count": 22,
-        "style": 1
+        "style": 2
     },
     {
         "lnglat": [
@@ -7217,7 +7217,7 @@ var addresses = [
         "address": "拱海路459",
         "name": "兰丽苑西苑",
         "count": 35,
-        "style": 0
+        "style": 3
     },
     {
         "lnglat": [
@@ -7227,7 +7227,7 @@ var addresses = [
         "address": "拱海路595弄",
         "name": "兰丽苑东苑",
         "count": 79,
-        "style": 0
+        "style": 7
     },
     {
         "lnglat": [
@@ -7237,7 +7237,7 @@ var addresses = [
         "address": "拱海路78弄",
         "name": "民乐城惠康苑(西苑)",
         "count": 46,
-        "style": 0
+        "style": 4
     },
     {
         "lnglat": [
@@ -7247,7 +7247,7 @@ var addresses = [
         "address": "拱极路2368弄29支弄",
         "name": "华钜御庭一期",
         "count": 44,
-        "style": 0
+        "style": 4
     },
     {
         "lnglat": [
@@ -7257,7 +7257,7 @@ var addresses = [
         "address": "拱海路79弄",
         "name": "民乐城惠康苑",
         "count": 136,
-        "style": 0
+        "style": 9
     },
     {
         "lnglat": [
@@ -7267,7 +7267,7 @@ var addresses = [
         "address": "拱海路755弄",
         "name": "民乐汇雅苑",
         "count": 46,
-        "style": 0
+        "style": 4
     },
     {
         "lnglat": [
@@ -7277,7 +7277,7 @@ var addresses = [
         "address": "拱极路2626弄",
         "name": "新凤凰城",
         "count": 58,
-        "style": 0
+        "style": 5
     },
     {
         "lnglat": [
@@ -7287,7 +7287,7 @@ var addresses = [
         "address": "拱乐路2400弄",
         "name": "荣春苑南苑",
         "count": 56,
-        "style": 0
+        "style": 5
     },
     {
         "lnglat": [
@@ -7297,7 +7297,7 @@ var addresses = [
         "address": "拱优路79弄",
         "name": "汇雅苑南苑",
         "count": 36,
-        "style": 0
+        "style": 3
     },
     {
         "lnglat": [
@@ -7307,7 +7307,7 @@ var addresses = [
         "address": "拱鸣路60弄",
         "name": "丽冬苑",
         "count": 64,
-        "style": 0
+        "style": 6
     },
     {
         "lnglat": [
@@ -7317,7 +7317,7 @@ var addresses = [
         "address": "共富路228弄",
         "name": "共富花园",
         "count": 6,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -7327,7 +7327,7 @@ var addresses = [
         "address": "共富路476弄",
         "name": "富隆苑",
         "count": 10,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -7337,7 +7337,7 @@ var addresses = [
         "address": "共和新路1158号",
         "name": "达誉商务楼",
         "count": 1,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -7347,7 +7347,7 @@ var addresses = [
         "address": "共和新路1301号",
         "name": "蓝天绿地商务广场",
         "count": 3,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -7357,7 +7357,7 @@ var addresses = [
         "address": "共和新路1301号-1",
         "name": "现代交通商务区",
         "count": 2,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -7367,7 +7367,7 @@ var addresses = [
         "address": "共和新路1453弄",
         "name": "新柳公寓",
         "count": 8,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -7377,7 +7377,7 @@ var addresses = [
         "address": "共和新路1346号",
         "name": "通用大厦",
         "count": 2,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -7387,7 +7387,7 @@ var addresses = [
         "address": "共和新路1481号",
         "name": "红墙创意园",
         "count": 4,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -7397,7 +7397,7 @@ var addresses = [
         "address": "共和新路1988号",
         "name": "大宁国际商业广场办公楼",
         "count": 4,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -7407,7 +7407,7 @@ var addresses = [
         "address": "共和新路2449弄",
         "name": "宝华现代大厦",
         "count": 2,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -7417,7 +7417,7 @@ var addresses = [
         "address": "共和新路2399弄",
         "name": "宝华现代城",
         "count": 36,
-        "style": 0
+        "style": 3
     },
     {
         "lnglat": [
@@ -7427,7 +7427,7 @@ var addresses = [
         "address": "共和新路2623号",
         "name": "企联大厦（上海）",
         "count": 5,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -7437,7 +7437,7 @@ var addresses = [
         "address": "共和新路2802号",
         "name": "智苑文创空间",
         "count": 4,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -7447,7 +7447,7 @@ var addresses = [
         "address": "共和新路2993号",
         "name": "中环企业广场",
         "count": 8,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -7467,7 +7467,7 @@ var addresses = [
         "address": "共和新路3699号、3737号",
         "name": "共和国际商务广场",
         "count": 20,
-        "style": 1
+        "style": 2
     },
     {
         "lnglat": [
@@ -7477,7 +7477,7 @@ var addresses = [
         "address": "共和新路340号",
         "name": "宝丰大厦",
         "count": 2,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -7487,7 +7487,7 @@ var addresses = [
         "address": "共和新路4703弄100号",
         "name": "民主花苑",
         "count": 2,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -7497,7 +7497,7 @@ var addresses = [
         "address": "共和新路4727号",
         "name": "新陆国际大厦",
         "count": 3,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -7507,7 +7507,7 @@ var addresses = [
         "address": "共和新路5000号",
         "name": "绿地新都会（风尚天地）",
         "count": 5,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -7517,7 +7517,7 @@ var addresses = [
         "address": "共和新路5199号",
         "name": "骏利财富大厦",
         "count": 10,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -7527,7 +7527,7 @@ var addresses = [
         "address": "共和新路5308弄32号",
         "name": "上海共康创意设计园区",
         "count": 4,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -7537,7 +7537,7 @@ var addresses = [
         "address": "共和新路2999弄",
         "name": "明园森林都市一期森林都市滴翠苑",
         "count": 52,
-        "style": 0
+        "style": 5
     },
     {
         "lnglat": [
@@ -7547,7 +7547,7 @@ var addresses = [
         "address": "共和新路638号",
         "name": "博隆商务楼",
         "count": 2,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -7557,7 +7557,7 @@ var addresses = [
         "address": "共和新路688弄",
         "name": "广兴广隆公寓",
         "count": 6,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -7567,7 +7567,7 @@ var addresses = [
         "address": "共和新路708弄",
         "name": "天道俪晶大厦",
         "count": 2,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -7577,7 +7577,7 @@ var addresses = [
         "address": "共和新路736弄1号",
         "name": "灵广花园",
         "count": 3,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -7587,7 +7587,7 @@ var addresses = [
         "address": "共和新路912号",
         "name": "云华科技大厦",
         "count": 24,
-        "style": 1
+        "style": 2
     },
     {
         "lnglat": [
@@ -7597,7 +7597,7 @@ var addresses = [
         "address": "贡嘎山路525弄",
         "name": "佘北家园凤尾苑",
         "count": 22,
-        "style": 1
+        "style": 2
     },
     {
         "lnglat": [
@@ -7607,7 +7607,7 @@ var addresses = [
         "address": "共和新路938号",
         "name": "共和大厦",
         "count": 2,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -7617,7 +7617,7 @@ var addresses = [
         "address": "古北路1699号",
         "name": "古北1699",
         "count": 2,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -7627,7 +7627,7 @@ var addresses = [
         "address": "古北路458号",
         "name": "佰威商务楼",
         "count": 1,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -7637,7 +7637,7 @@ var addresses = [
         "address": "古北路507号（仙霞路）",
         "name": "申菱大厦",
         "count": 1,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -7647,7 +7647,7 @@ var addresses = [
         "address": "古北路505号",
         "name": "古北路505号",
         "count": 2,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -7657,7 +7657,7 @@ var addresses = [
         "address": "古北路1700弄",
         "name": "名都古北",
         "count": 22,
-        "style": 1
+        "style": 2
     },
     {
         "lnglat": [
@@ -7667,7 +7667,7 @@ var addresses = [
         "address": "古北路585号",
         "name": "古北公寓",
         "count": 4,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -7677,7 +7677,7 @@ var addresses = [
         "address": "古北路666号",
         "name": "嘉麒大厦",
         "count": 5,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -7687,7 +7687,7 @@ var addresses = [
         "address": "古北路678号",
         "name": "同诠大厦",
         "count": 3,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -7697,7 +7697,7 @@ var addresses = [
         "address": "古北路69弄",
         "name": "虹桥万博花园",
         "count": 27,
-        "style": 1
+        "style": 2
     },
     {
         "lnglat": [
@@ -7707,7 +7707,7 @@ var addresses = [
         "address": "古北路686号",
         "name": "长福公寓(上海)",
         "count": 4,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -7717,7 +7717,7 @@ var addresses = [
         "address": "古方路18号",
         "name": "南方休闲广场商务大厦",
         "count": 22,
-        "style": 1
+        "style": 2
     },
     {
         "lnglat": [
@@ -7737,7 +7737,7 @@ var addresses = [
         "address": "古井路165号",
         "name": "锦馨公寓",
         "count": 3,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -7747,7 +7747,7 @@ var addresses = [
         "address": "古浪路183弄",
         "name": "祥和星宇二期",
         "count": 42,
-        "style": 0
+        "style": 4
     },
     {
         "lnglat": [
@@ -7757,7 +7757,7 @@ var addresses = [
         "address": "古龙路1065弄",
         "name": "新时代富嘉花园",
         "count": 47,
-        "style": 0
+        "style": 4
     },
     {
         "lnglat": [
@@ -7767,7 +7767,7 @@ var addresses = [
         "address": "古浪路55弄",
         "name": "祥和星宇",
         "count": 31,
-        "style": 0
+        "style": 3
     },
     {
         "lnglat": [
@@ -7777,7 +7777,7 @@ var addresses = [
         "address": "古龙路287弄",
         "name": "新时代景庭",
         "count": 46,
-        "style": 0
+        "style": 4
     },
     {
         "lnglat": [
@@ -7787,7 +7787,7 @@ var addresses = [
         "address": "古楼公路1198弄",
         "name": "同润·山河小城",
         "count": 85,
-        "style": 0
+        "style": 8
     },
     {
         "lnglat": [
@@ -7797,7 +7797,7 @@ var addresses = [
         "address": "古美路1458弄",
         "name": "中友嘉园",
         "count": 2,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -7807,7 +7807,7 @@ var addresses = [
         "address": "古美路1515号",
         "name": "凤凰楼",
         "count": 10,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -7817,7 +7817,7 @@ var addresses = [
         "address": "古美路1595号",
         "name": "宝石园",
         "count": 8,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -7827,7 +7827,7 @@ var addresses = [
         "address": "古美路1471号",
         "name": "华城广场",
         "count": 2,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -7837,7 +7837,7 @@ var addresses = [
         "address": "古美路1528号",
         "name": "漕河泾现代服务业园区",
         "count": 23,
-        "style": 1
+        "style": 2
     },
     {
         "lnglat": [
@@ -7847,7 +7847,7 @@ var addresses = [
         "address": "古美路377弄、莲花路288弄",
         "name": "阳光美景城_西区",
         "count": 43,
-        "style": 0
+        "style": 4
     },
     {
         "lnglat": [
@@ -7857,7 +7857,7 @@ var addresses = [
         "address": "古美路675弄",
         "name": "望族新城",
         "count": 24,
-        "style": 1
+        "style": 2
     },
     {
         "lnglat": [
@@ -7867,7 +7867,7 @@ var addresses = [
         "address": "古美西路313弄70号",
         "name": "上艺艺园",
         "count": 1,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -7877,7 +7877,7 @@ var addresses = [
         "address": "古羊路158号",
         "name": "虹三产业园",
         "count": 5,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -7887,7 +7887,7 @@ var addresses = [
         "address": "古猗园路88弄",
         "name": "骏丰嘉骊花园",
         "count": 26,
-        "style": 1
+        "style": 2
     },
     {
         "lnglat": [
@@ -7897,7 +7897,7 @@ var addresses = [
         "address": "古宜路182号",
         "name": "徐虹中路25号",
         "count": 7,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -7907,7 +7907,7 @@ var addresses = [
         "address": "古宜路99弄",
         "name": "天杰徐汇宜德苑",
         "count": 28,
-        "style": 1
+        "style": 2
     },
     {
         "lnglat": [
@@ -7917,7 +7917,7 @@ var addresses = [
         "address": "谷阳北路1500号",
         "name": "永翔大厦",
         "count": 4,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -7927,7 +7927,7 @@ var addresses = [
         "address": "古棕路168弄1-190号",
         "name": "绿地东岸涟城",
         "count": 28,
-        "style": 1
+        "style": 2
     },
     {
         "lnglat": [
@@ -7937,7 +7937,7 @@ var addresses = [
         "address": "谷阳北路2399弄",
         "name": "御上海",
         "count": 68,
-        "style": 0
+        "style": 6
     },
     {
         "lnglat": [
@@ -7947,7 +7947,7 @@ var addresses = [
         "address": "古宜路181号",
         "name": "西岸才谷",
         "count": 2,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -7957,7 +7957,7 @@ var addresses = [
         "address": "谷阳北路2501弄",
         "name": "御上海MC街",
         "count": 40,
-        "style": 0
+        "style": 4
     },
     {
         "lnglat": [
@@ -7967,7 +7967,7 @@ var addresses = [
         "address": "鼓浪路550号",
         "name": "晶尚坊",
         "count": 6,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -7987,7 +7987,7 @@ var addresses = [
         "address": "谷阳北路2558弄",
         "name": "冠寓_谷阳北路店",
         "count": 58,
-        "style": 0
+        "style": 5
     },
     {
         "lnglat": [
@@ -7997,7 +7997,7 @@ var addresses = [
         "address": "顾北东路39弄",
         "name": "和家欣苑D区",
         "count": 54,
-        "style": 0
+        "style": 5
     },
     {
         "lnglat": [
@@ -8007,7 +8007,7 @@ var addresses = [
         "address": "顾北路666弄",
         "name": "旭辉依云湾",
         "count": 39,
-        "style": 0
+        "style": 3
     },
     {
         "lnglat": [
@@ -8027,7 +8027,7 @@ var addresses = [
         "address": "顾戴路251弄",
         "name": "成亿家园",
         "count": 6,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -8037,7 +8037,7 @@ var addresses = [
         "address": "顾戴路2959号",
         "name": "中展大厦",
         "count": 4,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -8047,7 +8047,7 @@ var addresses = [
         "address": "顾戴路645弄",
         "name": "风荷云墅",
         "count": 9,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -8067,7 +8067,7 @@ var addresses = [
         "address": "顾唐路3281号",
         "name": "齐友佳苑",
         "count": 27,
-        "style": 1
+        "style": 2
     },
     {
         "lnglat": [
@@ -8087,7 +8087,7 @@ var addresses = [
         "address": "崮山路538号",
         "name": "浦东中港汇大厦",
         "count": 3,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -8097,7 +8097,7 @@ var addresses = [
         "address": "冠生园路20号",
         "name": "科苑新村",
         "count": 4,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -8107,7 +8107,7 @@ var addresses = [
         "address": "崮山路717号",
         "name": "魔方公寓羽山路店",
         "count": 1,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -8117,7 +8117,7 @@ var addresses = [
         "address": "冠生园路223-227号",
         "name": "智慧线创意园冠生园路分园",
         "count": 2,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -8127,7 +8127,7 @@ var addresses = [
         "address": "冠生园路403号",
         "name": "康沁苑",
         "count": 6,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -8137,7 +8137,7 @@ var addresses = [
         "address": "光复路195号",
         "name": "创意仓库",
         "count": 7,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -8147,7 +8147,7 @@ var addresses = [
         "address": "光复西路1003号",
         "name": "开伦江南场",
         "count": 5,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -8157,7 +8157,7 @@ var addresses = [
         "address": "光复西路1107号",
         "name": "苏河汇",
         "count": 3,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -8167,7 +8167,7 @@ var addresses = [
         "address": "光复西路2899弄",
         "name": "赢华国际广场",
         "count": 39,
-        "style": 0
+        "style": 3
     },
     {
         "lnglat": [
@@ -8177,7 +8177,7 @@ var addresses = [
         "address": "光复西路777弄",
         "name": "燕宁苑",
         "count": 21,
-        "style": 1
+        "style": 2
     },
     {
         "lnglat": [
@@ -8187,7 +8187,7 @@ var addresses = [
         "address": "光华路18号",
         "name": "晶森商务大厦",
         "count": 9,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -8197,7 +8197,7 @@ var addresses = [
         "address": "光新路128弄",
         "name": "阳光大厦",
         "count": 1,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -8207,7 +8207,7 @@ var addresses = [
         "address": "光华路598号",
         "name": "598创业园",
         "count": 7,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -8217,7 +8217,7 @@ var addresses = [
         "address": "光新路256弄",
         "name": "城公大厦",
         "count": 1,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -8227,7 +8227,7 @@ var addresses = [
         "address": "光新路182弄",
         "name": "一品国际",
         "count": 10,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -8237,7 +8237,7 @@ var addresses = [
         "address": "光新路428弄",
         "name": "万千公寓",
         "count": 1,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -8247,7 +8247,7 @@ var addresses = [
         "address": "光星路1599号",
         "name": "马利来广场",
         "count": 45,
-        "style": 0
+        "style": 4
     },
     {
         "lnglat": [
@@ -8257,7 +8257,7 @@ var addresses = [
         "address": "光中路133弄99号5栋",
         "name": "海创汇诺旋智能孵化基地",
         "count": 2,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -8267,7 +8267,7 @@ var addresses = [
         "address": "光中路133弄118号",
         "name": "茸桥科创园_光中路133弄118号园区",
         "count": 3,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -8277,7 +8277,7 @@ var addresses = [
         "address": "广东路339号",
         "name": "中福现代城",
         "count": 3,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -8287,7 +8287,7 @@ var addresses = [
         "address": "广东路500号",
         "name": "上海世界贸易大厦",
         "count": 43,
-        "style": 0
+        "style": 4
     },
     {
         "lnglat": [
@@ -8297,7 +8297,7 @@ var addresses = [
         "address": "广东路689号",
         "name": "海通证券大厦",
         "count": 6,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -8307,7 +8307,7 @@ var addresses = [
         "address": "广东路429号",
         "name": "天赐公寓",
         "count": 2,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -8317,7 +8317,7 @@ var addresses = [
         "address": "广丰路100弄",
         "name": "金水佳苑",
         "count": 65,
-        "style": 0
+        "style": 6
     },
     {
         "lnglat": [
@@ -8327,7 +8327,7 @@ var addresses = [
         "address": "广富林路1188弄",
         "name": "保利西子湾",
         "count": 76,
-        "style": 0
+        "style": 7
     },
     {
         "lnglat": [
@@ -8337,7 +8337,7 @@ var addresses = [
         "address": "广富林路1238号",
         "name": "上海律必尊酒店式公寓",
         "count": 2,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -8357,7 +8357,7 @@ var addresses = [
         "address": "广富林路658号",
         "name": "孩子王(上海松江万达店)",
         "count": 41,
-        "style": 0
+        "style": 4
     },
     {
         "lnglat": [
@@ -8367,7 +8367,7 @@ var addresses = [
         "address": "广纪路173弄",
         "name": "香杉商务中心",
         "count": 5,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -8387,7 +8387,7 @@ var addresses = [
         "address": "广纪路19号",
         "name": "翰林苑",
         "count": 3,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -8397,7 +8397,7 @@ var addresses = [
         "address": "广纪路700号",
         "name": "上海明珠创意产业园",
         "count": 7,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -8407,7 +8407,7 @@ var addresses = [
         "address": "广纪路838号",
         "name": "国家数字出版基地",
         "count": 10,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -8417,7 +8417,7 @@ var addresses = [
         "address": "广灵二路298弄",
         "name": "典雅公寓",
         "count": 9,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -8427,7 +8427,7 @@ var addresses = [
         "address": "广灵二路385弄7~9号",
         "name": "#N/A",
         "count": 3,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -8437,7 +8437,7 @@ var addresses = [
         "address": "广灵四路116号",
         "name": "智慧桥创意产业园二期",
         "count": 5,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -8447,7 +8447,7 @@ var addresses = [
         "address": "广灵四路24号",
         "name": "上海开隆大厦",
         "count": 1,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -8457,7 +8457,7 @@ var addresses = [
         "address": "广灵四路561弄",
         "name": "中虹翡翠苑",
         "count": 30,
-        "style": 1
+        "style": 3
     },
     {
         "lnglat": [
@@ -8467,7 +8467,7 @@ var addresses = [
         "address": "广西北路528号",
         "name": "地王中心",
         "count": 3,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -8497,7 +8497,7 @@ var addresses = [
         "address": "广延路415号",
         "name": "广延路415号小区",
         "count": 1,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -8507,7 +8507,7 @@ var addresses = [
         "address": "广西北路228弄",
         "name": "中福城二期",
         "count": 51,
-        "style": 0
+        "style": 5
     },
     {
         "lnglat": [
@@ -8517,7 +8517,7 @@ var addresses = [
         "address": "广元西路303号",
         "name": "丰业广元公寓",
         "count": 2,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -8527,7 +8527,7 @@ var addresses = [
         "address": "广元西路315号",
         "name": "联峰汇",
         "count": 2,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -8537,7 +8537,7 @@ var addresses = [
         "address": "广元西路333弄",
         "name": "紫元大厦",
         "count": 1,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -8547,7 +8547,7 @@ var addresses = [
         "address": "广粤路150弄",
         "name": "虹韵家园",
         "count": 36,
-        "style": 0
+        "style": 3
     },
     {
         "lnglat": [
@@ -8567,7 +8567,7 @@ var addresses = [
         "address": "广粤路1601弄",
         "name": "广裕小区",
         "count": 2,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -8577,7 +8577,7 @@ var addresses = [
         "address": "广粤路501号",
         "name": "上海信南实业大楼",
         "count": 2,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -8587,7 +8587,7 @@ var addresses = [
         "address": "广粤支路1号",
         "name": "临港新业坊虹口智立方",
         "count": 2,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -8597,7 +8597,7 @@ var addresses = [
         "address": "广中路208号",
         "name": "吉联大厦裙房",
         "count": 2,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -8607,7 +8607,7 @@ var addresses = [
         "address": "广中路657号",
         "name": "ID657创意园",
         "count": 8,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -8617,7 +8617,7 @@ var addresses = [
         "address": "广中路680弄",
         "name": "珊瑚苑",
         "count": 10,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -8627,7 +8627,7 @@ var addresses = [
         "address": "广中西路1207号",
         "name": "大宁创业大厦",
         "count": 2,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -8637,7 +8637,7 @@ var addresses = [
         "address": "广中西路777弄2号楼",
         "name": "多媒体产业大厦",
         "count": 6,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -8647,7 +8647,7 @@ var addresses = [
         "address": "广中西路777弄88号",
         "name": "华清大厦",
         "count": 2,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -8657,7 +8657,7 @@ var addresses = [
         "address": "广中西路777弄55号",
         "name": "启迪大厦",
         "count": 2,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -8667,7 +8667,7 @@ var addresses = [
         "address": "广中西路777弄99号",
         "name": "江裕大厦",
         "count": 6,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -8677,7 +8677,7 @@ var addresses = [
         "address": "贵阳路398号",
         "name": "文通国际广场",
         "count": 9,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -8697,7 +8697,7 @@ var addresses = [
         "address": "桂林路399弄",
         "name": "桂林花苑",
         "count": 2,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -8707,7 +8707,7 @@ var addresses = [
         "address": "桂林东街28弄",
         "name": "海上名邸",
         "count": 20,
-        "style": 1
+        "style": 2
     },
     {
         "lnglat": [
@@ -8717,7 +8717,7 @@ var addresses = [
         "address": "桂林路418号",
         "name": "中电科华鑫创享园",
         "count": 2,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -8727,7 +8727,7 @@ var addresses = [
         "address": "桂林路565号",
         "name": "明佳公寓",
         "count": 4,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -8737,7 +8737,7 @@ var addresses = [
         "address": "桂平路277弄",
         "name": "桂竹香小区",
         "count": 6,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -8757,7 +8757,7 @@ var addresses = [
         "address": "桂平路410号",
         "name": "科技广场及科技广场裙楼",
         "count": 9,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -8767,7 +8767,7 @@ var addresses = [
         "address": "桂平路88弄",
         "name": "紫藤苑",
         "count": 24,
-        "style": 1
+        "style": 2
     },
     {
         "lnglat": [
@@ -8777,7 +8777,7 @@ var addresses = [
         "address": "桂平路391号",
         "name": "漕河泾国际商务中心",
         "count": 25,
-        "style": 1
+        "style": 2
     },
     {
         "lnglat": [
@@ -8787,7 +8787,7 @@ var addresses = [
         "address": "桂桥路25号",
         "name": "上海保利N加金桥青年社区",
         "count": 2,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -8797,7 +8797,7 @@ var addresses = [
         "address": "桂平路88弄、126弄",
         "name": "紫藤苑综合楼",
         "count": 2,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -8807,7 +8807,7 @@ var addresses = [
         "address": "郭守敬路277号",
         "name": "凯顿酒店",
         "count": 2,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -8817,7 +8817,7 @@ var addresses = [
         "address": "郭守敬路498号",
         "name": "浦东软件园郭守敬园及祖冲之园",
         "count": 49,
-        "style": 0
+        "style": 4
     },
     {
         "lnglat": [
@@ -8827,7 +8827,7 @@ var addresses = [
         "address": "国安路200号",
         "name": "君庭广场",
         "count": 34,
-        "style": 0
+        "style": 3
     },
     {
         "lnglat": [
@@ -8847,7 +8847,7 @@ var addresses = [
         "address": "国安路558弄",
         "name": "建发新江湾华苑",
         "count": 8,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -8857,7 +8857,7 @@ var addresses = [
         "address": "国安路758弄",
         "name": "星汇广场一期",
         "count": 31,
-        "style": 0
+        "style": 3
     },
     {
         "lnglat": [
@@ -8867,7 +8867,7 @@ var addresses = [
         "address": "国安路789弄",
         "name": "新江湾中凯城市之光名苑",
         "count": 55,
-        "style": 0
+        "style": 5
     },
     {
         "lnglat": [
@@ -8877,7 +8877,7 @@ var addresses = [
         "address": "国宾路36号",
         "name": "五角场万达广场",
         "count": 31,
-        "style": 0
+        "style": 3
     },
     {
         "lnglat": [
@@ -8887,7 +8887,7 @@ var addresses = [
         "address": "国定东路233号、国定东路275-8号",
         "name": "绿地汇创国际大厦",
         "count": 25,
-        "style": 1
+        "style": 2
     },
     {
         "lnglat": [
@@ -8897,7 +8897,7 @@ var addresses = [
         "address": "国定路101弄",
         "name": "兴平昌苑",
         "count": 5,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -8907,7 +8907,7 @@ var addresses = [
         "address": "国泓路818弄",
         "name": "绿地海珀璞晖",
         "count": 32,
-        "style": 0
+        "style": 3
     },
     {
         "lnglat": [
@@ -8937,7 +8937,7 @@ var addresses = [
         "address": "国货路288号",
         "name": "南国大厦（上海）",
         "count": 3,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -8947,7 +8947,7 @@ var addresses = [
         "address": "国货路236弄",
         "name": "东物公寓",
         "count": 2,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -8957,7 +8957,7 @@ var addresses = [
         "address": "国货路333弄",
         "name": "海洲国际华园",
         "count": 10,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -8977,7 +8977,7 @@ var addresses = [
         "address": "国货路370弄",
         "name": "惠国公寓",
         "count": 6,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -8997,7 +8997,7 @@ var addresses = [
         "address": "国科路29弄",
         "name": "黄兴雅苑",
         "count": 4,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -9007,7 +9007,7 @@ var addresses = [
         "address": "国科路39弄",
         "name": "贵仁绿苑",
         "count": 6,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -9017,7 +9017,7 @@ var addresses = [
         "address": "国权北路1688弄",
         "name": "湾谷科技园",
         "count": 69,
-        "style": 0
+        "style": 6
     },
     {
         "lnglat": [
@@ -9027,7 +9027,7 @@ var addresses = [
         "address": "国权北路6弄",
         "name": "国权北路6弄",
         "count": 4,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -9037,7 +9037,7 @@ var addresses = [
         "address": "国权北路828弄",
         "name": "美岸栖庭",
         "count": 82,
-        "style": 0
+        "style": 8
     },
     {
         "lnglat": [
@@ -9047,7 +9047,7 @@ var addresses = [
         "address": "国权东路99弄",
         "name": "文化佳园",
         "count": 40,
-        "style": 0
+        "style": 4
     },
     {
         "lnglat": [
@@ -9057,7 +9057,7 @@ var addresses = [
         "address": "国权后路15弄",
         "name": "复旦书馨公寓",
         "count": 6,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -9067,7 +9067,7 @@ var addresses = [
         "address": "国权路100号",
         "name": "国阳大厦",
         "count": 6,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -9077,7 +9077,7 @@ var addresses = [
         "address": "国权路85弄",
         "name": "市益小区",
         "count": 3,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -9087,7 +9087,7 @@ var addresses = [
         "address": "国顺路128弄",
         "name": "上海东方家园",
         "count": 8,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -9097,7 +9097,7 @@ var addresses = [
         "address": "国顺东路19号",
         "name": "首东大厦",
         "count": 2,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -9107,7 +9107,7 @@ var addresses = [
         "address": "国顺东路800号",
         "name": "国顺东路800号东楼",
         "count": 22,
-        "style": 1
+        "style": 2
     },
     {
         "lnglat": [
@@ -9117,7 +9117,7 @@ var addresses = [
         "address": "国顺路131弄10号",
         "name": "复华商业大厦",
         "count": 10,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -9127,7 +9127,7 @@ var addresses = [
         "address": "国顺路280号",
         "name": "华丰大楼",
         "count": 2,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -9137,7 +9137,7 @@ var addresses = [
         "address": "国伟路300号",
         "name": "爱久家园",
         "count": 30,
-        "style": 1
+        "style": 3
     },
     {
         "lnglat": [
@@ -9147,7 +9147,7 @@ var addresses = [
         "address": "国顺路668弄",
         "name": "万科南桥传奇(海尚华庭)",
         "count": 40,
-        "style": 0
+        "style": 4
     },
     {
         "lnglat": [
@@ -9167,7 +9167,7 @@ var addresses = [
         "address": "国霞路258、259号",
         "name": "复旦绿地科创中心",
         "count": 29,
-        "style": 1
+        "style": 2
     },
     {
         "lnglat": [
@@ -9177,7 +9177,7 @@ var addresses = [
         "address": "国伟路800号",
         "name": "新江湾城雍景苑",
         "count": 55,
-        "style": 0
+        "style": 5
     },
     {
         "lnglat": [
@@ -9197,7 +9197,7 @@ var addresses = [
         "address": "国霞路458弄",
         "name": "星汇广场二期",
         "count": 63,
-        "style": 0
+        "style": 6
     },
     {
         "lnglat": [
@@ -9227,7 +9227,7 @@ var addresses = [
         "address": "哈雷路998号",
         "name": "悦颂生命科学园",
         "count": 6,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -9247,7 +9247,7 @@ var addresses = [
         "address": "海波路1000弄",
         "name": "水岸丽苑（一期）",
         "count": 32,
-        "style": 0
+        "style": 3
     },
     {
         "lnglat": [
@@ -9277,7 +9277,7 @@ var addresses = [
         "address": "海潮路222弄",
         "name": "雅士公寓",
         "count": 7,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -9287,7 +9287,7 @@ var addresses = [
         "address": "海潮路23号",
         "name": "中福花苑",
         "count": 52,
-        "style": 0
+        "style": 5
     },
     {
         "lnglat": [
@@ -9297,7 +9297,7 @@ var addresses = [
         "address": "海川路58弄",
         "name": "嘉城新航域",
         "count": 56,
-        "style": 0
+        "style": 5
     },
     {
         "lnglat": [
@@ -9307,7 +9307,7 @@ var addresses = [
         "address": "海川路77弄",
         "name": "香馥湾",
         "count": 43,
-        "style": 0
+        "style": 4
     },
     {
         "lnglat": [
@@ -9317,7 +9317,7 @@ var addresses = [
         "address": "海防路198号",
         "name": "海防商务楼",
         "count": 1,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -9337,7 +9337,7 @@ var addresses = [
         "address": "海防路228号",
         "name": "福安大厦",
         "count": 5,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -9347,7 +9347,7 @@ var addresses = [
         "address": "海防路538弄",
         "name": "达安锦园小区",
         "count": 25,
-        "style": 1
+        "style": 2
     },
     {
         "lnglat": [
@@ -9357,7 +9357,7 @@ var addresses = [
         "address": "海防路421号",
         "name": "静工园",
         "count": 4,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -9367,7 +9367,7 @@ var addresses = [
         "address": "海防路555号",
         "name": "同乐坊",
         "count": 8,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -9407,7 +9407,7 @@ var addresses = [
         "address": "海伦路178号",
         "name": "宏伦大厦",
         "count": 4,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -9417,7 +9417,7 @@ var addresses = [
         "address": "海伦路188弄",
         "name": "海伦都市佳苑",
         "count": 8,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -9427,7 +9427,7 @@ var addresses = [
         "address": "海伦路306弄",
         "name": "海昌苑虹口",
         "count": 7,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -9437,7 +9437,7 @@ var addresses = [
         "address": "海伦路555弄",
         "name": "国贸花园(上海)",
         "count": 3,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -9447,7 +9447,7 @@ var addresses = [
         "address": "海伦路75号",
         "name": "海伦大厦",
         "count": 1,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -9477,7 +9477,7 @@ var addresses = [
         "address": "海宁路307号",
         "name": "爱思大厦",
         "count": 31,
-        "style": 0
+        "style": 3
     },
     {
         "lnglat": [
@@ -9487,7 +9487,7 @@ var addresses = [
         "address": "海宁路358号",
         "name": "国际商厦大厦",
         "count": 2,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -9507,7 +9507,7 @@ var addresses = [
         "address": "海趣路218号",
         "name": "绿地M-TOWN",
         "count": 6,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -9517,7 +9517,7 @@ var addresses = [
         "address": "海盛路500弄",
         "name": "旭新华庭",
         "count": 32,
-        "style": 0
+        "style": 3
     },
     {
         "lnglat": [
@@ -9527,7 +9527,7 @@ var addresses = [
         "address": "海趣路236号",
         "name": "绿地loft",
         "count": 6,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -9537,7 +9537,7 @@ var addresses = [
         "address": "海桐路336弄",
         "name": "建华钻石公寓",
         "count": 2,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -9557,7 +9557,7 @@ var addresses = [
         "address": "海阳路1333弄",
         "name": "尚东国际名园二期",
         "count": 26,
-        "style": 1
+        "style": 2
     },
     {
         "lnglat": [
@@ -9577,7 +9577,7 @@ var addresses = [
         "address": "海洋二路88弄1-38号",
         "name": "智英科技中心创新魔坊二期",
         "count": 28,
-        "style": 1
+        "style": 2
     },
     {
         "lnglat": [
@@ -9587,7 +9587,7 @@ var addresses = [
         "address": "邯郸路159号",
         "name": "上豪大厦",
         "count": 4,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -9597,7 +9597,7 @@ var addresses = [
         "address": "邯郸路173号",
         "name": "冠寓_复旦大学二店",
         "count": 1,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -9617,7 +9617,7 @@ var addresses = [
         "address": "邯郸路43号",
         "name": "中观产业园（中观大厦）",
         "count": 9,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -9627,7 +9627,7 @@ var addresses = [
         "address": "邯郸路98号",
         "name": "上海无锡大厦",
         "count": 3,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -9637,7 +9637,7 @@ var addresses = [
         "address": "涵青路100弄",
         "name": "经纬城市绿洲学府阳光家园",
         "count": 122,
-        "style": 0
+        "style": 9
     },
     {
         "lnglat": [
@@ -9647,7 +9647,7 @@ var addresses = [
         "address": "涵青路398弄",
         "name": "经纬城市绿洲学府涵青家园",
         "count": 241,
-        "style": 0
+        "style": 9
     },
     {
         "lnglat": [
@@ -9667,7 +9667,7 @@ var addresses = [
         "address": "汉口路515号",
         "name": "汇金大厦（上海）",
         "count": 2,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -9677,7 +9677,7 @@ var addresses = [
         "address": "汉口路650号",
         "name": "亚洲大厦",
         "count": 22,
-        "style": 1
+        "style": 2
     },
     {
         "lnglat": [
@@ -9687,7 +9687,7 @@ var addresses = [
         "address": "汉口路689弄",
         "name": "中福城三期",
         "count": 6,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -9697,7 +9697,7 @@ var addresses = [
         "address": "汉中路188号",
         "name": "青年文化活动中心",
         "count": 2,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -9707,7 +9707,7 @@ var addresses = [
         "address": "汉中路261号",
         "name": "苏河融景",
         "count": 4,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -9717,7 +9717,7 @@ var addresses = [
         "address": "汉中路158号",
         "name": "汉中广场",
         "count": 5,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -9737,7 +9737,7 @@ var addresses = [
         "address": "杭州路895号",
         "name": "鼎隆公寓",
         "count": 7,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -9747,7 +9747,7 @@ var addresses = [
         "address": "航北路669弄",
         "name": "小桥里",
         "count": 8,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -9767,7 +9767,7 @@ var addresses = [
         "address": "杭桂路1118号",
         "name": "中波研发中心商务大楼",
         "count": 6,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -9777,7 +9777,7 @@ var addresses = [
         "address": "航鹤路78弄",
         "name": "长泰东郊御园",
         "count": 36,
-        "style": 0
+        "style": 3
     },
     {
         "lnglat": [
@@ -9807,7 +9807,7 @@ var addresses = [
         "address": "航南公路5088号",
         "name": "绿庭国际大厦",
         "count": 36,
-        "style": 0
+        "style": 3
     },
     {
         "lnglat": [
@@ -9817,7 +9817,7 @@ var addresses = [
         "address": "航瑞路175弄-1-119号",
         "name": "鹤沙航城汇康锦苑",
         "count": 20,
-        "style": 1
+        "style": 2
     },
     {
         "lnglat": [
@@ -9827,7 +9827,7 @@ var addresses = [
         "address": "航南公路6666号",
         "name": "上海魏晋文化创意产业园",
         "count": 24,
-        "style": 1
+        "style": 2
     },
     {
         "lnglat": [
@@ -9837,7 +9837,7 @@ var addresses = [
         "address": "航南公路6161号",
         "name": "奉贤农机综合大楼",
         "count": 6,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -9847,7 +9847,7 @@ var addresses = [
         "address": "航新路260弄",
         "name": "横泾苑",
         "count": 6,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -9857,7 +9857,7 @@ var addresses = [
         "address": "合川路3051号",
         "name": "莱茵虹桥中心",
         "count": 10,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -9867,7 +9867,7 @@ var addresses = [
         "address": "航中路99弄",
         "name": "七韵美地苑",
         "count": 46,
-        "style": 0
+        "style": 4
     },
     {
         "lnglat": [
@@ -9877,7 +9877,7 @@ var addresses = [
         "address": "合川路3089号",
         "name": "富群商务大厦",
         "count": 5,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -9887,7 +9887,7 @@ var addresses = [
         "address": "航谊路8号",
         "name": "宏普信息园",
         "count": 8,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -9897,7 +9897,7 @@ var addresses = [
         "address": "合肥路215号",
         "name": "精益商务楼",
         "count": 2,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -9907,7 +9907,7 @@ var addresses = [
         "address": "合肥路289弄（淡水路）",
         "name": "复兴苑",
         "count": 6,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -9917,7 +9917,7 @@ var addresses = [
         "address": "合肥路315号",
         "name": "海文商务楼(合肥路)",
         "count": 1,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -9927,7 +9927,7 @@ var addresses = [
         "address": "何家湾路111弄",
         "name": "美岸栖庭三期",
         "count": 6,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -9937,7 +9937,7 @@ var addresses = [
         "address": "合作路719弄",
         "name": "领峰华庭一期",
         "count": 21,
-        "style": 1
+        "style": 2
     },
     {
         "lnglat": [
@@ -9947,7 +9947,7 @@ var addresses = [
         "address": "和田路229弄",
         "name": "紫薇阁",
         "count": 10,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -9977,7 +9977,7 @@ var addresses = [
         "address": "河间路688弄",
         "name": "水月坊",
         "count": 7,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -9987,7 +9987,7 @@ var addresses = [
         "address": "河南北路233号",
         "name": "圣和圣广场",
         "count": 6,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -9997,7 +9997,7 @@ var addresses = [
         "address": "河南北路485号",
         "name": "银历大厦",
         "count": 2,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -10007,7 +10007,7 @@ var addresses = [
         "address": "河南南路1009弄",
         "name": "明日星城",
         "count": 47,
-        "style": 0
+        "style": 4
     },
     {
         "lnglat": [
@@ -10017,7 +10017,7 @@ var addresses = [
         "address": "河南南路16号",
         "name": "中汇大厦",
         "count": 4,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -10027,7 +10027,7 @@ var addresses = [
         "address": "河南南路1号",
         "name": "星腾大厦",
         "count": 4,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -10037,7 +10037,7 @@ var addresses = [
         "address": "河南南路33号",
         "name": "新上海城市广场",
         "count": 4,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -10047,7 +10047,7 @@ var addresses = [
         "address": "河南南路398弄",
         "name": "太阳都市花园",
         "count": 8,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -10057,7 +10057,7 @@ var addresses = [
         "address": "河南南路555弄",
         "name": "士林华苑",
         "count": 24,
-        "style": 1
+        "style": 2
     },
     {
         "lnglat": [
@@ -10077,7 +10077,7 @@ var addresses = [
         "address": "河南南路747号",
         "name": "申升公寓",
         "count": 2,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -10087,7 +10087,7 @@ var addresses = [
         "address": "鹤坡南路169弄",
         "name": "闵浦新苑三村",
         "count": 21,
-        "style": 1
+        "style": 2
     },
     {
         "lnglat": [
@@ -10097,7 +10097,7 @@ var addresses = [
         "address": "鹤坡南路55弄56弄",
         "name": "闵浦新苑二村",
         "count": 29,
-        "style": 1
+        "style": 2
     },
     {
         "lnglat": [
@@ -10107,7 +10107,7 @@ var addresses = [
         "address": "鹤庆路358弄",
         "name": "金铭城市之光",
         "count": 9,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -10117,7 +10117,7 @@ var addresses = [
         "address": "鹤沙路588弄",
         "name": "昱星家园东区",
         "count": 30,
-        "style": 1
+        "style": 3
     },
     {
         "lnglat": [
@@ -10127,7 +10127,7 @@ var addresses = [
         "address": "鹤沙路688弄",
         "name": "昱星家园西区",
         "count": 58,
-        "style": 0
+        "style": 5
     },
     {
         "lnglat": [
@@ -10137,7 +10137,7 @@ var addresses = [
         "address": "鹤沙路699弄",
         "name": "昱丽家园",
         "count": 22,
-        "style": 1
+        "style": 2
     },
     {
         "lnglat": [
@@ -10147,7 +10147,7 @@ var addresses = [
         "address": "鹤望路679弄",
         "name": "亿达北虹桥创业城",
         "count": 8,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -10157,7 +10157,7 @@ var addresses = [
         "address": "鹤旋路500弄",
         "name": "水岸秀苑",
         "count": 29,
-        "style": 1
+        "style": 2
     },
     {
         "lnglat": [
@@ -10167,7 +10167,7 @@ var addresses = [
         "address": "鹤永路600弄",
         "name": "鹤沙航城东茗苑(上海)",
         "count": 60,
-        "style": 0
+        "style": 6
     },
     {
         "lnglat": [
@@ -10177,7 +10177,7 @@ var addresses = [
         "address": "恒丰北路100号",
         "name": "林顿大厦",
         "count": 9,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -10187,7 +10187,7 @@ var addresses = [
         "address": "鹤友路336弄",
         "name": "万达城市公寓（上海）",
         "count": 96,
-        "style": 0
+        "style": 9
     },
     {
         "lnglat": [
@@ -10197,7 +10197,7 @@ var addresses = [
         "address": "恒丰路31号",
         "name": "金峰大厦",
         "count": 5,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -10217,7 +10217,7 @@ var addresses = [
         "address": "恒丰路1号",
         "name": "创智联合大厦",
         "count": 2,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -10227,7 +10227,7 @@ var addresses = [
         "address": "恒丰路500号",
         "name": "宝矿洲际商务中心",
         "count": 24,
-        "style": 1
+        "style": 2
     },
     {
         "lnglat": [
@@ -10247,7 +10247,7 @@ var addresses = [
         "address": "恒丰路610号",
         "name": "金岸610",
         "count": 5,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -10267,7 +10267,7 @@ var addresses = [
         "address": "恒南路1325号",
         "name": "闿鑫商务园",
         "count": 5,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -10277,7 +10277,7 @@ var addresses = [
         "address": "恒南路1355号",
         "name": "禾谷文创园",
         "count": 2,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -10287,7 +10287,7 @@ var addresses = [
         "address": "恒南路399号",
         "name": "茸锦浦江科技园",
         "count": 10,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -10297,7 +10297,7 @@ var addresses = [
         "address": "恒南路851号、899号",
         "name": "浦江国际",
         "count": 21,
-        "style": 1
+        "style": 2
     },
     {
         "lnglat": [
@@ -10307,7 +10307,7 @@ var addresses = [
         "address": "恒通路222号",
         "name": "地铁恒通大厦",
         "count": 9,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -10327,7 +10327,7 @@ var addresses = [
         "address": "恒通路360号",
         "name": "一天下大厦",
         "count": 3,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -10337,7 +10337,7 @@ var addresses = [
         "address": "恒西路18号",
         "name": "优麦文创园",
         "count": 2,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -10347,7 +10347,7 @@ var addresses = [
         "address": "恒业路129弄",
         "name": "德华苑",
         "count": 8,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -10357,7 +10357,7 @@ var addresses = [
         "address": "恒永路328号",
         "name": "联东U谷上海嘉定国际企业港",
         "count": 10,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -10367,7 +10367,7 @@ var addresses = [
         "address": "横浜路123弄",
         "name": "金机大厦",
         "count": 1,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -10377,7 +10377,7 @@ var addresses = [
         "address": "横浜路158弄",
         "name": "宝虹新苑",
         "count": 3,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -10387,7 +10387,7 @@ var addresses = [
         "address": "衡山路922号",
         "name": "建汇大厦",
         "count": 1,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -10397,7 +10397,7 @@ var addresses = [
         "address": "衡山路20号",
         "name": "衡安大楼",
         "count": 2,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -10407,7 +10407,7 @@ var addresses = [
         "address": "衡水路89弄1号",
         "name": "国际明佳城",
         "count": 22,
-        "style": 1
+        "style": 2
     },
     {
         "lnglat": [
@@ -10417,7 +10417,7 @@ var addresses = [
         "address": "红宝石路19弄11、12号",
         "name": "古北长乐苑",
         "count": 4,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -10427,7 +10427,7 @@ var addresses = [
         "address": "红宝石路500号",
         "name": "东银中心",
         "count": 6,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -10457,7 +10457,7 @@ var addresses = [
         "address": "红林路576号",
         "name": "和家欣园B区",
         "count": 168,
-        "style": 0
+        "style": 9
     },
     {
         "lnglat": [
@@ -10467,7 +10467,7 @@ var addresses = [
         "address": "红林路589弄",
         "name": "和家欣苑A区",
         "count": 24,
-        "style": 1
+        "style": 2
     },
     {
         "lnglat": [
@@ -10477,7 +10477,7 @@ var addresses = [
         "address": "红林路58弄、158弄",
         "name": "飘鹰锦和花园",
         "count": 47,
-        "style": 0
+        "style": 4
     },
     {
         "lnglat": [
@@ -10487,7 +10487,7 @@ var addresses = [
         "address": "红林路99弄",
         "name": "印象苑",
         "count": 22,
-        "style": 1
+        "style": 2
     },
     {
         "lnglat": [
@@ -10497,7 +10497,7 @@ var addresses = [
         "address": "红石路333弄",
         "name": "新城悠活城",
         "count": 54,
-        "style": 0
+        "style": 5
     },
     {
         "lnglat": [
@@ -10507,7 +10507,7 @@ var addresses = [
         "address": "红石路730号",
         "name": "汇丰凯苑",
         "count": 57,
-        "style": 0
+        "style": 5
     },
     {
         "lnglat": [
@@ -10517,7 +10517,7 @@ var addresses = [
         "address": "红松东路321弄",
         "name": "古北大成公馆",
         "count": 37,
-        "style": 0
+        "style": 3
     },
     {
         "lnglat": [
@@ -10527,7 +10527,7 @@ var addresses = [
         "address": "红松路175弄",
         "name": "金汇名人苑",
         "count": 5,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -10537,7 +10537,7 @@ var addresses = [
         "address": "红松路81弄169支弄",
         "name": "龙柏识庐",
         "count": 4,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -10557,7 +10557,7 @@ var addresses = [
         "address": "虹漕路39号",
         "name": "华鑫科技园",
         "count": 10,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -10567,7 +10567,7 @@ var addresses = [
         "address": "虹漕路421号",
         "name": "漕河泾二期",
         "count": 5,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -10577,7 +10577,7 @@ var addresses = [
         "address": "虹漕路448号",
         "name": "现代物流大厦",
         "count": 10,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -10587,7 +10587,7 @@ var addresses = [
         "address": "虹漕路456号",
         "name": "光启园",
         "count": 3,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -10597,7 +10597,7 @@ var addresses = [
         "address": "虹漕路461号",
         "name": "钦州工业园区（虹钦园）",
         "count": 10,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -10607,7 +10607,7 @@ var addresses = [
         "address": "虹漕路77号",
         "name": "华鑫慧享城",
         "count": 5,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -10617,7 +10617,7 @@ var addresses = [
         "address": "虹漕南路718弄之1-2号",
         "name": "迎春园(虹漕南路)",
         "count": 2,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -10627,7 +10627,7 @@ var addresses = [
         "address": "虹漕南路99弄",
         "name": "金桂苑",
         "count": 22,
-        "style": 1
+        "style": 2
     },
     {
         "lnglat": [
@@ -10647,7 +10647,7 @@ var addresses = [
         "address": "虹古路8弄之1-11号",
         "name": "虹景家苑",
         "count": 5,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -10657,7 +10657,7 @@ var addresses = [
         "address": "虹关路323弄",
         "name": "瑞虹新城璟庭",
         "count": 28,
-        "style": 1
+        "style": 2
     },
     {
         "lnglat": [
@@ -10667,7 +10667,7 @@ var addresses = [
         "address": "虹井路120号",
         "name": "新华红星国际广场",
         "count": 10,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -10677,7 +10677,7 @@ var addresses = [
         "address": "虹井路185号",
         "name": "虹淞大厦",
         "count": 7,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -10687,7 +10687,7 @@ var addresses = [
         "address": "虹井路280弄",
         "name": "虹桥晶座",
         "count": 3,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -10697,7 +10697,7 @@ var addresses = [
         "address": "虹井路280弄1号",
         "name": "瑞都大厦",
         "count": 4,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -10707,7 +10707,7 @@ var addresses = [
         "address": "虹井路288号",
         "name": "燎申虹桥国际中心",
         "count": 8,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -10717,7 +10717,7 @@ var addresses = [
         "address": "虹井路482弄",
         "name": "金汇鸿锦苑",
         "count": 6,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -10747,7 +10747,7 @@ var addresses = [
         "address": "虹口区曲阳路930号",
         "name": "大柏树930科技创意园",
         "count": 2,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -10757,7 +10757,7 @@ var addresses = [
         "address": "虹口区四平路773号",
         "name": "金大地商务楼",
         "count": 3,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -10777,7 +10777,7 @@ var addresses = [
         "address": "虹梅路1123号",
         "name": "上企置业广场",
         "count": 1,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -10787,7 +10787,7 @@ var addresses = [
         "address": "虹梅路1801号",
         "name": "宏业大厦(上海)",
         "count": 5,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -10797,7 +10797,7 @@ var addresses = [
         "address": "虹梅路1905号",
         "name": "远中科研楼",
         "count": 2,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -10807,7 +10807,7 @@ var addresses = [
         "address": "虹梅路1801号A区",
         "name": "凯科国际大厦",
         "count": 4,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -10817,7 +10817,7 @@ var addresses = [
         "address": "虹梅路2007号",
         "name": "远中产业园6号楼",
         "count": 1,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -10827,7 +10827,7 @@ var addresses = [
         "address": "虹梅路2071号",
         "name": "远中产业园三四期",
         "count": 9,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -10837,7 +10837,7 @@ var addresses = [
         "address": "虹梅路2008号",
         "name": "虹梅大楼",
         "count": 3,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -10867,7 +10867,7 @@ var addresses = [
         "address": "虹梅路263号",
         "name": "金梅公寓",
         "count": 1,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -10877,7 +10877,7 @@ var addresses = [
         "address": "虹梅路269号",
         "name": "宝城大厦（上海）",
         "count": 1,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -10897,7 +10897,7 @@ var addresses = [
         "address": "虹梅路3200弄",
         "name": "虹桥花苑",
         "count": 36,
-        "style": 0
+        "style": 3
     },
     {
         "lnglat": [
@@ -10907,7 +10907,7 @@ var addresses = [
         "address": "虹梅路3213号",
         "name": "红春大厦",
         "count": 4,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -10927,7 +10927,7 @@ var addresses = [
         "address": "虹梅路3215弄201号",
         "name": "圣伦兰商务大厦",
         "count": 4,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -10937,7 +10937,7 @@ var addresses = [
         "address": "虹梅路3325弄",
         "name": "金泉苑二期",
         "count": 9,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -10947,7 +10947,7 @@ var addresses = [
         "address": "虹梅路3219号",
         "name": "九洲生活广场",
         "count": 1,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -10957,7 +10957,7 @@ var addresses = [
         "address": "虹梅路3721号",
         "name": "森晟世洋国际广场",
         "count": 2,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -10967,7 +10967,7 @@ var addresses = [
         "address": "虹梅路3887弄",
         "name": "虹梅君悦花园",
         "count": 5,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -10977,7 +10977,7 @@ var addresses = [
         "address": "虹梅南路2588号",
         "name": "绿亮科创园总部",
         "count": 6,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -10987,7 +10987,7 @@ var addresses = [
         "address": "虹梅路3990弄",
         "name": "晨韵公寓",
         "count": 1,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -10997,7 +10997,7 @@ var addresses = [
         "address": "虹梅南路3966号",
         "name": "上海时代汽车商务大厦",
         "count": 3,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -11007,7 +11007,7 @@ var addresses = [
         "address": "虹梅南路4289号",
         "name": "绿亮科创园(虹梅南路)",
         "count": 3,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -11017,7 +11017,7 @@ var addresses = [
         "address": "虹梅南路4999弄",
         "name": "燎申智城",
         "count": 30,
-        "style": 1
+        "style": 3
     },
     {
         "lnglat": [
@@ -11027,7 +11027,7 @@ var addresses = [
         "address": "虹梅南路698号",
         "name": "秀水苑",
         "count": 3,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -11037,7 +11037,7 @@ var addresses = [
         "address": "虹梅南路786号",
         "name": "上海雍辰商务中心",
         "count": 2,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -11047,7 +11047,7 @@ var addresses = [
         "address": "虹梅南路833号",
         "name": "国民新能源环保孵化园",
         "count": 7,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -11057,7 +11057,7 @@ var addresses = [
         "address": "虹桥路1060弄",
         "name": "虹桥丽景苑",
         "count": 4,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -11077,7 +11077,7 @@ var addresses = [
         "address": "虹桥路1380-7、1386号",
         "name": "文广大厦(虹桥路)",
         "count": 9,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -11087,7 +11087,7 @@ var addresses = [
         "address": "虹桥路178弄",
         "name": "青之杰花园",
         "count": 4,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -11097,7 +11097,7 @@ var addresses = [
         "address": "虹桥路188号",
         "name": "元福大厦",
         "count": 6,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -11127,7 +11127,7 @@ var addresses = [
         "address": "虹桥路2272号",
         "name": "虹桥商务大厦",
         "count": 6,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -11147,7 +11147,7 @@ var addresses = [
         "address": "虹桥路400弄",
         "name": "南丹小区",
         "count": 4,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -11157,7 +11157,7 @@ var addresses = [
         "address": "虹桥路591弄",
         "name": "虹桥丽园（上海）",
         "count": 5,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -11177,7 +11177,7 @@ var addresses = [
         "address": "虹桥路666弄",
         "name": "虹桥乐庭",
         "count": 30,
-        "style": 1
+        "style": 3
     },
     {
         "lnglat": [
@@ -11197,7 +11197,7 @@ var addresses = [
         "address": "虹桥路953弄",
         "name": "南洋虹桥公寓",
         "count": 3,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -11227,7 +11227,7 @@ var addresses = [
         "address": "虹桥路977号",
         "name": "中山广场",
         "count": 6,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -11247,7 +11247,7 @@ var addresses = [
         "address": "虹莘路1200弄",
         "name": "新梅商住楼",
         "count": 3,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -11257,7 +11257,7 @@ var addresses = [
         "address": "虹莘路3333弄",
         "name": "天安豪园",
         "count": 46,
-        "style": 0
+        "style": 4
     },
     {
         "lnglat": [
@@ -11267,7 +11267,7 @@ var addresses = [
         "address": "虹莘路3800弄",
         "name": "风度国际",
         "count": 21,
-        "style": 1
+        "style": 2
     },
     {
         "lnglat": [
@@ -11277,7 +11277,7 @@ var addresses = [
         "address": "虹湾路86弄",
         "name": "蔷薇里",
         "count": 42,
-        "style": 0
+        "style": 4
     },
     {
         "lnglat": [
@@ -11287,7 +11287,7 @@ var addresses = [
         "address": "虹许路731号",
         "name": "老外街国际文创生活园",
         "count": 7,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -11297,7 +11297,7 @@ var addresses = [
         "address": "虹许路788号",
         "name": "名都城",
         "count": 29,
-        "style": 1
+        "style": 2
     },
     {
         "lnglat": [
@@ -11307,7 +11307,7 @@ var addresses = [
         "address": "虹中路525号",
         "name": "黔香阁(虹桥店)",
         "count": 4,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -11317,7 +11317,7 @@ var addresses = [
         "address": "虹中路786弄3-6号",
         "name": "奥森公寓",
         "count": 8,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -11327,7 +11327,7 @@ var addresses = [
         "address": "洪德路1125弄",
         "name": "新城香溢澜庭",
         "count": 51,
-        "style": 0
+        "style": 5
     },
     {
         "lnglat": [
@@ -11337,7 +11337,7 @@ var addresses = [
         "address": "虹中路796弄1-6号",
         "name": "延虹公寓",
         "count": 6,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -11357,7 +11357,7 @@ var addresses = [
         "address": "呼兰路799号9号楼",
         "name": "乐活家时尚公寓",
         "count": 1,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -11367,7 +11367,7 @@ var addresses = [
         "address": "呼兰路799号",
         "name": "智汇园",
         "count": 6,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -11377,7 +11377,7 @@ var addresses = [
         "address": "呼兰路911弄11号",
         "name": "博济上海智汇园",
         "count": 5,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -11387,7 +11387,7 @@ var addresses = [
         "address": "呼兰西路123号",
         "name": "龙盛活力小镇",
         "count": 29,
-        "style": 1
+        "style": 2
     },
     {
         "lnglat": [
@@ -11397,7 +11397,7 @@ var addresses = [
         "address": "呼兰西路60号",
         "name": "卓越时代广场公寓楼",
         "count": 48,
-        "style": 0
+        "style": 4
     },
     {
         "lnglat": [
@@ -11407,7 +11407,7 @@ var addresses = [
         "address": "呼兰西路129号",
         "name": "栋霖科技园6号楼",
         "count": 6,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -11417,7 +11417,7 @@ var addresses = [
         "address": "湖北路20号",
         "name": "中信福申大楼",
         "count": 2,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -11437,7 +11437,7 @@ var addresses = [
         "address": "湖堤路199弄",
         "name": "万景峰二期",
         "count": 25,
-        "style": 1
+        "style": 2
     },
     {
         "lnglat": [
@@ -11447,7 +11447,7 @@ var addresses = [
         "address": "虎林路159弄",
         "name": "丽雅花园",
         "count": 4,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -11457,7 +11457,7 @@ var addresses = [
         "address": "沪光东路89号",
         "name": "福克斯连锁商务大厦（千奥园区）",
         "count": 4,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -11467,7 +11467,7 @@ var addresses = [
         "address": "沪光路425弄",
         "name": "君莲闵都雅苑",
         "count": 155,
-        "style": 0
+        "style": 9
     },
     {
         "lnglat": [
@@ -11477,7 +11477,7 @@ var addresses = [
         "address": "沪光路555弄",
         "name": "招商雍华府（招商雍华苑）",
         "count": 48,
-        "style": 0
+        "style": 4
     },
     {
         "lnglat": [
@@ -11487,7 +11487,7 @@ var addresses = [
         "address": "沪杭公路1588号",
         "name": "凤创谷园区",
         "count": 7,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -11497,7 +11497,7 @@ var addresses = [
         "address": "沪闵路1391号",
         "name": "华宜万创新所",
         "count": 25,
-        "style": 1
+        "style": 2
     },
     {
         "lnglat": [
@@ -11507,7 +11507,7 @@ var addresses = [
         "address": "沪闵路269号",
         "name": "香樟时尚广场",
         "count": 3,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -11527,7 +11527,7 @@ var addresses = [
         "address": "沪闵路5600弄88支弄",
         "name": "邻里苑",
         "count": 28,
-        "style": 1
+        "style": 2
     },
     {
         "lnglat": [
@@ -11537,7 +11537,7 @@ var addresses = [
         "address": "沪闵路277号",
         "name": "冠寓_闵行公园店",
         "count": 4,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -11547,7 +11547,7 @@ var addresses = [
         "address": "沪闵路6088号",
         "name": "凯德龙之梦莘庄店（闵行凯德商业中心）",
         "count": 39,
-        "style": 0
+        "style": 3
     },
     {
         "lnglat": [
@@ -11567,7 +11567,7 @@ var addresses = [
         "address": "沪闵路7580弄111支弄",
         "name": "南方城(上海)",
         "count": 38,
-        "style": 0
+        "style": 3
     },
     {
         "lnglat": [
@@ -11577,7 +11577,7 @@ var addresses = [
         "address": "沪闵路6269号",
         "name": "银霄大厦",
         "count": 2,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -11587,7 +11587,7 @@ var addresses = [
         "address": "沪闵路8075号",
         "name": "虹梅商务大厦",
         "count": 8,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -11597,7 +11597,7 @@ var addresses = [
         "address": "沪闵路7940号",
         "name": "宁谷（国际）商务大厦",
         "count": 3,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -11607,7 +11607,7 @@ var addresses = [
         "address": "沪闵路7866弄",
         "name": "莲花国际广场",
         "count": 42,
-        "style": 0
+        "style": 4
     },
     {
         "lnglat": [
@@ -11617,7 +11617,7 @@ var addresses = [
         "address": "沪闵路8390弄",
         "name": "迎春园",
         "count": 3,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -11627,7 +11627,7 @@ var addresses = [
         "address": "沪闵路9450号",
         "name": "农资大楼",
         "count": 2,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -11637,7 +11637,7 @@ var addresses = [
         "address": "沪南公路3665号",
         "name": "上海金盾大厦",
         "count": 1,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -11647,7 +11647,7 @@ var addresses = [
         "address": "沪南路2199号",
         "name": "万科海上传奇(御桥芳澜苑)",
         "count": 10,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -11657,7 +11657,7 @@ var addresses = [
         "address": "沪闵路9510号",
         "name": "泰成商务楼",
         "count": 2,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -11677,7 +11677,7 @@ var addresses = [
         "address": "沪南路2518弄",
         "name": "百舸馨苑",
         "count": 6,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -11687,7 +11687,7 @@ var addresses = [
         "address": "沪青平公路3938弄",
         "name": "移动智地青浦",
         "count": 2,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -11697,7 +11697,7 @@ var addresses = [
         "address": "沪南路2688弄",
         "name": "绿地康桥新苑（上海）",
         "count": 37,
-        "style": 0
+        "style": 3
     },
     {
         "lnglat": [
@@ -11707,7 +11707,7 @@ var addresses = [
         "address": "沪松公路1177号",
         "name": "佳预信息科技大厦",
         "count": 43,
-        "style": 0
+        "style": 4
     },
     {
         "lnglat": [
@@ -11717,7 +11717,7 @@ var addresses = [
         "address": "沪松公路1197号",
         "name": "星汇大厦(上海)",
         "count": 3,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -11727,7 +11727,7 @@ var addresses = [
         "address": "沪松公路1251号",
         "name": "云端电商家园",
         "count": 1,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -11737,7 +11737,7 @@ var addresses = [
         "address": "沪松公路1221号",
         "name": "星晨商务大厦",
         "count": 3,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -11747,7 +11747,7 @@ var addresses = [
         "address": "沪松公路1399弄",
         "name": "九久青年城",
         "count": 26,
-        "style": 1
+        "style": 2
     },
     {
         "lnglat": [
@@ -11757,7 +11757,7 @@ var addresses = [
         "address": "沪松公路1658号",
         "name": "九润商务大厦(九亭)",
         "count": 5,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -11767,7 +11767,7 @@ var addresses = [
         "address": "沪松公路2749弄1-2号",
         "name": "新南丽都",
         "count": 3,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -11777,7 +11777,7 @@ var addresses = [
         "address": "沪松公路2972弄22号",
         "name": "绿波景园",
         "count": 40,
-        "style": 0
+        "style": 4
     },
     {
         "lnglat": [
@@ -11787,7 +11787,7 @@ var addresses = [
         "address": "沪松公路2751号",
         "name": "新南丽都商务大楼",
         "count": 3,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -11797,7 +11797,7 @@ var addresses = [
         "address": "沪淞公路565弄",
         "name": "水清年华花园",
         "count": 52,
-        "style": 0
+        "style": 5
     },
     {
         "lnglat": [
@@ -11807,7 +11807,7 @@ var addresses = [
         "address": "沪太路1111号",
         "name": "孩子王(上海静安大融城店)",
         "count": 2,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -11817,7 +11817,7 @@ var addresses = [
         "address": "沪太路1111弄",
         "name": "静安大融城",
         "count": 40,
-        "style": 0
+        "style": 4
     },
     {
         "lnglat": [
@@ -11827,7 +11827,7 @@ var addresses = [
         "address": "沪太路140弄",
         "name": "展望大厦",
         "count": 2,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -11837,7 +11837,7 @@ var addresses = [
         "address": "沪太路1228号",
         "name": "魔方公寓行知路店",
         "count": 2,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -11847,7 +11847,7 @@ var addresses = [
         "address": "沪太路1861弄39号",
         "name": "岛里创新园",
         "count": 6,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -11857,7 +11857,7 @@ var addresses = [
         "address": "沪松公路2517弄",
         "name": "丽水豪庭",
         "count": 31,
-        "style": 0
+        "style": 3
     },
     {
         "lnglat": [
@@ -11867,7 +11867,7 @@ var addresses = [
         "address": "沪太路1866号",
         "name": "诺诚M7创意园",
         "count": 20,
-        "style": 1
+        "style": 2
     },
     {
         "lnglat": [
@@ -11877,7 +11877,7 @@ var addresses = [
         "address": "沪太路2899弄",
         "name": "绿地科技中心",
         "count": 5,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -11887,7 +11887,7 @@ var addresses = [
         "address": "沪太路315弄2号",
         "name": "华舟公寓",
         "count": 3,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -11897,7 +11897,7 @@ var addresses = [
         "address": "沪太路4361号",
         "name": "海宝示范园",
         "count": 6,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -11907,7 +11907,7 @@ var addresses = [
         "address": "沪太路453弄88号",
         "name": "兴联公寓",
         "count": 2,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -11927,7 +11927,7 @@ var addresses = [
         "address": "沪太路655弄2号，3号",
         "name": "金纺大厦",
         "count": 6,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -11937,7 +11937,7 @@ var addresses = [
         "address": "沪太路799号",
         "name": "上海新慧谷科技产业园",
         "count": 4,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -11947,7 +11947,7 @@ var addresses = [
         "address": "沪太路6598号",
         "name": "金岷大厦",
         "count": 2,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -11957,7 +11957,7 @@ var addresses = [
         "address": "沪太路903弄",
         "name": "佳宁花园",
         "count": 29,
-        "style": 1
+        "style": 2
     },
     {
         "lnglat": [
@@ -11967,7 +11967,7 @@ var addresses = [
         "address": "沪亭北路1080弄",
         "name": "金丰蓝庭一期",
         "count": 54,
-        "style": 0
+        "style": 5
     },
     {
         "lnglat": [
@@ -11977,7 +11977,7 @@ var addresses = [
         "address": "裕德路92弄",
         "name": "江南裕德大厦",
         "count": 2,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -11987,7 +11987,7 @@ var addresses = [
         "address": "沪太路941弄1-12号",
         "name": "绿柳苑",
         "count": 4,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -11997,7 +11997,7 @@ var addresses = [
         "address": "沪亭北路618弄",
         "name": "九城湖滨国际公寓",
         "count": 111,
-        "style": 0
+        "style": 9
     },
     {
         "lnglat": [
@@ -12007,7 +12007,7 @@ var addresses = [
         "address": "沪亭北路199弄10号楼",
         "name": "宝龙公寓(九亭中心)",
         "count": 7,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -12017,7 +12017,7 @@ var addresses = [
         "address": "沪亭北路199弄",
         "name": "九亭中心",
         "count": 49,
-        "style": 0
+        "style": 4
     },
     {
         "lnglat": [
@@ -12027,7 +12027,7 @@ var addresses = [
         "address": "沪亭北路900弄",
         "name": "金丰蓝庭二期",
         "count": 23,
-        "style": 1
+        "style": 2
     },
     {
         "lnglat": [
@@ -12037,7 +12037,7 @@ var addresses = [
         "address": "沪亭北路901弄",
         "name": "金丰蓝庭三期",
         "count": 29,
-        "style": 1
+        "style": 2
     },
     {
         "lnglat": [
@@ -12047,7 +12047,7 @@ var addresses = [
         "address": "沪亭路240弄",
         "name": "美丽星城",
         "count": 45,
-        "style": 0
+        "style": 4
     },
     {
         "lnglat": [
@@ -12057,7 +12057,7 @@ var addresses = [
         "address": "沪亭南路208弄",
         "name": "紫金花园",
         "count": 9,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -12067,7 +12067,7 @@ var addresses = [
         "address": "沪宜公路1158号",
         "name": "久友大厦",
         "count": 39,
-        "style": 0
+        "style": 3
     },
     {
         "lnglat": [
@@ -12077,7 +12077,7 @@ var addresses = [
         "address": "沪宜公路3051号",
         "name": "香溢都荟",
         "count": 35,
-        "style": 0
+        "style": 3
     },
     {
         "lnglat": [
@@ -12087,7 +12087,7 @@ var addresses = [
         "address": "沪宜公路3066弄",
         "name": "南北周嘉苑",
         "count": 26,
-        "style": 1
+        "style": 2
     },
     {
         "lnglat": [
@@ -12097,7 +12097,7 @@ var addresses = [
         "address": "沪宜公路3099号",
         "name": "绿地嘉创国际商务广场",
         "count": 7,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -12107,7 +12107,7 @@ var addresses = [
         "address": "沪宜公路2857号",
         "name": "明发嘉定商业广场",
         "count": 2,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -12117,7 +12117,7 @@ var addresses = [
         "address": "沪宜路1101号",
         "name": "越界南翔智地产业园（ 南翔智地三期越界产业园）",
         "count": 4,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -12127,7 +12127,7 @@ var addresses = [
         "address": "沪宜公路3128号",
         "name": "嘉尚国际广场",
         "count": 6,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -12157,7 +12157,7 @@ var addresses = [
         "address": "花木路718弄",
         "name": "绿缘公寓",
         "count": 9,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -12167,7 +12167,7 @@ var addresses = [
         "address": "花木路838号",
         "name": "影城小筑",
         "count": 1,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -12177,7 +12177,7 @@ var addresses = [
         "address": "花木路908号",
         "name": "雍景台（上海）",
         "count": 9,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -12197,7 +12197,7 @@ var addresses = [
         "address": "花山路333弄",
         "name": "宝厦雅苑",
         "count": 6,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -12207,7 +12207,7 @@ var addresses = [
         "address": "花山路796弄",
         "name": "花山锦地苑",
         "count": 7,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -12217,7 +12217,7 @@ var addresses = [
         "address": "花园路16号",
         "name": "嘉和国际大厦",
         "count": 9,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -12227,7 +12227,7 @@ var addresses = [
         "address": "花园石桥路33号",
         "name": "花旗集团大厦",
         "count": 6,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -12237,7 +12237,7 @@ var addresses = [
         "address": "花园石桥路66号",
         "name": "东亚银行金融大厦",
         "count": 3,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -12257,7 +12257,7 @@ var addresses = [
         "address": "华昌路9号",
         "name": "金象大厦",
         "count": 3,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -12267,7 +12267,7 @@ var addresses = [
         "address": "华昌路79号",
         "name": "华昌公寓(上海)",
         "count": 1,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -12277,7 +12277,7 @@ var addresses = [
         "address": "华戴路599弄",
         "name": "凯佳公寓二期",
         "count": 25,
-        "style": 1
+        "style": 2
     },
     {
         "lnglat": [
@@ -12287,7 +12287,7 @@ var addresses = [
         "address": "华发路99弄",
         "name": "明丰新纪苑",
         "count": 54,
-        "style": 0
+        "style": 5
     },
     {
         "lnglat": [
@@ -12297,7 +12297,7 @@ var addresses = [
         "address": "华发路258号",
         "name": "东阔生活广场",
         "count": 5,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -12307,7 +12307,7 @@ var addresses = [
         "address": "华光路300弄",
         "name": "凯迪华光公寓",
         "count": 43,
-        "style": 0
+        "style": 4
     },
     {
         "lnglat": [
@@ -12317,7 +12317,7 @@ var addresses = [
         "address": "华和路602弄",
         "name": "华和路600弄",
         "count": 8,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -12327,7 +12327,7 @@ var addresses = [
         "address": "华江路720号",
         "name": "歆翱商务大厦",
         "count": 3,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -12337,7 +12337,7 @@ var addresses = [
         "address": "华江路1260弄12号",
         "name": "上海禾智谷科创园",
         "count": 4,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -12347,7 +12347,7 @@ var addresses = [
         "address": "华泾路507号",
         "name": "华泾广场",
         "count": 2,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -12357,7 +12357,7 @@ var addresses = [
         "address": "华江支路328弄",
         "name": "天际蓝桥",
         "count": 45,
-        "style": 0
+        "style": 4
     },
     {
         "lnglat": [
@@ -12367,7 +12367,7 @@ var addresses = [
         "address": "华泾路599弄",
         "name": "漓江花园（上海漓江山水）",
         "count": 37,
-        "style": 0
+        "style": 3
     },
     {
         "lnglat": [
@@ -12377,7 +12377,7 @@ var addresses = [
         "address": "华科路399弄",
         "name": "青水湾公寓",
         "count": 10,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -12387,7 +12387,7 @@ var addresses = [
         "address": "华科东路218号",
         "name": "新城盛景",
         "count": 131,
-        "style": 0
+        "style": 9
     },
     {
         "lnglat": [
@@ -12397,7 +12397,7 @@ var addresses = [
         "address": "华灵路81弄",
         "name": "南华苑东座",
         "count": 6,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -12407,7 +12407,7 @@ var addresses = [
         "address": "华隆路1758号",
         "name": "增洲大厦",
         "count": 7,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -12417,7 +12417,7 @@ var addresses = [
         "address": "华隆路1777号",
         "name": "e通世界科技园(华新园）",
         "count": 21,
-        "style": 1
+        "style": 2
     },
     {
         "lnglat": [
@@ -12437,7 +12437,7 @@ var addresses = [
         "address": "华南路555号",
         "name": "顺丰上海产业园",
         "count": 2,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -12447,7 +12447,7 @@ var addresses = [
         "address": "华南路680号",
         "name": "梁杭电商U库",
         "count": 2,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -12467,7 +12467,7 @@ var addresses = [
         "address": "华鹏路300弄",
         "name": "大华锦绣华城14街区",
         "count": 107,
-        "style": 0
+        "style": 9
     },
     {
         "lnglat": [
@@ -12477,7 +12477,7 @@ var addresses = [
         "address": "华坪路100号",
         "name": "上海帝景园",
         "count": 4,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -12487,7 +12487,7 @@ var addresses = [
         "address": "华青路995弄",
         "name": "亿燕人才公寓",
         "count": 3,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -12497,7 +12497,7 @@ var addresses = [
         "address": "华青南路481-485号",
         "name": "芊岱大厦",
         "count": 6,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -12507,7 +12507,7 @@ var addresses = [
         "address": "华青南路99弄",
         "name": "仁恒运杰河滨花园",
         "count": 37,
-        "style": 0
+        "style": 3
     },
     {
         "lnglat": [
@@ -12517,7 +12517,7 @@ var addresses = [
         "address": "华秋路349弄",
         "name": "保利叶之林",
         "count": 59,
-        "style": 0
+        "style": 5
     },
     {
         "lnglat": [
@@ -12527,7 +12527,7 @@ var addresses = [
         "address": "华山路1520弄25号",
         "name": "华山嘉苑",
         "count": 4,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -12537,7 +12537,7 @@ var addresses = [
         "address": "华山路1520弄",
         "name": "恒力公寓（上海）",
         "count": 6,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -12547,7 +12547,7 @@ var addresses = [
         "address": "华山路1520弄55号",
         "name": "正力公寓",
         "count": 3,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -12557,7 +12557,7 @@ var addresses = [
         "address": "华山路1643弄",
         "name": "华山花苑",
         "count": 20,
-        "style": 1
+        "style": 2
     },
     {
         "lnglat": [
@@ -12567,7 +12567,7 @@ var addresses = [
         "address": "华山路1765弄",
         "name": "海斯大厦（裙楼）",
         "count": 1,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -12577,7 +12577,7 @@ var addresses = [
         "address": "华山路2088号",
         "name": "汇银广场",
         "count": 2,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -12597,7 +12597,7 @@ var addresses = [
         "address": "华山路2号",
         "name": "静安高和大厦",
         "count": 2,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -12607,7 +12607,7 @@ var addresses = [
         "address": "华山路301号",
         "name": "上海静安商楼",
         "count": 5,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -12617,7 +12617,7 @@ var addresses = [
         "address": "华山路868弄",
         "name": "总统公寓",
         "count": 8,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -12627,7 +12627,7 @@ var addresses = [
         "address": "华申路150号",
         "name": "华申路150号",
         "count": 2,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -12637,7 +12637,7 @@ var addresses = [
         "address": "华申路180号",
         "name": "唯恩富勤大楼",
         "count": 2,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -12657,7 +12657,7 @@ var addresses = [
         "address": "华西路600号",
         "name": "优大科技园",
         "count": 9,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -12667,7 +12667,7 @@ var addresses = [
         "address": "华夏东路2345弄",
         "name": "水景豪园",
         "count": 23,
-        "style": 1
+        "style": 2
     },
     {
         "lnglat": [
@@ -12677,7 +12677,7 @@ var addresses = [
         "address": "华新镇华强街203弄",
         "name": "三友星墅",
         "count": 10,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -12697,7 +12697,7 @@ var addresses = [
         "address": "华徐公路1199号",
         "name": "碧家国际社区(国家会展中心店)",
         "count": 1,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -12717,7 +12717,7 @@ var addresses = [
         "address": "华徐公路569号",
         "name": "麦迪睿医械e港",
         "count": 21,
-        "style": 1
+        "style": 2
     },
     {
         "lnglat": [
@@ -12727,7 +12727,7 @@ var addresses = [
         "address": "华徐公路966号",
         "name": "法姬娜大厦",
         "count": 10,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -12737,7 +12737,7 @@ var addresses = [
         "address": "华阳路81号",
         "name": "兆丰苑",
         "count": 4,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -12747,7 +12747,7 @@ var addresses = [
         "address": "华莹山路300弄",
         "name": "惠泽苑",
         "count": 24,
-        "style": 1
+        "style": 2
     },
     {
         "lnglat": [
@@ -12757,7 +12757,7 @@ var addresses = [
         "address": "华友路550弄",
         "name": "碧林湾二期",
         "count": 38,
-        "style": 0
+        "style": 3
     },
     {
         "lnglat": [
@@ -12767,7 +12767,7 @@ var addresses = [
         "address": "华志路859、903弄",
         "name": "绿地逸湾",
         "count": 32,
-        "style": 0
+        "style": 3
     },
     {
         "lnglat": [
@@ -12777,7 +12777,7 @@ var addresses = [
         "address": "华莹山路450弄",
         "name": "莘泽苑",
         "count": 72,
-        "style": 0
+        "style": 7
     },
     {
         "lnglat": [
@@ -12787,7 +12787,7 @@ var addresses = [
         "address": "华中路88号",
         "name": "金茂商务楼",
         "count": 3,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -12797,7 +12797,7 @@ var addresses = [
         "address": "化成路366弄-8",
         "name": "三水国际广场",
         "count": 6,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -12817,7 +12817,7 @@ var addresses = [
         "address": "淮安路717号",
         "name": "717工坊",
         "count": 3,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -12827,7 +12827,7 @@ var addresses = [
         "address": "淮海东路45号",
         "name": "东淮海国际大厦(东淮海壹号)",
         "count": 10,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -12847,7 +12847,7 @@ var addresses = [
         "address": "淮海东路85号",
         "name": "淮海商业大厦",
         "count": 1,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -12857,7 +12857,7 @@ var addresses = [
         "address": "淮海东路99号",
         "name": "恒积大厦",
         "count": 25,
-        "style": 1
+        "style": 2
     },
     {
         "lnglat": [
@@ -12867,7 +12867,7 @@ var addresses = [
         "address": "淮海西路288弄",
         "name": "淮海花园",
         "count": 5,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -12877,7 +12877,7 @@ var addresses = [
         "address": "淮海西路358弄",
         "name": "淮海世纪花苑",
         "count": 5,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -12887,7 +12887,7 @@ var addresses = [
         "address": "淮海西路442弄124支弄86-88号",
         "name": "爱迪公寓",
         "count": 4,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -12897,7 +12897,7 @@ var addresses = [
         "address": "淮海西路55号",
         "name": "申通信息广场",
         "count": 7,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -12907,7 +12907,7 @@ var addresses = [
         "address": "淮海中路1010号",
         "name": "嘉华中心（上海）",
         "count": 5,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -12927,7 +12927,7 @@ var addresses = [
         "address": "淮海中路138号",
         "name": "上海广场",
         "count": 1,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -12937,7 +12937,7 @@ var addresses = [
         "address": "淮海中路1045号",
         "name": "淮海国际广场",
         "count": 70,
-        "style": 0
+        "style": 7
     },
     {
         "lnglat": [
@@ -12947,7 +12947,7 @@ var addresses = [
         "address": "淮海中路1500号",
         "name": "鸿艺豪苑",
         "count": 6,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -12957,7 +12957,7 @@ var addresses = [
         "address": "淮海中路1950弄2号",
         "name": "兴国大厦",
         "count": 3,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -12967,7 +12967,7 @@ var addresses = [
         "address": "淮海中路1号",
         "name": "柳林大厦",
         "count": 3,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -12977,7 +12977,7 @@ var addresses = [
         "address": "淮海中路2--8号",
         "name": "兰生大厦",
         "count": 3,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -12987,7 +12987,7 @@ var addresses = [
         "address": "淮海中路398号",
         "name": "博银国际大厦",
         "count": 2,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -12997,7 +12997,7 @@ var addresses = [
         "address": "淮海中路438号",
         "name": "兴城商厦",
         "count": 1,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -13007,7 +13007,7 @@ var addresses = [
         "address": "淮海中路468号",
         "name": "淮海中路沿线跨街户外LED_2",
         "count": 1,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -13027,7 +13027,7 @@ var addresses = [
         "address": "淮海中路469号",
         "name": "淮海中路沿线跨街户外LED_1",
         "count": 1,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -13037,7 +13037,7 @@ var addresses = [
         "address": "淮海中路478号",
         "name": "淮海中路沿线跨街户外LED_4",
         "count": 1,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -13047,7 +13047,7 @@ var addresses = [
         "address": "淮海中路503号",
         "name": "淮海中路沿线跨街户外LED_5",
         "count": 1,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -13057,7 +13057,7 @@ var addresses = [
         "address": "淮海中路481号",
         "name": "淮海中路沿线跨街户外LED_3",
         "count": 1,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -13067,7 +13067,7 @@ var addresses = [
         "address": "淮海中路510号",
         "name": "淮海中路沿线跨街户外LED_6",
         "count": 1,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -13077,7 +13077,7 @@ var addresses = [
         "address": "淮海中路523号",
         "name": "淮海中路沿线跨街户外LED_7",
         "count": 1,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -13087,7 +13087,7 @@ var addresses = [
         "address": "淮海中路527号",
         "name": "淮海中路沿线跨街户外LED_9",
         "count": 4,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -13097,7 +13097,7 @@ var addresses = [
         "address": "淮海中路550号",
         "name": "淮海中路沿线跨街户外LED_42",
         "count": 1,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -13107,7 +13107,7 @@ var addresses = [
         "address": "淮海中路530号",
         "name": "淮海中路沿线跨街户外LED_8",
         "count": 1,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -13117,7 +13117,7 @@ var addresses = [
         "address": "淮海中路558号",
         "name": "淮海中路沿线跨街户外LED_10",
         "count": 1,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -13127,7 +13127,7 @@ var addresses = [
         "address": "淮海中路572号",
         "name": "淮海中路沿线跨街户外LED_12",
         "count": 1,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -13137,7 +13137,7 @@ var addresses = [
         "address": "淮海中路575号",
         "name": "淮海中路沿线跨街户外LED_11",
         "count": 1,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -13147,7 +13147,7 @@ var addresses = [
         "address": "淮海中路598号",
         "name": "淮海中路沿线跨街户外LED_14",
         "count": 1,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -13157,7 +13157,7 @@ var addresses = [
         "address": "淮海中路603号",
         "name": "淮海中路沿线跨街户外LED_13",
         "count": 1,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -13167,7 +13167,7 @@ var addresses = [
         "address": "淮海中路609号",
         "name": "淮海中路沿线跨街户外LED_15",
         "count": 1,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -13177,7 +13177,7 @@ var addresses = [
         "address": "淮海中路610号",
         "name": "淮海中路沿线跨街户外LED_16",
         "count": 1,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -13187,7 +13187,7 @@ var addresses = [
         "address": "淮海中路624号",
         "name": "淮海中路沿线跨街户外LED_18",
         "count": 1,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -13197,7 +13197,7 @@ var addresses = [
         "address": "淮海中路627号",
         "name": "淮海中路沿线跨街户外LED_19",
         "count": 1,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -13207,7 +13207,7 @@ var addresses = [
         "address": "淮海中路621号",
         "name": "淮海中路沿线跨街户外LED_17",
         "count": 1,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -13217,7 +13217,7 @@ var addresses = [
         "address": "淮海中路642号",
         "name": "淮海中路沿线跨街户外LED_20",
         "count": 1,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -13227,7 +13227,7 @@ var addresses = [
         "address": "淮海中路651号",
         "name": "淮海中路沿线跨街户外LED_21",
         "count": 1,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -13237,7 +13237,7 @@ var addresses = [
         "address": "淮海中路666号",
         "name": "淮海中路沿线跨街户外LED_22",
         "count": 1,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -13247,7 +13247,7 @@ var addresses = [
         "address": "淮海中路671号",
         "name": "淮海中路沿线跨街户外LED_23",
         "count": 1,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -13257,7 +13257,7 @@ var addresses = [
         "address": "淮海中路681号",
         "name": "淮海中路沿线跨街户外LED_25",
         "count": 1,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -13267,7 +13267,7 @@ var addresses = [
         "address": "淮海中路688号",
         "name": "淮海中路沿线跨街户外LED_24",
         "count": 1,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -13277,7 +13277,7 @@ var addresses = [
         "address": "淮海中路701号",
         "name": "淮海中路沿线跨街户外LED_27",
         "count": 1,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -13287,7 +13287,7 @@ var addresses = [
         "address": "淮海中路706号",
         "name": "淮海中路沿线跨街户外LED_26",
         "count": 1,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -13297,7 +13297,7 @@ var addresses = [
         "address": "淮海中路717号",
         "name": "淮海中路沿线跨街户外LED_29",
         "count": 1,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -13307,7 +13307,7 @@ var addresses = [
         "address": "淮海中路728号",
         "name": "淮海中路沿线跨街户外LED_28",
         "count": 1,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -13317,7 +13317,7 @@ var addresses = [
         "address": "淮海中路746号",
         "name": "淮海中路沿线跨街户外LED_30",
         "count": 1,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -13327,7 +13327,7 @@ var addresses = [
         "address": "淮海中路755号",
         "name": "淮海中路沿线跨街户外LED_31",
         "count": 8,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -13337,7 +13337,7 @@ var addresses = [
         "address": "淮海中路758号",
         "name": "淮海中路沿线跨街户外LED_32",
         "count": 1,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -13347,7 +13347,7 @@ var addresses = [
         "address": "淮海中路807号",
         "name": "淮海中路沿线跨街户外LED_35",
         "count": 1,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -13357,7 +13357,7 @@ var addresses = [
         "address": "淮海中路796号",
         "name": "淮海中路沿线跨街户外LED_34",
         "count": 1,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -13367,7 +13367,7 @@ var addresses = [
         "address": "淮海中路775号",
         "name": "淮海中路沿线跨街户外LED_33",
         "count": 1,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -13377,7 +13377,7 @@ var addresses = [
         "address": "淮海中路821号",
         "name": "淮海中路沿线跨街户外LED_37",
         "count": 1,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -13387,7 +13387,7 @@ var addresses = [
         "address": "淮海中路854号",
         "name": "淮海中路沿线跨街户外LED_36",
         "count": 1,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -13397,7 +13397,7 @@ var addresses = [
         "address": "淮海中路868号",
         "name": "淮海中路沿线跨街户外LED_38",
         "count": 1,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -13407,7 +13407,7 @@ var addresses = [
         "address": "淮海中路871号",
         "name": "淮海中路沿线跨街户外LED_39",
         "count": 1,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -13417,7 +13417,7 @@ var addresses = [
         "address": "淮海中路888号",
         "name": "淮海中路沿线跨街户外LED_40",
         "count": 1,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -13437,7 +13437,7 @@ var addresses = [
         "address": "淮海中路911号",
         "name": "淮海中路沿线跨街户外LED_45",
         "count": 1,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -13447,7 +13447,7 @@ var addresses = [
         "address": "淮海中路890号",
         "name": "淮海中路沿线跨街户外LED_43",
         "count": 1,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -13457,7 +13457,7 @@ var addresses = [
         "address": "淮海中路900号",
         "name": "淮海中路沿线跨街户外LED_44",
         "count": 1,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -13467,7 +13467,7 @@ var addresses = [
         "address": "淮海中路918号",
         "name": "百盛购物中心（淮海店）",
         "count": 20,
-        "style": 1
+        "style": 2
     },
     {
         "lnglat": [
@@ -13477,7 +13477,7 @@ var addresses = [
         "address": "淮海中路939号",
         "name": "淮海中路沿线跨街户外LED_48",
         "count": 1,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -13487,7 +13487,7 @@ var addresses = [
         "address": "淮海中路915号",
         "name": "淮海中路沿线跨街户外LED_47",
         "count": 1,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -13497,7 +13497,7 @@ var addresses = [
         "address": "淮海中路93号",
         "name": "大上海时代广场",
         "count": 8,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -13507,7 +13507,7 @@ var addresses = [
         "address": "环城东路68号",
         "name": "综星大厦",
         "count": 5,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -13517,7 +13517,7 @@ var addresses = [
         "address": "环城东路58号",
         "name": "南上海人才大厦",
         "count": 8,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -13527,7 +13527,7 @@ var addresses = [
         "address": "环城路200号",
         "name": "徐行大厦",
         "count": 1,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -13537,7 +13537,7 @@ var addresses = [
         "address": "环城路2222号",
         "name": "嘉乐园商务大厦",
         "count": 9,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -13547,7 +13547,7 @@ var addresses = [
         "address": "环城路762弄5号楼",
         "name": "信业未来中心",
         "count": 6,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -13557,7 +13557,7 @@ var addresses = [
         "address": "环城路886弄",
         "name": "同济城市雅筑",
         "count": 39,
-        "style": 0
+        "style": 3
     },
     {
         "lnglat": [
@@ -13567,7 +13567,7 @@ var addresses = [
         "address": "环城西路2511号1栋",
         "name": "菱光大厦",
         "count": 9,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -13587,7 +13587,7 @@ var addresses = [
         "address": "环科路515号",
         "name": "绿地智创商务中心",
         "count": 38,
-        "style": 0
+        "style": 3
     },
     {
         "lnglat": [
@@ -13607,7 +13607,7 @@ var addresses = [
         "address": "环林东路270弄",
         "name": "樱桃苑",
         "count": 128,
-        "style": 0
+        "style": 9
     },
     {
         "lnglat": [
@@ -13617,7 +13617,7 @@ var addresses = [
         "address": "环科路999弄",
         "name": "浦东国际人才港",
         "count": 4,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -13627,7 +13627,7 @@ var addresses = [
         "address": "环林东路875弄",
         "name": "杉林新月三期",
         "count": 66,
-        "style": 0
+        "style": 6
     },
     {
         "lnglat": [
@@ -13637,7 +13637,7 @@ var addresses = [
         "address": "环林东路879弄",
         "name": "杉林新月一期",
         "count": 8,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -13647,7 +13647,7 @@ var addresses = [
         "address": "环龙路263弄",
         "name": "怡东花园",
         "count": 49,
-        "style": 0
+        "style": 4
     },
     {
         "lnglat": [
@@ -13657,7 +13657,7 @@ var addresses = [
         "address": "环庆南路239",
         "name": "庆利苑",
         "count": 78,
-        "style": 0
+        "style": 7
     },
     {
         "lnglat": [
@@ -13677,7 +13677,7 @@ var addresses = [
         "address": "环镇南路200弄",
         "name": "万源新城四期",
         "count": 38,
-        "style": 0
+        "style": 3
     },
     {
         "lnglat": [
@@ -13687,7 +13687,7 @@ var addresses = [
         "address": "环镇南路88弄58号",
         "name": "苹果园",
         "count": 6,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -13697,7 +13697,7 @@ var addresses = [
         "address": "环镇南路858-888号",
         "name": "中环天地",
         "count": 10,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -13707,7 +13707,7 @@ var addresses = [
         "address": "黄陂北路227号",
         "name": "中区广场",
         "count": 1,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -13717,7 +13717,7 @@ var addresses = [
         "address": "黄陂南路688号",
         "name": "上海轻玻外贸大楼",
         "count": 2,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -13727,7 +13727,7 @@ var addresses = [
         "address": "黄陂南路700号",
         "name": "卓维700西区",
         "count": 6,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -13737,7 +13737,7 @@ var addresses = [
         "address": "黄河路21号",
         "name": "鸿祥大厦",
         "count": 2,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -13747,7 +13747,7 @@ var addresses = [
         "address": "黄桦路247号",
         "name": "俊领国际_黄桦路247号",
         "count": 3,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -13757,7 +13757,7 @@ var addresses = [
         "address": "黄河路288号",
         "name": "福海公寓",
         "count": 5,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -13767,7 +13767,7 @@ var addresses = [
         "address": "黄桦路369弄",
         "name": "嘉富丽苑",
         "count": 51,
-        "style": 0
+        "style": 5
     },
     {
         "lnglat": [
@@ -13777,7 +13777,7 @@ var addresses = [
         "address": "黄家撅路92号",
         "name": "海文商务楼黄家厥路",
         "count": 1,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -13787,7 +13787,7 @@ var addresses = [
         "address": "黄家阙路65-69号",
         "name": "惠德大厦",
         "count": 3,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -13797,7 +13797,7 @@ var addresses = [
         "address": "黄家路18号",
         "name": "南门大厦",
         "count": 2,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -13807,7 +13807,7 @@ var addresses = [
         "address": "黄家阙路99号",
         "name": "惠德公寓",
         "count": 5,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -13817,7 +13817,7 @@ var addresses = [
         "address": "黄家路88弄",
         "name": "浩城华苑",
         "count": 3,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -13827,7 +13827,7 @@ var addresses = [
         "address": "黄金城道258号",
         "name": "古北嘉年华庭",
         "count": 38,
-        "style": 0
+        "style": 3
     },
     {
         "lnglat": [
@@ -13847,7 +13847,7 @@ var addresses = [
         "address": "黄金城道555弄",
         "name": "华丽家族",
         "count": 56,
-        "style": 0
+        "style": 5
     },
     {
         "lnglat": [
@@ -13857,7 +13857,7 @@ var addresses = [
         "address": "黄金城道688弄9号",
         "name": "御翠豪庭",
         "count": 33,
-        "style": 0
+        "style": 3
     },
     {
         "lnglat": [
@@ -13867,7 +13867,7 @@ var addresses = [
         "address": "黄金城道777号",
         "name": "黄金豪园",
         "count": 5,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -13877,7 +13877,7 @@ var addresses = [
         "address": "黄浦路53号",
         "name": "海湾大厦",
         "count": 8,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -13887,7 +13887,7 @@ var addresses = [
         "address": "黄山路77 99 131号",
         "name": "黄山坊",
         "count": 6,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -13897,7 +13897,7 @@ var addresses = [
         "address": "黄兴路156号",
         "name": "五星大厦",
         "count": 1,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -13907,7 +13907,7 @@ var addresses = [
         "address": "黄石路80弄",
         "name": "龙龙家园",
         "count": 6,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -13917,7 +13917,7 @@ var addresses = [
         "address": "黄兴路1599弄",
         "name": "新纪元国际广场",
         "count": 10,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -13927,7 +13927,7 @@ var addresses = [
         "address": "黄兴路1675号",
         "name": "五角场科技大楼",
         "count": 1,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -13937,7 +13937,7 @@ var addresses = [
         "address": "黄兴路1725号",
         "name": "怡富商务广场",
         "count": 8,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -13947,7 +13947,7 @@ var addresses = [
         "address": "黄兴路1778号1号楼",
         "name": "东方蓝海国际广场公寓",
         "count": 6,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -13957,7 +13957,7 @@ var addresses = [
         "address": "黄兴路1728号2号楼",
         "name": "东方蓝海国际广场写字楼",
         "count": 10,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -13977,7 +13977,7 @@ var addresses = [
         "address": "黄兴路1号",
         "name": "中通大厦",
         "count": 9,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -13987,7 +13987,7 @@ var addresses = [
         "address": "黄兴路1999弄",
         "name": "皇朝新城",
         "count": 9,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -13997,7 +13997,7 @@ var addresses = [
         "address": "黄兴路2005弄2号",
         "name": "杨浦科技大厦",
         "count": 2,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -14007,7 +14007,7 @@ var addresses = [
         "address": "黄兴路2218号",
         "name": "合生国际中心",
         "count": 48,
-        "style": 0
+        "style": 4
     },
     {
         "lnglat": [
@@ -14017,7 +14017,7 @@ var addresses = [
         "address": "黄兴路2077号",
         "name": "上海蓝天大厦",
         "count": 3,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -14027,7 +14027,7 @@ var addresses = [
         "address": "辉河路100号",
         "name": "复旦科技园_创业基地",
         "count": 1,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -14057,7 +14057,7 @@ var addresses = [
         "address": "辉河路118号",
         "name": "辉华大楼",
         "count": 3,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -14067,7 +14067,7 @@ var addresses = [
         "address": "汇丰北路1515弄",
         "name": "德国科创中心",
         "count": 21,
-        "style": 1
+        "style": 2
     },
     {
         "lnglat": [
@@ -14077,7 +14077,7 @@ var addresses = [
         "address": "汇川路99弄",
         "name": "新时空国际商务广场",
         "count": 30,
-        "style": 1
+        "style": 3
     },
     {
         "lnglat": [
@@ -14087,7 +14087,7 @@ var addresses = [
         "address": "汇丰西路1399号",
         "name": "汇丰名都",
         "count": 40,
-        "style": 0
+        "style": 4
     },
     {
         "lnglat": [
@@ -14107,7 +14107,7 @@ var addresses = [
         "address": "汇秋路16弄",
         "name": "浦江瑞和城陆街区(南区)",
         "count": 43,
-        "style": 0
+        "style": 4
     },
     {
         "lnglat": [
@@ -14117,7 +14117,7 @@ var addresses = [
         "address": "汇舒路54弄",
         "name": "浦江瑞和城柒街区",
         "count": 36,
-        "style": 0
+        "style": 3
     },
     {
         "lnglat": [
@@ -14127,7 +14127,7 @@ var addresses = [
         "address": "汇延路59弄",
         "name": "瑞和城",
         "count": 22,
-        "style": 1
+        "style": 2
     },
     {
         "lnglat": [
@@ -14137,7 +14137,7 @@ var addresses = [
         "address": "昭化路508号",
         "name": "新衡商务楼",
         "count": 4,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -14147,7 +14147,7 @@ var addresses = [
         "address": "汇源路518弄",
         "name": "首创旭辉城",
         "count": 80,
-        "style": 0
+        "style": 8
     },
     {
         "lnglat": [
@@ -14157,7 +14157,7 @@ var addresses = [
         "address": "会恒路200弄：会恒路666弄",
         "name": "中建锦绣名都",
         "count": 26,
-        "style": 1
+        "style": 2
     },
     {
         "lnglat": [
@@ -14167,7 +14167,7 @@ var addresses = [
         "address": "汇源路778弄",
         "name": "首创旭辉城2期",
         "count": 24,
-        "style": 1
+        "style": 2
     },
     {
         "lnglat": [
@@ -14177,7 +14177,7 @@ var addresses = [
         "address": "会文路50号",
         "name": "永会大厦",
         "count": 1,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -14187,7 +14187,7 @@ var addresses = [
         "address": "惠民路1018弄",
         "name": "尚发华苑",
         "count": 24,
-        "style": 1
+        "style": 2
     },
     {
         "lnglat": [
@@ -14197,7 +14197,7 @@ var addresses = [
         "address": "惠民路694号",
         "name": "华申大楼",
         "count": 2,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -14207,7 +14207,7 @@ var addresses = [
         "address": "惠南镇城南路918弄",
         "name": "人生港湾南欧城",
         "count": 38,
-        "style": 0
+        "style": 3
     },
     {
         "lnglat": [
@@ -14217,7 +14217,7 @@ var addresses = [
         "address": "霍山路340号",
         "name": "霍山大楼",
         "count": 2,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -14247,7 +14247,7 @@ var addresses = [
         "address": "吉林路60号",
         "name": "三九商务楼",
         "count": 3,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -14267,7 +14267,7 @@ var addresses = [
         "address": "吉祥路38号",
         "name": "吉祥苑",
         "count": 8,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -14277,7 +14277,7 @@ var addresses = [
         "address": "吉浦路395弄",
         "name": "吉浦路395弄小区",
         "count": 2,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -14287,7 +14287,7 @@ var addresses = [
         "address": "纪念路289弄",
         "name": "三湘世纪花城",
         "count": 23,
-        "style": 1
+        "style": 2
     },
     {
         "lnglat": [
@@ -14297,7 +14297,7 @@ var addresses = [
         "address": "纪念路335弄8号",
         "name": "凯阳新寓",
         "count": 3,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -14307,7 +14307,7 @@ var addresses = [
         "address": "纪念路486弄",
         "name": "荣振大厦",
         "count": 4,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -14317,7 +14317,7 @@ var addresses = [
         "address": "纪念路488弄",
         "name": "荣振馨苑",
         "count": 9,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -14337,7 +14337,7 @@ var addresses = [
         "address": "纪潭路75弄1-19号",
         "name": "虹桥茗雅苑",
         "count": 23,
-        "style": 1
+        "style": 2
     },
     {
         "lnglat": [
@@ -14347,7 +14347,7 @@ var addresses = [
         "address": "季景路259弄",
         "name": "永久城市花园",
         "count": 30,
-        "style": 1
+        "style": 3
     },
     {
         "lnglat": [
@@ -14357,7 +14357,7 @@ var addresses = [
         "address": "季景路333弄",
         "name": "阳明花园二期",
         "count": 22,
-        "style": 1
+        "style": 2
     },
     {
         "lnglat": [
@@ -14367,7 +14367,7 @@ var addresses = [
         "address": "季景路555弄",
         "name": "仁恒家园",
         "count": 40,
-        "style": 0
+        "style": 4
     },
     {
         "lnglat": [
@@ -14377,7 +14377,7 @@ var addresses = [
         "address": "加枫路26号",
         "name": "科技楼",
         "count": 7,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -14387,7 +14387,7 @@ var addresses = [
         "address": "加枫路28号",
         "name": "新康楼",
         "count": 2,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -14407,7 +14407,7 @@ var addresses = [
         "address": "加太路29号",
         "name": "柴火空间",
         "count": 3,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -14427,7 +14427,7 @@ var addresses = [
         "address": "嘉安公路200弄1-30号",
         "name": "绿洲丰怡园",
         "count": 48,
-        "style": 0
+        "style": 4
     },
     {
         "lnglat": [
@@ -14437,7 +14437,7 @@ var addresses = [
         "address": "佳木斯路353号",
         "name": "白玉兰环保广场",
         "count": 2,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -14447,7 +14447,7 @@ var addresses = [
         "address": "嘉川路225弄",
         "name": "嘉川公寓",
         "count": 2,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -14457,7 +14457,7 @@ var addresses = [
         "address": "嘉川路245号",
         "name": "华东理工科技园嘉川路园区",
         "count": 6,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -14467,7 +14467,7 @@ var addresses = [
         "address": "嘉罗公路336号",
         "name": "嘉定科创大厦",
         "count": 4,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -14477,7 +14477,7 @@ var addresses = [
         "address": "嘉戬公路301弄",
         "name": "保利梧桐语（上海）",
         "count": 31,
-        "style": 0
+        "style": 3
     },
     {
         "lnglat": [
@@ -14497,7 +14497,7 @@ var addresses = [
         "address": "嘉美路777号",
         "name": "瑞华文化科技创意园",
         "count": 2,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -14507,7 +14507,7 @@ var addresses = [
         "address": "嘉松北路6130弄176-183号、187-188、195-196号",
         "name": "上城名都南区",
         "count": 24,
-        "style": 1
+        "style": 2
     },
     {
         "lnglat": [
@@ -14517,7 +14517,7 @@ var addresses = [
         "address": "嘉松中路2335号",
         "name": "帆洋大厦",
         "count": 2,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -14527,7 +14527,7 @@ var addresses = [
         "address": "嘉松中路3199弄228号",
         "name": "梁杭众创空间",
         "count": 5,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -14537,7 +14537,7 @@ var addresses = [
         "address": "嘉松中路4528号",
         "name": "8090青年创业基地华新园",
         "count": 27,
-        "style": 1
+        "style": 2
     },
     {
         "lnglat": [
@@ -14547,7 +14547,7 @@ var addresses = [
         "address": "嘉松中路6688弄",
         "name": "龙湖滟澜山二期",
         "count": 83,
-        "style": 0
+        "style": 8
     },
     {
         "lnglat": [
@@ -14567,7 +14567,7 @@ var addresses = [
         "address": "嘉唐公路88弄",
         "name": "御江金都1期",
         "count": 6,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -14577,7 +14577,7 @@ var addresses = [
         "address": "嘉怡路279弄260~264号",
         "name": "#N/A",
         "count": 5,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -14587,7 +14587,7 @@ var addresses = [
         "address": "嘉怡路296号",
         "name": "雯婕商务楼",
         "count": 3,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -14597,7 +14597,7 @@ var addresses = [
         "address": "嘉涌路99号",
         "name": "MAX未来广场",
         "count": 4,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -14607,7 +14607,7 @@ var addresses = [
         "address": "嘉涌路99弄",
         "name": "Max未来",
         "count": 24,
-        "style": 1
+        "style": 2
     },
     {
         "lnglat": [
@@ -14617,7 +14617,7 @@ var addresses = [
         "address": "建德路1号",
         "name": "瑞建小区",
         "count": 2,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -14627,7 +14627,7 @@ var addresses = [
         "address": "建国西路285号",
         "name": "科投大厦",
         "count": 6,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -14637,7 +14637,7 @@ var addresses = [
         "address": "嘉园路361弄",
         "name": "金水丽苑",
         "count": 104,
-        "style": 0
+        "style": 9
     },
     {
         "lnglat": [
@@ -14647,7 +14647,7 @@ var addresses = [
         "address": "建国西路287弄",
         "name": "阳光四季公寓",
         "count": 1,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -14657,7 +14657,7 @@ var addresses = [
         "address": "建国西路91弄",
         "name": "瑞金花园",
         "count": 6,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -14667,7 +14667,7 @@ var addresses = [
         "address": "建国西路91弄5号",
         "name": "瑞金花园商务中心",
         "count": 3,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -14677,7 +14677,7 @@ var addresses = [
         "address": "建国新路28弄",
         "name": "建新公寓",
         "count": 4,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -14687,7 +14687,7 @@ var addresses = [
         "address": "建国新路77弄",
         "name": "老西门公馆",
         "count": 5,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -14697,7 +14697,7 @@ var addresses = [
         "address": "建国新路91号",
         "name": "南鼎建国大厦",
         "count": 4,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -14707,7 +14707,7 @@ var addresses = [
         "address": "建国中路115弄",
         "name": "思南公寓",
         "count": 4,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -14717,7 +14717,7 @@ var addresses = [
         "address": "建国中路115弄之1-4号",
         "name": "吉大公寓",
         "count": 4,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -14727,7 +14727,7 @@ var addresses = [
         "address": "建国中路1号",
         "name": "建国大厦",
         "count": 7,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -14737,7 +14737,7 @@ var addresses = [
         "address": "建国中路25号",
         "name": "8号桥建国园南区",
         "count": 4,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -14747,7 +14747,7 @@ var addresses = [
         "address": "建国中路8-10号",
         "name": "八号桥（8号桥建国园北区）",
         "count": 6,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -14757,7 +14757,7 @@ var addresses = [
         "address": "建国中路29号",
         "name": "国信商务大厦",
         "count": 8,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -14767,7 +14767,7 @@ var addresses = [
         "address": "建豪路91-99号",
         "name": "圣太科技园",
         "count": 6,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -14777,7 +14777,7 @@ var addresses = [
         "address": "建韵路399号",
         "name": "澄天伟业",
         "count": 4,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -14787,7 +14787,7 @@ var addresses = [
         "address": "江场二路99号",
         "name": "莱赛现代生活港",
         "count": 6,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -14807,7 +14807,7 @@ var addresses = [
         "address": "江场路1228弄6B",
         "name": "环亚科技大厦",
         "count": 9,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -14817,7 +14817,7 @@ var addresses = [
         "address": "江场路1313号",
         "name": "金谷中环大厦",
         "count": 6,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -14827,7 +14827,7 @@ var addresses = [
         "address": "江场三路258号",
         "name": "上海新市北工业园区一期",
         "count": 21,
-        "style": 1
+        "style": 2
     },
     {
         "lnglat": [
@@ -14837,7 +14837,7 @@ var addresses = [
         "address": "江场三路305号",
         "name": "上海新市北工业园区二期",
         "count": 32,
-        "style": 0
+        "style": 3
     },
     {
         "lnglat": [
@@ -14847,7 +14847,7 @@ var addresses = [
         "address": "江场西路1366弄",
         "name": "中星馨恒苑",
         "count": 66,
-        "style": 0
+        "style": 6
     },
     {
         "lnglat": [
@@ -14867,7 +14867,7 @@ var addresses = [
         "address": "江场西路299弄",
         "name": "中铁中环时代广场",
         "count": 34,
-        "style": 0
+        "style": 3
     },
     {
         "lnglat": [
@@ -14877,7 +14877,7 @@ var addresses = [
         "address": "江场西路299弄1号楼",
         "name": "海棠大厦",
         "count": 8,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -14887,7 +14887,7 @@ var addresses = [
         "address": "江场西路180号",
         "name": "和典创意园",
         "count": 5,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -14907,7 +14907,7 @@ var addresses = [
         "address": "江场一路28号",
         "name": "电信发展公司大楼",
         "count": 1,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -14917,7 +14917,7 @@ var addresses = [
         "address": "江场西路395号",
         "name": "江场西路395号商务楼",
         "count": 4,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -14927,7 +14927,7 @@ var addresses = [
         "address": "江川路1551号",
         "name": "美惠全商业广场",
         "count": 4,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -14937,7 +14937,7 @@ var addresses = [
         "address": "江川路291弄20号",
         "name": "上企创业园",
         "count": 2,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -14957,7 +14957,7 @@ var addresses = [
         "address": "江汉路751弄",
         "name": "滨浦新苑9村",
         "count": 30,
-        "style": 1
+        "style": 3
     },
     {
         "lnglat": [
@@ -14977,7 +14977,7 @@ var addresses = [
         "address": "江航路378弄",
         "name": "浦江丽都二期",
         "count": 38,
-        "style": 0
+        "style": 3
     },
     {
         "lnglat": [
@@ -14997,7 +14997,7 @@ var addresses = [
         "address": "江桦路199弄、200弄、399弄、400弄、600弄，江柳路200弄、400弄",
         "name": "华侨城一二期（新浦江城一期）",
         "count": 76,
-        "style": 0
+        "style": 7
     },
     {
         "lnglat": [
@@ -15007,7 +15007,7 @@ var addresses = [
         "address": "江凯路177号",
         "name": "鑫广科创园",
         "count": 10,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -15027,7 +15027,7 @@ var addresses = [
         "address": "江凯路199号2,3,4,6号楼",
         "name": "蕾特商务中心二期",
         "count": 4,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -15037,7 +15037,7 @@ var addresses = [
         "address": "江凯路98号",
         "name": "海宏科创园",
         "count": 30,
-        "style": 1
+        "style": 3
     },
     {
         "lnglat": [
@@ -15047,7 +15047,7 @@ var addresses = [
         "address": "江宁路1078号",
         "name": "玉佛城",
         "count": 6,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -15067,7 +15067,7 @@ var addresses = [
         "address": "江宁路1158号",
         "name": "友力国际大厦",
         "count": 9,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -15077,7 +15077,7 @@ var addresses = [
         "address": "江宁路1165号",
         "name": "圣天地商务大厦",
         "count": 6,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -15087,7 +15087,7 @@ var addresses = [
         "address": "江宁路1220弄",
         "name": "音乐广场",
         "count": 4,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -15097,7 +15097,7 @@ var addresses = [
         "address": "江宁路1306弄10、12号",
         "name": "燕兴大厦",
         "count": 6,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -15107,7 +15107,7 @@ var addresses = [
         "address": "江宁路1306弄17号",
         "name": "富丽花苑",
         "count": 4,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -15127,7 +15127,7 @@ var addresses = [
         "address": "江宁路1306弄7号",
         "name": "富丽大厦",
         "count": 8,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -15147,7 +15147,7 @@ var addresses = [
         "address": "江宁路188号",
         "name": "亚盛大厦",
         "count": 4,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -15157,7 +15157,7 @@ var addresses = [
         "address": "江宁路167号",
         "name": "新城大厦",
         "count": 2,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -15167,7 +15167,7 @@ var addresses = [
         "address": "江宁路212号",
         "name": "凯迪克大厦",
         "count": 7,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -15177,7 +15177,7 @@ var addresses = [
         "address": "江宁路356弄5号",
         "name": "静安紫苑",
         "count": 4,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -15187,7 +15187,7 @@ var addresses = [
         "address": "江宁路420号",
         "name": "和一大厦",
         "count": 4,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -15197,7 +15197,7 @@ var addresses = [
         "address": "江宁路445号",
         "name": "时美大厦",
         "count": 8,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -15207,7 +15207,7 @@ var addresses = [
         "address": "江宁路495号",
         "name": "博鸿大厦",
         "count": 52,
-        "style": 0
+        "style": 5
     },
     {
         "lnglat": [
@@ -15217,7 +15217,7 @@ var addresses = [
         "address": "江宁路599弄",
         "name": "静安新格公寓",
         "count": 3,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -15227,7 +15227,7 @@ var addresses = [
         "address": "江宁路565、575号",
         "name": "康宁雅庭",
         "count": 2,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -15237,7 +15237,7 @@ var addresses = [
         "address": "江宁路631号",
         "name": "新建大厦",
         "count": 1,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -15247,7 +15247,7 @@ var addresses = [
         "address": "江宁路826弄",
         "name": "天香公寓",
         "count": 8,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -15257,7 +15257,7 @@ var addresses = [
         "address": "江宁路777号",
         "name": "内外联公寓",
         "count": 2,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -15267,7 +15267,7 @@ var addresses = [
         "address": "江宁路838号",
         "name": "富容大厦",
         "count": 8,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -15277,7 +15277,7 @@ var addresses = [
         "address": "江浦路1178弄",
         "name": "阳明苑",
         "count": 5,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -15287,7 +15287,7 @@ var addresses = [
         "address": "江浦路1508号",
         "name": "东方星座酒店公寓",
         "count": 6,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -15297,7 +15297,7 @@ var addresses = [
         "address": "江浦路2089弄",
         "name": "恒联新天地",
         "count": 36,
-        "style": 0
+        "style": 3
     },
     {
         "lnglat": [
@@ -15307,7 +15307,7 @@ var addresses = [
         "address": "江浦路1500号",
         "name": "智慧树（智慧树创意产业园）",
         "count": 6,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -15317,7 +15317,7 @@ var addresses = [
         "address": "江浦路627号",
         "name": "E朋汇",
         "count": 6,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -15327,7 +15327,7 @@ var addresses = [
         "address": "江浦路666弄",
         "name": "星慧佳苑",
         "count": 8,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -15337,7 +15337,7 @@ var addresses = [
         "address": "江浦路821弄",
         "name": "平盛苑",
         "count": 1,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -15347,7 +15347,7 @@ var addresses = [
         "address": "江山路6899弄",
         "name": "保利玲玥公馆",
         "count": 29,
-        "style": 1
+        "style": 2
     },
     {
         "lnglat": [
@@ -15357,7 +15357,7 @@ var addresses = [
         "address": "江苏北路30号",
         "name": "荣兆园区",
         "count": 3,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -15367,7 +15367,7 @@ var addresses = [
         "address": "江苏北路125号",
         "name": "华联创意广场",
         "count": 2,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -15377,7 +15377,7 @@ var addresses = [
         "address": "江苏北路100号",
         "name": "银鑫大楼",
         "count": 4,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -15387,7 +15387,7 @@ var addresses = [
         "address": "江苏北路89号",
         "name": "新亚药业大厦",
         "count": 6,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -15397,7 +15397,7 @@ var addresses = [
         "address": "江苏路369号",
         "name": "兆丰世贸大厦",
         "count": 56,
-        "style": 0
+        "style": 5
     },
     {
         "lnglat": [
@@ -15407,7 +15407,7 @@ var addresses = [
         "address": "江苏路470号",
         "name": "香樟公寓",
         "count": 2,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -15417,7 +15417,7 @@ var addresses = [
         "address": "江苏路813号",
         "name": "华山花园上海",
         "count": 2,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -15427,7 +15427,7 @@ var addresses = [
         "address": "江苏路502弄",
         "name": "公信绿地大楼",
         "count": 3,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -15437,7 +15437,7 @@ var addresses = [
         "address": "江田东路185号",
         "name": "智汇科创园",
         "count": 9,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -15447,7 +15447,7 @@ var addresses = [
         "address": "江苏路876号",
         "name": "贵冠商务中心",
         "count": 1,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -15457,7 +15457,7 @@ var addresses = [
         "address": "江玮路450弄",
         "name": "闵浦新苑五村",
         "count": 44,
-        "style": 0
+        "style": 4
     },
     {
         "lnglat": [
@@ -15467,7 +15467,7 @@ var addresses = [
         "address": "江文路125弄",
         "name": "浦江宝邸三期",
         "count": 46,
-        "style": 0
+        "style": 4
     },
     {
         "lnglat": [
@@ -15477,7 +15477,7 @@ var addresses = [
         "address": "江文路688弄",
         "name": "闵浦新苑四村",
         "count": 38,
-        "style": 0
+        "style": 3
     },
     {
         "lnglat": [
@@ -15497,7 +15497,7 @@ var addresses = [
         "address": "江西中路181号",
         "name": "工投大楼",
         "count": 3,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -15507,7 +15507,7 @@ var addresses = [
         "address": "江学路558弄",
         "name": "湖畔天地",
         "count": 24,
-        "style": 1
+        "style": 2
     },
     {
         "lnglat": [
@@ -15517,7 +15517,7 @@ var addresses = [
         "address": "江杨南路880号",
         "name": "新杨湾科创园",
         "count": 2,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -15527,7 +15527,7 @@ var addresses = [
         "address": "江月路1059号",
         "name": "旭和环保产业园",
         "count": 4,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -15537,7 +15537,7 @@ var addresses = [
         "address": "江月路1188号",
         "name": "寰泰商务园",
         "count": 3,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -15547,7 +15547,7 @@ var addresses = [
         "address": "交暨路207弄5号",
         "name": "齐成创业园",
         "count": 5,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -15557,7 +15557,7 @@ var addresses = [
         "address": "交通路2107弄",
         "name": "工汇花苑_上海",
         "count": 4,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -15577,7 +15577,7 @@ var addresses = [
         "address": "交通路4711号",
         "name": "李子园大厦",
         "count": 7,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -15587,7 +15587,7 @@ var addresses = [
         "address": "交通西路108弄、188弄",
         "name": "平江盛世家园",
         "count": 7,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -15597,7 +15597,7 @@ var addresses = [
         "address": "交通西路129弄",
         "name": "智荟苑",
         "count": 33,
-        "style": 0
+        "style": 3
     },
     {
         "lnglat": [
@@ -15607,7 +15607,7 @@ var addresses = [
         "address": "胶东路266弄",
         "name": "金燕家苑",
         "count": 5,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -15617,7 +15617,7 @@ var addresses = [
         "address": "胶州路1077弄",
         "name": "宝华雅苑",
         "count": 10,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -15637,7 +15637,7 @@ var addresses = [
         "address": "交通西路48弄",
         "name": "嘉华苑（上海）",
         "count": 3,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -15647,7 +15647,7 @@ var addresses = [
         "address": "胶州路1216弄",
         "name": "绿洲城市花园三期",
         "count": 20,
-        "style": 1
+        "style": 2
     },
     {
         "lnglat": [
@@ -15667,7 +15667,7 @@ var addresses = [
         "address": "胶州路397号",
         "name": "阳光科技广场",
         "count": 3,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -15677,7 +15677,7 @@ var addresses = [
         "address": "胶州路343号",
         "name": "诺安1919",
         "count": 2,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -15687,7 +15687,7 @@ var addresses = [
         "address": "胶州路58号",
         "name": "胶州大楼",
         "count": 2,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -15697,7 +15697,7 @@ var addresses = [
         "address": "胶州路699号",
         "name": "恒森广场",
         "count": 3,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -15707,7 +15707,7 @@ var addresses = [
         "address": "胶州路941号",
         "name": "长久商务楼",
         "count": 7,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -15717,7 +15717,7 @@ var addresses = [
         "address": "胶州路959弄1号",
         "name": "长久大厦",
         "count": 3,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -15727,7 +15727,7 @@ var addresses = [
         "address": "金藏路51号",
         "name": "森晟世洋国际大厦",
         "count": 4,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -15737,7 +15737,7 @@ var addresses = [
         "address": "金碧路1980弄",
         "name": "金碧汇虹苑",
         "count": 48,
-        "style": 0
+        "style": 4
     },
     {
         "lnglat": [
@@ -15757,7 +15757,7 @@ var addresses = [
         "address": "金都路1128号",
         "name": "屹创中心(梅陇)创意园",
         "count": 9,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -15767,7 +15767,7 @@ var addresses = [
         "address": "金都路1165弄150号",
         "name": "慧峰创意园",
         "count": 4,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -15777,7 +15777,7 @@ var addresses = [
         "address": "金都路1199号",
         "name": "越界1199",
         "count": 6,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -15787,7 +15787,7 @@ var addresses = [
         "address": "金都路618号",
         "name": "大量科创园",
         "count": 3,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -15817,7 +15817,7 @@ var addresses = [
         "address": "金都西路999号",
         "name": "上海乐港电器园区",
         "count": 5,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -15827,7 +15827,7 @@ var addresses = [
         "address": "金港路211号",
         "name": "中新传媒大厦",
         "count": 46,
-        "style": 0
+        "style": 4
     },
     {
         "lnglat": [
@@ -15837,7 +15837,7 @@ var addresses = [
         "address": "金港路199弄",
         "name": "禹洲蓝爵",
         "count": 55,
-        "style": 0
+        "style": 5
     },
     {
         "lnglat": [
@@ -15847,7 +15847,7 @@ var addresses = [
         "address": "金港路299号",
         "name": "禹洲广场",
         "count": 2,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -15857,7 +15857,7 @@ var addresses = [
         "address": "金港路333号",
         "name": "禹洲国际大厦(一期)",
         "count": 21,
-        "style": 1
+        "style": 2
     },
     {
         "lnglat": [
@@ -15867,7 +15867,7 @@ var addresses = [
         "address": "金港路501号",
         "name": "北大资源科技园",
         "count": 5,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -15877,7 +15877,7 @@ var addresses = [
         "address": "金高路2216弄",
         "name": "金桥谷创意园区",
         "count": 5,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -15887,7 +15887,7 @@ var addresses = [
         "address": "金高路2330号",
         "name": "金桥盛汇商业广场",
         "count": 6,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -15897,7 +15897,7 @@ var addresses = [
         "address": "金工路133弄",
         "name": "金桥新家园",
         "count": 7,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -15907,7 +15907,7 @@ var addresses = [
         "address": "金高路2366号",
         "name": "金海商业广场",
         "count": 35,
-        "style": 0
+        "style": 3
     },
     {
         "lnglat": [
@@ -15927,7 +15927,7 @@ var addresses = [
         "address": "金海公路4808号",
         "name": "万景峰一期",
         "count": 25,
-        "style": 1
+        "style": 2
     },
     {
         "lnglat": [
@@ -15937,7 +15937,7 @@ var addresses = [
         "address": "金海公路6055号（临港南桥科技城）",
         "name": "漕河泾开发区南桥园区（临港南桥园区）",
         "count": 40,
-        "style": 0
+        "style": 4
     },
     {
         "lnglat": [
@@ -15947,7 +15947,7 @@ var addresses = [
         "address": "金海公路99号",
         "name": "上海佳源梦想广场",
         "count": 22,
-        "style": 1
+        "style": 2
     },
     {
         "lnglat": [
@@ -15957,7 +15957,7 @@ var addresses = [
         "address": "金海路1286弄",
         "name": "金海苑(上海)",
         "count": 68,
-        "style": 0
+        "style": 6
     },
     {
         "lnglat": [
@@ -15977,7 +15977,7 @@ var addresses = [
         "address": "金汇路460弄",
         "name": "韵动时代（金汇丽舍）",
         "count": 66,
-        "style": 0
+        "style": 6
     },
     {
         "lnglat": [
@@ -15987,7 +15987,7 @@ var addresses = [
         "address": "金海路2505号",
         "name": "曹路宝龙城市广场",
         "count": 2,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -15997,7 +15997,7 @@ var addresses = [
         "address": "金汇路465-1临",
         "name": "星发大厦",
         "count": 2,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -16007,7 +16007,7 @@ var addresses = [
         "address": "金汇南路60弄",
         "name": "锦绣江南一期",
         "count": 59,
-        "style": 0
+        "style": 5
     },
     {
         "lnglat": [
@@ -16017,7 +16017,7 @@ var addresses = [
         "address": "金汇路588弄",
         "name": "金汇华光城",
         "count": 97,
-        "style": 0
+        "style": 9
     },
     {
         "lnglat": [
@@ -16027,7 +16027,7 @@ var addresses = [
         "address": "金汇南路91弄",
         "name": "锦绣江南家园二期",
         "count": 30,
-        "style": 1
+        "style": 3
     },
     {
         "lnglat": [
@@ -16037,7 +16037,7 @@ var addresses = [
         "address": "金吉路778号",
         "name": "中国浦发囯机园区",
         "count": 8,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -16047,7 +16047,7 @@ var addresses = [
         "address": "金科路2889弄",
         "name": "长泰广场",
         "count": 10,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -16057,7 +16057,7 @@ var addresses = [
         "address": "金科路2966号",
         "name": "创智空间_张江信息园",
         "count": 3,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -16077,7 +16077,7 @@ var addresses = [
         "address": "金陵东路368号",
         "name": "金陵商厦（兴业证券）",
         "count": 2,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -16087,7 +16087,7 @@ var addresses = [
         "address": "金陵西路28号",
         "name": "金陵大厦",
         "count": 4,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -16097,7 +16097,7 @@ var addresses = [
         "address": "金陵东路569号",
         "name": "汇通大厦",
         "count": 3,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -16117,7 +16117,7 @@ var addresses = [
         "address": "金马路159号",
         "name": "春乐投资商务园",
         "count": 3,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -16127,7 +16127,7 @@ var addresses = [
         "address": "金马路59号",
         "name": "松港商务园_金马路",
         "count": 6,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -16137,7 +16137,7 @@ var addresses = [
         "address": "金平路328弄",
         "name": "丽都城假日景苑",
         "count": 56,
-        "style": 0
+        "style": 5
     },
     {
         "lnglat": [
@@ -16147,7 +16147,7 @@ var addresses = [
         "address": "金桥经济技术开发区宁桥路825号",
         "name": "9号楼公寓",
         "count": 2,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -16157,7 +16157,7 @@ var addresses = [
         "address": "金桥经济技术开发区浙桥路99号",
         "name": "悦樘公寓(碧云店)",
         "count": 2,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -16177,7 +16177,7 @@ var addresses = [
         "address": "金桥路1389号",
         "name": "上海金桥大厦",
         "count": 2,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -16197,7 +16197,7 @@ var addresses = [
         "address": "金桥路939号",
         "name": "宏南投资大厦",
         "count": 10,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -16207,7 +16207,7 @@ var addresses = [
         "address": "金桥路989弄",
         "name": "今达花园",
         "count": 33,
-        "style": 0
+        "style": 3
     },
     {
         "lnglat": [
@@ -16217,7 +16217,7 @@ var addresses = [
         "address": "金沙江路1060号",
         "name": "申汉商务小区",
         "count": 1,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -16227,7 +16227,7 @@ var addresses = [
         "address": "金沙江路1340弄",
         "name": "新曹杨工业园区",
         "count": 10,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -16237,7 +16237,7 @@ var addresses = [
         "address": "金沙江路1340弄172支弄A区",
         "name": "上海新曹杨高新技术工业园区一街坊（A区）",
         "count": 8,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -16247,7 +16247,7 @@ var addresses = [
         "address": "金沙江路1340弄57号",
         "name": "上海新曹杨高新技术工业园区一街坊三期(D区)",
         "count": 2,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -16257,7 +16257,7 @@ var addresses = [
         "address": "金沙江路1518弄",
         "name": "近铁城市广场",
         "count": 22,
-        "style": 1
+        "style": 2
     },
     {
         "lnglat": [
@@ -16277,7 +16277,7 @@ var addresses = [
         "address": "金沙江路1688弄",
         "name": "绿洲商业中心",
         "count": 146,
-        "style": 0
+        "style": 9
     },
     {
         "lnglat": [
@@ -16287,7 +16287,7 @@ var addresses = [
         "address": "金沙江路1989号",
         "name": "金沙商务广场",
         "count": 30,
-        "style": 1
+        "style": 3
     },
     {
         "lnglat": [
@@ -16297,7 +16297,7 @@ var addresses = [
         "address": "金沙江路1959号",
         "name": "金环商务花园",
         "count": 32,
-        "style": 0
+        "style": 3
     },
     {
         "lnglat": [
@@ -16307,7 +16307,7 @@ var addresses = [
         "address": "金沙江路2299弄",
         "name": "金沙雅苑未来街区ABC区",
         "count": 85,
-        "style": 0
+        "style": 8
     },
     {
         "lnglat": [
@@ -16317,7 +16317,7 @@ var addresses = [
         "address": "金沙江路2348弄",
         "name": "金沙雅苑一期",
         "count": 8,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -16337,7 +16337,7 @@ var addresses = [
         "address": "金沙江路65弄",
         "name": "金沙江小区",
         "count": 2,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -16347,7 +16347,7 @@ var addresses = [
         "address": "金沙江路788号",
         "name": "788PLAZA",
         "count": 10,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -16357,7 +16357,7 @@ var addresses = [
         "address": "金沙江路2145弄",
         "name": "普罗娜商务广场",
         "count": 8,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -16367,7 +16367,7 @@ var addresses = [
         "address": "金沙江西路1051号",
         "name": "孩子王(上海江桥万达店)",
         "count": 66,
-        "style": 0
+        "style": 6
     },
     {
         "lnglat": [
@@ -16377,7 +16377,7 @@ var addresses = [
         "address": "金汤路155弄",
         "name": "时代星园",
         "count": 26,
-        "style": 1
+        "style": 2
     },
     {
         "lnglat": [
@@ -16387,7 +16387,7 @@ var addresses = [
         "address": "金苏路200号",
         "name": "金桥万创中心",
         "count": 30,
-        "style": 1
+        "style": 3
     },
     {
         "lnglat": [
@@ -16397,7 +16397,7 @@ var addresses = [
         "address": "金穗路1501号",
         "name": "金穗园区",
         "count": 4,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -16407,7 +16407,7 @@ var addresses = [
         "address": "金皖路389号",
         "name": "金门广场",
         "count": 2,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -16417,7 +16417,7 @@ var addresses = [
         "address": "金通路1118号",
         "name": "同进理想城",
         "count": 28,
-        "style": 1
+        "style": 2
     },
     {
         "lnglat": [
@@ -16427,7 +16427,7 @@ var addresses = [
         "address": "金沙路75、77号",
         "name": "泰宸汇金商务楼",
         "count": 4,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -16437,7 +16437,7 @@ var addresses = [
         "address": "金皖路501号",
         "name": "金皖路501号园区",
         "count": 10,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -16447,7 +16447,7 @@ var addresses = [
         "address": "金湘路201弄15号",
         "name": "禹洲燕海国际大厦(三期)",
         "count": 45,
-        "style": 0
+        "style": 4
     },
     {
         "lnglat": [
@@ -16457,7 +16457,7 @@ var addresses = [
         "address": "金湘路268号",
         "name": "中新传媒广场",
         "count": 4,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -16467,7 +16467,7 @@ var addresses = [
         "address": "金湘路333号",
         "name": "爱立诚大厦",
         "count": 2,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -16477,7 +16477,7 @@ var addresses = [
         "address": "金湘路345号",
         "name": "同华大厦",
         "count": 3,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -16497,7 +16497,7 @@ var addresses = [
         "address": "金新路58号",
         "name": "银桥大厦",
         "count": 5,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -16507,7 +16507,7 @@ var addresses = [
         "address": "金耀路333弄",
         "name": "中房公寓",
         "count": 90,
-        "style": 0
+        "style": 9
     },
     {
         "lnglat": [
@@ -16517,7 +16517,7 @@ var addresses = [
         "address": "金耀路555弄",
         "name": "金沙鼎苑",
         "count": 23,
-        "style": 1
+        "style": 2
     },
     {
         "lnglat": [
@@ -16527,7 +16527,7 @@ var addresses = [
         "address": "金豫路50弄",
         "name": "禹洲国际大厦（二期）",
         "count": 55,
-        "style": 0
+        "style": 5
     },
     {
         "lnglat": [
@@ -16537,7 +16537,7 @@ var addresses = [
         "address": "金园五路208号",
         "name": "梁杭文化创意园",
         "count": 4,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -16547,7 +16547,7 @@ var addresses = [
         "address": "金园五路366号",
         "name": "梁杭科创商务园",
         "count": 5,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -16557,7 +16557,7 @@ var addresses = [
         "address": "金钟路340弄之1-85号",
         "name": "新泾六村",
         "count": 25,
-        "style": 1
+        "style": 2
     },
     {
         "lnglat": [
@@ -16567,7 +16567,7 @@ var addresses = [
         "address": "金钟路633号",
         "name": "晨讯科技大楼",
         "count": 31,
-        "style": 0
+        "style": 3
     },
     {
         "lnglat": [
@@ -16577,7 +16577,7 @@ var addresses = [
         "address": "金钟路658弄",
         "name": "东华大学国家大学科技园",
         "count": 4,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -16587,7 +16587,7 @@ var addresses = [
         "address": "金园一路1118弄",
         "name": "双佳翠庭",
         "count": 60,
-        "style": 0
+        "style": 6
     },
     {
         "lnglat": [
@@ -16597,7 +16597,7 @@ var addresses = [
         "address": "金园一路1359弄",
         "name": "缘圆宝邸",
         "count": 3,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -16607,7 +16607,7 @@ var addresses = [
         "address": "金钟路767号5号楼",
         "name": "魔方公寓金钟路店",
         "count": 2,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -16617,7 +16617,7 @@ var addresses = [
         "address": "金钟路999号D栋",
         "name": "虹桥国际科技广场",
         "count": 5,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -16627,7 +16627,7 @@ var addresses = [
         "address": "锦安东路289弄",
         "name": "东城家园",
         "count": 5,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -16647,7 +16647,7 @@ var addresses = [
         "address": "锦安东路88弄",
         "name": "锦绣满堂花园",
         "count": 50,
-        "style": 0
+        "style": 5
     },
     {
         "lnglat": [
@@ -16657,7 +16657,7 @@ var addresses = [
         "address": "锦和路289弄",
         "name": "锦绣天第",
         "count": 30,
-        "style": 1
+        "style": 3
     },
     {
         "lnglat": [
@@ -16677,7 +16677,7 @@ var addresses = [
         "address": "锦秋路1588弄",
         "name": "丰宝苑",
         "count": 74,
-        "style": 0
+        "style": 7
     },
     {
         "lnglat": [
@@ -16687,7 +16687,7 @@ var addresses = [
         "address": "锦绣东路1999号",
         "name": "麦腾智慧天地",
         "count": 5,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -16697,7 +16697,7 @@ var addresses = [
         "address": "锦昔路626号",
         "name": "佳才天地",
         "count": 4,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -16707,7 +16707,7 @@ var addresses = [
         "address": "锦西路185号",
         "name": "爱联大厦",
         "count": 4,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -16727,7 +16727,7 @@ var addresses = [
         "address": "锦绣路2580弄",
         "name": "浦东星河湾",
         "count": 25,
-        "style": 1
+        "style": 2
     },
     {
         "lnglat": [
@@ -16737,7 +16737,7 @@ var addresses = [
         "address": "锦绣路300弄",
         "name": "浦东虹桥花园",
         "count": 34,
-        "style": 0
+        "style": 3
     },
     {
         "lnglat": [
@@ -16747,7 +16747,7 @@ var addresses = [
         "address": "锦绣路3088弄",
         "name": "大华锦绣华城12街区",
         "count": 64,
-        "style": 0
+        "style": 6
     },
     {
         "lnglat": [
@@ -16757,7 +16757,7 @@ var addresses = [
         "address": "锦绣路3891号",
         "name": "中环锦绣商务",
         "count": 1,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -16777,7 +16777,7 @@ var addresses = [
         "address": "锦绣路4899弄55号",
         "name": "天成科创园",
         "count": 2,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -16787,7 +16787,7 @@ var addresses = [
         "address": "锦绣路666弄",
         "name": "华丽家族花园",
         "count": 38,
-        "style": 0
+        "style": 3
     },
     {
         "lnglat": [
@@ -16797,7 +16797,7 @@ var addresses = [
         "address": "锦绣路800弄",
         "name": "天安花园",
         "count": 78,
-        "style": 0
+        "style": 7
     },
     {
         "lnglat": [
@@ -16807,7 +16807,7 @@ var addresses = [
         "address": "锦延路329号",
         "name": "锦绣坊",
         "count": 8,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -16827,7 +16827,7 @@ var addresses = [
         "address": "晋城路663弄",
         "name": "阳城世家",
         "count": 32,
-        "style": 0
+        "style": 3
     },
     {
         "lnglat": [
@@ -16837,7 +16837,7 @@ var addresses = [
         "address": "晋元路228弄",
         "name": "华祺苑",
         "count": 45,
-        "style": 0
+        "style": 4
     },
     {
         "lnglat": [
@@ -16847,7 +16847,7 @@ var addresses = [
         "address": "京江路299号",
         "name": "宝丰大厦南楼",
         "count": 3,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -16867,7 +16867,7 @@ var addresses = [
         "address": "荆州路334弄108号",
         "name": "荣广商务中心",
         "count": 3,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -16877,7 +16877,7 @@ var addresses = [
         "address": "泾惠路91弄",
         "name": "洛川公寓_上海",
         "count": 4,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -16887,7 +16887,7 @@ var addresses = [
         "address": "泾茉路118弄",
         "name": "招商虹桥公馆",
         "count": 8,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -16897,7 +16897,7 @@ var addresses = [
         "address": "景谷路176弄1号",
         "name": "景谷大厦",
         "count": 3,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -16907,7 +16907,7 @@ var addresses = [
         "address": "景联路257号",
         "name": "绿亮科创园(景联路)",
         "count": 9,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -16917,7 +16917,7 @@ var addresses = [
         "address": "靖宇东路55弄",
         "name": "靖宇家园",
         "count": 40,
-        "style": 0
+        "style": 4
     },
     {
         "lnglat": [
@@ -16927,7 +16927,7 @@ var addresses = [
         "address": "景联路439号",
         "name": "上海电子物联产业园",
         "count": 4,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -16937,7 +16937,7 @@ var addresses = [
         "address": "靖宇南路99弄",
         "name": "九州花苑",
         "count": 4,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -16947,7 +16947,7 @@ var addresses = [
         "address": "靖宇南路118弄",
         "name": "金宇名邸",
         "count": 22,
-        "style": 1
+        "style": 2
     },
     {
         "lnglat": [
@@ -16957,7 +16957,7 @@ var addresses = [
         "address": "靖远路1288弄",
         "name": "嘉旺苑",
         "count": 24,
-        "style": 1
+        "style": 2
     },
     {
         "lnglat": [
@@ -16967,7 +16967,7 @@ var addresses = [
         "address": "九杜路349号",
         "name": "立同商务大厦",
         "count": 3,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -16977,7 +16977,7 @@ var addresses = [
         "address": "九杜路477号",
         "name": "九杜生活广场",
         "count": 3,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -16987,7 +16987,7 @@ var addresses = [
         "address": "九杜路505弄",
         "name": "摩卡小城",
         "count": 53,
-        "style": 0
+        "style": 5
     },
     {
         "lnglat": [
@@ -16997,7 +16997,7 @@ var addresses = [
         "address": "九华路908弄",
         "name": "悦丰新苑",
         "count": 34,
-        "style": 0
+        "style": 3
     },
     {
         "lnglat": [
@@ -17007,7 +17007,7 @@ var addresses = [
         "address": "九江路333号",
         "name": "金融广场（上海）",
         "count": 7,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -17017,7 +17017,7 @@ var addresses = [
         "address": "九泾路262号",
         "name": "恒瑞中心",
         "count": 6,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -17027,7 +17027,7 @@ var addresses = [
         "address": "九泾路655号",
         "name": "上海嘉南红塔商务广场",
         "count": 61,
-        "style": 0
+        "style": 6
     },
     {
         "lnglat": [
@@ -17047,7 +17047,7 @@ var addresses = [
         "address": "九龙路575号",
         "name": "新亚小区",
         "count": 1,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -17067,7 +17067,7 @@ var addresses = [
         "address": "九亭大街851弄",
         "name": "富顿苑",
         "count": 10,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -17077,7 +17077,7 @@ var addresses = [
         "address": "九亭镇伴亭路488号",
         "name": "磊鑫大楼",
         "count": 1,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -17087,7 +17087,7 @@ var addresses = [
         "address": "九新公路10弄",
         "name": "亭园",
         "count": 8,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -17097,7 +17097,7 @@ var addresses = [
         "address": "九新公路338号",
         "name": "佳钢智慧园_九新公路",
         "count": 2,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -17117,7 +17117,7 @@ var addresses = [
         "address": "长宁路888弄9号",
         "name": "兆丰嘉园二期",
         "count": 4,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -17127,7 +17127,7 @@ var addresses = [
         "address": "九新公路76号",
         "name": "嘉和阳光大厦",
         "count": 2,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -17137,7 +17137,7 @@ var addresses = [
         "address": "九新公路800号",
         "name": "临港电姆产业园",
         "count": 32,
-        "style": 0
+        "style": 3
     },
     {
         "lnglat": [
@@ -17147,7 +17147,7 @@ var addresses = [
         "address": "九新公路90弄3号",
         "name": "九新商务大厦",
         "count": 2,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -17167,7 +17167,7 @@ var addresses = [
         "address": "久富路225号",
         "name": "玖福大厦",
         "count": 4,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -17177,7 +17177,7 @@ var addresses = [
         "address": "久业路89号",
         "name": "松港智造工坊",
         "count": 5,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -17187,7 +17187,7 @@ var addresses = [
         "address": "局门路153号",
         "name": "千羽创意园",
         "count": 2,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -17207,7 +17207,7 @@ var addresses = [
         "address": "局门路1号（徐家汇路）",
         "name": "中汇公寓上海",
         "count": 7,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -17217,7 +17217,7 @@ var addresses = [
         "address": "局门路295弄",
         "name": "江南世纪新苑",
         "count": 5,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -17227,7 +17227,7 @@ var addresses = [
         "address": "局门路427号",
         "name": "智造局二期",
         "count": 4,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -17237,7 +17237,7 @@ var addresses = [
         "address": "局门路599弄",
         "name": "东怡花园",
         "count": 2,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -17247,7 +17247,7 @@ var addresses = [
         "address": "局门路620号",
         "name": "重矿大厦(局门路)",
         "count": 4,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -17257,7 +17257,7 @@ var addresses = [
         "address": "菊泉街1280弄",
         "name": "馨佳园十二街坊",
         "count": 34,
-        "style": 0
+        "style": 3
     },
     {
         "lnglat": [
@@ -17287,7 +17287,7 @@ var addresses = [
         "address": "菊盛路468弄",
         "name": "宝翔苑",
         "count": 42,
-        "style": 0
+        "style": 4
     },
     {
         "lnglat": [
@@ -17297,7 +17297,7 @@ var addresses = [
         "address": "巨峰路1058号",
         "name": "乐坊（晨达广场）",
         "count": 8,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -17317,7 +17317,7 @@ var addresses = [
         "address": "巨鹿路137号",
         "name": "鑫兴大厦",
         "count": 2,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -17327,7 +17327,7 @@ var addresses = [
         "address": "巨鹿路417号",
         "name": "欣广大厦",
         "count": 3,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -17337,7 +17337,7 @@ var addresses = [
         "address": "巨鹿路149号",
         "name": "紫勋雍邸",
         "count": 28,
-        "style": 1
+        "style": 2
     },
     {
         "lnglat": [
@@ -17347,7 +17347,7 @@ var addresses = [
         "address": "巨野路22号",
         "name": "陆家嘴滨江公馆（申城公寓）",
         "count": 5,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -17367,7 +17367,7 @@ var addresses = [
         "address": "钜庭路99弄",
         "name": "香溢雅园",
         "count": 25,
-        "style": 1
+        "style": 2
     },
     {
         "lnglat": [
@@ -17377,7 +17377,7 @@ var addresses = [
         "address": "军工路1599号",
         "name": "上海环保科技园",
         "count": 5,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -17397,7 +17397,7 @@ var addresses = [
         "address": "卡园二路58号",
         "name": "银信创智园",
         "count": 9,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -17407,7 +17407,7 @@ var addresses = [
         "address": "凯旋路1010号A栋",
         "name": "上汽凯旋坊",
         "count": 3,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -17417,7 +17417,7 @@ var addresses = [
         "address": "凯旋路1205号",
         "name": "东风商务园区",
         "count": 3,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -17437,7 +17437,7 @@ var addresses = [
         "address": "凯旋路1415号",
         "name": "凯旋商务大厦（中心）",
         "count": 1,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -17447,7 +17447,7 @@ var addresses = [
         "address": "凯旋路3131号",
         "name": "明申中心大厦",
         "count": 5,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -17457,7 +17457,7 @@ var addresses = [
         "address": "凯旋路1669号",
         "name": "天星城",
         "count": 1,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -17467,7 +17467,7 @@ var addresses = [
         "address": "凯旋路3188弄",
         "name": "凯旋豪庭",
         "count": 6,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -17477,7 +17477,7 @@ var addresses = [
         "address": "凯旋路3500弄",
         "name": "华苑大厦",
         "count": 4,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -17487,7 +17487,7 @@ var addresses = [
         "address": "康达路508弄",
         "name": "昱龙家园",
         "count": 21,
-        "style": 1
+        "style": 2
     },
     {
         "lnglat": [
@@ -17497,7 +17497,7 @@ var addresses = [
         "address": "康定路1033号5A",
         "name": "同济佳苑",
         "count": 7,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -17507,7 +17507,7 @@ var addresses = [
         "address": "康定路1038弄",
         "name": "静安艺阁",
         "count": 9,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -17517,7 +17517,7 @@ var addresses = [
         "address": "凯旋路369号",
         "name": "龙之梦雅仕大厦",
         "count": 38,
-        "style": 0
+        "style": 3
     },
     {
         "lnglat": [
@@ -17527,7 +17527,7 @@ var addresses = [
         "address": "康定路1588弄",
         "name": "三鑫花苑",
         "count": 27,
-        "style": 1
+        "style": 2
     },
     {
         "lnglat": [
@@ -17547,7 +17547,7 @@ var addresses = [
         "address": "康定路358号",
         "name": "越界陕康里",
         "count": 1,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -17557,7 +17557,7 @@ var addresses = [
         "address": "康定路1588弄(1590弄)",
         "name": "三鑫花园(三鑫花苑商务中心)",
         "count": 1,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -17567,7 +17567,7 @@ var addresses = [
         "address": "康涵路58弄",
         "name": "世茂云图",
         "count": 28,
-        "style": 1
+        "style": 2
     },
     {
         "lnglat": [
@@ -17577,7 +17577,7 @@ var addresses = [
         "address": "康花路499号",
         "name": "中天科技商务园(东园)",
         "count": 1,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -17587,7 +17587,7 @@ var addresses = [
         "address": "康健路2号",
         "name": "徐汇南天中心",
         "count": 1,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -17607,7 +17607,7 @@ var addresses = [
         "address": "康桥东路1088号",
         "name": "松港1088创意园",
         "count": 7,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -17617,7 +17617,7 @@ var addresses = [
         "address": "康桥东路518号",
         "name": "绿太阳园区",
         "count": 3,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -17627,7 +17627,7 @@ var addresses = [
         "address": "康桥东路1159弄105号",
         "name": "松港产业园_康桥东路",
         "count": 2,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -17637,7 +17637,7 @@ var addresses = [
         "address": "康桥路1001弄",
         "name": "阳光城愉景公馆",
         "count": 4,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -17647,7 +17647,7 @@ var addresses = [
         "address": "康桥路1029弄",
         "name": "建华铂中环",
         "count": 42,
-        "style": 0
+        "style": 4
     },
     {
         "lnglat": [
@@ -17657,7 +17657,7 @@ var addresses = [
         "address": "康桥路1789号",
         "name": "丰动力康桥中心",
         "count": 3,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -17667,7 +17667,7 @@ var addresses = [
         "address": "康杉路108弄3号",
         "name": "沃众创业园",
         "count": 4,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -17677,7 +17677,7 @@ var addresses = [
         "address": "康桥路787号",
         "name": "中天科技商务园",
         "count": 2,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -17697,7 +17697,7 @@ var addresses = [
         "address": "康沈公路3001弄",
         "name": "桃园新城汇枫公寓",
         "count": 30,
-        "style": 1
+        "style": 3
     },
     {
         "lnglat": [
@@ -17707,7 +17707,7 @@ var addresses = [
         "address": "康沈路2039号",
         "name": "荻达公寓",
         "count": 2,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -17717,7 +17717,7 @@ var addresses = [
         "address": "康沈路726弄",
         "name": "周康五村",
         "count": 9,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -17727,7 +17727,7 @@ var addresses = [
         "address": "康沈路686弄",
         "name": "中邦城市园",
         "count": 145,
-        "style": 0
+        "style": 9
     },
     {
         "lnglat": [
@@ -17737,7 +17737,7 @@ var addresses = [
         "address": "康新公路2333号",
         "name": "天慈生物医药生产基地（天慈国际产业园）",
         "count": 7,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -17747,7 +17747,7 @@ var addresses = [
         "address": "康士路1弄",
         "name": "瑞景商务公寓",
         "count": 5,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -17757,7 +17757,7 @@ var addresses = [
         "address": "康文路330弄",
         "name": "共康雅苑三期",
         "count": 35,
-        "style": 0
+        "style": 3
     },
     {
         "lnglat": [
@@ -17767,7 +17767,7 @@ var addresses = [
         "address": "科福路368号",
         "name": "华强科技园",
         "count": 2,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -17777,7 +17777,7 @@ var addresses = [
         "address": "科农路99弄",
         "name": "张江国际人才公寓一期（张江纳仕国际社区）",
         "count": 39,
-        "style": 0
+        "style": 3
     },
     {
         "lnglat": [
@@ -17787,7 +17787,7 @@ var addresses = [
         "address": "科福路825号",
         "name": "梁杭产业园(嘉定)",
         "count": 1,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -17797,7 +17797,7 @@ var addresses = [
         "address": "科苑路99号",
         "name": "魔方公寓张江店",
         "count": 2,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -17807,7 +17807,7 @@ var addresses = [
         "address": "控江路128弄",
         "name": "韵都城（上海）",
         "count": 45,
-        "style": 0
+        "style": 4
     },
     {
         "lnglat": [
@@ -17817,7 +17817,7 @@ var addresses = [
         "address": "控江路1500弄",
         "name": "新凤城",
         "count": 36,
-        "style": 0
+        "style": 3
     },
     {
         "lnglat": [
@@ -17827,7 +17827,7 @@ var addresses = [
         "address": "控江路1688号",
         "name": "卫百辛大厦",
         "count": 4,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -17837,7 +17837,7 @@ var addresses = [
         "address": "控江路1777号",
         "name": "君欣时代广场",
         "count": 25,
-        "style": 1
+        "style": 2
     },
     {
         "lnglat": [
@@ -17847,7 +17847,7 @@ var addresses = [
         "address": "控江路2063号",
         "name": "五环大厦西座",
         "count": 9,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -17857,7 +17857,7 @@ var addresses = [
         "address": "控江路2075号",
         "name": "贵人大厦（上海）",
         "count": 4,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -17867,7 +17867,7 @@ var addresses = [
         "address": "控江路2200号",
         "name": "和平花苑",
         "count": 10,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -17877,7 +17877,7 @@ var addresses = [
         "address": "控江路1690号",
         "name": "凤凰大厦(上海)",
         "count": 1,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -17897,7 +17897,7 @@ var addresses = [
         "address": "控江路669弄",
         "name": "公园首府(上海)",
         "count": 9,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -17907,7 +17907,7 @@ var addresses = [
         "address": "控江路980弄",
         "name": "杨浦公寓",
         "count": 20,
-        "style": 1
+        "style": 2
     },
     {
         "lnglat": [
@@ -17917,7 +17917,7 @@ var addresses = [
         "address": "控江路980弄5号楼",
         "name": "杨浦公寓商务楼",
         "count": 3,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -17927,7 +17927,7 @@ var addresses = [
         "address": "奎照路790弄",
         "name": "奎照路790弄",
         "count": 6,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -17937,7 +17937,7 @@ var addresses = [
         "address": "奎照路890号",
         "name": "奎江公寓",
         "count": 2,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -17947,7 +17947,7 @@ var addresses = [
         "address": "昆港公路1088号",
         "name": "光塑科技园",
         "count": 7,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -17957,7 +17957,7 @@ var addresses = [
         "address": "昆明路518号A座",
         "name": "北美广场",
         "count": 7,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -17967,7 +17967,7 @@ var addresses = [
         "address": "昆明路640号",
         "name": "岚亭园",
         "count": 4,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -17987,7 +17987,7 @@ var addresses = [
         "address": "莱阳路2328弄",
         "name": "高弘家苑",
         "count": 21,
-        "style": 1
+        "style": 2
     },
     {
         "lnglat": [
@@ -18017,7 +18017,7 @@ var addresses = [
         "address": "涞坊路1033弄1-145",
         "name": "馨亭家苑",
         "count": 41,
-        "style": 0
+        "style": 4
     },
     {
         "lnglat": [
@@ -18057,7 +18057,7 @@ var addresses = [
         "address": "涞寅路1200弄",
         "name": "上海源花城",
         "count": 39,
-        "style": 0
+        "style": 3
     },
     {
         "lnglat": [
@@ -18067,7 +18067,7 @@ var addresses = [
         "address": "涞寅路1200弄2号",
         "name": "上海源花城物业楼",
         "count": 1,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -18077,7 +18077,7 @@ var addresses = [
         "address": "涞寅路658弄",
         "name": "绿庭尚城",
         "count": 96,
-        "style": 0
+        "style": 9
     },
     {
         "lnglat": [
@@ -18087,7 +18087,7 @@ var addresses = [
         "address": "兰博路1455弄",
         "name": "新城花屿湾",
         "count": 25,
-        "style": 1
+        "style": 2
     },
     {
         "lnglat": [
@@ -18097,7 +18097,7 @@ var addresses = [
         "address": "兰博路1189弄",
         "name": "绿地风清苑",
         "count": 81,
-        "style": 0
+        "style": 8
     },
     {
         "lnglat": [
@@ -18107,7 +18107,7 @@ var addresses = [
         "address": "兰坪路301弄22支弄",
         "name": "鹤庆高层小区",
         "count": 6,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -18117,7 +18117,7 @@ var addresses = [
         "address": "兰谷路2133号",
         "name": "仁恒森兰运动中心",
         "count": 5,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -18147,7 +18147,7 @@ var addresses = [
         "address": "兰溪路145号",
         "name": "安天大厦",
         "count": 3,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -18167,7 +18167,7 @@ var addresses = [
         "address": "兰溪路182号",
         "name": "安居兰庭商务中心",
         "count": 2,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -18187,7 +18187,7 @@ var addresses = [
         "address": "兰州路1333弄",
         "name": "信通浦皓园",
         "count": 20,
-        "style": 1
+        "style": 2
     },
     {
         "lnglat": [
@@ -18207,7 +18207,7 @@ var addresses = [
         "address": "岚皋西路61弄10支弄",
         "name": "实地公寓",
         "count": 5,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -18227,7 +18227,7 @@ var addresses = [
         "address": "蓝村路55弄",
         "name": "仕嘉名苑（上海）",
         "count": 21,
-        "style": 1
+        "style": 2
     },
     {
         "lnglat": [
@@ -18247,7 +18247,7 @@ var addresses = [
         "address": "朗亭路288弄",
         "name": "朗庭上郡苑",
         "count": 38,
-        "style": 0
+        "style": 3
     },
     {
         "lnglat": [
@@ -18257,7 +18257,7 @@ var addresses = [
         "address": "蓝靛路1688弄",
         "name": "保利艾庐",
         "count": 44,
-        "style": 0
+        "style": 4
     },
     {
         "lnglat": [
@@ -18267,7 +18267,7 @@ var addresses = [
         "address": "崂山路689号",
         "name": "潍坊综合楼",
         "count": 3,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -18287,7 +18287,7 @@ var addresses = [
         "address": "老沪闵路3105号",
         "name": "东苑米蓝城",
         "count": 31,
-        "style": 0
+        "style": 3
     },
     {
         "lnglat": [
@@ -18297,7 +18297,7 @@ var addresses = [
         "address": "老沪闵路1482号",
         "name": "瑞星商务中心",
         "count": 2,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -18307,7 +18307,7 @@ var addresses = [
         "address": "老沪闵路666弄",
         "name": "幽澜苑",
         "count": 6,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -18317,7 +18317,7 @@ var addresses = [
         "address": "老沪闵路668号",
         "name": "幽澜苑办公楼",
         "count": 1,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -18327,7 +18327,7 @@ var addresses = [
         "address": "老沪闵路680弄",
         "name": "协合紫薇园",
         "count": 6,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -18337,7 +18337,7 @@ var addresses = [
         "address": "老沪闵路875弄1、2号",
         "name": "松枫花园",
         "count": 2,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -18347,7 +18347,7 @@ var addresses = [
         "address": "老芦公路857号895号",
         "name": "禹洲城市广场西区",
         "count": 4,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -18357,7 +18357,7 @@ var addresses = [
         "address": "老芦公路868号",
         "name": "金港世纪广场",
         "count": 3,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -18367,7 +18367,7 @@ var addresses = [
         "address": "乐都西路1455弄",
         "name": "华亭新家银杏苑",
         "count": 5,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -18377,7 +18377,7 @@ var addresses = [
         "address": "乐都西路1558弄",
         "name": "万科金色华亭",
         "count": 27,
-        "style": 1
+        "style": 2
     },
     {
         "lnglat": [
@@ -18387,7 +18387,7 @@ var addresses = [
         "address": "乐都西路959弄",
         "name": "乐都新界",
         "count": 49,
-        "style": 0
+        "style": 4
     },
     {
         "lnglat": [
@@ -18397,7 +18397,7 @@ var addresses = [
         "address": "乐都西路1636弄",
         "name": "荣乐雅筑",
         "count": 42,
-        "style": 0
+        "style": 4
     },
     {
         "lnglat": [
@@ -18407,7 +18407,7 @@ var addresses = [
         "address": "乐山路71号",
         "name": "独乐山公寓楼",
         "count": 2,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -18417,7 +18417,7 @@ var addresses = [
         "address": "乐山路33号",
         "name": "交大慧谷创业园三部",
         "count": 1,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -18427,7 +18427,7 @@ var addresses = [
         "address": "乐天路318弄",
         "name": "海棠馨苑北区",
         "count": 24,
-        "style": 1
+        "style": 2
     },
     {
         "lnglat": [
@@ -18447,7 +18447,7 @@ var addresses = [
         "address": "骊山路34弄12号",
         "name": "华经大厦",
         "count": 3,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -18467,7 +18467,7 @@ var addresses = [
         "address": "黎安路688号",
         "name": "强劲大厦",
         "count": 27,
-        "style": 1
+        "style": 2
     },
     {
         "lnglat": [
@@ -18477,7 +18477,7 @@ var addresses = [
         "address": "立跃路2795号",
         "name": "上海由谷产业园",
         "count": 5,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -18487,7 +18487,7 @@ var addresses = [
         "address": "立跃路519号",
         "name": "乐乎城市青年社区周浦店",
         "count": 2,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -18497,7 +18497,7 @@ var addresses = [
         "address": "丽园路448号",
         "name": "高城苑",
         "count": 4,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -18507,7 +18507,7 @@ var addresses = [
         "address": "丽水路58号",
         "name": "城隍珠宝",
         "count": 7,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -18517,7 +18517,7 @@ var addresses = [
         "address": "丽园路333弄",
         "name": "黄浦新苑（上海）",
         "count": 57,
-        "style": 0
+        "style": 5
     },
     {
         "lnglat": [
@@ -18527,7 +18527,7 @@ var addresses = [
         "address": "丽园路501号",
         "name": "丽园路501号二期",
         "count": 4,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -18537,7 +18537,7 @@ var addresses = [
         "address": "丽园路501弄",
         "name": "soho丽园",
         "count": 2,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -18547,7 +18547,7 @@ var addresses = [
         "address": "丽园路700号",
         "name": "经纬天地园",
         "count": 1,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -18557,7 +18557,7 @@ var addresses = [
         "address": "丽园路888弄",
         "name": "东都公寓",
         "count": 4,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -18567,7 +18567,7 @@ var addresses = [
         "address": "丽园路8号",
         "name": "丽南公寓",
         "count": 1,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -18597,7 +18597,7 @@ var addresses = [
         "address": "利津路1313弄",
         "name": "证大家园五期",
         "count": 42,
-        "style": 0
+        "style": 4
     },
     {
         "lnglat": [
@@ -18607,7 +18607,7 @@ var addresses = [
         "address": "溧阳路1155号",
         "name": "溧阳公馆",
         "count": 4,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -18617,7 +18617,7 @@ var addresses = [
         "address": "溧阳路735号",
         "name": "半岛湾时尚文化创意产业园",
         "count": 8,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -18637,7 +18637,7 @@ var addresses = [
         "address": "连富路155号",
         "name": "久仰科创园",
         "count": 1,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -18647,7 +18647,7 @@ var addresses = [
         "address": "莲花路1559号",
         "name": "旺琦商业广场(勇卫商务大厦)",
         "count": 2,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -18657,7 +18657,7 @@ var addresses = [
         "address": "溧阳路1088号",
         "name": "龙邸大厦",
         "count": 5,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -18667,7 +18667,7 @@ var addresses = [
         "address": "莲花路1733号",
         "name": "华纳商务中心",
         "count": 1,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -18677,7 +18677,7 @@ var addresses = [
         "address": "莲花路2080弄50号",
         "name": "金茂园",
         "count": 1,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -18687,7 +18687,7 @@ var addresses = [
         "address": "莲花路755弄",
         "name": "万源城E1",
         "count": 34,
-        "style": 0
+        "style": 3
     },
     {
         "lnglat": [
@@ -18697,7 +18697,7 @@ var addresses = [
         "address": "莲花南路1388号8号楼",
         "name": "北建华清商业广场商务楼",
         "count": 1,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -18707,7 +18707,7 @@ var addresses = [
         "address": "莲花南路1111弄",
         "name": "春申景城一期(春申景城湖滨晨韵)",
         "count": 41,
-        "style": 0
+        "style": 4
     },
     {
         "lnglat": [
@@ -18717,7 +18717,7 @@ var addresses = [
         "address": "莲花南路1500弄",
         "name": "麦多生活广场",
         "count": 45,
-        "style": 0
+        "style": 4
     },
     {
         "lnglat": [
@@ -18727,7 +18727,7 @@ var addresses = [
         "address": "莲花南路155弄",
         "name": "世纪苑",
         "count": 76,
-        "style": 0
+        "style": 7
     },
     {
         "lnglat": [
@@ -18737,7 +18737,7 @@ var addresses = [
         "address": "莲花南路2338号",
         "name": "沫谷城市空间",
         "count": 3,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -18747,7 +18747,7 @@ var addresses = [
         "address": "莲花南路2228号",
         "name": "开幕啦城市更新园区",
         "count": 6,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -18757,7 +18757,7 @@ var addresses = [
         "address": "莲花南路2899号",
         "name": "莲谷新兴科技产业园",
         "count": 8,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -18767,7 +18767,7 @@ var addresses = [
         "address": "莲花南路3999弄",
         "name": "万乐城小区",
         "count": 20,
-        "style": 1
+        "style": 2
     },
     {
         "lnglat": [
@@ -18777,7 +18777,7 @@ var addresses = [
         "address": "莲花南路588弄",
         "name": "未名园",
         "count": 83,
-        "style": 0
+        "style": 8
     },
     {
         "lnglat": [
@@ -18797,7 +18797,7 @@ var addresses = [
         "address": "莲花山路700弄",
         "name": "康桥水都第二街区",
         "count": 36,
-        "style": 0
+        "style": 3
     },
     {
         "lnglat": [
@@ -18807,7 +18807,7 @@ var addresses = [
         "address": "莲溪路1099弄",
         "name": "鹏裕苑",
         "count": 46,
-        "style": 0
+        "style": 4
     },
     {
         "lnglat": [
@@ -18817,7 +18817,7 @@ var addresses = [
         "address": "莲振路269号",
         "name": "贤诺国际青年社区",
         "count": 2,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -18827,7 +18827,7 @@ var addresses = [
         "address": "联航路1188号",
         "name": "浦江智谷商务园",
         "count": 20,
-        "style": 1
+        "style": 2
     },
     {
         "lnglat": [
@@ -18837,7 +18837,7 @@ var addresses = [
         "address": "联航路1369号",
         "name": "浦江人才公寓",
         "count": 8,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -18847,7 +18847,7 @@ var addresses = [
         "address": "联航路1505弄",
         "name": "复地浦江商务中心",
         "count": 24,
-        "style": 1
+        "style": 2
     },
     {
         "lnglat": [
@@ -18857,7 +18857,7 @@ var addresses = [
         "address": "联航路1588号",
         "name": "坤大科技楼",
         "count": 3,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -18867,7 +18867,7 @@ var addresses = [
         "address": "联航路1399弄",
         "name": "浦江智汇园",
         "count": 79,
-        "style": 0
+        "style": 7
     },
     {
         "lnglat": [
@@ -18887,7 +18887,7 @@ var addresses = [
         "address": "联航路1588号1幢",
         "name": "产业大楼",
         "count": 21,
-        "style": 1
+        "style": 2
     },
     {
         "lnglat": [
@@ -18897,7 +18897,7 @@ var addresses = [
         "address": "联民路100弄",
         "name": "正荣府",
         "count": 92,
-        "style": 0
+        "style": 9
     },
     {
         "lnglat": [
@@ -18907,7 +18907,7 @@ var addresses = [
         "address": "联明路389号",
         "name": "麦可将文创园区",
         "count": 5,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -18917,7 +18917,7 @@ var addresses = [
         "address": "联农路179号",
         "name": "福克斯连锁商务大厦（联农）",
         "count": 2,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -18927,7 +18927,7 @@ var addresses = [
         "address": "联民路88弄",
         "name": "上海捷克住宅小区",
         "count": 106,
-        "style": 0
+        "style": 9
     },
     {
         "lnglat": [
@@ -18947,7 +18947,7 @@ var addresses = [
         "address": "联泰路56号",
         "name": "鑫鑫花园",
         "count": 4,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -18957,7 +18957,7 @@ var addresses = [
         "address": "联杨路1078弄",
         "name": "保利叶上海",
         "count": 172,
-        "style": 0
+        "style": 9
     },
     {
         "lnglat": [
@@ -18977,7 +18977,7 @@ var addresses = [
         "address": "凉城路139弄",
         "name": "锦秀文华",
         "count": 31,
-        "style": 0
+        "style": 3
     },
     {
         "lnglat": [
@@ -18987,7 +18987,7 @@ var addresses = [
         "address": "凉城路1188弄",
         "name": "一品新筑苑",
         "count": 44,
-        "style": 0
+        "style": 4
     },
     {
         "lnglat": [
@@ -18997,7 +18997,7 @@ var addresses = [
         "address": "凉城路2289号",
         "name": "泽元文化广场",
         "count": 3,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -19007,7 +19007,7 @@ var addresses = [
         "address": "凉城路215弄",
         "name": "中虹新都苑",
         "count": 48,
-        "style": 0
+        "style": 4
     },
     {
         "lnglat": [
@@ -19017,7 +19017,7 @@ var addresses = [
         "address": "凉城路357弄",
         "name": "中虹花园(丽都苑)",
         "count": 50,
-        "style": 0
+        "style": 5
     },
     {
         "lnglat": [
@@ -19027,7 +19027,7 @@ var addresses = [
         "address": "凉城路68弄",
         "name": "凉城路68弄",
         "count": 9,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -19037,7 +19037,7 @@ var addresses = [
         "address": "辽宁路244号",
         "name": "1930鑫鑫创意园",
         "count": 2,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -19047,7 +19047,7 @@ var addresses = [
         "address": "亮秀路180弄",
         "name": "汇智湖畔家园",
         "count": 42,
-        "style": 0
+        "style": 4
     },
     {
         "lnglat": [
@@ -19057,7 +19057,7 @@ var addresses = [
         "address": "辽阳路508弄",
         "name": "文通雅苑",
         "count": 6,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -19077,7 +19077,7 @@ var addresses = [
         "address": "林悦路125弄",
         "name": "源浦秀苑",
         "count": 20,
-        "style": 1
+        "style": 2
     },
     {
         "lnglat": [
@@ -19107,7 +19107,7 @@ var addresses = [
         "address": "临虹路128弄6号",
         "name": "红蜻蜓品牌中心",
         "count": 4,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -19117,7 +19117,7 @@ var addresses = [
         "address": "临虹路289弄1号楼",
         "name": "虹桥金座1号楼",
         "count": 5,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -19127,7 +19127,7 @@ var addresses = [
         "address": "临汾路80弄",
         "name": "临汾名城三期",
         "count": 39,
-        "style": 0
+        "style": 3
     },
     {
         "lnglat": [
@@ -19137,7 +19137,7 @@ var addresses = [
         "address": "临平北路2号",
         "name": "金殿苑",
         "count": 1,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -19157,7 +19157,7 @@ var addresses = [
         "address": "临平北路68号",
         "name": "虹临大厦（虹临宝都）",
         "count": 3,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -19167,7 +19167,7 @@ var addresses = [
         "address": "临平北路88号",
         "name": "虹诚大厦",
         "count": 3,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -19197,7 +19197,7 @@ var addresses = [
         "address": "临青路555号",
         "name": "银河经典苑",
         "count": 3,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -19207,7 +19207,7 @@ var addresses = [
         "address": "临洮路1000弄",
         "name": "宁兴上尚湾",
         "count": 39,
-        "style": 0
+        "style": 3
     },
     {
         "lnglat": [
@@ -19217,7 +19217,7 @@ var addresses = [
         "address": "临夏路800弄",
         "name": "汇丰沁苑北区",
         "count": 20,
-        "style": 1
+        "style": 2
     },
     {
         "lnglat": [
@@ -19227,7 +19227,7 @@ var addresses = [
         "address": "临潼路188号",
         "name": "临潼188金融创新中心",
         "count": 3,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -19257,7 +19257,7 @@ var addresses = [
         "address": "临沂路115弄1-3号",
         "name": "上海汇景阁",
         "count": 6,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -19267,7 +19267,7 @@ var addresses = [
         "address": "临沂路128号",
         "name": "惠盛大厦",
         "count": 1,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -19287,7 +19287,7 @@ var addresses = [
         "address": "临沂路8弄",
         "name": "光鸿苑",
         "count": 25,
-        "style": 1
+        "style": 2
     },
     {
         "lnglat": [
@@ -19297,7 +19297,7 @@ var addresses = [
         "address": "灵山路708弄",
         "name": "申立苑",
         "count": 6,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -19307,7 +19307,7 @@ var addresses = [
         "address": "临泽路88弄/89弄/188弄/189弄，崇信路1518弄，云屏路1399弄，白银路1563，,165号",
         "name": "新城金郡（上海）",
         "count": 87,
-        "style": 0
+        "style": 8
     },
     {
         "lnglat": [
@@ -19337,7 +19337,7 @@ var addresses = [
         "address": "灵山路898号",
         "name": "融汇898创意园",
         "count": 4,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -19347,7 +19347,7 @@ var addresses = [
         "address": "灵石路1188号",
         "name": "华仁商务大厦",
         "count": 5,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -19357,7 +19357,7 @@ var addresses = [
         "address": "灵石路1669弄",
         "name": "东旺雍景苑",
         "count": 7,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -19367,7 +19367,7 @@ var addresses = [
         "address": "灵石路658号",
         "name": "大宁财智中心",
         "count": 4,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -19387,7 +19387,7 @@ var addresses = [
         "address": "灵石路695号",
         "name": "合金工厂商务园",
         "count": 24,
-        "style": 1
+        "style": 2
     },
     {
         "lnglat": [
@@ -19397,7 +19397,7 @@ var addresses = [
         "address": "灵石路697-3号",
         "name": "巨丰国际商务广场",
         "count": 8,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -19407,7 +19407,7 @@ var addresses = [
         "address": "灵石路697号",
         "name": "健康智谷",
         "count": 25,
-        "style": 1
+        "style": 2
     },
     {
         "lnglat": [
@@ -19417,7 +19417,7 @@ var addresses = [
         "address": "灵石路885号",
         "name": "新普荟商业广场",
         "count": 8,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -19427,7 +19427,7 @@ var addresses = [
         "address": "灵石路721号",
         "name": "乐平方园区8号楼",
         "count": 5,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -19437,7 +19437,7 @@ var addresses = [
         "address": "灵石路712号",
         "name": "大宁人才公寓",
         "count": 4,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -19447,7 +19447,7 @@ var addresses = [
         "address": "灵石路709号60幢",
         "name": "万灵谷花园",
         "count": 3,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -19457,7 +19457,7 @@ var addresses = [
         "address": "灵岩南路295号",
         "name": "三林世博创意园",
         "count": 6,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -19477,7 +19477,7 @@ var addresses = [
         "address": "灵岩南路801弄",
         "name": "凌云公寓",
         "count": 4,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -19497,7 +19497,7 @@ var addresses = [
         "address": "凌河路777弄",
         "name": "金桥一方雅苑",
         "count": 38,
-        "style": 0
+        "style": 3
     },
     {
         "lnglat": [
@@ -19507,7 +19507,7 @@ var addresses = [
         "address": "铃兰路508弄",
         "name": "保利铃兰公馆",
         "count": 97,
-        "style": 0
+        "style": 9
     },
     {
         "lnglat": [
@@ -19517,7 +19517,7 @@ var addresses = [
         "address": "凌云路梅陇四村95号",
         "name": "梅陇四村凌云公寓",
         "count": 3,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -19537,7 +19537,7 @@ var addresses = [
         "address": "零陵路231号",
         "name": "天迈商务楼",
         "count": 2,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -19557,7 +19557,7 @@ var addresses = [
         "address": "零陵路342号",
         "name": "汇成民聚商务楼",
         "count": 3,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -19577,7 +19577,7 @@ var addresses = [
         "address": "零陵路585号",
         "name": "爱邦大厦",
         "count": 2,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -19587,7 +19587,7 @@ var addresses = [
         "address": "零陵路629号",
         "name": "爱和大厦",
         "count": 1,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -19597,7 +19597,7 @@ var addresses = [
         "address": "零陵路631号",
         "name": "爱乐大厦",
         "count": 1,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -19607,7 +19607,7 @@ var addresses = [
         "address": "零陵路635号",
         "name": "爱博大厦",
         "count": 2,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -19627,7 +19627,7 @@ var addresses = [
         "address": "岭南路1115号",
         "name": "中铁商务楼 ",
         "count": 5,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -19637,7 +19637,7 @@ var addresses = [
         "address": "零陵路899号",
         "name": "飞洲国际广场",
         "count": 73,
-        "style": 0
+        "style": 7
     },
     {
         "lnglat": [
@@ -19657,7 +19657,7 @@ var addresses = [
         "address": "柳湖路299弄",
         "name": "御江金都2期",
         "count": 24,
-        "style": 1
+        "style": 2
     },
     {
         "lnglat": [
@@ -19667,7 +19667,7 @@ var addresses = [
         "address": "柳林路150号",
         "name": "建发柳林大厦",
         "count": 2,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -19687,7 +19687,7 @@ var addresses = [
         "address": "柳市路1弄",
         "name": "长峰馨园",
         "count": 6,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -19697,7 +19697,7 @@ var addresses = [
         "address": "岭南路1118弄",
         "name": "珺乐苑(上海)",
         "count": 7,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -19707,7 +19707,7 @@ var addresses = [
         "address": "柳营路127号",
         "name": "明光公寓",
         "count": 2,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -19717,7 +19717,7 @@ var addresses = [
         "address": "柳营路515弄",
         "name": "鑫安公寓",
         "count": 6,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -19727,7 +19727,7 @@ var addresses = [
         "address": "柳营路635弄",
         "name": "惠龙公寓",
         "count": 6,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -19737,7 +19737,7 @@ var addresses = [
         "address": "柳营路669弄",
         "name": "盛源家豪城",
         "count": 20,
-        "style": 1
+        "style": 2
     },
     {
         "lnglat": [
@@ -19747,7 +19747,7 @@ var addresses = [
         "address": "柳营路650弄",
         "name": "心族公寓",
         "count": 8,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -19757,7 +19757,7 @@ var addresses = [
         "address": "柳营路768弄",
         "name": "上海枫景苑",
         "count": 3,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -19767,7 +19767,7 @@ var addresses = [
         "address": "柳州路128弄",
         "name": "康馨家园",
         "count": 6,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -19797,7 +19797,7 @@ var addresses = [
         "address": "柳州路431号",
         "name": "锦和越界尚勤园",
         "count": 2,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -19807,7 +19807,7 @@ var addresses = [
         "address": "柳州路523弄",
         "name": "平成阁公寓",
         "count": 4,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -19817,7 +19817,7 @@ var addresses = [
         "address": "柳州路600弄",
         "name": "金丽广场(上海)",
         "count": 8,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -19837,7 +19837,7 @@ var addresses = [
         "address": "六合路98号",
         "name": "港陆黄浦中心",
         "count": 5,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -19847,7 +19847,7 @@ var addresses = [
         "address": "龙漕路38弄",
         "name": "龙漕家园",
         "count": 5,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -19857,7 +19857,7 @@ var addresses = [
         "address": "龙漕路51弄1号",
         "name": "金海大厦",
         "count": 3,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -19867,7 +19867,7 @@ var addresses = [
         "address": "龙漕路51弄3号",
         "name": "澳龙公寓",
         "count": 3,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -19877,7 +19877,7 @@ var addresses = [
         "address": "柳州路928号",
         "name": "上海百丽国际广场",
         "count": 9,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -19887,7 +19887,7 @@ var addresses = [
         "address": "龙漕路51弄4号",
         "name": "现代商务中心",
         "count": 7,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -19897,7 +19897,7 @@ var addresses = [
         "address": "龙漕路一弄一号",
         "name": "龙漕大楼(上海)",
         "count": 4,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -19917,7 +19917,7 @@ var addresses = [
         "address": "龙东大道3000号11号楼",
         "name": "凯龙科技大厦",
         "count": 6,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -19937,7 +19937,7 @@ var addresses = [
         "address": "龙华东路810号",
         "name": "黄浦绿地缤纷城",
         "count": 23,
-        "style": 1
+        "style": 2
     },
     {
         "lnglat": [
@@ -19947,7 +19947,7 @@ var addresses = [
         "address": "龙华东路888弄",
         "name": "南园大厦（上海）",
         "count": 1,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -19957,7 +19957,7 @@ var addresses = [
         "address": "龙华东路868号",
         "name": "绿地海外滩中心",
         "count": 42,
-        "style": 0
+        "style": 4
     },
     {
         "lnglat": [
@@ -19967,7 +19967,7 @@ var addresses = [
         "address": "龙华路2518弄",
         "name": "盛大花园",
         "count": 65,
-        "style": 0
+        "style": 6
     },
     {
         "lnglat": [
@@ -19977,7 +19977,7 @@ var addresses = [
         "address": "龙华路3208弄",
         "name": "龙兆苑",
         "count": 32,
-        "style": 0
+        "style": 3
     },
     {
         "lnglat": [
@@ -19987,7 +19987,7 @@ var addresses = [
         "address": "龙华西路398弄",
         "name": "强生花苑",
         "count": 24,
-        "style": 1
+        "style": 2
     },
     {
         "lnglat": [
@@ -19997,7 +19997,7 @@ var addresses = [
         "address": "龙华西路525号",
         "name": "明安馨苑",
         "count": 10,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -20007,7 +20007,7 @@ var addresses = [
         "address": "龙华西路535弄",
         "name": "明佳苑",
         "count": 8,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -20027,7 +20027,7 @@ var addresses = [
         "address": "龙华西路591弄",
         "name": "宜仕怡家",
         "count": 27,
-        "style": 1
+        "style": 2
     },
     {
         "lnglat": [
@@ -20047,7 +20047,7 @@ var addresses = [
         "address": "龙江路370弄",
         "name": "丹江商务楼",
         "count": 3,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -20057,7 +20057,7 @@ var addresses = [
         "address": "龙江路289弄",
         "name": "浦江风景苑",
         "count": 57,
-        "style": 0
+        "style": 5
     },
     {
         "lnglat": [
@@ -20077,7 +20077,7 @@ var addresses = [
         "address": "龙江路388弄",
         "name": "圣骊河滨苑二期",
         "count": 2,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -20097,7 +20097,7 @@ var addresses = [
         "address": "龙口路29弄7号",
         "name": "魔方公寓宁国路店",
         "count": 1,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -20117,7 +20117,7 @@ var addresses = [
         "address": "龙联路58弄",
         "name": "玉兰清苑",
         "count": 73,
-        "style": 0
+        "style": 7
     },
     {
         "lnglat": [
@@ -20127,7 +20127,7 @@ var addresses = [
         "address": "龙联路59弄",
         "name": "城投玉兰清苑二期",
         "count": 39,
-        "style": 0
+        "style": 3
     },
     {
         "lnglat": [
@@ -20137,7 +20137,7 @@ var addresses = [
         "address": "龙马路433号",
         "name": "合景天悦",
         "count": 34,
-        "style": 0
+        "style": 3
     },
     {
         "lnglat": [
@@ -20167,7 +20167,7 @@ var addresses = [
         "address": "龙茗路2822弄18-35号",
         "name": "九歌茗园",
         "count": 32,
-        "style": 0
+        "style": 3
     },
     {
         "lnglat": [
@@ -20177,7 +20177,7 @@ var addresses = [
         "address": "龙吴路1500号",
         "name": "交大海科大厦A楼",
         "count": 1,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -20187,7 +20187,7 @@ var addresses = [
         "address": "龙吴路1137弄17.18号",
         "name": "百龙小区",
         "count": 2,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -20197,7 +20197,7 @@ var addresses = [
         "address": "龙吴路1500号B幢",
         "name": "上海交大科技园海科园区B楼",
         "count": 1,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -20207,7 +20207,7 @@ var addresses = [
         "address": "龙水北路998弄",
         "name": "龙缘公寓",
         "count": 10,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -20217,7 +20217,7 @@ var addresses = [
         "address": "龙水南路336号",
         "name": "龙南佳苑",
         "count": 21,
-        "style": 1
+        "style": 2
     },
     {
         "lnglat": [
@@ -20227,7 +20227,7 @@ var addresses = [
         "address": "龙吴路3389号",
         "name": "滨江商务生活广场",
         "count": 5,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -20237,7 +20237,7 @@ var addresses = [
         "address": "龙吴路410弄87号",
         "name": "纺运商务中心大厦",
         "count": 2,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -20247,7 +20247,7 @@ var addresses = [
         "address": "龙吴路288弄",
         "name": "徐汇御景苑",
         "count": 20,
-        "style": 1
+        "style": 2
     },
     {
         "lnglat": [
@@ -20267,7 +20267,7 @@ var addresses = [
         "address": "龙吴路2715号",
         "name": "上海聚科生物园区_龙吴路",
         "count": 4,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -20277,7 +20277,7 @@ var addresses = [
         "address": "龙吴路51号",
         "name": "智慧线创意产业园",
         "count": 2,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -20287,7 +20287,7 @@ var addresses = [
         "address": "龙轩路1998弄15号",
         "name": "正荣御首府",
         "count": 74,
-        "style": 0
+        "style": 7
     },
     {
         "lnglat": [
@@ -20297,7 +20297,7 @@ var addresses = [
         "address": "龙吴路777号",
         "name": "L777新媒体产业园",
         "count": 2,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -20307,7 +20307,7 @@ var addresses = [
         "address": "龙吴路555号",
         "name": "绿邑翠苑",
         "count": 20,
-        "style": 1
+        "style": 2
     },
     {
         "lnglat": [
@@ -20317,7 +20317,7 @@ var addresses = [
         "address": "龙阳路1880弄",
         "name": "万邦都市花园",
         "count": 61,
-        "style": 0
+        "style": 6
     },
     {
         "lnglat": [
@@ -20327,7 +20327,7 @@ var addresses = [
         "address": "龙阳路1990号",
         "name": "龙阳商务大楼",
         "count": 1,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -20337,7 +20337,7 @@ var addresses = [
         "address": "隆昌路210号",
         "name": "博海商务楼",
         "count": 2,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -20347,7 +20347,7 @@ var addresses = [
         "address": "隆昌路590-612号",
         "name": "复旦软件园裙房",
         "count": 4,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -20357,7 +20357,7 @@ var addresses = [
         "address": "龙阳路2277弄",
         "name": "永达国际大厦",
         "count": 7,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -20367,7 +20367,7 @@ var addresses = [
         "address": "隆昌路588号",
         "name": "复旦软件园（杨浦）",
         "count": 3,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -20377,7 +20377,7 @@ var addresses = [
         "address": "娄山关路555号",
         "name": "长房国际广场",
         "count": 6,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -20387,7 +20387,7 @@ var addresses = [
         "address": "娄山关路83号",
         "name": "新虹桥中心大厦",
         "count": 9,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -20397,7 +20397,7 @@ var addresses = [
         "address": "娄山关路999弄",
         "name": "上海春天花园",
         "count": 59,
-        "style": 0
+        "style": 5
     },
     {
         "lnglat": [
@@ -20407,7 +20407,7 @@ var addresses = [
         "address": "娄山关路８５号",
         "name": "东方国际大厦A座",
         "count": 7,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -20417,7 +20417,7 @@ var addresses = [
         "address": "芦安路268弄",
         "name": "保利玲珑公馆",
         "count": 32,
-        "style": 0
+        "style": 3
     },
     {
         "lnglat": [
@@ -20427,7 +20427,7 @@ var addresses = [
         "address": "鲁班路209号",
         "name": "兴城商务楼",
         "count": 1,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -20437,7 +20437,7 @@ var addresses = [
         "address": "泸定路180号",
         "name": "嘉庭国际广场商场（东渡国际企业中心）",
         "count": 2,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -20457,7 +20457,7 @@ var addresses = [
         "address": "鲁班路388弄",
         "name": "海悦花园",
         "count": 26,
-        "style": 1
+        "style": 2
     },
     {
         "lnglat": [
@@ -20467,7 +20467,7 @@ var addresses = [
         "address": "鲁班路509弄",
         "name": "卢湾都市花园",
         "count": 34,
-        "style": 0
+        "style": 3
     },
     {
         "lnglat": [
@@ -20477,7 +20477,7 @@ var addresses = [
         "address": "鲁班路277号299号",
         "name": "银杏家园2",
         "count": 9,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -20487,7 +20487,7 @@ var addresses = [
         "address": "鲁班路558号",
         "name": "经纬国际大厦",
         "count": 5,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -20497,7 +20497,7 @@ var addresses = [
         "address": "鲁班路600号",
         "name": "江南造船大厦",
         "count": 7,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -20507,7 +20507,7 @@ var addresses = [
         "address": "鲁班路721弄",
         "name": "鲁班大楼",
         "count": 2,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -20527,7 +20527,7 @@ var addresses = [
         "address": "陆丰路9号",
         "name": "宝通大楼",
         "count": 2,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -20537,7 +20537,7 @@ var addresses = [
         "address": "陆家浜路1011号",
         "name": "新世纪大厦酒店式公寓",
         "count": 6,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -20547,7 +20547,7 @@ var addresses = [
         "address": "陆家浜路1060弄",
         "name": "东方苑大楼",
         "count": 1,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -20557,7 +20557,7 @@ var addresses = [
         "address": "陆家浜路1141号",
         "name": "六角大楼",
         "count": 5,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -20567,7 +20567,7 @@ var addresses = [
         "address": "陆家浜路1235弄",
         "name": "雅庐苑(上海)",
         "count": 8,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -20577,7 +20577,7 @@ var addresses = [
         "address": "陆家浜路1332号",
         "name": "南开大厦",
         "count": 2,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -20587,7 +20587,7 @@ var addresses = [
         "address": "陆家浜路1378号",
         "name": "万事利大厦",
         "count": 10,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -20597,7 +20597,7 @@ var addresses = [
         "address": "陆家浜路305弄",
         "name": "上海阳光里",
         "count": 32,
-        "style": 0
+        "style": 3
     },
     {
         "lnglat": [
@@ -20607,7 +20607,7 @@ var addresses = [
         "address": "陆家浜路285弄",
         "name": "三角大楼",
         "count": 1,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -20617,7 +20617,7 @@ var addresses = [
         "address": "陆家浜路413弄",
         "name": "金南新苑（群英荟）",
         "count": 2,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -20627,7 +20627,7 @@ var addresses = [
         "address": "陆家浜路428号",
         "name": "中福轻纺面料商城",
         "count": 3,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -20637,7 +20637,7 @@ var addresses = [
         "address": "陆家浜路456号",
         "name": "赛元大酒店",
         "count": 4,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -20647,7 +20647,7 @@ var addresses = [
         "address": "陆家浜路468弄28号",
         "name": "百汇公寓（上海）",
         "count": 2,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -20657,7 +20657,7 @@ var addresses = [
         "address": "陆家浜路521弄",
         "name": "阳光翠竹苑",
         "count": 5,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -20667,7 +20667,7 @@ var addresses = [
         "address": "陆家浜路688弄",
         "name": "金日世家",
         "count": 21,
-        "style": 1
+        "style": 2
     },
     {
         "lnglat": [
@@ -20677,7 +20677,7 @@ var addresses = [
         "address": "陆家浜路976号",
         "name": "富南大厦",
         "count": 6,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -20687,7 +20687,7 @@ var addresses = [
         "address": "陆家圈路168弄（陆家圈路269弄）",
         "name": "中海悦庭（中海悦府）",
         "count": 42,
-        "style": 0
+        "style": 4
     },
     {
         "lnglat": [
@@ -20697,7 +20697,7 @@ var addresses = [
         "address": "陆家嘴环路1233号",
         "name": "汇亚大厦",
         "count": 5,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -20707,7 +20707,7 @@ var addresses = [
         "address": "陆家嘴环路166号",
         "name": "未来资产大厦",
         "count": 4,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -20717,7 +20717,7 @@ var addresses = [
         "address": "陆家嘴东路161号",
         "name": "招商局大厦（上海）",
         "count": 34,
-        "style": 0
+        "style": 3
     },
     {
         "lnglat": [
@@ -20727,7 +20727,7 @@ var addresses = [
         "address": "陆家嘴环路958号",
         "name": "华能联合大厦",
         "count": 6,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -20737,7 +20737,7 @@ var addresses = [
         "address": "陆家嘴西路168号",
         "name": "正大广场",
         "count": 40,
-        "style": 0
+        "style": 4
     },
     {
         "lnglat": [
@@ -20767,7 +20767,7 @@ var addresses = [
         "address": "陆翔路3489弄",
         "name": "佳翔苑",
         "count": 40,
-        "style": 0
+        "style": 4
     },
     {
         "lnglat": [
@@ -20777,7 +20777,7 @@ var addresses = [
         "address": "罗芬路1288号",
         "name": "远洋美兰公寓",
         "count": 76,
-        "style": 0
+        "style": 7
     },
     {
         "lnglat": [
@@ -20787,7 +20787,7 @@ var addresses = [
         "address": "罗芬路888号",
         "name": "美兰湖国际会议中心",
         "count": 10,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -20797,7 +20797,7 @@ var addresses = [
         "address": "罗和路118弄",
         "name": "美罗家园慧苑",
         "count": 22,
-        "style": 1
+        "style": 2
     },
     {
         "lnglat": [
@@ -20807,7 +20807,7 @@ var addresses = [
         "address": "罗浮路89弄",
         "name": "金芙世纪公寓",
         "count": 6,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -20817,7 +20817,7 @@ var addresses = [
         "address": "罗和路935弄",
         "name": "金丰苑二区",
         "count": 32,
-        "style": 0
+        "style": 3
     },
     {
         "lnglat": [
@@ -20827,7 +20827,7 @@ var addresses = [
         "address": "罗和路855弄",
         "name": "金丰苑三区",
         "count": 36,
-        "style": 0
+        "style": 3
     },
     {
         "lnglat": [
@@ -20837,7 +20837,7 @@ var addresses = [
         "address": "罗锦路",
         "name": "游悉谷",
         "count": 4,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -20847,7 +20847,7 @@ var addresses = [
         "address": "罗锦路42号",
         "name": "西岸蓝海企业天地",
         "count": 1,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -20857,7 +20857,7 @@ var addresses = [
         "address": "罗锦路55号",
         "name": "锦宏产业园",
         "count": 7,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -20877,7 +20877,7 @@ var addresses = [
         "address": "罗宁路1846号",
         "name": "联东U谷宝山国际企业港",
         "count": 20,
-        "style": 1
+        "style": 2
     },
     {
         "lnglat": [
@@ -20887,7 +20887,7 @@ var addresses = [
         "address": "罗星南路115号",
         "name": "万祥金邸",
         "count": 59,
-        "style": 0
+        "style": 5
     },
     {
         "lnglat": [
@@ -20897,7 +20897,7 @@ var addresses = [
         "address": "罗秀路1399号；罗秀路1459弄；上中西路855弄",
         "name": "中梅苑",
         "count": 48,
-        "style": 0
+        "style": 4
     },
     {
         "lnglat": [
@@ -20907,7 +20907,7 @@ var addresses = [
         "address": "罗秀路1555弄1-23号",
         "name": "罗秀苑南区",
         "count": 7,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -20917,7 +20917,7 @@ var addresses = [
         "address": "罗秀路1955弄",
         "name": "嘉和花苑",
         "count": 115,
-        "style": 0
+        "style": 9
     },
     {
         "lnglat": [
@@ -20927,7 +20927,7 @@ var addresses = [
         "address": "罗秀路200弄",
         "name": "长桥八村",
         "count": 2,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -20957,7 +20957,7 @@ var addresses = [
         "address": "洛川东路360号",
         "name": "东方公寓",
         "count": 2,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -20967,7 +20967,7 @@ var addresses = [
         "address": "罗真路188弄1-21号",
         "name": "罗兰佳苑东区",
         "count": 36,
-        "style": 0
+        "style": 3
     },
     {
         "lnglat": [
@@ -20977,7 +20977,7 @@ var addresses = [
         "address": "洛川东路494号",
         "name": "洛川大楼",
         "count": 6,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -20997,7 +20997,7 @@ var addresses = [
         "address": "洛川中路840号",
         "name": "E构空间",
         "count": 5,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -21007,7 +21007,7 @@ var addresses = [
         "address": "洛川中路777弄",
         "name": "悠和家园",
         "count": 35,
-        "style": 0
+        "style": 3
     },
     {
         "lnglat": [
@@ -21027,7 +21027,7 @@ var addresses = [
         "address": "绿湖路888弄",
         "name": "海上湾华庭闻涧",
         "count": 111,
-        "style": 0
+        "style": 9
     },
     {
         "lnglat": [
@@ -21047,7 +21047,7 @@ var addresses = [
         "address": "绿莲路99弄、绿莲路100弄",
         "name": "银河新都",
         "count": 149,
-        "style": 0
+        "style": 9
     },
     {
         "lnglat": [
@@ -21067,7 +21067,7 @@ var addresses = [
         "address": "马吉路2号",
         "name": "高帆大厦",
         "count": 7,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -21087,7 +21087,7 @@ var addresses = [
         "address": "茅台路830弄（威宁路）",
         "name": "天申综合小区",
         "count": 1,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -21107,7 +21107,7 @@ var addresses = [
         "address": "茂兴路88号",
         "name": "仁恒广场",
         "count": 6,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -21117,7 +21117,7 @@ var addresses = [
         "address": "茂名南路205号",
         "name": "瑞金大厦（上海）",
         "count": 6,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -21137,7 +21137,7 @@ var addresses = [
         "address": "眉州路513弄",
         "name": "浦江天第苑",
         "count": 4,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -21147,7 +21147,7 @@ var addresses = [
         "address": "眉州路888弄",
         "name": "凯阳公寓",
         "count": 4,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -21157,7 +21157,7 @@ var addresses = [
         "address": "眉州路988弄",
         "name": "东田公寓",
         "count": 4,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -21167,7 +21167,7 @@ var addresses = [
         "address": "梅川路1247号",
         "name": "新长征商务大厦",
         "count": 2,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -21177,7 +21177,7 @@ var addresses = [
         "address": "梅川路1209号",
         "name": "加速器金融园",
         "count": 1,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -21187,7 +21187,7 @@ var addresses = [
         "address": "梅川路1333弄",
         "name": "祥和名邸",
         "count": 40,
-        "style": 0
+        "style": 4
     },
     {
         "lnglat": [
@@ -21197,7 +21197,7 @@ var addresses = [
         "address": "梅川路145号",
         "name": "西部秀苑",
         "count": 8,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -21207,7 +21207,7 @@ var addresses = [
         "address": "梅川路255弄",
         "name": "怒江苑",
         "count": 3,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -21237,7 +21237,7 @@ var addresses = [
         "address": "梅花路50弄",
         "name": "香梅花园一期",
         "count": 79,
-        "style": 0
+        "style": 7
     },
     {
         "lnglat": [
@@ -21257,7 +21257,7 @@ var addresses = [
         "address": "梅岭南路380弄",
         "name": "常高公寓",
         "count": 2,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -21277,7 +21277,7 @@ var addresses = [
         "address": "梅陇十村17～21号",
         "name": "徐汇锦梅苑",
         "count": 6,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -21287,7 +21287,7 @@ var addresses = [
         "address": "梅陇西路413号",
         "name": "莲花商务大厦",
         "count": 2,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -21297,7 +21297,7 @@ var addresses = [
         "address": "梅园路77号",
         "name": "人才大厦(上海)",
         "count": 3,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -21307,7 +21307,7 @@ var addresses = [
         "address": "美安路628弄",
         "name": "美罗家园宝欣苑九村",
         "count": 30,
-        "style": 1
+        "style": 3
     },
     {
         "lnglat": [
@@ -21327,7 +21327,7 @@ var addresses = [
         "address": "梅陇路565弄",
         "name": "森陇家园",
         "count": 7,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -21337,7 +21337,7 @@ var addresses = [
         "address": "美丹路1058弄",
         "name": "佳欣苑",
         "count": 38,
-        "style": 0
+        "style": 3
     },
     {
         "lnglat": [
@@ -21347,7 +21347,7 @@ var addresses = [
         "address": "美丹路1033弄",
         "name": "佳境苑（上海）",
         "count": 52,
-        "style": 0
+        "style": 5
     },
     {
         "lnglat": [
@@ -21357,7 +21357,7 @@ var addresses = [
         "address": "美丹路188弄",
         "name": "信达郡庭",
         "count": 53,
-        "style": 0
+        "style": 5
     },
     {
         "lnglat": [
@@ -21367,7 +21367,7 @@ var addresses = [
         "address": "美丹路222号",
         "name": "上置美兰优湖",
         "count": 10,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -21377,7 +21377,7 @@ var addresses = [
         "address": "美丹路8号",
         "name": "美兰湖花园（办公楼）",
         "count": 1,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -21387,7 +21387,7 @@ var addresses = [
         "address": "美丹路998弄1-27号",
         "name": "罗兰佳苑西区",
         "count": 52,
-        "style": 0
+        "style": 5
     },
     {
         "lnglat": [
@@ -21397,7 +21397,7 @@ var addresses = [
         "address": "美康路818弄",
         "name": "金丰苑一区",
         "count": 36,
-        "style": 0
+        "style": 3
     },
     {
         "lnglat": [
@@ -21417,7 +21417,7 @@ var addresses = [
         "address": "美平路1060弄1-15号",
         "name": "美罗家园宝欣苑三村",
         "count": 30,
-        "style": 1
+        "style": 3
     },
     {
         "lnglat": [
@@ -21427,7 +21427,7 @@ var addresses = [
         "address": "美平路500弄1-14号",
         "name": "美罗家园绣苑",
         "count": 21,
-        "style": 1
+        "style": 2
     },
     {
         "lnglat": [
@@ -21437,7 +21437,7 @@ var addresses = [
         "address": "美平路696弄",
         "name": "美罗家园宝欣苑一村",
         "count": 38,
-        "style": 0
+        "style": 3
     },
     {
         "lnglat": [
@@ -21447,7 +21447,7 @@ var addresses = [
         "address": "美平路745弄12号",
         "name": "美罗家园宝欣苑二村",
         "count": 34,
-        "style": 0
+        "style": 3
     },
     {
         "lnglat": [
@@ -21457,7 +21457,7 @@ var addresses = [
         "address": "美平路999弄1-16号",
         "name": "美罗家园宝欣苑四村",
         "count": 32,
-        "style": 0
+        "style": 3
     },
     {
         "lnglat": [
@@ -21467,7 +21467,7 @@ var addresses = [
         "address": "美盛路255号",
         "name": "众原企业天地",
         "count": 2,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -21477,7 +21477,7 @@ var addresses = [
         "address": "美盛路27号",
         "name": "烨博大厦",
         "count": 4,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -21487,7 +21487,7 @@ var addresses = [
         "address": "美约路166号",
         "name": "美约路166号园区",
         "count": 6,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -21497,7 +21497,7 @@ var addresses = [
         "address": "蒙自路169号",
         "name": "智造局一期",
         "count": 10,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -21507,7 +21507,7 @@ var addresses = [
         "address": "蒙自路207号",
         "name": "宏慧盟智园",
         "count": 7,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -21517,7 +21517,7 @@ var addresses = [
         "address": "美约路222号",
         "name": "生物医药园_上海",
         "count": 2,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -21527,7 +21527,7 @@ var addresses = [
         "address": "蒙自路255号",
         "name": "华电公寓",
         "count": 3,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -21537,7 +21537,7 @@ var addresses = [
         "address": "蒙自路757号",
         "name": "平安滨江金融中心",
         "count": 3,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -21547,7 +21547,7 @@ var addresses = [
         "address": "蒙自路763号",
         "name": "丰盛创建大厦",
         "count": 2,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -21557,7 +21557,7 @@ var addresses = [
         "address": "蒙自路501弄",
         "name": "德福苑",
         "count": 10,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -21567,7 +21567,7 @@ var addresses = [
         "address": "米筛浜路699弄",
         "name": "佘北家园松和苑",
         "count": 92,
-        "style": 0
+        "style": 9
     },
     {
         "lnglat": [
@@ -21577,7 +21577,7 @@ var addresses = [
         "address": "苗圃路218弄",
         "name": "维多利华庭",
         "count": 27,
-        "style": 1
+        "style": 2
     },
     {
         "lnglat": [
@@ -21587,7 +21587,7 @@ var addresses = [
         "address": "苗圃路303弄",
         "name": "心中家园",
         "count": 6,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -21607,7 +21607,7 @@ var addresses = [
         "address": "妙川路300弄",
         "name": "凯佳公寓",
         "count": 84,
-        "style": 0
+        "style": 8
     },
     {
         "lnglat": [
@@ -21617,7 +21617,7 @@ var addresses = [
         "address": "妙川路800弄",
         "name": "阳光城愉景湾",
         "count": 22,
-        "style": 1
+        "style": 2
     },
     {
         "lnglat": [
@@ -21627,7 +21627,7 @@ var addresses = [
         "address": "庙泾路58号",
         "name": "莘庄经济城",
         "count": 3,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -21637,7 +21637,7 @@ var addresses = [
         "address": "庙泾路52弄",
         "name": "水清三村",
         "count": 6,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -21647,7 +21647,7 @@ var addresses = [
         "address": "民府路1258弄",
         "name": "旭辉江湾墅",
         "count": 8,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -21667,7 +21667,7 @@ var addresses = [
         "address": "民京路828弄",
         "name": "世晶花苑",
         "count": 3,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -21687,7 +21687,7 @@ var addresses = [
         "address": "民乐路28弄",
         "name": "世茂爱马尚郡",
         "count": 55,
-        "style": 0
+        "style": 5
     },
     {
         "lnglat": [
@@ -21697,7 +21697,7 @@ var addresses = [
         "address": "民强路485号",
         "name": "佳钢智慧园(民强路)",
         "count": 10,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -21707,7 +21707,7 @@ var addresses = [
         "address": "民生路1199号",
         "name": "证大五道口广场",
         "count": 27,
-        "style": 1
+        "style": 2
     },
     {
         "lnglat": [
@@ -21717,7 +21717,7 @@ var addresses = [
         "address": "民生路1286号",
         "name": "上海汇商大厦",
         "count": 4,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -21727,7 +21727,7 @@ var addresses = [
         "address": "民生路1403号",
         "name": "上海信息大厦",
         "count": 58,
-        "style": 0
+        "style": 5
     },
     {
         "lnglat": [
@@ -21747,7 +21747,7 @@ var addresses = [
         "address": "民生路1399号",
         "name": "太平人寿大厦",
         "count": 3,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -21757,7 +21757,7 @@ var addresses = [
         "address": "民星路270号",
         "name": "谊客科技园",
         "count": 4,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -21767,7 +21767,7 @@ var addresses = [
         "address": "民生路999弄",
         "name": "中星恬园",
         "count": 7,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -21777,7 +21777,7 @@ var addresses = [
         "address": "民益路1698号",
         "name": "联东U谷上海松江新桥国际企业港",
         "count": 5,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -21797,7 +21797,7 @@ var addresses = [
         "address": "民星路376弄",
         "name": "锦都玫瑰园",
         "count": 6,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -21807,7 +21807,7 @@ var addresses = [
         "address": "闵驰二路58弄、59弄、256弄、257弄",
         "name": "欣佳宝邸",
         "count": 37,
-        "style": 0
+        "style": 3
     },
     {
         "lnglat": [
@@ -21817,7 +21817,7 @@ var addresses = [
         "address": "闵驰二路256弄",
         "name": "欣佳宝邸三期",
         "count": 31,
-        "style": 0
+        "style": 3
     },
     {
         "lnglat": [
@@ -21827,7 +21827,7 @@ var addresses = [
         "address": "闵驰一路197弄",
         "name": "汇秀景苑三街坊",
         "count": 21,
-        "style": 1
+        "style": 2
     },
     {
         "lnglat": [
@@ -21837,7 +21837,7 @@ var addresses = [
         "address": "闵驰一路208弄",
         "name": "汇秀景苑二街坊",
         "count": 22,
-        "style": 1
+        "style": 2
     },
     {
         "lnglat": [
@@ -21867,7 +21867,7 @@ var addresses = [
         "address": "闵驰一路50弄",
         "name": "聚缘中庭",
         "count": 22,
-        "style": 1
+        "style": 2
     },
     {
         "lnglat": [
@@ -21877,7 +21877,7 @@ var addresses = [
         "address": "闵驰一路302弄",
         "name": "瑞和华苑北区",
         "count": 63,
-        "style": 0
+        "style": 6
     },
     {
         "lnglat": [
@@ -21897,7 +21897,7 @@ var addresses = [
         "address": "闵虹路166弄",
         "name": "中庚环球创意中心",
         "count": 80,
-        "style": 0
+        "style": 8
     },
     {
         "lnglat": [
@@ -21907,7 +21907,7 @@ var addresses = [
         "address": "明兴路528弄",
         "name": "新南路1（壹）号",
         "count": 24,
-        "style": 1
+        "style": 2
     },
     {
         "lnglat": [
@@ -21927,7 +21927,7 @@ var addresses = [
         "address": "明中路1777弄",
         "name": "新弘国际城",
         "count": 112,
-        "style": 0
+        "style": 9
     },
     {
         "lnglat": [
@@ -21937,7 +21937,7 @@ var addresses = [
         "address": "明中路1588弄1-1086号",
         "name": "沿海丽水馨庭",
         "count": 36,
-        "style": 0
+        "style": 3
     },
     {
         "lnglat": [
@@ -21947,7 +21947,7 @@ var addresses = [
         "address": "明中路1800弄",
         "name": "明中苑",
         "count": 66,
-        "style": 0
+        "style": 6
     },
     {
         "lnglat": [
@@ -21957,7 +21957,7 @@ var addresses = [
         "address": "明珠路1018号",
         "name": "e通世界商务园（双子楼）",
         "count": 3,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -21967,7 +21967,7 @@ var addresses = [
         "address": "明珠路838号",
         "name": "恒润大厦",
         "count": 3,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -21977,7 +21977,7 @@ var addresses = [
         "address": "漠河路600弄",
         "name": "东鼎国际大厦",
         "count": 27,
-        "style": 1
+        "style": 2
     },
     {
         "lnglat": [
@@ -21987,7 +21987,7 @@ var addresses = [
         "address": "墨玉路28号",
         "name": "嘉正国际大厦",
         "count": 4,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -22007,7 +22007,7 @@ var addresses = [
         "address": "墨玉南路1033号",
         "name": "嘉亭大厦",
         "count": 2,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -22017,7 +22017,7 @@ var addresses = [
         "address": "牡丹江路1248号",
         "name": "安信财富中心",
         "count": 6,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -22027,7 +22027,7 @@ var addresses = [
         "address": "牡丹江路1288号",
         "name": "宝莲府邸",
         "count": 10,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -22037,7 +22037,7 @@ var addresses = [
         "address": "牡丹江路1211号",
         "name": "安信广场",
         "count": 30,
-        "style": 1
+        "style": 3
     },
     {
         "lnglat": [
@@ -22047,7 +22047,7 @@ var addresses = [
         "address": "牡丹路60号",
         "name": "东辰大厦",
         "count": 10,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -22057,7 +22057,7 @@ var addresses = [
         "address": "牡丹江路1378号",
         "name": "璟都新园（景都新苑）",
         "count": 7,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -22067,7 +22067,7 @@ var addresses = [
         "address": "纳贤路799号",
         "name": "科荣大楼",
         "count": 9,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -22077,7 +22077,7 @@ var addresses = [
         "address": "南昌路45号",
         "name": "城汇大厦",
         "count": 4,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -22087,7 +22087,7 @@ var addresses = [
         "address": "南昌路555号",
         "name": "东方巴黎霞飞苑",
         "count": 9,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -22107,7 +22107,7 @@ var addresses = [
         "address": "南车站路318弄",
         "name": "豫景公寓",
         "count": 4,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -22117,7 +22117,7 @@ var addresses = [
         "address": "南车站路69弄1-3号",
         "name": "华教大厦",
         "count": 6,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -22127,7 +22127,7 @@ var addresses = [
         "address": "南昌路559号",
         "name": "南昌路559号大楼",
         "count": 5,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -22137,7 +22137,7 @@ var addresses = [
         "address": "南丹东路168号",
         "name": "徐家汇新贵_福源汇居",
         "count": 9,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -22147,7 +22147,7 @@ var addresses = [
         "address": "南丹东路181号",
         "name": "莱诗邸商务裙楼",
         "count": 1,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -22167,7 +22167,7 @@ var addresses = [
         "address": "南丹东路18号",
         "name": "兴都大楼",
         "count": 3,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -22177,7 +22177,7 @@ var addresses = [
         "address": "南丹东路228弄",
         "name": "金轩公寓",
         "count": 3,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -22187,7 +22187,7 @@ var addresses = [
         "address": "南丹东路255号-275号",
         "name": "南天1号楼",
         "count": 1,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -22197,7 +22197,7 @@ var addresses = [
         "address": "南丹东路238号",
         "name": "新东亚酒店",
         "count": 2,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -22207,7 +22207,7 @@ var addresses = [
         "address": "南丹东路99弄",
         "name": "天际花园",
         "count": 10,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -22217,7 +22217,7 @@ var addresses = [
         "address": "南丹东路300弄",
         "name": "亚都国际名园",
         "count": 20,
-        "style": 1
+        "style": 2
     },
     {
         "lnglat": [
@@ -22227,7 +22227,7 @@ var addresses = [
         "address": "南丹路118弄",
         "name": "光启公寓",
         "count": 3,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -22237,7 +22237,7 @@ var addresses = [
         "address": "南丹路138弄",
         "name": "明华苑",
         "count": 6,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -22247,7 +22247,7 @@ var addresses = [
         "address": "南丹路189号",
         "name": "南虹公寓",
         "count": 8,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -22257,7 +22257,7 @@ var addresses = [
         "address": "南丹路191号",
         "name": "诚品商务中心",
         "count": 4,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -22267,7 +22267,7 @@ var addresses = [
         "address": "南丹路368弄",
         "name": "汇贤雅居",
         "count": 6,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -22277,7 +22277,7 @@ var addresses = [
         "address": "南奉公路4025号",
         "name": "上海铭基科创园",
         "count": 4,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -22287,7 +22287,7 @@ var addresses = [
         "address": "南奉公路6899弄",
         "name": "金昊雅苑",
         "count": 66,
-        "style": 0
+        "style": 6
     },
     {
         "lnglat": [
@@ -22297,7 +22297,7 @@ var addresses = [
         "address": "南汇路69号",
         "name": "上海宁波联谊大楼",
         "count": 1,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -22307,7 +22307,7 @@ var addresses = [
         "address": "南京东路409-459号",
         "name": "申能置地广场",
         "count": 8,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -22317,7 +22317,7 @@ var addresses = [
         "address": "南京东路328号雅戈尔大厦",
         "name": "雅戈尔大厦",
         "count": 3,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -22327,7 +22327,7 @@ var addresses = [
         "address": "南奉公路7298号",
         "name": "浦南财富广场",
         "count": 9,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -22337,7 +22337,7 @@ var addresses = [
         "address": "南京东路61号",
         "name": "新黄浦金融大厦（上海）",
         "count": 2,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -22347,7 +22347,7 @@ var addresses = [
         "address": "南江燕路229弄1-106边门",
         "name": "世博家园八街坊",
         "count": 20,
-        "style": 1
+        "style": 2
     },
     {
         "lnglat": [
@@ -22357,7 +22357,7 @@ var addresses = [
         "address": "南京东路99号（四川中路346号）",
         "name": "嘉陵大楼",
         "count": 2,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -22367,7 +22367,7 @@ var addresses = [
         "address": "南京西路1038号",
         "name": "梅龙镇广场",
         "count": 25,
-        "style": 1
+        "style": 2
     },
     {
         "lnglat": [
@@ -22377,7 +22377,7 @@ var addresses = [
         "address": "南京西路1168号",
         "name": "中信泰富广场",
         "count": 8,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -22387,7 +22387,7 @@ var addresses = [
         "address": "南京西路1376号",
         "name": "上海商城",
         "count": 8,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -22397,7 +22397,7 @@ var addresses = [
         "address": "南京西路1468号",
         "name": "中欣大厦",
         "count": 6,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -22407,7 +22407,7 @@ var addresses = [
         "address": "南京西路1486号（铜仁路）",
         "name": "东海广场",
         "count": 4,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -22427,7 +22427,7 @@ var addresses = [
         "address": "南京西路288号",
         "name": "创兴金融中心",
         "count": 4,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -22437,7 +22437,7 @@ var addresses = [
         "address": "南京西路399号",
         "name": "明天广场",
         "count": 6,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -22447,7 +22447,7 @@ var addresses = [
         "address": "南京西路580号",
         "name": "仲益大厦",
         "count": 4,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -22457,7 +22457,7 @@ var addresses = [
         "address": "南京西路819号",
         "name": "中创大厦",
         "count": 4,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -22467,7 +22467,7 @@ var addresses = [
         "address": "南京西路818号",
         "name": "长春藤运通大厦",
         "count": 7,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -22477,7 +22477,7 @@ var addresses = [
         "address": "南京西路920号",
         "name": "南泰大厦（上海）",
         "count": 4,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -22487,7 +22487,7 @@ var addresses = [
         "address": "南京西路993号",
         "name": "上海锦江向阳大楼",
         "count": 2,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -22517,7 +22517,7 @@ var addresses = [
         "address": "南六公路399号",
         "name": "艺泰安邦花园",
         "count": 169,
-        "style": 0
+        "style": 9
     },
     {
         "lnglat": [
@@ -22527,7 +22527,7 @@ var addresses = [
         "address": "南六公路851号",
         "name": "翔灵电商园",
         "count": 4,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -22537,7 +22537,7 @@ var addresses = [
         "address": "南码头路1136号",
         "name": "卢湾教工楼",
         "count": 4,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -22547,7 +22547,7 @@ var addresses = [
         "address": "南码头路101号",
         "name": "海博大厦",
         "count": 4,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -22557,7 +22557,7 @@ var addresses = [
         "address": "南芦公路1755弄",
         "name": "鸿音广场",
         "count": 6,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -22567,7 +22567,7 @@ var addresses = [
         "address": "南码头路1288弄",
         "name": "逸翠公馆",
         "count": 9,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -22577,7 +22577,7 @@ var addresses = [
         "address": "南宁路501弄",
         "name": "馨汇南苑",
         "count": 27,
-        "style": 1
+        "style": 2
     },
     {
         "lnglat": [
@@ -22587,7 +22587,7 @@ var addresses = [
         "address": "南桥路707弄",
         "name": "永达城市公寓",
         "count": 26,
-        "style": 1
+        "style": 2
     },
     {
         "lnglat": [
@@ -22597,7 +22597,7 @@ var addresses = [
         "address": "南宁路970号",
         "name": "徐汇万科中心",
         "count": 22,
-        "style": 1
+        "style": 2
     },
     {
         "lnglat": [
@@ -22607,7 +22607,7 @@ var addresses = [
         "address": "南桥镇程普路377号",
         "name": "悠口创意园",
         "count": 54,
-        "style": 0
+        "style": 5
     },
     {
         "lnglat": [
@@ -22617,7 +22617,7 @@ var addresses = [
         "address": "南桥镇奉浦大道97号",
         "name": "绿地智尊",
         "count": 6,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -22627,7 +22627,7 @@ var addresses = [
         "address": "南泉北路1015弄、1017弄",
         "name": "光明小区",
         "count": 2,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -22637,7 +22637,7 @@ var addresses = [
         "address": "南泉北路201号",
         "name": "房地大厦",
         "count": 4,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -22647,7 +22647,7 @@ var addresses = [
         "address": "南苏州路1393弄1号",
         "name": "良友高层",
         "count": 3,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -22657,7 +22657,7 @@ var addresses = [
         "address": "南山路88弄",
         "name": "南顺公寓（上海）",
         "count": 2,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -22667,7 +22667,7 @@ var addresses = [
         "address": "南石二路135弄",
         "name": "兰溪公寓",
         "count": 3,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -22677,7 +22677,7 @@ var addresses = [
         "address": "南苏州路325号",
         "name": "物资大厦(上海)",
         "count": 1,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -22687,7 +22687,7 @@ var addresses = [
         "address": "南苏州路333号",
         "name": "华隆大厦",
         "count": 4,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -22697,7 +22697,7 @@ var addresses = [
         "address": "南苏州路877弄",
         "name": "河畔明珠",
         "count": 10,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -22707,7 +22707,7 @@ var addresses = [
         "address": "南塘浜路133号",
         "name": "华业公寓",
         "count": 2,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -22727,7 +22727,7 @@ var addresses = [
         "address": "南苏州路999号",
         "name": "象屿集团大厦",
         "count": 5,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -22737,7 +22737,7 @@ var addresses = [
         "address": "南溏浜路18弄1-7号",
         "name": "桃源",
         "count": 8,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -22747,7 +22747,7 @@ var addresses = [
         "address": "南阳路183弄1-2号",
         "name": "南阳大楼",
         "count": 2,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -22767,7 +22767,7 @@ var addresses = [
         "address": "南洋泾路578号",
         "name": "界龙总部园御龙湾",
         "count": 1,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -22777,7 +22777,7 @@ var addresses = [
         "address": "南蕴藻路408号",
         "name": "栋霖科技园",
         "count": 10,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -22787,7 +22787,7 @@ var addresses = [
         "address": "年吉路650弄",
         "name": "美罗家园润苑",
         "count": 39,
-        "style": 0
+        "style": 3
     },
     {
         "lnglat": [
@@ -22797,7 +22797,7 @@ var addresses = [
         "address": "内江路221号",
         "name": "科技大厦(杨浦)",
         "count": 1,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -22807,7 +22807,7 @@ var addresses = [
         "address": "年家浜东路129弄",
         "name": "印象春城",
         "count": 86,
-        "style": 0
+        "style": 8
     },
     {
         "lnglat": [
@@ -22817,7 +22817,7 @@ var addresses = [
         "address": "宁川路139弄",
         "name": "申兴华庭",
         "count": 40,
-        "style": 0
+        "style": 4
     },
     {
         "lnglat": [
@@ -22827,7 +22827,7 @@ var addresses = [
         "address": "宁富路288号",
         "name": "上海磐业网络科技园",
         "count": 9,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -22837,7 +22837,7 @@ var addresses = [
         "address": "年喜路29弄",
         "name": "中集金地美兰城澜都(北区南区公寓）",
         "count": 20,
-        "style": 1
+        "style": 2
     },
     {
         "lnglat": [
@@ -22847,7 +22847,7 @@ var addresses = [
         "address": "年家浜东路159弄",
         "name": "印象生活广场",
         "count": 8,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -22857,7 +22857,7 @@ var addresses = [
         "address": "宁国路129号",
         "name": "城建大厦(上海)",
         "count": 3,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -22887,7 +22887,7 @@ var addresses = [
         "address": "宁国路503号",
         "name": "四季广场（上海）",
         "count": 2,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -22897,7 +22897,7 @@ var addresses = [
         "address": "宁桥路615号",
         "name": "由度工场",
         "count": 8,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -22907,7 +22907,7 @@ var addresses = [
         "address": "宁海东路200号",
         "name": "申鑫大厦",
         "count": 2,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -22917,7 +22917,7 @@ var addresses = [
         "address": "宁桥路825号",
         "name": "金桥825",
         "count": 1,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -22927,7 +22927,7 @@ var addresses = [
         "address": "宁桥路999号",
         "name": "金桥开发区T15",
         "count": 10,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -22937,7 +22937,7 @@ var addresses = [
         "address": "宁武路510弄",
         "name": "珠江香樟园北园",
         "count": 21,
-        "style": 1
+        "style": 2
     },
     {
         "lnglat": [
@@ -22947,7 +22947,7 @@ var addresses = [
         "address": "宁夏路353弄",
         "name": "绿地世纪城世纪花园",
         "count": 36,
-        "style": 0
+        "style": 3
     },
     {
         "lnglat": [
@@ -22967,7 +22967,7 @@ var addresses = [
         "address": "宁夏路366弄",
         "name": "绿地世家",
         "count": 26,
-        "style": 1
+        "style": 2
     },
     {
         "lnglat": [
@@ -22977,7 +22977,7 @@ var addresses = [
         "address": "农民街118弄",
         "name": "汇贤雅苑",
         "count": 30,
-        "style": 1
+        "style": 3
     },
     {
         "lnglat": [
@@ -22987,7 +22987,7 @@ var addresses = [
         "address": "宁夏路777号",
         "name": "坤田社区",
         "count": 2,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -23007,7 +23007,7 @@ var addresses = [
         "address": "怒江北路219弄1号",
         "name": "开开大楼",
         "count": 3,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -23017,7 +23017,7 @@ var addresses = [
         "address": "怒江北路399号",
         "name": "新曹杨科技大厦",
         "count": 4,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -23027,7 +23027,7 @@ var addresses = [
         "address": "怒江北路449弄8，9号（C区B区）",
         "name": "上海新曹杨高新技术工业园区二街坊(B区C区)",
         "count": 7,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -23047,7 +23047,7 @@ var addresses = [
         "address": "欧阳路218弄之1-3号",
         "name": "明杨豪苑",
         "count": 3,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -23057,7 +23057,7 @@ var addresses = [
         "address": "欧阳路501弄50号",
         "name": "裕群公寓",
         "count": 3,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -23067,7 +23067,7 @@ var addresses = [
         "address": "欧阳路318弄",
         "name": "绿缘大厦",
         "count": 2,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -23077,7 +23077,7 @@ var addresses = [
         "address": "欧阳路681弄1-7号",
         "name": "山水苑(上海)",
         "count": 6,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -23087,7 +23087,7 @@ var addresses = [
         "address": "欧阳路568号",
         "name": "庐迅大厦",
         "count": 1,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -23097,7 +23097,7 @@ var addresses = [
         "address": "欧阳路561号",
         "name": "欧阳大厦",
         "count": 4,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -23107,7 +23107,7 @@ var addresses = [
         "address": "欧阳路85号",
         "name": "金陵国际大厦",
         "count": 3,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -23117,7 +23117,7 @@ var addresses = [
         "address": "牌楼东路528弄",
         "name": "清林径",
         "count": 34,
-        "style": 0
+        "style": 3
     },
     {
         "lnglat": [
@@ -23127,7 +23127,7 @@ var addresses = [
         "address": "潘广路1018弄",
         "name": "龙湖北城天街",
         "count": 24,
-        "style": 1
+        "style": 2
     },
     {
         "lnglat": [
@@ -23137,7 +23137,7 @@ var addresses = [
         "address": "潘广路1765号",
         "name": "馨佳园七街坊",
         "count": 28,
-        "style": 1
+        "style": 2
     },
     {
         "lnglat": [
@@ -23147,7 +23147,7 @@ var addresses = [
         "address": "潘沪路159号",
         "name": "雍和府",
         "count": 34,
-        "style": 0
+        "style": 3
     },
     {
         "lnglat": [
@@ -23157,7 +23157,7 @@ var addresses = [
         "address": "潘泾路4655弄",
         "name": "旭辉城",
         "count": 95,
-        "style": 0
+        "style": 9
     },
     {
         "lnglat": [
@@ -23167,7 +23167,7 @@ var addresses = [
         "address": "潘泾路4777弄",
         "name": "宝山上河苑",
         "count": 83,
-        "style": 0
+        "style": 8
     },
     {
         "lnglat": [
@@ -23177,7 +23177,7 @@ var addresses = [
         "address": "潘新路255弄",
         "name": "信达北苑(信达蓝庭)",
         "count": 46,
-        "style": 0
+        "style": 4
     },
     {
         "lnglat": [
@@ -23197,7 +23197,7 @@ var addresses = [
         "address": "盘阳路66弄",
         "name": "融信绿地商务广场二期",
         "count": 2,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -23207,7 +23207,7 @@ var addresses = [
         "address": "盘阳路59弄",
         "name": "融信绿地商务广场一期",
         "count": 6,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -23227,7 +23227,7 @@ var addresses = [
         "address": "盘古路708号",
         "name": "宝建大厦",
         "count": 1,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -23237,7 +23237,7 @@ var addresses = [
         "address": "平度路258号",
         "name": "金桥大拇指广场",
         "count": 7,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -23257,7 +23257,7 @@ var addresses = [
         "address": "平江路25号",
         "name": "平江大楼",
         "count": 1,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -23277,7 +23277,7 @@ var addresses = [
         "address": "平凉路1055号",
         "name": "上海创意联盟产业园",
         "count": 2,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -23287,7 +23287,7 @@ var addresses = [
         "address": "平凉路1090弄",
         "name": "天科国际商务楼",
         "count": 7,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -23297,7 +23297,7 @@ var addresses = [
         "address": "通阁路150号",
         "name": "长信公寓",
         "count": 1,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -23307,7 +23307,7 @@ var addresses = [
         "address": "平凉路1289号",
         "name": "联升大厦",
         "count": 3,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -23317,7 +23317,7 @@ var addresses = [
         "address": "平凉路1398号",
         "name": "上海杨浦工贸大楼",
         "count": 1,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -23327,7 +23327,7 @@ var addresses = [
         "address": "平凉路1550弄",
         "name": "金凤大楼",
         "count": 4,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -23337,7 +23337,7 @@ var addresses = [
         "address": "平凉路207号",
         "name": "平凉园区",
         "count": 2,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -23347,7 +23347,7 @@ var addresses = [
         "address": "平凉路2241号",
         "name": "智慧坊",
         "count": 7,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -23357,7 +23357,7 @@ var addresses = [
         "address": "平凉路2545弄",
         "name": "益民小区",
         "count": 6,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -23367,7 +23367,7 @@ var addresses = [
         "address": "平凉路2440号",
         "name": "芯工创意园",
         "count": 7,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -23377,7 +23377,7 @@ var addresses = [
         "address": "平凉路618号",
         "name": "界龙商务大厦",
         "count": 4,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -23387,7 +23387,7 @@ var addresses = [
         "address": "平凉路624号",
         "name": "德昌园创意园",
         "count": 2,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -23397,7 +23397,7 @@ var addresses = [
         "address": "平武路168号",
         "name": "玉嘉大厦",
         "count": 2,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -23407,7 +23407,7 @@ var addresses = [
         "address": "平武路31弄1-3号",
         "name": "平武公寓",
         "count": 3,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -23417,7 +23417,7 @@ var addresses = [
         "address": "平型关路1083弄",
         "name": "慧芝湖花园二期",
         "count": 51,
-        "style": 0
+        "style": 5
     },
     {
         "lnglat": [
@@ -23437,7 +23437,7 @@ var addresses = [
         "address": "平型关路108弄",
         "name": "108广场（金银108创意广场）",
         "count": 74,
-        "style": 0
+        "style": 7
     },
     {
         "lnglat": [
@@ -23447,7 +23447,7 @@ var addresses = [
         "address": "平凉路716号",
         "name": "实益大厦（实业大厦）",
         "count": 1,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -23457,7 +23457,7 @@ var addresses = [
         "address": "平型关路108弄37号、39号",
         "name": "108广场(品座尚座)",
         "count": 4,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -23477,7 +23477,7 @@ var addresses = [
         "address": "平型关路18号",
         "name": "和源大楼商务楼",
         "count": 3,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -23507,7 +23507,7 @@ var addresses = [
         "address": "平型关路38号",
         "name": "和源大楼",
         "count": 1,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -23527,7 +23527,7 @@ var addresses = [
         "address": "平阳路1465弄",
         "name": "平阳苑",
         "count": 10,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -23537,7 +23537,7 @@ var addresses = [
         "address": "平阳路1515弄",
         "name": "龙祥嘉园（闵行）",
         "count": 5,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -23567,7 +23567,7 @@ var addresses = [
         "address": "瓶安路1358号",
         "name": "久创科技园",
         "count": 3,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -23577,7 +23577,7 @@ var addresses = [
         "address": "蒲汇路168-178号",
         "name": "旭辉丰禄纯真中心（九亭U天地）",
         "count": 8,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -23587,7 +23587,7 @@ var addresses = [
         "address": "蒲汇塘路11号",
         "name": "博大商务楼",
         "count": 2,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -23597,7 +23597,7 @@ var addresses = [
         "address": "蒲汇塘路101号",
         "name": "沪贵苑",
         "count": 2,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -23607,7 +23607,7 @@ var addresses = [
         "address": "蒲汇塘路123号",
         "name": "宏景商务楼",
         "count": 1,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -23617,7 +23617,7 @@ var addresses = [
         "address": "蒲汇塘路163弄",
         "name": "泰德苑（上海）",
         "count": 6,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -23627,7 +23627,7 @@ var addresses = [
         "address": "蒲汇塘路50号",
         "name": "玉兰花苑",
         "count": 5,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -23637,7 +23637,7 @@ var addresses = [
         "address": "浦北路388号",
         "name": "康健星辰",
         "count": 10,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -23647,7 +23647,7 @@ var addresses = [
         "address": "浦北路999弄1-3号",
         "name": "百合花苑",
         "count": 3,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -23657,7 +23657,7 @@ var addresses = [
         "address": "浦城路366弄",
         "name": "菊园",
         "count": 38,
-        "style": 0
+        "style": 3
     },
     {
         "lnglat": [
@@ -23667,7 +23667,7 @@ var addresses = [
         "address": "浦驰路188弄1-109号",
         "name": "世博家园十一街坊",
         "count": 20,
-        "style": 1
+        "style": 2
     },
     {
         "lnglat": [
@@ -23677,7 +23677,7 @@ var addresses = [
         "address": "浦城路680号",
         "name": "上海滨江世茂52",
         "count": 10,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -23697,7 +23697,7 @@ var addresses = [
         "address": "浦驰路345弄1-39号",
         "name": "世博家园九街坊",
         "count": 8,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -23707,7 +23707,7 @@ var addresses = [
         "address": "浦电路29弄之1-35号",
         "name": "滨江大楼",
         "count": 4,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -23717,7 +23717,7 @@ var addresses = [
         "address": "浦电路360号",
         "name": "陆家嘴投资大厦",
         "count": 1,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -23737,7 +23737,7 @@ var addresses = [
         "address": "浦电路489号",
         "name": "由由燕乔大厦",
         "count": 6,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -23747,7 +23747,7 @@ var addresses = [
         "address": "浦电路438号",
         "name": "双鸽大厦",
         "count": 24,
-        "style": 1
+        "style": 2
     },
     {
         "lnglat": [
@@ -23757,7 +23757,7 @@ var addresses = [
         "address": "浦东大道1000弄",
         "name": "巨洋豪园",
         "count": 6,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -23767,7 +23767,7 @@ var addresses = [
         "address": "浦东大道1081-1089号",
         "name": "中信五牛城",
         "count": 6,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -23787,7 +23787,7 @@ var addresses = [
         "address": "浦东大道1139号",
         "name": "惠扬大厦",
         "count": 26,
-        "style": 1
+        "style": 2
     },
     {
         "lnglat": [
@@ -23797,7 +23797,7 @@ var addresses = [
         "address": "浦东大道1093弄",
         "name": "名门滨江苑",
         "count": 6,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -23807,7 +23807,7 @@ var addresses = [
         "address": "浦东大道1141号",
         "name": "惠扬大厦裙楼",
         "count": 4,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -23817,7 +23817,7 @@ var addresses = [
         "address": "浦东大道1200弄",
         "name": "巨洋大厦",
         "count": 7,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -23827,7 +23827,7 @@ var addresses = [
         "address": "浦东大道138号",
         "name": "上海永华大厦",
         "count": 4,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -23837,7 +23837,7 @@ var addresses = [
         "address": "浦东大道1525-1539号",
         "name": "中国石化大厦(上海)",
         "count": 43,
-        "style": 0
+        "style": 4
     },
     {
         "lnglat": [
@@ -23847,7 +23847,7 @@ var addresses = [
         "address": "浦东大道1819弄",
         "name": "和达家园",
         "count": 10,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -23857,7 +23857,7 @@ var addresses = [
         "address": "浦东大道1476号",
         "name": "山海大厦(上海)",
         "count": 2,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -23867,7 +23867,7 @@ var addresses = [
         "address": "浦东大道1868号",
         "name": "东方城市大厦",
         "count": 20,
-        "style": 1
+        "style": 2
     },
     {
         "lnglat": [
@@ -23897,7 +23897,7 @@ var addresses = [
         "address": "浦东大道2123号",
         "name": "龙珠广场",
         "count": 4,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -23907,7 +23907,7 @@ var addresses = [
         "address": "浦东大道2188号",
         "name": "上安商务楼",
         "count": 3,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -23917,7 +23917,7 @@ var addresses = [
         "address": "浦东大道2220号、2160号",
         "name": "上安大厦",
         "count": 6,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -23927,7 +23927,7 @@ var addresses = [
         "address": "浦东大道2511弄19号",
         "name": "柚米国际公寓(浦东大道店)",
         "count": 3,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -23937,7 +23937,7 @@ var addresses = [
         "address": "浦东大道2515号、2521号",
         "name": "金茂花园",
         "count": 5,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -23947,7 +23947,7 @@ var addresses = [
         "address": "浦东大道2554号",
         "name": "仙都绿苑",
         "count": 6,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -23957,7 +23957,7 @@ var addresses = [
         "address": "浦东大道2568弄",
         "name": "军官公寓",
         "count": 5,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -23967,7 +23967,7 @@ var addresses = [
         "address": "浦东大道288号",
         "name": "SDL智汇东信",
         "count": 3,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -23977,7 +23977,7 @@ var addresses = [
         "address": "浦东大道2742弄",
         "name": "中环滨江大厦",
         "count": 3,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -23987,7 +23987,7 @@ var addresses = [
         "address": "浦东大道637号(近福山路)",
         "name": "同科公寓",
         "count": 3,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -23997,7 +23997,7 @@ var addresses = [
         "address": "浦东大道688号",
         "name": "浦东大道688号基地",
         "count": 5,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -24007,7 +24007,7 @@ var addresses = [
         "address": "浦东大道720号2B",
         "name": "上海国际航运大厦",
         "count": 10,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -24017,7 +24017,7 @@ var addresses = [
         "address": "浦东南路1036号",
         "name": "隆宇大厦",
         "count": 10,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -24027,7 +24027,7 @@ var addresses = [
         "address": "浦东南路1085号",
         "name": "上海华申大厦",
         "count": 4,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -24037,7 +24037,7 @@ var addresses = [
         "address": "浦东大道727弄1号",
         "name": "VIP大厦",
         "count": 9,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -24047,7 +24047,7 @@ var addresses = [
         "address": "浦东南路1101号",
         "name": "上海远东大厦",
         "count": 2,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -24057,7 +24057,7 @@ var addresses = [
         "address": "浦东南路1341弄2号",
         "name": "紫金瀚宫",
         "count": 7,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -24077,7 +24077,7 @@ var addresses = [
         "address": "浦东南路1525号",
         "name": "振环大厦",
         "count": 2,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -24087,7 +24087,7 @@ var addresses = [
         "address": "浦东南路1550弄",
         "name": "天科苑",
         "count": 4,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -24097,7 +24097,7 @@ var addresses = [
         "address": "浦东南路1630号",
         "name": "闻通商务楼",
         "count": 3,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -24107,7 +24107,7 @@ var addresses = [
         "address": "浦东南路1862弄",
         "name": "众鑫大厦",
         "count": 2,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -24117,7 +24117,7 @@ var addresses = [
         "address": "浦东南路2157、2159号",
         "name": "众城商厦",
         "count": 6,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -24127,7 +24127,7 @@ var addresses = [
         "address": "浦东南路1877号",
         "name": "东旅大厦",
         "count": 7,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -24137,7 +24137,7 @@ var addresses = [
         "address": "浦东南路2162号",
         "name": "浦江2162",
         "count": 2,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -24147,7 +24147,7 @@ var addresses = [
         "address": "浦东南路2169号",
         "name": "久事大桥公寓",
         "count": 2,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -24167,7 +24167,7 @@ var addresses = [
         "address": "浦东南路2240号",
         "name": "永业商业大楼",
         "count": 8,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -24177,7 +24177,7 @@ var addresses = [
         "address": "浦东南路2250号",
         "name": "滨江2250",
         "count": 10,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -24187,7 +24187,7 @@ var addresses = [
         "address": "浦东南路256号",
         "name": "华夏银行大厦",
         "count": 4,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -24197,7 +24197,7 @@ var addresses = [
         "address": "浦东南路360号",
         "name": "新上海国际大厦",
         "count": 20,
-        "style": 1
+        "style": 2
     },
     {
         "lnglat": [
@@ -24207,7 +24207,7 @@ var addresses = [
         "address": "浦东南路3456号",
         "name": "江天大厦（上海）",
         "count": 3,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -24217,7 +24217,7 @@ var addresses = [
         "address": "浦东南路379号",
         "name": "金穗大厦（上海）",
         "count": 7,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -24227,7 +24227,7 @@ var addresses = [
         "address": "浦东南路4250弄",
         "name": "雪野家园",
         "count": 26,
-        "style": 1
+        "style": 2
     },
     {
         "lnglat": [
@@ -24247,7 +24247,7 @@ var addresses = [
         "address": "浦东南路4301、4401、4501号",
         "name": "云台苑",
         "count": 3,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -24257,7 +24257,7 @@ var addresses = [
         "address": "浦东南路855号",
         "name": "世界广场",
         "count": 34,
-        "style": 0
+        "style": 3
     },
     {
         "lnglat": [
@@ -24267,7 +24267,7 @@ var addresses = [
         "address": "浦东南路999号",
         "name": "新梅联合广场",
         "count": 7,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -24277,7 +24277,7 @@ var addresses = [
         "address": "浦东新区临港新城申港大道87号",
         "name": "毓阳泓智大厦",
         "count": 3,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -24287,7 +24287,7 @@ var addresses = [
         "address": "浦东新区栖山路401弄7号",
         "name": "雅华公寓",
         "count": 2,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -24297,7 +24297,7 @@ var addresses = [
         "address": "浦东南路528号",
         "name": "证券大厦",
         "count": 6,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -24307,7 +24307,7 @@ var addresses = [
         "address": "浦航路178弄",
         "name": "汇秀景苑一街坊",
         "count": 24,
-        "style": 1
+        "style": 2
     },
     {
         "lnglat": [
@@ -24317,7 +24317,7 @@ var addresses = [
         "address": "浦航路36弄",
         "name": "聚缘北庭",
         "count": 35,
-        "style": 0
+        "style": 3
     },
     {
         "lnglat": [
@@ -24327,7 +24327,7 @@ var addresses = [
         "address": "浦航路718弄",
         "name": "浦润苑",
         "count": 25,
-        "style": 1
+        "style": 2
     },
     {
         "lnglat": [
@@ -24337,7 +24337,7 @@ var addresses = [
         "address": "浦建路118号",
         "name": "巴黎春天(浦建店)",
         "count": 6,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -24347,7 +24347,7 @@ var addresses = [
         "address": "浦建路145号",
         "name": "强生大厦",
         "count": 3,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -24357,7 +24357,7 @@ var addresses = [
         "address": "浦建路1578弄",
         "name": "龙昌苑",
         "count": 8,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -24367,7 +24367,7 @@ var addresses = [
         "address": "浦建路1458弄",
         "name": "志豪公寓",
         "count": 4,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -24377,7 +24377,7 @@ var addresses = [
         "address": "浦建路365弄",
         "name": "金龙东苑",
         "count": 10,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -24387,7 +24387,7 @@ var addresses = [
         "address": "浦建路47号",
         "name": "东源大厦",
         "count": 3,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -24397,7 +24397,7 @@ var addresses = [
         "address": "浦建路60弄",
         "name": "澳丽花苑",
         "count": 34,
-        "style": 0
+        "style": 3
     },
     {
         "lnglat": [
@@ -24407,7 +24407,7 @@ var addresses = [
         "address": "延安中路596号",
         "name": "天壹坊",
         "count": 1,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -24427,7 +24427,7 @@ var addresses = [
         "address": "浦锦路1266-1328号",
         "name": "新浦江城四期LOFT",
         "count": 10,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -24437,7 +24437,7 @@ var addresses = [
         "address": "浦锦路2049号",
         "name": "中粮万科VMO",
         "count": 36,
-        "style": 0
+        "style": 3
     },
     {
         "lnglat": [
@@ -24447,7 +24447,7 @@ var addresses = [
         "address": "浦锦路2159弄",
         "name": "浦恒馨苑",
         "count": 176,
-        "style": 0
+        "style": 9
     },
     {
         "lnglat": [
@@ -24457,7 +24457,7 @@ var addresses = [
         "address": "浦连路388弄",
         "name": "金硕河畔景园东区",
         "count": 7,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -24477,7 +24477,7 @@ var addresses = [
         "address": "浦连路598弄",
         "name": "金硕河畔景园南区",
         "count": 10,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -24487,7 +24487,7 @@ var addresses = [
         "address": "浦明路1188弄",
         "name": "家化滨江苑",
         "count": 3,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -24497,7 +24497,7 @@ var addresses = [
         "address": "浦明路1221号",
         "name": "香园商务楼",
         "count": 2,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -24507,7 +24507,7 @@ var addresses = [
         "address": "浦明路1333号",
         "name": "浦江海景",
         "count": 4,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -24517,7 +24517,7 @@ var addresses = [
         "address": "浦明路233弄",
         "name": "江临天下",
         "count": 8,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -24527,7 +24527,7 @@ var addresses = [
         "address": "浦明路258弄",
         "name": "财富海景花园",
         "count": 5,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -24537,7 +24537,7 @@ var addresses = [
         "address": "浦明路868弄",
         "name": "保利one56",
         "count": 30,
-        "style": 1
+        "style": 3
     },
     {
         "lnglat": [
@@ -24547,7 +24547,7 @@ var addresses = [
         "address": "浦明路99弄",
         "name": "仁恒滨江园",
         "count": 42,
-        "style": 0
+        "style": 4
     },
     {
         "lnglat": [
@@ -24567,7 +24567,7 @@ var addresses = [
         "address": "浦瑞南路76弄",
         "name": "滨浦新苑8村",
         "count": 45,
-        "style": 0
+        "style": 4
     },
     {
         "lnglat": [
@@ -24577,7 +24577,7 @@ var addresses = [
         "address": "浦三路12弄",
         "name": "海浦小区",
         "count": 5,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -24587,7 +24587,7 @@ var addresses = [
         "address": "浦三路895号",
         "name": "冠寓_杨高南路店",
         "count": 2,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -24597,7 +24597,7 @@ var addresses = [
         "address": "浦三路3058号",
         "name": "长青企业广场",
         "count": 4,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -24607,7 +24607,7 @@ var addresses = [
         "address": "浦申路633弄1-57号",
         "name": "世博家园二街坊",
         "count": 20,
-        "style": 1
+        "style": 2
     },
     {
         "lnglat": [
@@ -24617,7 +24617,7 @@ var addresses = [
         "address": "浦涛路100弄",
         "name": "中虹浦江苑北区",
         "count": 10,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -24627,7 +24627,7 @@ var addresses = [
         "address": "浦涛路400弄",
         "name": "瑞和新苑北区",
         "count": 10,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -24637,7 +24637,7 @@ var addresses = [
         "address": "浦涛路505弄",
         "name": "虹浦新城南区",
         "count": 76,
-        "style": 0
+        "style": 7
     },
     {
         "lnglat": [
@@ -24647,7 +24647,7 @@ var addresses = [
         "address": "浦涛路510弄",
         "name": "虹浦新城北区",
         "count": 30,
-        "style": 1
+        "style": 3
     },
     {
         "lnglat": [
@@ -24657,7 +24657,7 @@ var addresses = [
         "address": "浦星公路1919弄",
         "name": "绿地峰尚汇",
         "count": 6,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -24687,7 +24687,7 @@ var addresses = [
         "address": "浦秀路1139弄",
         "name": "浦秀馨苑",
         "count": 24,
-        "style": 1
+        "style": 2
     },
     {
         "lnglat": [
@@ -24717,7 +24717,7 @@ var addresses = [
         "address": "浦雪南路206弄",
         "name": "滨浦新苑六村",
         "count": 87,
-        "style": 0
+        "style": 8
     },
     {
         "lnglat": [
@@ -24727,7 +24727,7 @@ var addresses = [
         "address": "浦雪南路366弄1-55号",
         "name": "滨浦新苑5村",
         "count": 42,
-        "style": 0
+        "style": 4
     },
     {
         "lnglat": [
@@ -24737,7 +24737,7 @@ var addresses = [
         "address": "浦雪南路369弄",
         "name": "滨浦新苑7村",
         "count": 22,
-        "style": 1
+        "style": 2
     },
     {
         "lnglat": [
@@ -24747,7 +24747,7 @@ var addresses = [
         "address": "普安路177号",
         "name": "十方大厦名都商务楼",
         "count": 1,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -24757,7 +24757,7 @@ var addresses = [
         "address": "普安路189号",
         "name": "曙光大厦(上海)",
         "count": 5,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -24777,7 +24777,7 @@ var addresses = [
         "address": "普陀区武威东路888弄",
         "name": "恒盛鼎城圣都汇",
         "count": 39,
-        "style": 0
+        "style": 3
     },
     {
         "lnglat": [
@@ -24817,7 +24817,7 @@ var addresses = [
         "address": "七浦路535号",
         "name": "七浦商厦",
         "count": 3,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -24827,7 +24827,7 @@ var addresses = [
         "address": "浦涛路751弄",
         "name": "水语人家南苑",
         "count": 28,
-        "style": 1
+        "style": 2
     },
     {
         "lnglat": [
@@ -24837,7 +24837,7 @@ var addresses = [
         "address": "七莘路1728弄",
         "name": "蓼花汀",
         "count": 32,
-        "style": 0
+        "style": 3
     },
     {
         "lnglat": [
@@ -24847,7 +24847,7 @@ var addresses = [
         "address": "七莘路1839号",
         "name": "财富108广场",
         "count": 70,
-        "style": 0
+        "style": 7
     },
     {
         "lnglat": [
@@ -24857,7 +24857,7 @@ var addresses = [
         "address": "七莘路182号",
         "name": "182花园办公园",
         "count": 4,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -24887,7 +24887,7 @@ var addresses = [
         "address": "七莘路3599弄",
         "name": "华商时代",
         "count": 48,
-        "style": 0
+        "style": 4
     },
     {
         "lnglat": [
@@ -24897,7 +24897,7 @@ var addresses = [
         "address": "七莘路50号",
         "name": "乾锦创业园",
         "count": 1,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -24907,7 +24907,7 @@ var addresses = [
         "address": "七莘路3655号",
         "name": "凯德七宝购物广场",
         "count": 5,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -24927,7 +24927,7 @@ var addresses = [
         "address": "栖林路392弄",
         "name": "金地格林风范城城市公馆",
         "count": 2,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -24937,7 +24937,7 @@ var addresses = [
         "address": "栖山路1578弄",
         "name": "云山苑",
         "count": 3,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -24947,7 +24947,7 @@ var addresses = [
         "address": "栖山路465弄16号",
         "name": "鼎隆大厦",
         "count": 3,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -24957,7 +24957,7 @@ var addresses = [
         "address": "栖山路401弄1号",
         "name": "凌高小区",
         "count": 21,
-        "style": 1
+        "style": 2
     },
     {
         "lnglat": [
@@ -24967,7 +24967,7 @@ var addresses = [
         "address": "齐河路257弄21号",
         "name": "上南花苑",
         "count": 23,
-        "style": 1
+        "style": 2
     },
     {
         "lnglat": [
@@ -24987,7 +24987,7 @@ var addresses = [
         "address": "齐河路909弄",
         "name": "华业翠都",
         "count": 6,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -25007,7 +25007,7 @@ var addresses = [
         "address": "齐恒路177弄",
         "name": "凯德嘉博名邸",
         "count": 27,
-        "style": 1
+        "style": 2
     },
     {
         "lnglat": [
@@ -25017,7 +25017,7 @@ var addresses = [
         "address": "祁安路365弄5-125号",
         "name": "安居金祁新城一期",
         "count": 10,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -25037,7 +25037,7 @@ var addresses = [
         "address": "齐齐哈尔路240弄",
         "name": "丹江新苑",
         "count": 4,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -25057,7 +25057,7 @@ var addresses = [
         "address": "祁连山南路2199号",
         "name": "真新商务楼",
         "count": 3,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -25067,7 +25067,7 @@ var addresses = [
         "address": "祁连山南路2891弄100号",
         "name": "智创壹佰",
         "count": 9,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -25077,7 +25077,7 @@ var addresses = [
         "address": "祁连山南路588弄1号",
         "name": "康帅大厦",
         "count": 2,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -25087,7 +25087,7 @@ var addresses = [
         "address": "祁连山南路999弄",
         "name": "金沙嘉年华",
         "count": 40,
-        "style": 0
+        "style": 4
     },
     {
         "lnglat": [
@@ -25097,7 +25097,7 @@ var addresses = [
         "address": "祁连山南路2891弄",
         "name": "未来岛科技园区",
         "count": 8,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -25107,7 +25107,7 @@ var addresses = [
         "address": "棋盘路1150弄",
         "name": "嘉康坊",
         "count": 3,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -25117,7 +25117,7 @@ var addresses = [
         "address": "祁顺路1388弄",
         "name": "复地香栀花园",
         "count": 38,
-        "style": 0
+        "style": 3
     },
     {
         "lnglat": [
@@ -25127,7 +25127,7 @@ var addresses = [
         "address": "启源路1000弄",
         "name": "汇丰颐苑",
         "count": 8,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -25137,7 +25137,7 @@ var addresses = [
         "address": "启源路900弄",
         "name": "绿洲香润苑",
         "count": 66,
-        "style": 0
+        "style": 6
     },
     {
         "lnglat": [
@@ -25147,7 +25147,7 @@ var addresses = [
         "address": "启悦路700弄",
         "name": "碧桂园嘉誉",
         "count": 89,
-        "style": 0
+        "style": 8
     },
     {
         "lnglat": [
@@ -25157,7 +25157,7 @@ var addresses = [
         "address": "千帆路288弄",
         "name": "G60科创云廊",
         "count": 30,
-        "style": 1
+        "style": 3
     },
     {
         "lnglat": [
@@ -25177,7 +25177,7 @@ var addresses = [
         "address": "钦江路333号41幢",
         "name": "上海大唐移动商务楼",
         "count": 1,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -25187,7 +25187,7 @@ var addresses = [
         "address": "钦州北路1122号",
         "name": "漕河泾_新汇园",
         "count": 4,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -25207,7 +25207,7 @@ var addresses = [
         "address": "钦州北路188号",
         "name": "华京商务大厦",
         "count": 2,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -25217,7 +25217,7 @@ var addresses = [
         "address": "钦州北路399弄",
         "name": "金祥苑",
         "count": 10,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -25227,7 +25227,7 @@ var addresses = [
         "address": "钦州北路475号",
         "name": "广厦公寓",
         "count": 6,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -25237,7 +25237,7 @@ var addresses = [
         "address": "钦州北路567号",
         "name": "长春新苑",
         "count": 10,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -25257,7 +25257,7 @@ var addresses = [
         "address": "钦州路109号",
         "name": "逸安商务楼",
         "count": 1,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -25267,7 +25267,7 @@ var addresses = [
         "address": "钦州北路953号",
         "name": "上海航天公寓长春商务楼",
         "count": 4,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -25277,7 +25277,7 @@ var addresses = [
         "address": "钦州路108号",
         "name": "梓树园",
         "count": 24,
-        "style": 1
+        "style": 2
     },
     {
         "lnglat": [
@@ -25287,7 +25287,7 @@ var addresses = [
         "address": "钦州路428弄之1-9号",
         "name": "中虹汇之苑",
         "count": 9,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -25297,7 +25297,7 @@ var addresses = [
         "address": "钦州路760、780、820号",
         "name": "钦州公寓",
         "count": 6,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -25307,7 +25307,7 @@ var addresses = [
         "address": "钦州路840号-900号",
         "name": "钦州花苑",
         "count": 30,
-        "style": 1
+        "style": 3
     },
     {
         "lnglat": [
@@ -25327,7 +25327,7 @@ var addresses = [
         "address": "钦州路920号",
         "name": "钦州路920号",
         "count": 4,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -25347,7 +25347,7 @@ var addresses = [
         "address": "沁春路717号",
         "name": "青春商务园",
         "count": 4,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -25357,7 +25357,7 @@ var addresses = [
         "address": "青安路40号",
         "name": "凯特利广场",
         "count": 8,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -25367,7 +25367,7 @@ var addresses = [
         "address": "青黛路508号",
         "name": "新菲尔生物科技园区",
         "count": 4,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -25387,7 +25387,7 @@ var addresses = [
         "address": "青海路118号",
         "name": "云海苑商务楼",
         "count": 1,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -25397,7 +25397,7 @@ var addresses = [
         "address": "青海路132号",
         "name": "云海苑（公寓楼）",
         "count": 4,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -25407,7 +25407,7 @@ var addresses = [
         "address": "青湖路998-1002号",
         "name": "万福财富中心",
         "count": 6,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -25417,7 +25417,7 @@ var addresses = [
         "address": "青鸟路269弄",
         "name": "东亚阳光里",
         "count": 42,
-        "style": 0
+        "style": 4
     },
     {
         "lnglat": [
@@ -25427,7 +25427,7 @@ var addresses = [
         "address": "青鸟路599号",
         "name": "碧桂园浦东星作",
         "count": 50,
-        "style": 0
+        "style": 5
     },
     {
         "lnglat": [
@@ -25437,7 +25437,7 @@ var addresses = [
         "address": "青厦路200弄",
         "name": "华夏银桂苑",
         "count": 8,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -25447,7 +25447,7 @@ var addresses = [
         "address": "青杉路150弄",
         "name": "龙柏四季花园",
         "count": 57,
-        "style": 0
+        "style": 5
     },
     {
         "lnglat": [
@@ -25457,7 +25457,7 @@ var addresses = [
         "address": "青杉路169弄、157弄",
         "name": "龙柏香榭苑",
         "count": 38,
-        "style": 0
+        "style": 3
     },
     {
         "lnglat": [
@@ -25467,7 +25467,7 @@ var addresses = [
         "address": "青杉路200弄1号",
         "name": "俊领国际（青杉路200弄1号）",
         "count": 3,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -25487,7 +25487,7 @@ var addresses = [
         "address": "青竹路161弄",
         "name": "中铁逸都",
         "count": 214,
-        "style": 0
+        "style": 9
     },
     {
         "lnglat": [
@@ -25497,7 +25497,7 @@ var addresses = [
         "address": "清河湾路425弄",
         "name": "旭辉百合宫馆",
         "count": 32,
-        "style": 0
+        "style": 3
     },
     {
         "lnglat": [
@@ -25507,7 +25507,7 @@ var addresses = [
         "address": "青云路108弄",
         "name": "虹口花苑三期",
         "count": 6,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -25517,7 +25517,7 @@ var addresses = [
         "address": "清河湾路486弄",
         "name": "富力桃园(上海)",
         "count": 62,
-        "style": 0
+        "style": 6
     },
     {
         "lnglat": [
@@ -25527,7 +25527,7 @@ var addresses = [
         "address": "清河湾路699弄",
         "name": "旭辉玫瑰湾",
         "count": 110,
-        "style": 0
+        "style": 9
     },
     {
         "lnglat": [
@@ -25537,7 +25537,7 @@ var addresses = [
         "address": "清河湾路819弄",
         "name": "青浦卓越世纪中心",
         "count": 25,
-        "style": 1
+        "style": 2
     },
     {
         "lnglat": [
@@ -25547,7 +25547,7 @@ var addresses = [
         "address": "清宁路359弄",
         "name": "白沙通苑",
         "count": 27,
-        "style": 1
+        "style": 2
     },
     {
         "lnglat": [
@@ -25557,7 +25557,7 @@ var addresses = [
         "address": "清宁路469弄",
         "name": "白沙西苑",
         "count": 26,
-        "style": 1
+        "style": 2
     },
     {
         "lnglat": [
@@ -25567,7 +25567,7 @@ var addresses = [
         "address": "清宁路58弄218弄",
         "name": "东原郦湾",
         "count": 30,
-        "style": 1
+        "style": 3
     },
     {
         "lnglat": [
@@ -25577,7 +25577,7 @@ var addresses = [
         "address": "清宁路85弄",
         "name": "白沙东苑",
         "count": 48,
-        "style": 0
+        "style": 4
     },
     {
         "lnglat": [
@@ -25587,7 +25587,7 @@ var addresses = [
         "address": "清宁路239弄",
         "name": "白沙恒苑",
         "count": 28,
-        "style": 1
+        "style": 2
     },
     {
         "lnglat": [
@@ -25607,7 +25607,7 @@ var addresses = [
         "address": "清峪路368弄",
         "name": "金沙雅苑三期滨湖世家",
         "count": 38,
-        "style": 0
+        "style": 3
     },
     {
         "lnglat": [
@@ -25617,7 +25617,7 @@ var addresses = [
         "address": "清真路55弄",
         "name": "大闻公寓",
         "count": 2,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -25627,7 +25627,7 @@ var addresses = [
         "address": "秋兴路875号",
         "name": "中汽联（临港）全球汽车零部件创新中心",
         "count": 36,
-        "style": 0
+        "style": 3
     },
     {
         "lnglat": [
@@ -25637,7 +25637,7 @@ var addresses = [
         "address": "庆园路189弄",
         "name": "桐南美麓",
         "count": 39,
-        "style": 0
+        "style": 3
     },
     {
         "lnglat": [
@@ -25647,7 +25647,7 @@ var addresses = [
         "address": "秋亭路88弄",
         "name": "朗诗未来树",
         "count": 10,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -25657,7 +25657,7 @@ var addresses = [
         "address": "秋竹路118弄",
         "name": "胜悦嘉苑东区",
         "count": 22,
-        "style": 1
+        "style": 2
     },
     {
         "lnglat": [
@@ -25667,7 +25667,7 @@ var addresses = [
         "address": "秋竹路119弄",
         "name": "胜悦嘉苑西区",
         "count": 28,
-        "style": 1
+        "style": 2
     },
     {
         "lnglat": [
@@ -25677,7 +25677,7 @@ var addresses = [
         "address": "秋竹路655弄",
         "name": "叠翠峰苑二期",
         "count": 65,
-        "style": 0
+        "style": 6
     },
     {
         "lnglat": [
@@ -25687,7 +25687,7 @@ var addresses = [
         "address": "虬江路1368弄",
         "name": "长城苑",
         "count": 6,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -25697,7 +25697,7 @@ var addresses = [
         "address": "秋竹路801弄",
         "name": "金色榴乡园",
         "count": 79,
-        "style": 0
+        "style": 7
     },
     {
         "lnglat": [
@@ -25707,7 +25707,7 @@ var addresses = [
         "address": "秋竹路618弄",
         "name": "叠翠峰苑一期",
         "count": 54,
-        "style": 0
+        "style": 5
     },
     {
         "lnglat": [
@@ -25717,7 +25717,7 @@ var addresses = [
         "address": "虬江路1488弄",
         "name": "精文城市花园",
         "count": 46,
-        "style": 0
+        "style": 4
     },
     {
         "lnglat": [
@@ -25727,7 +25727,7 @@ var addresses = [
         "address": "虬江路49弄60号",
         "name": "虬龙公寓",
         "count": 2,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -25737,7 +25737,7 @@ var addresses = [
         "address": "虬江路997弄",
         "name": "东新大楼",
         "count": 2,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -25747,7 +25747,7 @@ var addresses = [
         "address": "虬江支路181号",
         "name": "虹口商城楼",
         "count": 4,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -25757,7 +25757,7 @@ var addresses = [
         "address": "曲阜西路268号（乌镇路）",
         "name": "上海恒安大厦",
         "count": 2,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -25767,7 +25767,7 @@ var addresses = [
         "address": "曲沃路66弄",
         "name": "闻喜华庭(上海)",
         "count": 30,
-        "style": 1
+        "style": 3
     },
     {
         "lnglat": [
@@ -25777,7 +25777,7 @@ var addresses = [
         "address": "虬泾路99弄",
         "name": "九亭明珠苑",
         "count": 38,
-        "style": 0
+        "style": 3
     },
     {
         "lnglat": [
@@ -25787,7 +25787,7 @@ var addresses = [
         "address": "曲吴路589号",
         "name": "中国梦谷南上海文化创意产业园",
         "count": 8,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -25797,7 +25797,7 @@ var addresses = [
         "address": "曲阳路167号",
         "name": "宏城公寓",
         "count": 3,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -25807,7 +25807,7 @@ var addresses = [
         "address": "曲阳路1号",
         "name": "华西证券大厦",
         "count": 2,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -25817,7 +25817,7 @@ var addresses = [
         "address": "曲阳路31号",
         "name": "曲阳公寓(上海)",
         "count": 1,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -25827,7 +25827,7 @@ var addresses = [
         "address": "曲阳路299号",
         "name": "宝莲大厦",
         "count": 5,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -25847,7 +25847,7 @@ var addresses = [
         "address": "曲阳路428弄",
         "name": "曲阳公寓",
         "count": 6,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -25857,7 +25857,7 @@ var addresses = [
         "address": "曲阳路440号",
         "name": "东渡名人大厦",
         "count": 4,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -25867,7 +25867,7 @@ var addresses = [
         "address": "曲阳路489弄8号",
         "name": "虹口创客服务中心",
         "count": 1,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -25877,7 +25877,7 @@ var addresses = [
         "address": "曲阳路501号-551号",
         "name": "曲一花苑(曲一小区)",
         "count": 6,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -25897,7 +25897,7 @@ var addresses = [
         "address": "曲阳路800号",
         "name": "上海商务中心大厦",
         "count": 4,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -25907,7 +25907,7 @@ var addresses = [
         "address": "曲阳路990弄",
         "name": "运光大楼",
         "count": 6,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -25927,7 +25927,7 @@ var addresses = [
         "address": "瞿溪路1072弄",
         "name": "南园新村",
         "count": 25,
-        "style": 1
+        "style": 2
     },
     {
         "lnglat": [
@@ -25937,7 +25937,7 @@ var addresses = [
         "address": "瞿溪路1168号",
         "name": "开源大厦",
         "count": 2,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -25947,7 +25947,7 @@ var addresses = [
         "address": "瞿溪路1199弄",
         "name": "复兴南苑",
         "count": 10,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -25957,7 +25957,7 @@ var addresses = [
         "address": "瞿溪路1236号",
         "name": "瞿溪路1236号商务楼",
         "count": 1,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -25967,7 +25967,7 @@ var addresses = [
         "address": "瞿溪路301弄",
         "name": "蓬莱家园(二期)",
         "count": 10,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -25977,7 +25977,7 @@ var addresses = [
         "address": "瞿溪路694号",
         "name": "汇典商务楼",
         "count": 3,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -25987,7 +25987,7 @@ var addresses = [
         "address": "瞿溪路811弄",
         "name": "大众家园",
         "count": 27,
-        "style": 1
+        "style": 2
     },
     {
         "lnglat": [
@@ -26007,7 +26007,7 @@ var addresses = [
         "address": "群峰路128弄",
         "name": "新元盛璟苑",
         "count": 41,
-        "style": 0
+        "style": 4
     },
     {
         "lnglat": [
@@ -26027,7 +26027,7 @@ var addresses = [
         "address": "人民东路2729弄38支弄",
         "name": "东方城市豪庭",
         "count": 96,
-        "style": 0
+        "style": 9
     },
     {
         "lnglat": [
@@ -26057,7 +26057,7 @@ var addresses = [
         "address": "人民路889号",
         "name": "淮海中华大厦",
         "count": 2,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -26067,7 +26067,7 @@ var addresses = [
         "address": "人民路998号",
         "name": "金天地国际大厦",
         "count": 4,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -26077,7 +26077,7 @@ var addresses = [
         "address": "人民西路1533弄",
         "name": "艺泰一品花园",
         "count": 51,
-        "style": 0
+        "style": 5
     },
     {
         "lnglat": [
@@ -26087,7 +26087,7 @@ var addresses = [
         "address": "日晖六村33号",
         "name": "新徐汇商务中心",
         "count": 2,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -26097,7 +26097,7 @@ var addresses = [
         "address": "仁庆路356号",
         "name": "2号地块张江东区商业办公楼",
         "count": 5,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -26107,7 +26107,7 @@ var addresses = [
         "address": "日京路35号",
         "name": "凯兴大楼",
         "count": 2,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -26117,7 +26117,7 @@ var addresses = [
         "address": "茸平路333弄",
         "name": "国乐广场",
         "count": 30,
-        "style": 1
+        "style": 3
     },
     {
         "lnglat": [
@@ -26127,7 +26127,7 @@ var addresses = [
         "address": "茸平路515弄",
         "name": "福都商务广场",
         "count": 3,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -26137,7 +26137,7 @@ var addresses = [
         "address": "日京路161号",
         "name": "商都大楼",
         "count": 2,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -26157,7 +26157,7 @@ var addresses = [
         "address": "茸兴路280弄",
         "name": "恒大帝景一期",
         "count": 29,
-        "style": 1
+        "style": 2
     },
     {
         "lnglat": [
@@ -26167,7 +26167,7 @@ var addresses = [
         "address": "茸兴路285号",
         "name": "时亦商务大厦",
         "count": 1,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -26177,7 +26177,7 @@ var addresses = [
         "address": "茸兴路407号",
         "name": "茸407创意园",
         "count": 7,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -26187,7 +26187,7 @@ var addresses = [
         "address": "荣华东道119号",
         "name": "巴黎花园（上海）",
         "count": 8,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -26197,7 +26197,7 @@ var addresses = [
         "address": "荣华东道119弄",
         "name": "巴黎经典",
         "count": 8,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -26217,7 +26217,7 @@ var addresses = [
         "address": "荣华东道128号",
         "name": "维多利亚E座",
         "count": 6,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -26247,7 +26247,7 @@ var addresses = [
         "address": "荣华东道35号-25号",
         "name": "广场大厦",
         "count": 2,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -26257,7 +26257,7 @@ var addresses = [
         "address": "荣华东道98号",
         "name": "维多利亚C座",
         "count": 4,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -26287,7 +26287,7 @@ var addresses = [
         "address": "荣华西道79号",
         "name": "金象公寓",
         "count": 4,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -26297,7 +26297,7 @@ var addresses = [
         "address": "荣华西道19弄1-4号",
         "name": "金龙公寓",
         "count": 4,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -26307,7 +26307,7 @@ var addresses = [
         "address": "荣华西道99号",
         "name": "金马公寓",
         "count": 4,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -26317,7 +26317,7 @@ var addresses = [
         "address": "荣科路177弄",
         "name": "张江荣科苑",
         "count": 21,
-        "style": 1
+        "style": 2
     },
     {
         "lnglat": [
@@ -26337,7 +26337,7 @@ var addresses = [
         "address": "荣乐东路2369号",
         "name": "绿地松江商务广场",
         "count": 7,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -26347,7 +26347,7 @@ var addresses = [
         "address": "荣乐西路266弄",
         "name": "维罗纳贵都",
         "count": 82,
-        "style": 0
+        "style": 8
     },
     {
         "lnglat": [
@@ -26357,7 +26357,7 @@ var addresses = [
         "address": "荣华西道79弄、39弄",
         "name": "金鹿公寓",
         "count": 5,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -26377,7 +26377,7 @@ var addresses = [
         "address": "荣轩路60弄",
         "name": "君悦华庭（上海）",
         "count": 26,
-        "style": 1
+        "style": 2
     },
     {
         "lnglat": [
@@ -26387,7 +26387,7 @@ var addresses = [
         "address": "乳山路505弄",
         "name": "上海滩花园洋房_南北区",
         "count": 134,
-        "style": 0
+        "style": 9
     },
     {
         "lnglat": [
@@ -26397,7 +26397,7 @@ var addresses = [
         "address": "乳山路98号",
         "name": "普联大厦",
         "count": 5,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -26407,7 +26407,7 @@ var addresses = [
         "address": "荣谊路108弄",
         "name": "东方花园三期",
         "count": 35,
-        "style": 0
+        "style": 3
     },
     {
         "lnglat": [
@@ -26417,7 +26417,7 @@ var addresses = [
         "address": "瑞金南路185弄",
         "name": "瑞南新苑",
         "count": 6,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -26427,7 +26427,7 @@ var addresses = [
         "address": "瑞金南路1号",
         "name": "海兴广场",
         "count": 10,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -26437,7 +26437,7 @@ var addresses = [
         "address": "瑞金南路333弄",
         "name": "名盛苑",
         "count": 47,
-        "style": 0
+        "style": 4
     },
     {
         "lnglat": [
@@ -26447,7 +26447,7 @@ var addresses = [
         "address": "瑞金南路345号",
         "name": "裕兴大厦（商务楼）",
         "count": 3,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -26457,7 +26457,7 @@ var addresses = [
         "address": "瑞金南路500号",
         "name": "新视觉500",
         "count": 4,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -26467,7 +26467,7 @@ var addresses = [
         "address": "瑞金南路458弄",
         "name": "瑞金南苑",
         "count": 26,
-        "style": 1
+        "style": 2
     },
     {
         "lnglat": [
@@ -26477,7 +26477,7 @@ var addresses = [
         "address": "瑞金南路345弄",
         "name": "裕兴大厦（上海）",
         "count": 2,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -26487,7 +26487,7 @@ var addresses = [
         "address": "瑞金南路546,570号",
         "name": "双晖小区",
         "count": 4,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -26497,7 +26497,7 @@ var addresses = [
         "address": "瑞金南路628弄",
         "name": "环龙新苑",
         "count": 10,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -26507,7 +26507,7 @@ var addresses = [
         "address": "瑞丽路918弄",
         "name": "海赋尚品苑",
         "count": 27,
-        "style": 1
+        "style": 2
     },
     {
         "lnglat": [
@@ -26517,7 +26517,7 @@ var addresses = [
         "address": "瑞宁路908弄",
         "name": "保利西岸",
         "count": 22,
-        "style": 1
+        "style": 2
     },
     {
         "lnglat": [
@@ -26527,7 +26527,7 @@ var addresses = [
         "address": "瑞浦路287弄-1-82号",
         "name": "桃园新城中虹佳园（中虹佳园）",
         "count": 4,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -26547,7 +26547,7 @@ var addresses = [
         "address": "润兴路8弄",
         "name": "金山玫瑰公馆",
         "count": 46,
-        "style": 0
+        "style": 4
     },
     {
         "lnglat": [
@@ -26557,7 +26557,7 @@ var addresses = [
         "address": "瑞庆路528号、胜利路836号",
         "name": "张江医疗器械园",
         "count": 10,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -26567,7 +26567,7 @@ var addresses = [
         "address": "三达路25号",
         "name": "鸣欣苑小区",
         "count": 1,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -26577,7 +26577,7 @@ var addresses = [
         "address": "三林路158号",
         "name": "前滩尚博园",
         "count": 2,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -26587,7 +26587,7 @@ var addresses = [
         "address": "三林路738号",
         "name": "上海谨泛创意产业园",
         "count": 4,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -26597,7 +26597,7 @@ var addresses = [
         "address": "三林路1300弄",
         "name": "金色雅筑(中林苑)",
         "count": 87,
-        "style": 0
+        "style": 8
     },
     {
         "lnglat": [
@@ -26607,7 +26607,7 @@ var addresses = [
         "address": "三林路1466弄1662弄",
         "name": "阳辰美景（衡辰三林苑）",
         "count": 42,
-        "style": 0
+        "style": 4
     },
     {
         "lnglat": [
@@ -26627,7 +26627,7 @@ var addresses = [
         "address": "三鲁公路2799号",
         "name": "禾谷文创四达园",
         "count": 7,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -26637,7 +26637,7 @@ var addresses = [
         "address": "三鲁公路3398号",
         "name": "上海国茸浦江科创园",
         "count": 10,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -26647,7 +26647,7 @@ var addresses = [
         "address": "三门路318弄",
         "name": "同济北苑",
         "count": 22,
-        "style": 1
+        "style": 2
     },
     {
         "lnglat": [
@@ -26657,7 +26657,7 @@ var addresses = [
         "address": "三门路1266弄",
         "name": "恒大江湾华庭",
         "count": 28,
-        "style": 1
+        "style": 2
     },
     {
         "lnglat": [
@@ -26667,7 +26667,7 @@ var addresses = [
         "address": "三门路333弄",
         "name": "三门路333弄（空军干部家属院）",
         "count": 7,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -26687,7 +26687,7 @@ var addresses = [
         "address": "三泉路1859弄",
         "name": "宝宸怡景园",
         "count": 104,
-        "style": 0
+        "style": 9
     },
     {
         "lnglat": [
@@ -26697,7 +26697,7 @@ var addresses = [
         "address": "三泉路1858弄",
         "name": "宝宸共和家园",
         "count": 72,
-        "style": 0
+        "style": 7
     },
     {
         "lnglat": [
@@ -26707,7 +26707,7 @@ var addresses = [
         "address": "三新北路1333弄-1-90号",
         "name": "恒杰丁香花园",
         "count": 49,
-        "style": 0
+        "style": 4
     },
     {
         "lnglat": [
@@ -26737,7 +26737,7 @@ var addresses = [
         "address": "沙河路58号",
         "name": "美好中心",
         "count": 2,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -26747,7 +26747,7 @@ var addresses = [
         "address": "沙浦路128弄",
         "name": "上海绿洲花园",
         "count": 43,
-        "style": 0
+        "style": 4
     },
     {
         "lnglat": [
@@ -26757,7 +26757,7 @@ var addresses = [
         "address": "山连路799号",
         "name": "新天地创意园",
         "count": 4,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -26767,7 +26767,7 @@ var addresses = [
         "address": "山西北路222弄",
         "name": "联富假日公寓",
         "count": 4,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -26777,7 +26777,7 @@ var addresses = [
         "address": "沙浦路311弄",
         "name": "新天地荻泾花园三期",
         "count": 75,
-        "style": 0
+        "style": 7
     },
     {
         "lnglat": [
@@ -26787,7 +26787,7 @@ var addresses = [
         "address": "山西南路350号(北京东路）",
         "name": "上海物资大厦",
         "count": 4,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -26797,7 +26797,7 @@ var addresses = [
         "address": "陕西北路1155弄",
         "name": "静安晶华园",
         "count": 6,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -26807,7 +26807,7 @@ var addresses = [
         "address": "陕西北路1283弄3号",
         "name": "宝都大厦",
         "count": 1,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -26817,7 +26817,7 @@ var addresses = [
         "address": "陕西北路1283弄9号",
         "name": "玉城大厦",
         "count": 5,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -26827,7 +26827,7 @@ var addresses = [
         "address": "陕西北路1789弄",
         "name": "都华名苑",
         "count": 9,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -26837,7 +26837,7 @@ var addresses = [
         "address": "陕西北路66号",
         "name": "科恩国际中心",
         "count": 7,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -26857,7 +26857,7 @@ var addresses = [
         "address": "陕西南路333弄5号",
         "name": "联兴大厦（上海）",
         "count": 3,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -26867,7 +26867,7 @@ var addresses = [
         "address": "陕西北路688号",
         "name": "静工创意智社（智社iCommune）",
         "count": 3,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -26877,7 +26877,7 @@ var addresses = [
         "address": "陕西南路888号",
         "name": "汇景苑",
         "count": 5,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -26897,7 +26897,7 @@ var addresses = [
         "address": "商城路1900号",
         "name": "金桃大厦",
         "count": 3,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -26907,7 +26907,7 @@ var addresses = [
         "address": "陕西南路3号",
         "name": "城市一品苑",
         "count": 2,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -26917,7 +26917,7 @@ var addresses = [
         "address": "商城路1986号",
         "name": "商城商务楼",
         "count": 2,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -26927,7 +26927,7 @@ var addresses = [
         "address": "商城路2000号",
         "name": "宜嘉商务楼",
         "count": 1,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -26937,7 +26937,7 @@ var addresses = [
         "address": "商城路297号",
         "name": "申金大厦",
         "count": 1,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -26947,7 +26947,7 @@ var addresses = [
         "address": "商城路341号",
         "name": "紫光大厦",
         "count": 2,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -26957,7 +26957,7 @@ var addresses = [
         "address": "商城路518号",
         "name": "内外联大厦",
         "count": 3,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -26967,7 +26967,7 @@ var addresses = [
         "address": "商城路618号",
         "name": "上海良友大厦",
         "count": 6,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -26977,7 +26977,7 @@ var addresses = [
         "address": "商城路660号",
         "name": "乐凯大厦",
         "count": 9,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -26987,7 +26987,7 @@ var addresses = [
         "address": "商城路738号",
         "name": "胜康廖氏大厦",
         "count": 45,
-        "style": 0
+        "style": 4
     },
     {
         "lnglat": [
@@ -26997,7 +26997,7 @@ var addresses = [
         "address": "商城路889号",
         "name": "波特营园区",
         "count": 5,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -27007,7 +27007,7 @@ var addresses = [
         "address": "上大路1号",
         "name": "文景楼",
         "count": 5,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -27017,7 +27017,7 @@ var addresses = [
         "address": "上大路2弄",
         "name": "锦秀苑",
         "count": 10,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -27037,7 +27037,7 @@ var addresses = [
         "address": "上海黄浦区宁波路1号",
         "name": "申华金融大厦",
         "count": 5,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -27047,7 +27047,7 @@ var addresses = [
         "address": "上海市宝山区天家路200弄",
         "name": "美罗家园宝欣苑五村",
         "count": 28,
-        "style": 1
+        "style": 2
     },
     {
         "lnglat": [
@@ -27057,7 +27057,7 @@ var addresses = [
         "address": "上海市宝山区天家路199弄",
         "name": "美罗家园宝欣苑六村",
         "count": 24,
-        "style": 1
+        "style": 2
     },
     {
         "lnglat": [
@@ -27087,7 +27087,7 @@ var addresses = [
         "address": "上海市普陀区武宁路19号",
         "name": "丽晶阳光大厦",
         "count": 6,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -27097,7 +27097,7 @@ var addresses = [
         "address": "上海市浦东新区海洋四路99弄1-35号",
         "name": "智菁科技中心创新魔方一期",
         "count": 23,
-        "style": 1
+        "style": 2
     },
     {
         "lnglat": [
@@ -27107,7 +27107,7 @@ var addresses = [
         "address": "上海外高桥保税区港澳路239号",
         "name": "兴江国贸大楼",
         "count": 5,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -27117,7 +27117,7 @@ var addresses = [
         "address": "上南路1500弄",
         "name": "城建公寓",
         "count": 1,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -27127,7 +27127,7 @@ var addresses = [
         "address": "上南路2779号",
         "name": "大桥海达楼",
         "count": 2,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -27137,7 +27137,7 @@ var addresses = [
         "address": "上南路2985号",
         "name": "海宏大厦（上海）",
         "count": 4,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -27157,7 +27157,7 @@ var addresses = [
         "address": "上南路3855号",
         "name": "如日商务园",
         "count": 8,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -27167,7 +27167,7 @@ var addresses = [
         "address": "上中路303号",
         "name": "万街303创意园区",
         "count": 3,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -27177,7 +27177,7 @@ var addresses = [
         "address": "上中路479号",
         "name": "上中路483弄（479弄）商办楼",
         "count": 4,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -27187,7 +27187,7 @@ var addresses = [
         "address": "上中路495号",
         "name": "汇达商务园",
         "count": 6,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -27197,7 +27197,7 @@ var addresses = [
         "address": "上南路6500弄",
         "name": "阳光城丽景湾PLUS",
         "count": 64,
-        "style": 0
+        "style": 6
     },
     {
         "lnglat": [
@@ -27227,7 +27227,7 @@ var addresses = [
         "address": "上中路55弄",
         "name": "长桥一村",
         "count": 2,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -27247,7 +27247,7 @@ var addresses = [
         "address": "尚博路569弄",
         "name": "湾流域二期",
         "count": 103,
-        "style": 0
+        "style": 9
     },
     {
         "lnglat": [
@@ -27257,7 +27257,7 @@ var addresses = [
         "address": "尚博路650弄",
         "name": "金橘新苑南区",
         "count": 30,
-        "style": 1
+        "style": 3
     },
     {
         "lnglat": [
@@ -27267,7 +27267,7 @@ var addresses = [
         "address": "尚博路799弄",
         "name": "金橘新苑北区",
         "count": 101,
-        "style": 0
+        "style": 9
     },
     {
         "lnglat": [
@@ -27277,7 +27277,7 @@ var addresses = [
         "address": "尚文路168号",
         "name": "东波大厦",
         "count": 7,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -27287,7 +27287,7 @@ var addresses = [
         "address": "尚文路185号",
         "name": "平利大厦",
         "count": 7,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -27297,7 +27297,7 @@ var addresses = [
         "address": "尚文路198号",
         "name": "中华大厦",
         "count": 7,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -27307,7 +27307,7 @@ var addresses = [
         "address": "尚义路39弄2号",
         "name": "吴泾宝龙中心（一期）",
         "count": 10,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -27317,7 +27317,7 @@ var addresses = [
         "address": "尚义路91号",
         "name": "吴泾宝龙中心（二期）",
         "count": 30,
-        "style": 1
+        "style": 3
     },
     {
         "lnglat": [
@@ -27337,7 +27337,7 @@ var addresses = [
         "address": "少年村路451弄68号",
         "name": "景和创意园区",
         "count": 4,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -27357,7 +27357,7 @@ var addresses = [
         "address": "申滨路9号",
         "name": "九星虹桥商务中心",
         "count": 25,
-        "style": 1
+        "style": 2
     },
     {
         "lnglat": [
@@ -27367,7 +27367,7 @@ var addresses = [
         "address": "申滨南路1126号",
         "name": "龙湖虹桥天街",
         "count": 59,
-        "style": 0
+        "style": 5
     },
     {
         "lnglat": [
@@ -27377,7 +27377,7 @@ var addresses = [
         "address": "申港大道158号",
         "name": "昊坤国际大厦",
         "count": 8,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -27387,7 +27387,7 @@ var addresses = [
         "address": "申港路660号",
         "name": "科溢智慧园",
         "count": 3,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -27397,7 +27397,7 @@ var addresses = [
         "address": "申虹路1188弄",
         "name": "恒基旭辉中心",
         "count": 8,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -27407,7 +27407,7 @@ var addresses = [
         "address": "申虹路663号",
         "name": "虹桥协信中心",
         "count": 28,
-        "style": 1
+        "style": 2
     },
     {
         "lnglat": [
@@ -27417,7 +27417,7 @@ var addresses = [
         "address": "申虹路666弄",
         "name": "正荣中心",
         "count": 32,
-        "style": 0
+        "style": 3
     },
     {
         "lnglat": [
@@ -27427,7 +27427,7 @@ var addresses = [
         "address": "申虹路988弄",
         "name": "虹桥富力悦都商办区域",
         "count": 53,
-        "style": 0
+        "style": 5
     },
     {
         "lnglat": [
@@ -27437,7 +27437,7 @@ var addresses = [
         "address": "申江路5005弄",
         "name": "星创科技广场",
         "count": 6,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -27457,7 +27457,7 @@ var addresses = [
         "address": "申南路59弄",
         "name": "凯龙莘庄商务园",
         "count": 5,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -27467,7 +27467,7 @@ var addresses = [
         "address": "申旺路789号",
         "name": "慧高光创园(光创园)",
         "count": 4,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -27477,7 +27477,7 @@ var addresses = [
         "address": "申长路1466弄",
         "name": "虹桥富力中心",
         "count": 31,
-        "style": 0
+        "style": 3
     },
     {
         "lnglat": [
@@ -27487,7 +27487,7 @@ var addresses = [
         "address": "申长路1588弄1号楼",
         "name": "虹桥平安财富中心",
         "count": 3,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -27517,7 +27517,7 @@ var addresses = [
         "address": "申长路869号",
         "name": "孩子王(上海虹桥天街店)",
         "count": 87,
-        "style": 0
+        "style": 8
     },
     {
         "lnglat": [
@@ -27527,7 +27527,7 @@ var addresses = [
         "address": "申长路988号",
         "name": "虹桥万科中心",
         "count": 5,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -27537,7 +27537,7 @@ var addresses = [
         "address": "申郑路18弄",
         "name": "万科时一区一期(虹桥万科润园)",
         "count": 29,
-        "style": 1
+        "style": 2
     },
     {
         "lnglat": [
@@ -27547,7 +27547,7 @@ var addresses = [
         "address": "莘浜路10弄2号",
         "name": "上海银星大厦",
         "count": 1,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -27557,7 +27557,7 @@ var addresses = [
         "address": "莘福路388号",
         "name": "莘东置业大厦",
         "count": 29,
-        "style": 1
+        "style": 2
     },
     {
         "lnglat": [
@@ -27567,7 +27567,7 @@ var addresses = [
         "address": "莘东路298弄",
         "name": "东苑世纪茗苑(世纪茗苑)",
         "count": 6,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -27587,7 +27587,7 @@ var addresses = [
         "address": "莘建东路58号",
         "name": "绿地科技岛",
         "count": 26,
-        "style": 1
+        "style": 2
     },
     {
         "lnglat": [
@@ -27597,7 +27597,7 @@ var addresses = [
         "address": "莘建东路388 399弄",
         "name": "众众家园",
         "count": 20,
-        "style": 1
+        "style": 2
     },
     {
         "lnglat": [
@@ -27607,7 +27607,7 @@ var addresses = [
         "address": "莘松路380号",
         "name": "智慧园",
         "count": 4,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -27617,7 +27617,7 @@ var addresses = [
         "address": "莘松路855号",
         "name": "青春商务楼",
         "count": 3,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -27627,7 +27627,7 @@ var addresses = [
         "address": "莘松路958弄",
         "name": "上海康城三期",
         "count": 144,
-        "style": 0
+        "style": 9
     },
     {
         "lnglat": [
@@ -27637,7 +27637,7 @@ var addresses = [
         "address": "莘松路958弄大浪湾道",
         "name": "上海康城四期",
         "count": 142,
-        "style": 0
+        "style": 9
     },
     {
         "lnglat": [
@@ -27647,7 +27647,7 @@ var addresses = [
         "address": "莘松路958弄三林道89号",
         "name": "上海康城二期",
         "count": 119,
-        "style": 0
+        "style": 9
     },
     {
         "lnglat": [
@@ -27657,7 +27657,7 @@ var addresses = [
         "address": "莘松路980弄",
         "name": "上海康城一期",
         "count": 83,
-        "style": 0
+        "style": 8
     },
     {
         "lnglat": [
@@ -27667,7 +27667,7 @@ var addresses = [
         "address": "莘朱路2111弄1-7号",
         "name": "朱莘苑",
         "count": 7,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -27687,7 +27687,7 @@ var addresses = [
         "address": "莘朱路695号",
         "name": "莘南综合楼(稷下商务中心)",
         "count": 2,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -27697,7 +27697,7 @@ var addresses = [
         "address": "沈杜公路3872弄",
         "name": "显贵商务楼",
         "count": 4,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -27707,7 +27707,7 @@ var addresses = [
         "address": "沈杜公路3872弄4号楼",
         "name": "上海节能环保科技孵化基地",
         "count": 7,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -27717,7 +27717,7 @@ var addresses = [
         "address": "沈杜公路4285号",
         "name": "程文商务中心",
         "count": 5,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -27727,7 +27727,7 @@ var addresses = [
         "address": "沈杜路118号",
         "name": "118空间",
         "count": 6,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -27737,7 +27737,7 @@ var addresses = [
         "address": "沈梅路99号",
         "name": "智慧产业园",
         "count": 5,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -27747,7 +27747,7 @@ var addresses = [
         "address": "沈阳路123弄",
         "name": "华谊星城名苑",
         "count": 9,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -27757,7 +27757,7 @@ var addresses = [
         "address": "沈砖公路5599号",
         "name": "伟凯科技产业园",
         "count": 2,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -27777,7 +27777,7 @@ var addresses = [
         "address": "盛富路490号",
         "name": "佳钢科创园_盛富路",
         "count": 2,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -27807,7 +27807,7 @@ var addresses = [
         "address": "盛荣路188弄",
         "name": "盛大天地创意中心一期（青春里）",
         "count": 9,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -27837,7 +27837,7 @@ var addresses = [
         "address": "盛夏路570号",
         "name": "盛夏路570号大楼",
         "count": 3,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -27847,7 +27847,7 @@ var addresses = [
         "address": "盛夏路560号",
         "name": "盛夏路560号大楼",
         "count": 3,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -27857,7 +27857,7 @@ var addresses = [
         "address": "盛夏路666号",
         "name": "普洛斯盛银大厦(上投盛银大厦)",
         "count": 6,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -27867,7 +27867,7 @@ var addresses = [
         "address": "施湾航城三路518弄",
         "name": "东亚启航公馆",
         "count": 29,
-        "style": 1
+        "style": 2
     },
     {
         "lnglat": [
@@ -27877,7 +27877,7 @@ var addresses = [
         "address": "石龙路329号",
         "name": "智慧谷(上海)",
         "count": 3,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -27897,7 +27897,7 @@ var addresses = [
         "address": "石龙路569号",
         "name": "S569园区",
         "count": 8,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -27907,7 +27907,7 @@ var addresses = [
         "address": "石龙路345弄3号",
         "name": "杰初智园",
         "count": 6,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -27917,7 +27917,7 @@ var addresses = [
         "address": "石龙路666号",
         "name": "上海长途客运南站",
         "count": 6,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -27927,7 +27927,7 @@ var addresses = [
         "address": "石龙路951号",
         "name": "美通科创空间",
         "count": 1,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -27937,7 +27937,7 @@ var addresses = [
         "address": "石龙路980弄",
         "name": "麦克花园",
         "count": 3,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -27957,7 +27957,7 @@ var addresses = [
         "address": "石门二路333弄3号",
         "name": "振安广场_恒安大厦",
         "count": 2,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -27967,7 +27967,7 @@ var addresses = [
         "address": "石门二路258号",
         "name": "现代建筑设计大厦",
         "count": 5,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -27977,7 +27977,7 @@ var addresses = [
         "address": "石门二路503号",
         "name": "恒丰大楼",
         "count": 4,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -27987,7 +27987,7 @@ var addresses = [
         "address": "石门一路116号",
         "name": "中邦艾格美国际公寓",
         "count": 5,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -27997,7 +27997,7 @@ var addresses = [
         "address": "石门一路211号",
         "name": "旺旺大厦(上海)",
         "count": 8,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -28007,7 +28007,7 @@ var addresses = [
         "address": "石泉东路168弄",
         "name": "香溢花城",
         "count": 98,
-        "style": 0
+        "style": 9
     },
     {
         "lnglat": [
@@ -28017,7 +28017,7 @@ var addresses = [
         "address": "石泉东路215号",
         "name": "香溢花城三期",
         "count": 36,
-        "style": 0
+        "style": 3
     },
     {
         "lnglat": [
@@ -28027,7 +28027,7 @@ var addresses = [
         "address": "石泉路49弄1号",
         "name": "石泉大厦",
         "count": 3,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -28037,7 +28037,7 @@ var addresses = [
         "address": "石泉路450弄",
         "name": "宁泉新苑",
         "count": 9,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -28047,7 +28047,7 @@ var addresses = [
         "address": "石湾路7弄51号101室",
         "name": "康泰公寓（上海）",
         "count": 2,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -28057,7 +28057,7 @@ var addresses = [
         "address": "世纪大道1090号",
         "name": "斯米克大厦",
         "count": 4,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -28067,7 +28067,7 @@ var addresses = [
         "address": "世纪大道1568号",
         "name": "中建大厦（上海）",
         "count": 4,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -28077,7 +28077,7 @@ var addresses = [
         "address": "世纪大道1500号",
         "name": "东方大厦（上海）",
         "count": 37,
-        "style": 0
+        "style": 3
     },
     {
         "lnglat": [
@@ -28087,7 +28087,7 @@ var addresses = [
         "address": "世纪大道1198号",
         "name": "上海世纪汇广场",
         "count": 28,
-        "style": 1
+        "style": 2
     },
     {
         "lnglat": [
@@ -28097,7 +28097,7 @@ var addresses = [
         "address": "世纪大道1589号",
         "name": "长泰国际金融大厦",
         "count": 7,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -28107,7 +28107,7 @@ var addresses = [
         "address": "世纪大道1600号",
         "name": "陆家嘴商务广场（浦项商务广场）",
         "count": 9,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -28117,7 +28117,7 @@ var addresses = [
         "address": "世纪大道160号",
         "name": "览海国际广场",
         "count": 7,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -28127,7 +28127,7 @@ var addresses = [
         "address": "世纪大道1701号",
         "name": "中国钻石交易中心",
         "count": 1,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -28137,7 +28137,7 @@ var addresses = [
         "address": "世纪大道201号",
         "name": "渣打银行大厦",
         "count": 2,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -28157,7 +28157,7 @@ var addresses = [
         "address": "世纪大道210号",
         "name": "上海二十一世纪中心大厦",
         "count": 6,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -28167,7 +28167,7 @@ var addresses = [
         "address": "世纪大道211号",
         "name": "上海信息大楼",
         "count": 4,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -28177,7 +28177,7 @@ var addresses = [
         "address": "世界路133号",
         "name": "133绿源天地广场",
         "count": 8,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -28207,7 +28207,7 @@ var addresses = [
         "address": "市台路555弄",
         "name": "金地宝山艺境城",
         "count": 8,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -28217,7 +28217,7 @@ var addresses = [
         "address": "市光二村103-106号",
         "name": "新钢大楼(市光二村)",
         "count": 4,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -28227,7 +28227,7 @@ var addresses = [
         "address": "寿光路78弄",
         "name": "江南山水",
         "count": 47,
-        "style": 0
+        "style": 4
     },
     {
         "lnglat": [
@@ -28237,7 +28237,7 @@ var addresses = [
         "address": "寿阳路99弄27号",
         "name": "上勤大厦",
         "count": 3,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -28247,7 +28247,7 @@ var addresses = [
         "address": "疏影路1098弄",
         "name": "林水美地苑商务楼",
         "count": 2,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -28257,7 +28257,7 @@ var addresses = [
         "address": "树屏路588弄",
         "name": "财智金岸",
         "count": 3,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -28267,7 +28267,7 @@ var addresses = [
         "address": "双柏路518号",
         "name": "双柏工业园",
         "count": 7,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -28287,7 +28287,7 @@ var addresses = [
         "address": "双城路803弄",
         "name": "宝莲城",
         "count": 2,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -28327,7 +28327,7 @@ var addresses = [
         "address": "双阳北路288号",
         "name": "黄兴花园",
         "count": 68,
-        "style": 0
+        "style": 6
     },
     {
         "lnglat": [
@@ -28337,7 +28337,7 @@ var addresses = [
         "address": "双阳北路395号",
         "name": "香阁丽苑",
         "count": 39,
-        "style": 0
+        "style": 3
     },
     {
         "lnglat": [
@@ -28347,7 +28347,7 @@ var addresses = [
         "address": "双坪路185弄",
         "name": "旭辉锦庭",
         "count": 51,
-        "style": 0
+        "style": 5
     },
     {
         "lnglat": [
@@ -28357,7 +28357,7 @@ var addresses = [
         "address": "双阳路300弄",
         "name": "幸福苑(上海)",
         "count": 2,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -28367,7 +28367,7 @@ var addresses = [
         "address": "双阳路365号",
         "name": "海林大楼",
         "count": 4,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -28377,7 +28377,7 @@ var addresses = [
         "address": "双阳路490弄",
         "name": "万昌大厦",
         "count": 1,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -28387,7 +28387,7 @@ var addresses = [
         "address": "双阳路50弄",
         "name": "双阳路50弄",
         "count": 3,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -28397,7 +28397,7 @@ var addresses = [
         "address": "水产路2289号",
         "name": "壹间宝山花园城",
         "count": 29,
-        "style": 1
+        "style": 2
     },
     {
         "lnglat": [
@@ -28407,7 +28407,7 @@ var addresses = [
         "address": "水产路2700弄",
         "name": "康桥水都第三街区",
         "count": 6,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -28417,7 +28417,7 @@ var addresses = [
         "address": "水产路2399号",
         "name": "泰富商业广场（上海）",
         "count": 20,
-        "style": 1
+        "style": 2
     },
     {
         "lnglat": [
@@ -28427,7 +28427,7 @@ var addresses = [
         "address": "水产西路999弄1-57号",
         "name": "自然居家园",
         "count": 32,
-        "style": 0
+        "style": 3
     },
     {
         "lnglat": [
@@ -28437,7 +28437,7 @@ var addresses = [
         "address": "水产西路680弄",
         "name": "绿地宝里",
         "count": 9,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -28447,7 +28447,7 @@ var addresses = [
         "address": "水城路675号",
         "name": "怡乐公寓",
         "count": 2,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -28457,7 +28457,7 @@ var addresses = [
         "address": "水城路468弄",
         "name": "五洲大厦",
         "count": 3,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -28467,7 +28467,7 @@ var addresses = [
         "address": "水城南路17号",
         "name": "万科广场17号",
         "count": 4,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -28477,7 +28477,7 @@ var addresses = [
         "address": "水城南路16弄",
         "name": "四季晶园",
         "count": 9,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -28487,7 +28487,7 @@ var addresses = [
         "address": "水城南路348弄",
         "name": "金麟公寓",
         "count": 2,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -28497,7 +28497,7 @@ var addresses = [
         "address": "水城南路37号",
         "name": "万科广场",
         "count": 4,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -28507,7 +28507,7 @@ var addresses = [
         "address": "水城南路55号",
         "name": "六月汇",
         "count": 6,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -28517,7 +28517,7 @@ var addresses = [
         "address": "水城南路59号",
         "name": "明珠大楼",
         "count": 4,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -28527,7 +28527,7 @@ var addresses = [
         "address": "水电路1412号",
         "name": "凉城地区中心办公楼(虹口图书馆)",
         "count": 37,
-        "style": 0
+        "style": 3
     },
     {
         "lnglat": [
@@ -28537,7 +28537,7 @@ var addresses = [
         "address": "水电路682号",
         "name": "天虹商务大厦",
         "count": 4,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -28547,7 +28547,7 @@ var addresses = [
         "address": "水电路393弄1.2号",
         "name": "吉联大厦",
         "count": 4,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -28557,7 +28557,7 @@ var addresses = [
         "address": "水电路688号",
         "name": "天虹国际大厦",
         "count": 2,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -28567,7 +28567,7 @@ var addresses = [
         "address": "水清路378弄25支弄",
         "name": "水清二村",
         "count": 5,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -28577,7 +28577,7 @@ var addresses = [
         "address": "水丰路15弄",
         "name": "帆升公寓",
         "count": 6,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -28587,7 +28587,7 @@ var addresses = [
         "address": "水清路999弄",
         "name": "香树丽舍(上海)",
         "count": 9,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -28597,7 +28597,7 @@ var addresses = [
         "address": "水泉路88弄",
         "name": "达安春之声一期",
         "count": 42,
-        "style": 0
+        "style": 4
     },
     {
         "lnglat": [
@@ -28607,7 +28607,7 @@ var addresses = [
         "address": "水泉路99弄",
         "name": "达安春之声花园二期",
         "count": 42,
-        "style": 0
+        "style": 4
     },
     {
         "lnglat": [
@@ -28617,7 +28617,7 @@ var addresses = [
         "address": "顺昌路10号",
         "name": "经纬公寓（上海）",
         "count": 3,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -28627,7 +28627,7 @@ var addresses = [
         "address": "顺德路92号",
         "name": "顺德苑",
         "count": 4,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -28637,7 +28637,7 @@ var addresses = [
         "address": "顺达路938号",
         "name": "上海南翔游戏产业园",
         "count": 9,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -28647,7 +28647,7 @@ var addresses = [
         "address": "顺宁路501弄、启宁路421弄、胜竹东路3850弄、胜竹东路3870弄",
         "name": "佳兆业城市广场(上海)",
         "count": 34,
-        "style": 0
+        "style": 3
     },
     {
         "lnglat": [
@@ -28657,7 +28657,7 @@ var addresses = [
         "address": "顺丰路508号",
         "name": "精品人才公寓",
         "count": 1,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -28667,7 +28667,7 @@ var addresses = [
         "address": "顺义路188号",
         "name": "顺达公寓",
         "count": 2,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -28677,7 +28677,7 @@ var addresses = [
         "address": "四川北路1318号",
         "name": "上海盛邦国际大厦",
         "count": 2,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -28697,7 +28697,7 @@ var addresses = [
         "address": "四川北路1363号及1361号",
         "name": "壹丰广场",
         "count": 4,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -28707,7 +28707,7 @@ var addresses = [
         "address": "四川北路1500号",
         "name": "叶大昌商厦(上海投资组合中心大厦)",
         "count": 5,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -28727,7 +28727,7 @@ var addresses = [
         "address": "四川北路1661号",
         "name": "凯润金城",
         "count": 6,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -28737,7 +28737,7 @@ var addresses = [
         "address": "四川北路1688号",
         "name": "福德商务中心",
         "count": 70,
-        "style": 0
+        "style": 7
     },
     {
         "lnglat": [
@@ -28747,7 +28747,7 @@ var addresses = [
         "address": "四川北路1717号",
         "name": "嘉杰国际广场(办公楼)",
         "count": 33,
-        "style": 0
+        "style": 3
     },
     {
         "lnglat": [
@@ -28767,7 +28767,7 @@ var addresses = [
         "address": "四川北路1885号",
         "name": "明猷商务中心",
         "count": 2,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -28777,7 +28777,7 @@ var addresses = [
         "address": "四川北路1851号",
         "name": "荣欣大厦",
         "count": 9,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -28787,7 +28787,7 @@ var addresses = [
         "address": "四川北路1915号",
         "name": "上海时装商厦",
         "count": 2,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -28797,7 +28797,7 @@ var addresses = [
         "address": "四川北路1941号",
         "name": "金海岸商厦",
         "count": 4,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -28807,7 +28807,7 @@ var addresses = [
         "address": "四川北路2115号",
         "name": "方舟大厦（上海）",
         "count": 1,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -28817,7 +28817,7 @@ var addresses = [
         "address": "四川北路2261-2263号",
         "name": "嘉兰大厦",
         "count": 1,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -28827,7 +28827,7 @@ var addresses = [
         "address": "四川北路525号",
         "name": "宇航大厦",
         "count": 3,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -28837,7 +28837,7 @@ var addresses = [
         "address": "四川北路859号",
         "name": "上海中信广场",
         "count": 4,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -28847,7 +28847,7 @@ var addresses = [
         "address": "四川北路888号",
         "name": "海泰国际大厦",
         "count": 2,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -28857,7 +28857,7 @@ var addresses = [
         "address": "四川中路213号",
         "name": "久事商务大厦",
         "count": 7,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -28867,7 +28867,7 @@ var addresses = [
         "address": "四川中路320号",
         "name": "安利大楼",
         "count": 2,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -28887,7 +28887,7 @@ var addresses = [
         "address": "四达路58弄",
         "name": "世博花园",
         "count": 39,
-        "style": 0
+        "style": 3
     },
     {
         "lnglat": [
@@ -28897,7 +28897,7 @@ var addresses = [
         "address": "四平路1147弄1、8、9号",
         "name": "伊顿公寓",
         "count": 5,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -28907,7 +28907,7 @@ var addresses = [
         "address": "四平路1188号",
         "name": "远洋广场",
         "count": 3,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -28917,7 +28917,7 @@ var addresses = [
         "address": "四平路1230弄甲",
         "name": "通华小区",
         "count": 6,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -28937,7 +28937,7 @@ var addresses = [
         "address": "四平路188号",
         "name": "上海商贸大厦",
         "count": 3,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -28947,7 +28947,7 @@ var addresses = [
         "address": "四平路200号",
         "name": "盛泰国际大厦",
         "count": 3,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -28957,7 +28957,7 @@ var addresses = [
         "address": "四平路210号",
         "name": "家纺大厦",
         "count": 2,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -28967,7 +28967,7 @@ var addresses = [
         "address": "四平路228号",
         "name": "大世界商务大厦",
         "count": 6,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -28977,7 +28977,7 @@ var addresses = [
         "address": "四平路2158号",
         "name": "富庆国定大厦",
         "count": 3,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -28987,7 +28987,7 @@ var addresses = [
         "address": "四平路2500弄",
         "name": "金岛大厦",
         "count": 6,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -28997,7 +28997,7 @@ var addresses = [
         "address": "四平路2500号",
         "name": "悠迈生活广场",
         "count": 7,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -29017,7 +29017,7 @@ var addresses = [
         "address": "四平路277号",
         "name": "福龙大厦（上海）",
         "count": 1,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -29037,7 +29037,7 @@ var addresses = [
         "address": "四平路311号",
         "name": "恒城花苑",
         "count": 4,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -29067,7 +29067,7 @@ var addresses = [
         "address": "四平路623号",
         "name": "新宏大厦",
         "count": 3,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -29077,7 +29077,7 @@ var addresses = [
         "address": "四平路775弄",
         "name": "天宝华庭",
         "count": 4,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -29087,7 +29087,7 @@ var addresses = [
         "address": "四平路778号",
         "name": "盛业大厦",
         "count": 2,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -29097,7 +29097,7 @@ var addresses = [
         "address": "四平路96号",
         "name": "金融街海伦中心",
         "count": 24,
-        "style": 1
+        "style": 2
     },
     {
         "lnglat": [
@@ -29107,7 +29107,7 @@ var addresses = [
         "address": "泗凤公路508弄",
         "name": "金地自在城三期",
         "count": 118,
-        "style": 0
+        "style": 9
     },
     {
         "lnglat": [
@@ -29117,7 +29117,7 @@ var addresses = [
         "address": "泗凤公路1718弄1-22号",
         "name": "新凯城丹桂苑",
         "count": 25,
-        "style": 1
+        "style": 2
     },
     {
         "lnglat": [
@@ -29127,7 +29127,7 @@ var addresses = [
         "address": "泗凯路291弄1-18号",
         "name": "新凯城锦昌苑",
         "count": 28,
-        "style": 1
+        "style": 2
     },
     {
         "lnglat": [
@@ -29137,7 +29137,7 @@ var addresses = [
         "address": "泗凤公路1500弄",
         "name": "新凯城玉兰苑",
         "count": 35,
-        "style": 0
+        "style": 3
     },
     {
         "lnglat": [
@@ -29147,7 +29147,7 @@ var addresses = [
         "address": "泗凯路415弄",
         "name": "新凯城钟秀苑",
         "count": 32,
-        "style": 0
+        "style": 3
     },
     {
         "lnglat": [
@@ -29167,7 +29167,7 @@ var addresses = [
         "address": "泗通路688弄",
         "name": "万业名苑",
         "count": 29,
-        "style": 1
+        "style": 2
     },
     {
         "lnglat": [
@@ -29177,7 +29177,7 @@ var addresses = [
         "address": "泗祥路518弄",
         "name": "金地自在城二期",
         "count": 54,
-        "style": 0
+        "style": 5
     },
     {
         "lnglat": [
@@ -29187,7 +29187,7 @@ var addresses = [
         "address": "泗砖路269弄",
         "name": "唯富科技产业园",
         "count": 10,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -29197,7 +29197,7 @@ var addresses = [
         "address": "泗砖路600号",
         "name": "松江钢材城南区园区",
         "count": 61,
-        "style": 0
+        "style": 6
     },
     {
         "lnglat": [
@@ -29207,7 +29207,7 @@ var addresses = [
         "address": "松花江路205弄",
         "name": "松花江路205弄小区",
         "count": 2,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -29217,7 +29217,7 @@ var addresses = [
         "address": "松花江路2539号",
         "name": "复旦科技园创业大厦",
         "count": 3,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -29227,7 +29227,7 @@ var addresses = [
         "address": "松花江路251弄",
         "name": "白玉兰广场",
         "count": 5,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -29237,7 +29237,7 @@ var addresses = [
         "address": "松花江路215弄",
         "name": "延吉大楼",
         "count": 2,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -29247,7 +29247,7 @@ var addresses = [
         "address": "松花江路2628号",
         "name": "冠寓_复旦大学店",
         "count": 2,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -29257,7 +29257,7 @@ var addresses = [
         "address": "松花江路287号",
         "name": "伊格尔公寓",
         "count": 3,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -29267,7 +29267,7 @@ var addresses = [
         "address": "松花江路311-319号",
         "name": "松益公寓",
         "count": 4,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -29277,7 +29277,7 @@ var addresses = [
         "address": "松汇中路758弄",
         "name": "醉白景苑",
         "count": 6,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -29287,7 +29287,7 @@ var addresses = [
         "address": "松林路111号",
         "name": "海怡花园",
         "count": 8,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -29297,7 +29297,7 @@ var addresses = [
         "address": "松江区同利路2-4号",
         "name": "福贵诚工业园",
         "count": 9,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -29307,7 +29307,7 @@ var addresses = [
         "address": "松林路283-287号",
         "name": "新港大厦(松林路)",
         "count": 3,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -29317,7 +29317,7 @@ var addresses = [
         "address": "松林路97弄",
         "name": "海怡别墅",
         "count": 6,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -29327,7 +29327,7 @@ var addresses = [
         "address": "松胜路758号",
         "name": "松胜路758号商务楼",
         "count": 2,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -29337,7 +29337,7 @@ var addresses = [
         "address": "松卫北路280号",
         "name": "凯富家园广场5号楼",
         "count": 4,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -29347,7 +29347,7 @@ var addresses = [
         "address": "松卫北路665号",
         "name": "企福天地",
         "count": 5,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -29357,7 +29357,7 @@ var addresses = [
         "address": "松卫北路295号",
         "name": "上海陆国时代商务大厦",
         "count": 4,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -29367,7 +29367,7 @@ var addresses = [
         "address": "凇桥东路111号",
         "name": "021联和滨江大厦",
         "count": 8,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -29377,7 +29377,7 @@ var addresses = [
         "address": "崧复路1999号",
         "name": "奥帛科创园",
         "count": 4,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -29387,7 +29387,7 @@ var addresses = [
         "address": "崧建路339弄",
         "name": "佳兆业君汇上品（上海）",
         "count": 52,
-        "style": 0
+        "style": 5
     },
     {
         "lnglat": [
@@ -29397,7 +29397,7 @@ var addresses = [
         "address": "崧涟二路66弄",
         "name": "昱翠雅苑",
         "count": 27,
-        "style": 1
+        "style": 2
     },
     {
         "lnglat": [
@@ -29407,7 +29407,7 @@ var addresses = [
         "address": "崧润路49弄",
         "name": "德康雅苑",
         "count": 48,
-        "style": 0
+        "style": 4
     },
     {
         "lnglat": [
@@ -29417,7 +29417,7 @@ var addresses = [
         "address": "崧润路800弄",
         "name": "逸泰雅苑二期",
         "count": 96,
-        "style": 0
+        "style": 9
     },
     {
         "lnglat": [
@@ -29427,7 +29427,7 @@ var addresses = [
         "address": "崧泽大道333号",
         "name": "国家会展中心(上海)",
         "count": 118,
-        "style": 0
+        "style": 9
     },
     {
         "lnglat": [
@@ -29437,7 +29437,7 @@ var addresses = [
         "address": "崧泽大道6555号",
         "name": "奥帛置业大厦",
         "count": 3,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -29447,7 +29447,7 @@ var addresses = [
         "address": "崧泽大道6699号",
         "name": "百丽商务大厦",
         "count": 4,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -29457,7 +29457,7 @@ var addresses = [
         "address": "崧子浦路55弄",
         "name": "顾会庭",
         "count": 42,
-        "style": 0
+        "style": 4
     },
     {
         "lnglat": [
@@ -29477,7 +29477,7 @@ var addresses = [
         "address": "淞发路25弄",
         "name": "鎏园",
         "count": 23,
-        "style": 1
+        "style": 2
     },
     {
         "lnglat": [
@@ -29487,7 +29487,7 @@ var addresses = [
         "address": "崧子浦路289弄",
         "name": "崧子苑",
         "count": 28,
-        "style": 1
+        "style": 2
     },
     {
         "lnglat": [
@@ -29497,7 +29497,7 @@ var addresses = [
         "address": "淞发路500弄",
         "name": "万临家园",
         "count": 36,
-        "style": 0
+        "style": 3
     },
     {
         "lnglat": [
@@ -29507,7 +29507,7 @@ var addresses = [
         "address": "淞发路901弄",
         "name": "祥腾生活广场之公寓楼",
         "count": 6,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -29517,7 +29517,7 @@ var addresses = [
         "address": "淞虹路128弄",
         "name": "金淞家园",
         "count": 21,
-        "style": 1
+        "style": 2
     },
     {
         "lnglat": [
@@ -29527,7 +29527,7 @@ var addresses = [
         "address": "淞沪路161号",
         "name": "中环国际大厦",
         "count": 4,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -29547,7 +29547,7 @@ var addresses = [
         "address": "淞虹路855弄",
         "name": "郁庭峰",
         "count": 20,
-        "style": 1
+        "style": 2
     },
     {
         "lnglat": [
@@ -29557,7 +29557,7 @@ var addresses = [
         "address": "淞沪路388号",
         "name": "创智天地",
         "count": 33,
-        "style": 0
+        "style": 3
     },
     {
         "lnglat": [
@@ -29567,7 +29567,7 @@ var addresses = [
         "address": "淞沪路98号",
         "name": "平盛大厦",
         "count": 2,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -29577,7 +29577,7 @@ var addresses = [
         "address": "淞肇路333弄",
         "name": "新城尚景苑",
         "count": 21,
-        "style": 1
+        "style": 2
     },
     {
         "lnglat": [
@@ -29587,7 +29587,7 @@ var addresses = [
         "address": "宋园路62号",
         "name": "开城大厦",
         "count": 4,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -29597,7 +29597,7 @@ var addresses = [
         "address": "宋园路69号",
         "name": "圣美邸",
         "count": 6,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -29607,7 +29607,7 @@ var addresses = [
         "address": "宋园路62弄",
         "name": "开城公寓",
         "count": 2,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -29617,7 +29617,7 @@ var addresses = [
         "address": "淞良路99弄",
         "name": "盛世宝邸二期",
         "count": 22,
-        "style": 1
+        "style": 2
     },
     {
         "lnglat": [
@@ -29627,7 +29627,7 @@ var addresses = [
         "address": "苏家浜路435弄",
         "name": "宝顾佳苑",
         "count": 9,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -29637,7 +29637,7 @@ var addresses = [
         "address": "绥德路470弄128号",
         "name": "海天下集团",
         "count": 5,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -29647,7 +29647,7 @@ var addresses = [
         "address": "绥德路889弄",
         "name": "3点3万小区",
         "count": 3,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -29667,7 +29667,7 @@ var addresses = [
         "address": "塔城东路288弄",
         "name": "嘉贤庄",
         "count": 30,
-        "style": 1
+        "style": 3
     },
     {
         "lnglat": [
@@ -29677,7 +29677,7 @@ var addresses = [
         "address": "台儿庄路666弄",
         "name": "金桥名都",
         "count": 36,
-        "style": 0
+        "style": 3
     },
     {
         "lnglat": [
@@ -29687,7 +29687,7 @@ var addresses = [
         "address": "台中南路2号",
         "name": "新贸楼",
         "count": 2,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -29707,7 +29707,7 @@ var addresses = [
         "address": "太仓路233号",
         "name": "新茂大厦",
         "count": 3,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -29717,7 +29717,7 @@ var addresses = [
         "address": "太阳山路188弄",
         "name": "中海万锦城二_三期",
         "count": 44,
-        "style": 0
+        "style": 4
     },
     {
         "lnglat": [
@@ -29727,7 +29727,7 @@ var addresses = [
         "address": "太原路289弄",
         "name": "太原邸",
         "count": 6,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -29737,7 +29737,7 @@ var addresses = [
         "address": "泰谷路168号",
         "name": "烨博智慧园",
         "count": 2,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -29747,7 +29747,7 @@ var addresses = [
         "address": "泰谷路85号",
         "name": "永富大楼",
         "count": 3,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -29757,7 +29757,7 @@ var addresses = [
         "address": "泰谷路239号",
         "name": "天啸大厦",
         "count": 7,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -29767,7 +29767,7 @@ var addresses = [
         "address": "泰康路210弄",
         "name": "田子坊5号楼",
         "count": 1,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -29787,7 +29787,7 @@ var addresses = [
         "address": "泰谷路169号",
         "name": "华源国际大厦(上海)",
         "count": 6,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -29797,7 +29797,7 @@ var addresses = [
         "address": "泰青公路119弄128支弄1-16号",
         "name": "申亚翠庭",
         "count": 30,
-        "style": 1
+        "style": 3
     },
     {
         "lnglat": [
@@ -29807,7 +29807,7 @@ var addresses = [
         "address": "泰涛路55号",
         "name": "晨日产业园",
         "count": 8,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -29817,7 +29817,7 @@ var addresses = [
         "address": "泰兴路555号",
         "name": "武泰公寓",
         "count": 4,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -29827,7 +29827,7 @@ var addresses = [
         "address": "谈家渡路28号",
         "name": "盛泉大厦",
         "count": 4,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -29837,7 +29837,7 @@ var addresses = [
         "address": "唐山路1018号",
         "name": "宝地广场",
         "count": 22,
-        "style": 1
+        "style": 2
     },
     {
         "lnglat": [
@@ -29847,7 +29847,7 @@ var addresses = [
         "address": "唐山路835弄",
         "name": "家化公寓",
         "count": 2,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -29867,7 +29867,7 @@ var addresses = [
         "address": "唐山路921号",
         "name": "木材大厦",
         "count": 1,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -29877,7 +29877,7 @@ var addresses = [
         "address": "塘沽路463号",
         "name": "虹口科技金融大厦",
         "count": 9,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -29887,7 +29887,7 @@ var addresses = [
         "address": "塘浚路51弄",
         "name": "塘和家园齐康苑",
         "count": 45,
-        "style": 0
+        "style": 4
     },
     {
         "lnglat": [
@@ -29897,7 +29897,7 @@ var addresses = [
         "address": "塘沽路835号",
         "name": "万豪公寓",
         "count": 6,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -29907,7 +29907,7 @@ var addresses = [
         "address": "塘祁路677-679弄",
         "name": "保利叶之林三期",
         "count": 44,
-        "style": 0
+        "style": 4
     },
     {
         "lnglat": [
@@ -29917,7 +29917,7 @@ var addresses = [
         "address": "塘祁路577弄",
         "name": "保利叶之林二期",
         "count": 53,
-        "style": 0
+        "style": 5
     },
     {
         "lnglat": [
@@ -29927,7 +29927,7 @@ var addresses = [
         "address": "塘桥路400弄",
         "name": "新塘桥生活广场",
         "count": 3,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -29937,7 +29937,7 @@ var addresses = [
         "address": "塘桥新路201弄",
         "name": "东方天伦大厦",
         "count": 2,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -29947,7 +29947,7 @@ var addresses = [
         "address": "桃林路18号",
         "name": "环球广场",
         "count": 37,
-        "style": 0
+        "style": 3
     },
     {
         "lnglat": [
@@ -29957,7 +29957,7 @@ var addresses = [
         "address": "桃林路777号",
         "name": "鄂尔多斯艾力（上海）",
         "count": 2,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -29967,7 +29967,7 @@ var addresses = [
         "address": "桃浦路165弄",
         "name": "嘉发公寓",
         "count": 6,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -29987,7 +29987,7 @@ var addresses = [
         "address": "桃浦路226号",
         "name": "泊寓上海西站店",
         "count": 6,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -29997,7 +29997,7 @@ var addresses = [
         "address": "桃浦路296号",
         "name": "星河世纪广场",
         "count": 4,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -30007,7 +30007,7 @@ var addresses = [
         "address": "桃源路111弄",
         "name": "淮海晶华苑",
         "count": 22,
-        "style": 1
+        "style": 2
     },
     {
         "lnglat": [
@@ -30027,7 +30027,7 @@ var addresses = [
         "address": "天宝路900号",
         "name": "天宝创业空间",
         "count": 5,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -30047,7 +30047,7 @@ var addresses = [
         "address": "天等路128弄",
         "name": "明秀公寓",
         "count": 10,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -30057,7 +30057,7 @@ var addresses = [
         "address": "天等路400号(近丹棱路)",
         "name": "品域凌云里",
         "count": 2,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -30067,7 +30067,7 @@ var addresses = [
         "address": "天津路180号",
         "name": "应氏大厦",
         "count": 2,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -30077,7 +30077,7 @@ var addresses = [
         "address": "天目西路111号",
         "name": "慧空间(长三角乡村振兴联合服务平台)",
         "count": 2,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -30087,7 +30087,7 @@ var addresses = [
         "address": "天目西路218号",
         "name": "嘉里不夜城一期",
         "count": 3,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -30097,7 +30097,7 @@ var addresses = [
         "address": "天目西路290号",
         "name": "康吉大厦（市政楼）",
         "count": 4,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -30107,7 +30107,7 @@ var addresses = [
         "address": "天目西路511号",
         "name": "外贸锦程大厦",
         "count": 7,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -30117,7 +30117,7 @@ var addresses = [
         "address": "天目中路353号",
         "name": "万佳商务中心",
         "count": 2,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -30127,7 +30127,7 @@ var addresses = [
         "address": "天目中路363号",
         "name": "万佳商务楼",
         "count": 3,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -30137,7 +30137,7 @@ var addresses = [
         "address": "天目中路428号",
         "name": "凯旋门大厦（上海）",
         "count": 64,
-        "style": 0
+        "style": 6
     },
     {
         "lnglat": [
@@ -30147,7 +30147,7 @@ var addresses = [
         "address": "天目中路380号",
         "name": "北方大厦",
         "count": 5,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -30157,7 +30157,7 @@ var addresses = [
         "address": "天目中路538弄1号",
         "name": "北苑大厦(538弄1号)",
         "count": 2,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -30167,7 +30167,7 @@ var addresses = [
         "address": "天目中路520号",
         "name": "北苑大厦(520号)",
         "count": 4,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -30177,7 +30177,7 @@ var addresses = [
         "address": "天目中路585号",
         "name": "新梅大厦",
         "count": 3,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -30187,7 +30187,7 @@ var addresses = [
         "address": "天目中路749弄71号",
         "name": "海鸥康恒大厦",
         "count": 2,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -30197,7 +30197,7 @@ var addresses = [
         "address": "天宁路51号",
         "name": "福缘集团园区",
         "count": 20,
-        "style": 1
+        "style": 2
     },
     {
         "lnglat": [
@@ -30207,7 +30207,7 @@ var addresses = [
         "address": "天山路177弄",
         "name": "南洋新都",
         "count": 75,
-        "style": 0
+        "style": 7
     },
     {
         "lnglat": [
@@ -30217,7 +30217,7 @@ var addresses = [
         "address": "天山路1111号",
         "name": "鼎天商务公寓",
         "count": 4,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -30227,7 +30227,7 @@ var addresses = [
         "address": "天山路1855号",
         "name": "联业大楼",
         "count": 3,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -30237,7 +30237,7 @@ var addresses = [
         "address": "天山路1718号",
         "name": "上海时尚园",
         "count": 1,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -30267,7 +30267,7 @@ var addresses = [
         "address": "天山路288弄",
         "name": "海逸公寓",
         "count": 34,
-        "style": 0
+        "style": 3
     },
     {
         "lnglat": [
@@ -30277,7 +30277,7 @@ var addresses = [
         "address": "天山路30号",
         "name": "天山大厦",
         "count": 4,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -30297,7 +30297,7 @@ var addresses = [
         "address": "天山路345号",
         "name": "缤谷文化休闲广场东座",
         "count": 22,
-        "style": 1
+        "style": 2
     },
     {
         "lnglat": [
@@ -30307,7 +30307,7 @@ var addresses = [
         "address": "天山路341号",
         "name": "缤谷文化休闲广场西座",
         "count": 6,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -30317,7 +30317,7 @@ var addresses = [
         "address": "天山路600弄1号",
         "name": "同达创业大厦",
         "count": 3,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -30327,7 +30327,7 @@ var addresses = [
         "address": "天山路600弄",
         "name": "思创大厦",
         "count": 3,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -30337,7 +30337,7 @@ var addresses = [
         "address": "天山路600弄2号",
         "name": "新虹桥捷运大厦",
         "count": 34,
-        "style": 0
+        "style": 3
     },
     {
         "lnglat": [
@@ -30347,7 +30347,7 @@ var addresses = [
         "address": "天山路641号",
         "name": "慧谷白猫科技园",
         "count": 3,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -30357,7 +30357,7 @@ var addresses = [
         "address": "天山路88号",
         "name": "元丰天山花园",
         "count": 142,
-        "style": 0
+        "style": 9
     },
     {
         "lnglat": [
@@ -30367,7 +30367,7 @@ var addresses = [
         "address": "天山路900号",
         "name": "汇金百货虹桥店",
         "count": 21,
-        "style": 1
+        "style": 2
     },
     {
         "lnglat": [
@@ -30377,7 +30377,7 @@ var addresses = [
         "address": "天山西路541号",
         "name": "光大安石虹桥中心",
         "count": 10,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -30387,7 +30387,7 @@ var addresses = [
         "address": "天山西路567号",
         "name": "神州智慧天地",
         "count": 8,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -30397,7 +30397,7 @@ var addresses = [
         "address": "天山西路568号",
         "name": "统一梦时代大厦",
         "count": 3,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -30417,7 +30417,7 @@ var addresses = [
         "address": "天山西路789号",
         "name": "中山国际广场",
         "count": 7,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -30437,7 +30437,7 @@ var addresses = [
         "address": "天山支路168弄",
         "name": "虹桥电子时代广场",
         "count": 1,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -30457,7 +30457,7 @@ var addresses = [
         "address": "天潼路133号",
         "name": "上海家化金融大厦",
         "count": 4,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -30467,7 +30467,7 @@ var addresses = [
         "address": "天雄路588弄",
         "name": "医谷现代商务园一期",
         "count": 5,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -30477,7 +30477,7 @@ var addresses = [
         "address": "天钥桥路123号",
         "name": "城开YOYO联合办公",
         "count": 8,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -30487,7 +30487,7 @@ var addresses = [
         "address": "天钥桥路180弄8号",
         "name": "南馨公寓",
         "count": 2,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -30497,7 +30497,7 @@ var addresses = [
         "address": "天钥桥路180弄",
         "name": "徐家汇馆(华狮国际公寓)",
         "count": 4,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -30507,7 +30507,7 @@ var addresses = [
         "address": "天钥桥路20号",
         "name": "T20(百胜集团大楼)",
         "count": 7,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -30527,7 +30527,7 @@ var addresses = [
         "address": "天钥桥路218号",
         "name": "华狮国际公寓",
         "count": 2,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -30537,7 +30537,7 @@ var addresses = [
         "address": "天钥桥路30号",
         "name": "美罗大厦",
         "count": 3,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -30547,7 +30547,7 @@ var addresses = [
         "address": "天钥桥路321号",
         "name": "天和苑",
         "count": 1,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -30567,7 +30567,7 @@ var addresses = [
         "address": "天钥桥路380弄20-28号",
         "name": "天钥花苑",
         "count": 1,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -30577,7 +30577,7 @@ var addresses = [
         "address": "天钥桥路325号",
         "name": "嘉汇国际广场",
         "count": 10,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -30587,7 +30587,7 @@ var addresses = [
         "address": "天钥桥路380弄36号37号",
         "name": "南溪公寓",
         "count": 5,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -30597,7 +30597,7 @@ var addresses = [
         "address": "天钥桥路438号，458号",
         "name": "申峰大厦",
         "count": 10,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -30617,7 +30617,7 @@ var addresses = [
         "address": "天钥桥路69弄",
         "name": "凯歌公寓",
         "count": 1,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -30627,7 +30627,7 @@ var addresses = [
         "address": "天钥桥路69弄",
         "name": "凯歌公寓",
         "count": 9,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -30637,7 +30637,7 @@ var addresses = [
         "address": "天钥桥路811号",
         "name": "鹏欣公寓",
         "count": 2,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -30647,7 +30647,7 @@ var addresses = [
         "address": "天钥桥路859号",
         "name": "北海大厦",
         "count": 6,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -30657,7 +30657,7 @@ var addresses = [
         "address": "天钥桥路907号",
         "name": "天龙公寓",
         "count": 3,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -30667,7 +30667,7 @@ var addresses = [
         "address": "天钥桥路909-915号",
         "name": "D1国际创意空间",
         "count": 4,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -30677,7 +30677,7 @@ var addresses = [
         "address": "天钥桥路869号",
         "name": "美晶佳园",
         "count": 2,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -30687,7 +30687,7 @@ var addresses = [
         "address": "天钥桥南路1111号",
         "name": "誉仁家园",
         "count": 10,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -30697,7 +30697,7 @@ var addresses = [
         "address": "天一路568号",
         "name": "8090青年创业基地青浦新城园",
         "count": 36,
-        "style": 0
+        "style": 3
     },
     {
         "lnglat": [
@@ -30707,7 +30707,7 @@ var addresses = [
         "address": "天钥桥路93号",
         "name": "中福实业大厦",
         "count": 2,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -30717,7 +30717,7 @@ var addresses = [
         "address": "天祝路377弄",
         "name": "华都商务广场",
         "count": 28,
-        "style": 1
+        "style": 2
     },
     {
         "lnglat": [
@@ -30737,7 +30737,7 @@ var addresses = [
         "address": "天祝路555弄",
         "name": "合景峰汇嘉苑",
         "count": 22,
-        "style": 1
+        "style": 2
     },
     {
         "lnglat": [
@@ -30747,7 +30747,7 @@ var addresses = [
         "address": "天祝路818号",
         "name": "嘉鼎国际大厦",
         "count": 1,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -30767,7 +30767,7 @@ var addresses = [
         "address": "田东路70弄",
         "name": "华南公寓",
         "count": 5,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -30777,7 +30777,7 @@ var addresses = [
         "address": "田林东路100弄",
         "name": "爱建园",
         "count": 95,
-        "style": 0
+        "style": 9
     },
     {
         "lnglat": [
@@ -30787,7 +30787,7 @@ var addresses = [
         "address": "田林东路556弄",
         "name": "田林亲家",
         "count": 6,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -30797,7 +30797,7 @@ var addresses = [
         "address": "田林东路55号",
         "name": "汇阳广场",
         "count": 2,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -30807,7 +30807,7 @@ var addresses = [
         "address": "田林东路568号对面",
         "name": "田林十一村",
         "count": 9,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -30817,7 +30817,7 @@ var addresses = [
         "address": "田林路1016号",
         "name": "科技绿洲三期",
         "count": 10,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -30827,7 +30827,7 @@ var addresses = [
         "address": "田林路130号",
         "name": "越界田林坊",
         "count": 3,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -30837,7 +30837,7 @@ var addresses = [
         "address": "田林路300号",
         "name": "田林大楼",
         "count": 3,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -30847,7 +30847,7 @@ var addresses = [
         "address": "田林路388号",
         "name": "新业B楼(宏业大厦)",
         "count": 4,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -30857,7 +30857,7 @@ var addresses = [
         "address": "田林路418号",
         "name": "徐汇乐业天地",
         "count": 3,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -30867,7 +30867,7 @@ var addresses = [
         "address": "田州路99号",
         "name": "新安大厦",
         "count": 3,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -30887,7 +30887,7 @@ var addresses = [
         "address": "铁岭路50弄23号",
         "name": "铁岭大楼",
         "count": 3,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -30897,7 +30897,7 @@ var addresses = [
         "address": "铁山路1050号",
         "name": "巨丰商务楼",
         "count": 6,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -30907,7 +30907,7 @@ var addresses = [
         "address": "听达路185弄",
         "name": "丽水雅苑北苑",
         "count": 88,
-        "style": 0
+        "style": 8
     },
     {
         "lnglat": [
@@ -30917,7 +30917,7 @@ var addresses = [
         "address": "听达路325弄",
         "name": "丽水雅苑南苑",
         "count": 36,
-        "style": 0
+        "style": 3
     },
     {
         "lnglat": [
@@ -30927,7 +30927,7 @@ var addresses = [
         "address": "听健路151弄",
         "name": "秀园西园",
         "count": 44,
-        "style": 0
+        "style": 4
     },
     {
         "lnglat": [
@@ -30937,7 +30937,7 @@ var addresses = [
         "address": "听康路181弄",
         "name": "文竹苑南苑",
         "count": 32,
-        "style": 0
+        "style": 3
     },
     {
         "lnglat": [
@@ -30947,7 +30947,7 @@ var addresses = [
         "address": "听康路190弄",
         "name": "秀园东园",
         "count": 44,
-        "style": 0
+        "style": 4
     },
     {
         "lnglat": [
@@ -30957,7 +30957,7 @@ var addresses = [
         "address": "听康路79弄",
         "name": "文竹苑北苑",
         "count": 52,
-        "style": 0
+        "style": 5
     },
     {
         "lnglat": [
@@ -30967,7 +30967,7 @@ var addresses = [
         "address": "听谐路73弄",
         "name": "民乐城康苑",
         "count": 101,
-        "style": 0
+        "style": 9
     },
     {
         "lnglat": [
@@ -30977,7 +30977,7 @@ var addresses = [
         "address": "通北路589号",
         "name": "燕舞东方保利广场L楼",
         "count": 27,
-        "style": 1
+        "style": 2
     },
     {
         "lnglat": [
@@ -30997,7 +30997,7 @@ var addresses = [
         "address": "通河路438弄",
         "name": "住嘉新苑",
         "count": 6,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -31017,7 +31017,7 @@ var addresses = [
         "address": "通济路1279弄",
         "name": "秀园北苑",
         "count": 22,
-        "style": 1
+        "style": 2
     },
     {
         "lnglat": [
@@ -31027,7 +31027,7 @@ var addresses = [
         "address": "通济路616弄",
         "name": "民乐城朗苑",
         "count": 57,
-        "style": 0
+        "style": 5
     },
     {
         "lnglat": [
@@ -31037,7 +31037,7 @@ var addresses = [
         "address": "通南路91弄99支弄",
         "name": "上海骏景雅苑",
         "count": 33,
-        "style": 0
+        "style": 3
     },
     {
         "lnglat": [
@@ -31057,7 +31057,7 @@ var addresses = [
         "address": "通州路88弄",
         "name": "海泰苑",
         "count": 8,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -31067,7 +31067,7 @@ var addresses = [
         "address": "同济路669弄7号楼",
         "name": "火炬城市峰汇",
         "count": 7,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -31077,7 +31077,7 @@ var addresses = [
         "address": "同济支路157号",
         "name": "智慧柒立方",
         "count": 2,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -31087,7 +31087,7 @@ var addresses = [
         "address": "同丰路667号",
         "name": "紫金公馆",
         "count": 7,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -31097,7 +31097,7 @@ var addresses = [
         "address": "同济支路199号",
         "name": "智慧柒立方二期",
         "count": 8,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -31107,7 +31107,7 @@ var addresses = [
         "address": "同乐路566弄",
         "name": "斌娇智能科创园",
         "count": 4,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -31127,7 +31127,7 @@ var addresses = [
         "address": "同普路1412号",
         "name": "长征工业设计中心",
         "count": 4,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -31137,7 +31137,7 @@ var addresses = [
         "address": "同普路1501弄",
         "name": "牡丹苑",
         "count": 48,
-        "style": 0
+        "style": 4
     },
     {
         "lnglat": [
@@ -31147,7 +31147,7 @@ var addresses = [
         "address": "同普路1680弄",
         "name": "玫瑰苑（上海）",
         "count": 6,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -31157,7 +31157,7 @@ var addresses = [
         "address": "同普路299弄",
         "name": "浙铁绿城长风中心",
         "count": 20,
-        "style": 1
+        "style": 2
     },
     {
         "lnglat": [
@@ -31167,7 +31167,7 @@ var addresses = [
         "address": "同心路1115弄",
         "name": "春满园B区",
         "count": 9,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -31177,7 +31177,7 @@ var addresses = [
         "address": "同心路116弄",
         "name": "同心路116弄",
         "count": 1,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -31187,7 +31187,7 @@ var addresses = [
         "address": "同心路116弄1号",
         "name": "同心苑",
         "count": 1,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -31197,7 +31197,7 @@ var addresses = [
         "address": "同心路28弄",
         "name": "嘉宏紫薇园",
         "count": 7,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -31207,7 +31207,7 @@ var addresses = [
         "address": "同心路3号",
         "name": "同和苑",
         "count": 1,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -31217,7 +31217,7 @@ var addresses = [
         "address": "彤闻路199弄",
         "name": "古北萃庭二期",
         "count": 38,
-        "style": 0
+        "style": 3
     },
     {
         "lnglat": [
@@ -31227,7 +31227,7 @@ var addresses = [
         "address": "彤闻路77弄",
         "name": "古北萃庭一期",
         "count": 28,
-        "style": 1
+        "style": 2
     },
     {
         "lnglat": [
@@ -31237,7 +31237,7 @@ var addresses = [
         "address": "铜川路1422弄",
         "name": "绿洲公寓",
         "count": 4,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -31247,7 +31247,7 @@ var addresses = [
         "address": "铜川路1615弄",
         "name": "佳祥公寓",
         "count": 5,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -31257,7 +31257,7 @@ var addresses = [
         "address": "铜川路2655弄",
         "name": "鼎秀园",
         "count": 26,
-        "style": 1
+        "style": 2
     },
     {
         "lnglat": [
@@ -31267,7 +31267,7 @@ var addresses = [
         "address": "铜仁路258号",
         "name": "九安广场",
         "count": 4,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -31277,7 +31277,7 @@ var addresses = [
         "address": "图门路6号",
         "name": "沧达大厦",
         "count": 4,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -31287,7 +31287,7 @@ var addresses = [
         "address": "团林路38号",
         "name": "猫之家团林路店(精品公寓)",
         "count": 1,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -31297,7 +31297,7 @@ var addresses = [
         "address": "团汇公路258弄",
         "name": "逸贤雅苑",
         "count": 42,
-        "style": 0
+        "style": 4
     },
     {
         "lnglat": [
@@ -31307,7 +31307,7 @@ var addresses = [
         "address": "外高桥保税区基隆路1号",
         "name": "汤臣国际贸易大楼",
         "count": 6,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -31327,7 +31327,7 @@ var addresses = [
         "address": "外高桥保税区奥纳路18号",
         "name": "奥吉大厦",
         "count": 3,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -31337,7 +31337,7 @@ var addresses = [
         "address": "外马路974号",
         "name": "三盛宏业大厦",
         "count": 4,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -31347,7 +31347,7 @@ var addresses = [
         "address": "外婆泾路299弄",
         "name": "建发玖珑湾",
         "count": 25,
-        "style": 1
+        "style": 2
     },
     {
         "lnglat": [
@@ -31357,7 +31357,7 @@ var addresses = [
         "address": "外青松公路6666弄",
         "name": "帕缇欧香苑",
         "count": 21,
-        "style": 1
+        "style": 2
     },
     {
         "lnglat": [
@@ -31367,7 +31367,7 @@ var addresses = [
         "address": "宛平南路300弄",
         "name": "宛平南苑",
         "count": 9,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -31377,7 +31377,7 @@ var addresses = [
         "address": "宛平南路381号",
         "name": "沪港国际大厦",
         "count": 7,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -31387,7 +31387,7 @@ var addresses = [
         "address": "宛平南路255号",
         "name": "徐家汇花园",
         "count": 60,
-        "style": 0
+        "style": 6
     },
     {
         "lnglat": [
@@ -31397,7 +31397,7 @@ var addresses = [
         "address": "宛平南路1415号",
         "name": "保利西岸明轩",
         "count": 8,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -31407,7 +31407,7 @@ var addresses = [
         "address": "宛平南路401号",
         "name": "辉煌大厦（上海）",
         "count": 1,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -31417,7 +31417,7 @@ var addresses = [
         "address": "宛平南路388弄1-6号",
         "name": "海螺花园",
         "count": 8,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -31427,7 +31427,7 @@ var addresses = [
         "address": "宛平南路420号1-2号",
         "name": "佳安公寓",
         "count": 7,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -31437,7 +31437,7 @@ var addresses = [
         "address": "宛平南路521号",
         "name": "恒昌花园",
         "count": 10,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -31447,7 +31447,7 @@ var addresses = [
         "address": "宛平南路590弄",
         "name": "爱建大厦",
         "count": 6,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -31457,7 +31457,7 @@ var addresses = [
         "address": "宛平南路75号",
         "name": "建科大厦",
         "count": 4,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -31467,7 +31467,7 @@ var addresses = [
         "address": "宛平南路88号",
         "name": "东方财富大厦",
         "count": 1,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -31487,7 +31487,7 @@ var addresses = [
         "address": "宛平南路968号",
         "name": "腾王阁",
         "count": 9,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -31497,7 +31497,7 @@ var addresses = [
         "address": "畹町路479号3-5层及1层120号",
         "name": "朗诗寓(莘庄店)",
         "count": 3,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -31507,7 +31507,7 @@ var addresses = [
         "address": "宛平南路99弄1号",
         "name": "宛平南路99弄1号",
         "count": 1,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -31527,7 +31527,7 @@ var addresses = [
         "address": "万德路11弄",
         "name": "上海东方广场",
         "count": 4,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -31537,7 +31537,7 @@ var addresses = [
         "address": "万航渡后路77弄",
         "name": "蔚蓝水岸",
         "count": 8,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -31547,7 +31547,7 @@ var addresses = [
         "address": "万春街162弄56支弄30号",
         "name": "鸿力鸿鹄公寓",
         "count": 4,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -31557,7 +31557,7 @@ var addresses = [
         "address": "万航渡路1455号",
         "name": "华阳公寓（上海）",
         "count": 3,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -31567,7 +31567,7 @@ var addresses = [
         "address": "万航渡路2452号",
         "name": "苏州河DOHO",
         "count": 1,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -31577,7 +31577,7 @@ var addresses = [
         "address": "万航渡路2453号",
         "name": "周家桥创意产业园",
         "count": 7,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -31587,7 +31587,7 @@ var addresses = [
         "address": "万航渡路623弄85号",
         "name": "建华大楼",
         "count": 2,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -31597,7 +31597,7 @@ var addresses = [
         "address": "万航渡路83号",
         "name": "金航大厦",
         "count": 9,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -31607,7 +31607,7 @@ var addresses = [
         "address": "万航渡路736号",
         "name": "金融街静安中心",
         "count": 9,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -31617,7 +31617,7 @@ var addresses = [
         "address": "万航渡路849号",
         "name": "海森国际大厦",
         "count": 3,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -31637,7 +31637,7 @@ var addresses = [
         "address": "万航渡路858弄8号",
         "name": "蓝朝部落",
         "count": 6,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -31647,7 +31647,7 @@ var addresses = [
         "address": "万航渡路888号",
         "name": "开开广场",
         "count": 1,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -31657,7 +31657,7 @@ var addresses = [
         "address": "万荣路1050号",
         "name": "万荣阳光苑",
         "count": 34,
-        "style": 0
+        "style": 3
     },
     {
         "lnglat": [
@@ -31677,7 +31677,7 @@ var addresses = [
         "address": "万荣路388弄、大宁路883弄",
         "name": "歌林春天馨园",
         "count": 42,
-        "style": 0
+        "style": 4
     },
     {
         "lnglat": [
@@ -31687,7 +31687,7 @@ var addresses = [
         "address": "万荣路700号",
         "name": "大宁中心广场A3",
         "count": 4,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -31697,7 +31697,7 @@ var addresses = [
         "address": "万荣路30弄",
         "name": "宁和公寓",
         "count": 3,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -31707,7 +31707,7 @@ var addresses = [
         "address": "万荣路959号",
         "name": "悦舜959创意生活广场",
         "count": 3,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -31727,7 +31727,7 @@ var addresses = [
         "address": "万顺路1988号",
         "name": "百曲雅苑",
         "count": 29,
-        "style": 1
+        "style": 2
     },
     {
         "lnglat": [
@@ -31737,7 +31737,7 @@ var addresses = [
         "address": "万顺路2089弄",
         "name": "百曲乐苑",
         "count": 25,
-        "style": 1
+        "style": 2
     },
     {
         "lnglat": [
@@ -31747,7 +31747,7 @@ var addresses = [
         "address": "万松路88号",
         "name": "金盾产业园",
         "count": 4,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -31757,7 +31757,7 @@ var addresses = [
         "address": "万顺路709弄",
         "name": "金域华庭(万科金域华府)",
         "count": 71,
-        "style": 0
+        "style": 7
     },
     {
         "lnglat": [
@@ -31767,7 +31767,7 @@ var addresses = [
         "address": "万祥镇祥凯路",
         "name": "同润金色橘苑",
         "count": 45,
-        "style": 0
+        "style": 4
     },
     {
         "lnglat": [
@@ -31777,7 +31777,7 @@ var addresses = [
         "address": "万源路2158号",
         "name": "泓毅大厦",
         "count": 4,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -31787,7 +31787,7 @@ var addresses = [
         "address": "万源路2138号",
         "name": "泓茂中心",
         "count": 7,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -31797,7 +31797,7 @@ var addresses = [
         "address": "万源路2161弄150号",
         "name": "冉东商务中心",
         "count": 6,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -31807,7 +31807,7 @@ var addresses = [
         "address": "万源路2163号",
         "name": "新桥商务中心",
         "count": 2,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -31817,7 +31817,7 @@ var addresses = [
         "address": "万荣一路90号",
         "name": "国际青年创业社区",
         "count": 2,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -31827,7 +31827,7 @@ var addresses = [
         "address": "万源路2289号",
         "name": "万源新城三期",
         "count": 28,
-        "style": 1
+        "style": 2
     },
     {
         "lnglat": [
@@ -31837,7 +31837,7 @@ var addresses = [
         "address": "万源路986弄",
         "name": "万源城朗郡",
         "count": 31,
-        "style": 0
+        "style": 3
     },
     {
         "lnglat": [
@@ -31847,7 +31847,7 @@ var addresses = [
         "address": "万镇路501弄",
         "name": "东旺家苑",
         "count": 5,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -31857,7 +31857,7 @@ var addresses = [
         "address": "万源路788弄",
         "name": "万源城逸郡",
         "count": 23,
-        "style": 1
+        "style": 2
     },
     {
         "lnglat": [
@@ -31867,7 +31867,7 @@ var addresses = [
         "address": "万镇路381号",
         "name": "运旺新村阳光世家",
         "count": 2,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -31877,7 +31877,7 @@ var addresses = [
         "address": "王家厍路199弄",
         "name": "塘和家园顺康苑",
         "count": 100,
-        "style": 0
+        "style": 9
     },
     {
         "lnglat": [
@@ -31887,7 +31887,7 @@ var addresses = [
         "address": "望东中路99弄",
         "name": "森祥投资晟维商务园",
         "count": 7,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -31917,7 +31917,7 @@ var addresses = [
         "address": "望亭路135号",
         "name": "淮海金融大楼",
         "count": 2,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -31927,7 +31927,7 @@ var addresses = [
         "address": "望园路2066弄",
         "name": "百村创业园A区",
         "count": 21,
-        "style": 1
+        "style": 2
     },
     {
         "lnglat": [
@@ -31947,7 +31947,7 @@ var addresses = [
         "address": "威海路128号",
         "name": "长发大厦",
         "count": 4,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -31957,7 +31957,7 @@ var addresses = [
         "address": "威海路168弄",
         "name": "杰仕豪庭",
         "count": 2,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -31967,7 +31967,7 @@ var addresses = [
         "address": "威海路511号",
         "name": "上海国际集团大厦",
         "count": 6,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -31977,7 +31977,7 @@ var addresses = [
         "address": "威海路48号",
         "name": "民生银行大厦（上海）",
         "count": 9,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -31997,7 +31997,7 @@ var addresses = [
         "address": "威海路567号",
         "name": "晶采世纪大厦",
         "count": 4,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -32017,7 +32017,7 @@ var addresses = [
         "address": "威宁路258号",
         "name": "天申综合大楼",
         "count": 2,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -32037,7 +32037,7 @@ var addresses = [
         "address": "威宁路369号",
         "name": "缤谷大厦",
         "count": 3,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -32047,7 +32047,7 @@ var addresses = [
         "address": "潍坊西路55号",
         "name": "上海世茂大厦",
         "count": 6,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -32057,7 +32057,7 @@ var addresses = [
         "address": "威宁路511弄",
         "name": "天山怡景苑",
         "count": 36,
-        "style": 0
+        "style": 3
     },
     {
         "lnglat": [
@@ -32067,7 +32067,7 @@ var addresses = [
         "address": "伟成路62号",
         "name": "创智天地企业中心3号楼",
         "count": 5,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -32087,7 +32087,7 @@ var addresses = [
         "address": "纬地路358弄",
         "name": "经纬城市绿洲观澜泓郡家园",
         "count": 174,
-        "style": 0
+        "style": 9
     },
     {
         "lnglat": [
@@ -32097,7 +32097,7 @@ var addresses = [
         "address": "纬地路375弄",
         "name": "经纬城市绿洲泓汇地标家园",
         "count": 77,
-        "style": 0
+        "style": 7
     },
     {
         "lnglat": [
@@ -32107,7 +32107,7 @@ var addresses = [
         "address": "纬地路99弄",
         "name": "经纬城市绿洲学士逸居家园",
         "count": 66,
-        "style": 0
+        "style": 6
     },
     {
         "lnglat": [
@@ -32117,7 +32117,7 @@ var addresses = [
         "address": "纬地路88弄",
         "name": "经纬城市绿洲阳光水岸家园",
         "count": 204,
-        "style": 0
+        "style": 9
     },
     {
         "lnglat": [
@@ -32127,7 +32127,7 @@ var addresses = [
         "address": "蕰川路1623号",
         "name": "柏丽华庭",
         "count": 22,
-        "style": 1
+        "style": 2
     },
     {
         "lnglat": [
@@ -32137,7 +32137,7 @@ var addresses = [
         "address": "蕰川路516号",
         "name": "泰德科技园",
         "count": 6,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -32157,7 +32157,7 @@ var addresses = [
         "address": "文诚路358号",
         "name": "嘉和休闲广场",
         "count": 22,
-        "style": 1
+        "style": 2
     },
     {
         "lnglat": [
@@ -32177,7 +32177,7 @@ var addresses = [
         "address": "文诚路500弄",
         "name": "安信生活广场",
         "count": 48,
-        "style": 0
+        "style": 4
     },
     {
         "lnglat": [
@@ -32187,7 +32187,7 @@ var addresses = [
         "address": "文定路200号",
         "name": "盛源恒华大厦",
         "count": 4,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -32197,7 +32197,7 @@ var addresses = [
         "address": "文定路211号",
         "name": "泰德花苑",
         "count": 2,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -32207,7 +32207,7 @@ var addresses = [
         "address": "文定路288弄",
         "name": "文定天下苑",
         "count": 21,
-        "style": 1
+        "style": 2
     },
     {
         "lnglat": [
@@ -32217,7 +32217,7 @@ var addresses = [
         "address": "文翔东路58号",
         "name": "上海友喜国际高科技园区",
         "count": 26,
-        "style": 1
+        "style": 2
     },
     {
         "lnglat": [
@@ -32227,7 +32227,7 @@ var addresses = [
         "address": "文涵路737弄1-37号",
         "name": "逸庭苑(上海)",
         "count": 24,
-        "style": 1
+        "style": 2
     },
     {
         "lnglat": [
@@ -32247,7 +32247,7 @@ var addresses = [
         "address": "文翔路3688弄",
         "name": "复地翠堤",
         "count": 3,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -32257,7 +32257,7 @@ var addresses = [
         "address": "文益街5号",
         "name": "通盛商务广场",
         "count": 1,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -32267,7 +32267,7 @@ var addresses = [
         "address": "文宇路88弄",
         "name": "上海绿地诺丁山",
         "count": 6,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -32277,7 +32277,7 @@ var addresses = [
         "address": "汶水东路181弄",
         "name": "三九大厦（上海）",
         "count": 2,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -32287,7 +32287,7 @@ var addresses = [
         "address": "汶水东路351号",
         "name": "1876老站创意园",
         "count": 5,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -32307,7 +32307,7 @@ var addresses = [
         "address": "汶水路480号",
         "name": "汇智印针园区",
         "count": 6,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -32317,7 +32317,7 @@ var addresses = [
         "address": "乌鲁木齐北路211号",
         "name": "聚安大厦",
         "count": 4,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -32327,7 +32327,7 @@ var addresses = [
         "address": "汶水东路918号",
         "name": "信南都市型产业园区5号楼信南商务大楼",
         "count": 3,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -32337,7 +32337,7 @@ var addresses = [
         "address": "乌鲁木齐北路480号",
         "name": "万泰国际大厦",
         "count": 7,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -32347,7 +32347,7 @@ var addresses = [
         "address": "文翔路928号",
         "name": "松云水苑",
         "count": 68,
-        "style": 0
+        "style": 6
     },
     {
         "lnglat": [
@@ -32357,7 +32357,7 @@ var addresses = [
         "address": "乌鲁木齐北路199号",
         "name": "世纪时空大厦",
         "count": 3,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -32367,7 +32367,7 @@ var addresses = [
         "address": "乌鲁木齐南路299号",
         "name": "联业大厦",
         "count": 2,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -32377,7 +32377,7 @@ var addresses = [
         "address": "乌鲁木齐南路228号",
         "name": "金碧公寓",
         "count": 2,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -32397,7 +32397,7 @@ var addresses = [
         "address": "吴宝路27弄50支弄",
         "name": "上海嘉丽苑",
         "count": 10,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -32407,7 +32407,7 @@ var addresses = [
         "address": "吴宝路390-1号",
         "name": "蒂芬妮文创园",
         "count": 2,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -32417,7 +32417,7 @@ var addresses = [
         "address": "吴宝路169弄",
         "name": "上海嘉景苑",
         "count": 7,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -32427,7 +32427,7 @@ var addresses = [
         "address": "吴江路15号",
         "name": "五月花商务中心 ",
         "count": 1,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -32437,7 +32437,7 @@ var addresses = [
         "address": "吴家湾路61弄24-34号",
         "name": "住安产业中心",
         "count": 2,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -32457,7 +32457,7 @@ var addresses = [
         "address": "吴江路31号",
         "name": "东方有线大厦",
         "count": 3,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -32467,7 +32467,7 @@ var addresses = [
         "address": "吴淞路218号",
         "name": "宝矿国际大厦",
         "count": 8,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -32477,7 +32477,7 @@ var addresses = [
         "address": "吴江路188号",
         "name": "静安新时代大厦",
         "count": 3,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -32487,7 +32487,7 @@ var addresses = [
         "address": "吴淞路258号，308号",
         "name": "耀江国际广场",
         "count": 7,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -32507,7 +32507,7 @@ var addresses = [
         "address": "吴塘路899弄",
         "name": "尚乐苑",
         "count": 22,
-        "style": 1
+        "style": 2
     },
     {
         "lnglat": [
@@ -32517,7 +32517,7 @@ var addresses = [
         "address": "吴兴路219号",
         "name": "吴兴公寓",
         "count": 3,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -32527,7 +32527,7 @@ var addresses = [
         "address": "吴淞路469号",
         "name": "森林湾大厦",
         "count": 45,
-        "style": 0
+        "style": 4
     },
     {
         "lnglat": [
@@ -32537,7 +32537,7 @@ var addresses = [
         "address": "吴兴路278号",
         "name": "宛平公寓",
         "count": 1,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -32547,7 +32547,7 @@ var addresses = [
         "address": "吴淞路669号",
         "name": "申贝大厦",
         "count": 5,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -32557,7 +32557,7 @@ var addresses = [
         "address": "吴兴路283号",
         "name": "申谊大厦",
         "count": 4,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -32567,7 +32567,7 @@ var addresses = [
         "address": "吴中东路491号",
         "name": "宏云广场",
         "count": 6,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -32577,7 +32577,7 @@ var addresses = [
         "address": "吴杨东路333弄",
         "name": "金帝城市岸泊",
         "count": 34,
-        "style": 0
+        "style": 3
     },
     {
         "lnglat": [
@@ -32587,7 +32587,7 @@ var addresses = [
         "address": "吴中东路588弄",
         "name": "上海华中大厦",
         "count": 3,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -32597,7 +32597,7 @@ var addresses = [
         "address": "吴中东路506弄",
         "name": "嘉欣公寓",
         "count": 6,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -32607,7 +32607,7 @@ var addresses = [
         "address": "吴中路1029号",
         "name": "灿虹世纪广场",
         "count": 4,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -32617,7 +32617,7 @@ var addresses = [
         "address": "吴中路1050号",
         "name": "虹桥盛世莲花广场",
         "count": 32,
-        "style": 0
+        "style": 3
     },
     {
         "lnglat": [
@@ -32627,7 +32627,7 @@ var addresses = [
         "address": "吴中路1059号",
         "name": "灿虹精英大厦",
         "count": 6,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -32637,7 +32637,7 @@ var addresses = [
         "address": "吴中路1081号",
         "name": "灿虹聚富大厦",
         "count": 5,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -32647,7 +32647,7 @@ var addresses = [
         "address": "吴中路1100号",
         "name": "炫润国际大厦",
         "count": 8,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -32657,7 +32657,7 @@ var addresses = [
         "address": "吴中路1099号",
         "name": "吴中商务大楼",
         "count": 3,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -32667,7 +32667,7 @@ var addresses = [
         "address": "吴中路1217号",
         "name": "长江商务楼",
         "count": 1,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -32677,7 +32677,7 @@ var addresses = [
         "address": "吴中路1238号",
         "name": "新盛商务大楼",
         "count": 3,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -32687,7 +32687,7 @@ var addresses = [
         "address": "吴中路1189号",
         "name": "M8",
         "count": 10,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -32697,7 +32697,7 @@ var addresses = [
         "address": "吴中路1235号",
         "name": "新宏商务大楼",
         "count": 4,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -32707,7 +32707,7 @@ var addresses = [
         "address": "吴中路1258号",
         "name": "新翔商务大楼",
         "count": 2,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -32737,7 +32737,7 @@ var addresses = [
         "address": "吴中路39号",
         "name": "新概念大厦",
         "count": 24,
-        "style": 1
+        "style": 2
     },
     {
         "lnglat": [
@@ -32747,7 +32747,7 @@ var addresses = [
         "address": "吴中路380弄9号",
         "name": "海联花苑",
         "count": 10,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -32757,7 +32757,7 @@ var addresses = [
         "address": "吴中路369号",
         "name": "美恒大厦",
         "count": 9,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -32767,7 +32767,7 @@ var addresses = [
         "address": "吴中路1799号",
         "name": "万象城(一期)",
         "count": 1,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -32777,7 +32777,7 @@ var addresses = [
         "address": "吴中路500号",
         "name": "涵博大厦",
         "count": 1,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -32787,7 +32787,7 @@ var addresses = [
         "address": "吴中路686弄2号",
         "name": "金虹桥广场E座",
         "count": 6,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -32797,7 +32797,7 @@ var addresses = [
         "address": "吴中路511弄",
         "name": "古北新城",
         "count": 41,
-        "style": 0
+        "style": 4
     },
     {
         "lnglat": [
@@ -32807,7 +32807,7 @@ var addresses = [
         "address": "吴中路686弄D座",
         "name": "东航金融中心",
         "count": 4,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -32827,7 +32827,7 @@ var addresses = [
         "address": "梧州路218弄",
         "name": "中皇广场",
         "count": 10,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -32847,7 +32847,7 @@ var addresses = [
         "address": "五厍浜路168弄",
         "name": "汇丰豪轩",
         "count": 40,
-        "style": 0
+        "style": 4
     },
     {
         "lnglat": [
@@ -32857,7 +32857,7 @@ var addresses = [
         "address": "五莲路1168号",
         "name": "新馨白领公寓五莲路店",
         "count": 4,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -32867,7 +32867,7 @@ var addresses = [
         "address": "五星路706弄26号楼",
         "name": "御河企业公馆D2E3",
         "count": 3,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -32887,7 +32887,7 @@ var addresses = [
         "address": "五星路410弄72号",
         "name": "湾流国际青年社区北蔡店",
         "count": 1,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -32897,7 +32897,7 @@ var addresses = [
         "address": "武定路1102号",
         "name": "怡甸公寓",
         "count": 1,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -32907,7 +32907,7 @@ var addresses = [
         "address": "武定路1128弄",
         "name": "瀚林府邸",
         "count": 22,
-        "style": 1
+        "style": 2
     },
     {
         "lnglat": [
@@ -32917,7 +32917,7 @@ var addresses = [
         "address": "武定路1145弄",
         "name": "沪中新苑",
         "count": 31,
-        "style": 0
+        "style": 3
     },
     {
         "lnglat": [
@@ -32927,7 +32927,7 @@ var addresses = [
         "address": "武定路458号",
         "name": "洪安大厦(上海)",
         "count": 3,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -32947,7 +32947,7 @@ var addresses = [
         "address": "武定路881号",
         "name": "881创意园",
         "count": 5,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -32967,7 +32967,7 @@ var addresses = [
         "address": "武定西路1158弄",
         "name": "瑞丽公寓",
         "count": 2,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -32987,7 +32987,7 @@ var addresses = [
         "address": "武定西路1438号",
         "name": "雅筑公寓",
         "count": 6,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -32997,7 +32997,7 @@ var addresses = [
         "address": "武进路289号",
         "name": "海泰时代大厦",
         "count": 6,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -33007,7 +33007,7 @@ var addresses = [
         "address": "武东路28弄",
         "name": "同和国际",
         "count": 5,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -33017,7 +33017,7 @@ var addresses = [
         "address": "武进路41号",
         "name": "吉汇大厦(虹口SOHO)",
         "count": 3,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -33027,7 +33027,7 @@ var addresses = [
         "address": "武进路579号",
         "name": "武进大楼",
         "count": 3,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -33037,7 +33037,7 @@ var addresses = [
         "address": "武康路112号",
         "name": "康兴公寓",
         "count": 2,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -33047,7 +33047,7 @@ var addresses = [
         "address": "武康路280弄",
         "name": "汇成武康公寓",
         "count": 4,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -33057,7 +33057,7 @@ var addresses = [
         "address": "武宁路300弄",
         "name": "武宁小城",
         "count": 6,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -33067,7 +33067,7 @@ var addresses = [
         "address": "武宁路101号",
         "name": "我格广场（商场）",
         "count": 6,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -33077,7 +33077,7 @@ var addresses = [
         "address": "武宁路2101号",
         "name": "嘉安大厦",
         "count": 3,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -33087,7 +33087,7 @@ var addresses = [
         "address": "武宁路423号",
         "name": "五零智慧产业科技园",
         "count": 43,
-        "style": 0
+        "style": 4
     },
     {
         "lnglat": [
@@ -33097,7 +33097,7 @@ var addresses = [
         "address": "武宁路501号",
         "name": "鸿运大厦",
         "count": 3,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -33107,7 +33107,7 @@ var addresses = [
         "address": "武宁路509号",
         "name": "电科大厦",
         "count": 9,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -33117,7 +33117,7 @@ var addresses = [
         "address": "武宁路8弄1号",
         "name": "大众河滨大厦",
         "count": 3,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -33147,7 +33147,7 @@ var addresses = [
         "address": "武宁南路418弄",
         "name": "怡乐花园(上海)",
         "count": 8,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -33157,7 +33157,7 @@ var addresses = [
         "address": "武宁南路488号",
         "name": "智慧广场",
         "count": 5,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -33167,7 +33167,7 @@ var addresses = [
         "address": "武威东路478弄",
         "name": "雅诗蓝郡",
         "count": 23,
-        "style": 1
+        "style": 2
     },
     {
         "lnglat": [
@@ -33177,7 +33177,7 @@ var addresses = [
         "address": "武威路2600弄",
         "name": "新华悦都",
         "count": 7,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -33187,7 +33187,7 @@ var addresses = [
         "address": "武乡南路259弄",
         "name": "大成名庭",
         "count": 29,
-        "style": 1
+        "style": 2
     },
     {
         "lnglat": [
@@ -33197,7 +33197,7 @@ var addresses = [
         "address": "武威路2909弄",
         "name": "连飞虹湖天地国际公寓",
         "count": 6,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -33207,7 +33207,7 @@ var addresses = [
         "address": "武夷路351号",
         "name": "武夷商务中心",
         "count": 3,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -33217,7 +33217,7 @@ var addresses = [
         "address": "武夷路416弄",
         "name": "天诚花苑",
         "count": 5,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -33227,7 +33227,7 @@ var addresses = [
         "address": "武夷路438号",
         "name": "星辰公寓",
         "count": 1,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -33237,7 +33237,7 @@ var addresses = [
         "address": "武夷路418弄1号",
         "name": "武定大厦",
         "count": 2,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -33247,7 +33247,7 @@ var addresses = [
         "address": "物华路58号",
         "name": "物华大厦（上海）",
         "count": 2,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -33267,7 +33267,7 @@ var addresses = [
         "address": "物华路73号",
         "name": "侨园渡边物华园",
         "count": 1,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -33277,7 +33277,7 @@ var addresses = [
         "address": "西藏北路166号",
         "name": "上海静安大悦城购物中心",
         "count": 48,
-        "style": 0
+        "style": 4
     },
     {
         "lnglat": [
@@ -33287,7 +33287,7 @@ var addresses = [
         "address": "西藏北路18号",
         "name": "四行天地",
         "count": 3,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -33297,7 +33297,7 @@ var addresses = [
         "address": "西藏北路199号",
         "name": "农房总部大厦",
         "count": 8,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -33307,7 +33307,7 @@ var addresses = [
         "address": "西藏北路528弄",
         "name": "博园大楼",
         "count": 8,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -33317,7 +33317,7 @@ var addresses = [
         "address": "西藏北路568号",
         "name": "上海铭德国际广场",
         "count": 2,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -33327,7 +33327,7 @@ var addresses = [
         "address": "西藏北路605号",
         "name": "兴中心创意园区",
         "count": 2,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -33337,7 +33337,7 @@ var addresses = [
         "address": "西藏南路1090弄",
         "name": "银南大厦",
         "count": 2,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -33357,7 +33357,7 @@ var addresses = [
         "address": "西藏南路1129弄",
         "name": "丽园公寓（上海）",
         "count": 3,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -33367,7 +33367,7 @@ var addresses = [
         "address": "西藏南路1109号",
         "name": "永明大厦",
         "count": 3,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -33387,7 +33387,7 @@ var addresses = [
         "address": "西藏南路1208弄",
         "name": "东吴证券大厦",
         "count": 9,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -33397,7 +33397,7 @@ var addresses = [
         "address": "西藏南路1225号",
         "name": "城信大厦",
         "count": 3,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -33407,7 +33407,7 @@ var addresses = [
         "address": "西藏南路1332号",
         "name": "协作大厦",
         "count": 5,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -33417,7 +33417,7 @@ var addresses = [
         "address": "西藏南路1433弄",
         "name": "新中苑生活大师",
         "count": 5,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -33427,7 +33427,7 @@ var addresses = [
         "address": "西藏南路1501弄",
         "name": "弘辉名苑",
         "count": 8,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -33437,7 +33437,7 @@ var addresses = [
         "address": "西藏南路1558弄",
         "name": "上海人家",
         "count": 6,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -33447,7 +33447,7 @@ var addresses = [
         "address": "西藏南路1639号",
         "name": "精文苑",
         "count": 7,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -33467,7 +33467,7 @@ var addresses = [
         "address": "西藏南路1739弄",
         "name": "耀江花园二期",
         "count": 36,
-        "style": 0
+        "style": 3
     },
     {
         "lnglat": [
@@ -33477,7 +33477,7 @@ var addresses = [
         "address": "西藏南路748号",
         "name": "惠达大厦",
         "count": 2,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -33487,7 +33487,7 @@ var addresses = [
         "address": "西藏南路218号",
         "name": "永银大厦",
         "count": 8,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -33497,7 +33497,7 @@ var addresses = [
         "address": "西藏南路555号",
         "name": "黄浦众鑫城",
         "count": 7,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -33507,7 +33507,7 @@ var addresses = [
         "address": "西藏南路758号",
         "name": "桥苑公寓(上海)",
         "count": 2,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -33517,7 +33517,7 @@ var addresses = [
         "address": "西藏南路760号",
         "name": "安基大厦",
         "count": 3,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -33527,7 +33527,7 @@ var addresses = [
         "address": "西藏南路831弄",
         "name": "交通大厦（即南吉公寓）",
         "count": 4,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -33537,7 +33537,7 @@ var addresses = [
         "address": "西藏南路879-899号",
         "name": "幸运福邸（上海）",
         "count": 4,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -33567,7 +33567,7 @@ var addresses = [
         "address": "西藏中路656号",
         "name": "美华大楼",
         "count": 1,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -33587,7 +33587,7 @@ var addresses = [
         "address": "西藏中路725号",
         "name": "家化中房苑",
         "count": 3,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -33597,7 +33597,7 @@ var addresses = [
         "address": "西环路629号",
         "name": "同久文创园",
         "count": 2,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -33607,7 +33607,7 @@ var addresses = [
         "address": "西江湾路388号",
         "name": "凯德龙之梦虹口广场(办公楼)",
         "count": 46,
-        "style": 0
+        "style": 4
     },
     {
         "lnglat": [
@@ -33617,7 +33617,7 @@ var addresses = [
         "address": "西康路1000号",
         "name": "冠龙大厦",
         "count": 1,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -33627,7 +33627,7 @@ var addresses = [
         "address": "西康路1018号",
         "name": "元茂金豪大厦",
         "count": 2,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -33637,7 +33637,7 @@ var addresses = [
         "address": "西康路1249弄",
         "name": "泰极大厦",
         "count": 3,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -33647,7 +33647,7 @@ var addresses = [
         "address": "西康路1277弄",
         "name": "云都苑",
         "count": 3,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -33657,7 +33657,7 @@ var addresses = [
         "address": "西康路1255号",
         "name": "普陀科技大厦",
         "count": 26,
-        "style": 1
+        "style": 2
     },
     {
         "lnglat": [
@@ -33667,7 +33667,7 @@ var addresses = [
         "address": "西江湾路5号",
         "name": "冠都公寓",
         "count": 1,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -33677,7 +33677,7 @@ var addresses = [
         "address": "西康路1297号",
         "name": "云都商务中心",
         "count": 1,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -33687,7 +33687,7 @@ var addresses = [
         "address": "西康路1288弄",
         "name": "光明城市花园",
         "count": 8,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -33697,7 +33697,7 @@ var addresses = [
         "address": "西康路1407号",
         "name": "荣联公寓",
         "count": 9,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -33707,7 +33707,7 @@ var addresses = [
         "address": "西康路300号",
         "name": "本本大厦",
         "count": 2,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -33717,7 +33717,7 @@ var addresses = [
         "address": "西康路339弄",
         "name": "曼克顿豪庭怡景苑",
         "count": 4,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -33727,7 +33727,7 @@ var addresses = [
         "address": "西康路446号",
         "name": "伯龙公寓",
         "count": 2,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -33737,7 +33737,7 @@ var addresses = [
         "address": "西康路464号",
         "name": "康定大厦",
         "count": 1,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -33747,7 +33747,7 @@ var addresses = [
         "address": "西康路520号",
         "name": "华通公寓",
         "count": 2,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -33757,7 +33757,7 @@ var addresses = [
         "address": "西康路556号",
         "name": "联谊西康大厦",
         "count": 4,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -33767,7 +33767,7 @@ var addresses = [
         "address": "西康路600弄",
         "name": "华通大厦(上海)",
         "count": 2,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -33777,7 +33777,7 @@ var addresses = [
         "address": "西康路658弄7-9号",
         "name": "静安东海园三期",
         "count": 8,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -33787,7 +33787,7 @@ var addresses = [
         "address": "西康路699弄",
         "name": "静安鼎鑫佳苑",
         "count": 2,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -33807,7 +33807,7 @@ var addresses = [
         "address": "西凌家宅路111弄4号",
         "name": "科凌公寓",
         "count": 2,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -33817,7 +33817,7 @@ var addresses = [
         "address": "西泰林路158弄",
         "name": "环球翡翠湾花园",
         "count": 45,
-        "style": 0
+        "style": 4
     },
     {
         "lnglat": [
@@ -33837,7 +33837,7 @@ var addresses = [
         "address": "西康路757号",
         "name": "侨侨大楼",
         "count": 2,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -33847,7 +33847,7 @@ var addresses = [
         "address": "西康路838号",
         "name": "康海大楼",
         "count": 3,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -33867,7 +33867,7 @@ var addresses = [
         "address": "西营南路67弄",
         "name": "恒大华城_天地苑三期",
         "count": 76,
-        "style": 0
+        "style": 7
     },
     {
         "lnglat": [
@@ -33877,7 +33877,7 @@ var addresses = [
         "address": "西营路58、62号",
         "name": "明珠花苑",
         "count": 8,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -33887,7 +33887,7 @@ var addresses = [
         "address": "西油墩港路177弄",
         "name": "逸泰雅苑一期",
         "count": 21,
-        "style": 1
+        "style": 2
     },
     {
         "lnglat": [
@@ -33897,7 +33897,7 @@ var addresses = [
         "address": "希望路1333号",
         "name": "常发豪庭",
         "count": 40,
-        "style": 0
+        "style": 4
     },
     {
         "lnglat": [
@@ -33927,7 +33927,7 @@ var addresses = [
         "address": "喜泉路118弄",
         "name": "外冈景苑",
         "count": 160,
-        "style": 0
+        "style": 9
     },
     {
         "lnglat": [
@@ -33937,7 +33937,7 @@ var addresses = [
         "address": "希望路978弄",
         "name": "领峰华庭二期",
         "count": 31,
-        "style": 0
+        "style": 3
     },
     {
         "lnglat": [
@@ -33947,7 +33947,7 @@ var addresses = [
         "address": "喜泰路255号",
         "name": "海桐商务楼",
         "count": 2,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -33957,7 +33957,7 @@ var addresses = [
         "address": "霞光路368弄",
         "name": "东港铭筑",
         "count": 46,
-        "style": 0
+        "style": 4
     },
     {
         "lnglat": [
@@ -33967,7 +33967,7 @@ var addresses = [
         "address": "霞光路78弄",
         "name": "蓝色城邦",
         "count": 29,
-        "style": 1
+        "style": 2
     },
     {
         "lnglat": [
@@ -33977,7 +33977,7 @@ var addresses = [
         "address": "仙霞路1281号",
         "name": "帝豪苑",
         "count": 6,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -33987,7 +33987,7 @@ var addresses = [
         "address": "仙霞路137号",
         "name": "盛高国际大厦",
         "count": 8,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -34007,7 +34007,7 @@ var addresses = [
         "address": "仙霞路322号",
         "name": "鑫达大厦",
         "count": 3,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -34017,7 +34017,7 @@ var addresses = [
         "address": "仙霞路345号",
         "name": "东方世纪大厦",
         "count": 2,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -34037,7 +34037,7 @@ var addresses = [
         "address": "仙霞路1388弄",
         "name": "虹康景博苑",
         "count": 4,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -34047,7 +34047,7 @@ var addresses = [
         "address": "仙霞路357号",
         "name": "制版楼",
         "count": 1,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -34057,7 +34057,7 @@ var addresses = [
         "address": "仙霞路369号",
         "name": "KB现代广场",
         "count": 2,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -34067,7 +34067,7 @@ var addresses = [
         "address": "仙霞路88号",
         "name": "太阳广场",
         "count": 6,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -34077,7 +34077,7 @@ var addresses = [
         "address": "仙霞路80号",
         "name": "天虹大楼",
         "count": 1,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -34097,7 +34097,7 @@ var addresses = [
         "address": "夏碧路79弄",
         "name": "瑞禾明苑",
         "count": 27,
-        "style": 1
+        "style": 2
     },
     {
         "lnglat": [
@@ -34107,7 +34107,7 @@ var addresses = [
         "address": "先锋街25号",
         "name": "宝纳大厦",
         "count": 3,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -34117,7 +34117,7 @@ var addresses = [
         "address": "香车路388号",
         "name": "宝奇电子商务楼",
         "count": 1,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -34137,7 +34137,7 @@ var addresses = [
         "address": "襄阳南路175-号",
         "name": "环中商厦（上海）",
         "count": 3,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -34147,7 +34147,7 @@ var addresses = [
         "address": "香山路33号",
         "name": "香山丽舍",
         "count": 4,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -34157,7 +34157,7 @@ var addresses = [
         "address": "襄阳南路550弄",
         "name": "天元襄阳公寓",
         "count": 8,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -34167,7 +34167,7 @@ var addresses = [
         "address": "襄阳南路500号",
         "name": "巴黎时韵",
         "count": 4,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -34177,7 +34177,7 @@ var addresses = [
         "address": "祥凯路2013弄",
         "name": "天健翠园",
         "count": 50,
-        "style": 0
+        "style": 5
     },
     {
         "lnglat": [
@@ -34187,7 +34187,7 @@ var addresses = [
         "address": "翔殷路1128号",
         "name": "沪东金融大厦",
         "count": 4,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -34197,7 +34197,7 @@ var addresses = [
         "address": "翔殷路258弄",
         "name": "星云苑",
         "count": 51,
-        "style": 0
+        "style": 5
     },
     {
         "lnglat": [
@@ -34217,7 +34217,7 @@ var addresses = [
         "address": "翔江公路518号",
         "name": "寅尚工业产业园",
         "count": 6,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -34227,7 +34227,7 @@ var addresses = [
         "address": "翔殷路505弄",
         "name": "翔殷路505弄小区",
         "count": 2,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -34237,7 +34237,7 @@ var addresses = [
         "address": "翔殷路873弄",
         "name": "梅花村",
         "count": 40,
-        "style": 0
+        "style": 4
     },
     {
         "lnglat": [
@@ -34247,7 +34247,7 @@ var addresses = [
         "address": "向成路58号",
         "name": "东方国际科技大厦",
         "count": 8,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -34257,7 +34257,7 @@ var addresses = [
         "address": "向城路15号",
         "name": "锦城大厦（上海）",
         "count": 3,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -34267,7 +34267,7 @@ var addresses = [
         "address": "向城路288号",
         "name": "国华人寿金融大厦",
         "count": 35,
-        "style": 0
+        "style": 3
     },
     {
         "lnglat": [
@@ -34277,7 +34277,7 @@ var addresses = [
         "address": "萧云路1318弄",
         "name": "霄云湾公寓",
         "count": 24,
-        "style": 1
+        "style": 2
     },
     {
         "lnglat": [
@@ -34287,7 +34287,7 @@ var addresses = [
         "address": "向城路19号",
         "name": "众城公寓",
         "count": 3,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -34297,7 +34297,7 @@ var addresses = [
         "address": "小木桥路219号",
         "name": "悦樘公寓(小木桥店)",
         "count": 1,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -34307,7 +34307,7 @@ var addresses = [
         "address": "小木桥路224号",
         "name": "儿科大楼",
         "count": 3,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -34317,7 +34317,7 @@ var addresses = [
         "address": "小木桥路251号",
         "name": "上海天亿大厦",
         "count": 1,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -34327,7 +34327,7 @@ var addresses = [
         "address": "小木桥路456号",
         "name": "X2创意空间二期",
         "count": 1,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -34337,7 +34337,7 @@ var addresses = [
         "address": "小木桥路268弄",
         "name": "泰康大楼",
         "count": 3,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -34347,7 +34347,7 @@ var addresses = [
         "address": "小木桥路800号",
         "name": "UTOP联创空间",
         "count": 1,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -34357,7 +34357,7 @@ var addresses = [
         "address": "协和路1033号",
         "name": "文洋大厦",
         "count": 8,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -34367,7 +34367,7 @@ var addresses = [
         "address": "斜土东路265弄",
         "name": "锦绣家园",
         "count": 10,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -34377,7 +34377,7 @@ var addresses = [
         "address": "斜土路1077号",
         "name": "鼎园",
         "count": 4,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -34387,7 +34387,7 @@ var addresses = [
         "address": "斜土东路333弄",
         "name": "华浩苑",
         "count": 10,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -34397,7 +34397,7 @@ var addresses = [
         "address": "斜土路1175号",
         "name": "景泰大厦",
         "count": 1,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -34407,7 +34407,7 @@ var addresses = [
         "address": "斜土路1111弄",
         "name": "福华花苑",
         "count": 5,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -34417,7 +34417,7 @@ var addresses = [
         "address": "斜土路1221号",
         "name": "之俊大厦（上海）",
         "count": 4,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -34427,7 +34427,7 @@ var addresses = [
         "address": "斜土路118弄1号",
         "name": "大众汽车公寓",
         "count": 3,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -34437,7 +34437,7 @@ var addresses = [
         "address": "斜土路1975弄、2099弄",
         "name": "阳光名苑二期(阳光巴黎二期)",
         "count": 32,
-        "style": 0
+        "style": 3
     },
     {
         "lnglat": [
@@ -34447,7 +34447,7 @@ var addresses = [
         "address": "斜土路1620号",
         "name": "三航大楼",
         "count": 4,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -34457,7 +34457,7 @@ var addresses = [
         "address": "斜土路2088号",
         "name": "徐汇创客中心",
         "count": 3,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -34467,7 +34467,7 @@ var addresses = [
         "address": "斜土路2096弄",
         "name": "锦蝶苑",
         "count": 3,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -34477,7 +34477,7 @@ var addresses = [
         "address": "斜土路2099弄",
         "name": "阳光名苑",
         "count": 8,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -34487,7 +34487,7 @@ var addresses = [
         "address": "斜土路2200弄",
         "name": "荣承公寓",
         "count": 6,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -34497,7 +34497,7 @@ var addresses = [
         "address": "斜土路2455号",
         "name": "同济杰作（同汇苑）",
         "count": 6,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -34507,7 +34507,7 @@ var addresses = [
         "address": "斜土路2200弄47,48号",
         "name": "红旗教师公寓",
         "count": 6,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -34517,7 +34517,7 @@ var addresses = [
         "address": "斜土路2526号",
         "name": "新亚徐汇公寓",
         "count": 3,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -34527,7 +34527,7 @@ var addresses = [
         "address": "斜土路2601号",
         "name": "嘉汇广场",
         "count": 9,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -34537,7 +34537,7 @@ var addresses = [
         "address": "斜土路2600号",
         "name": "海高大厦",
         "count": 1,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -34547,7 +34547,7 @@ var addresses = [
         "address": "斜土路2897号",
         "name": "海文商务楼（斜土路）",
         "count": 1,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -34557,7 +34557,7 @@ var addresses = [
         "address": "斜土路2899号",
         "name": "上影公寓",
         "count": 2,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -34567,7 +34567,7 @@ var addresses = [
         "address": "斜土路2899甲号",
         "name": "光启文化广场",
         "count": 59,
-        "style": 0
+        "style": 5
     },
     {
         "lnglat": [
@@ -34587,7 +34587,7 @@ var addresses = [
         "address": "斜土路468号",
         "name": "白云公寓",
         "count": 1,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -34597,7 +34597,7 @@ var addresses = [
         "address": "斜土路448号",
         "name": "蒙自大楼",
         "count": 2,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -34607,7 +34607,7 @@ var addresses = [
         "address": "斜土路500号",
         "name": "人才大厦（斜土路）",
         "count": 4,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -34617,7 +34617,7 @@ var addresses = [
         "address": "斜土路501弄1-5号",
         "name": "兴城苑",
         "count": 8,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -34627,7 +34627,7 @@ var addresses = [
         "address": "斜土路766弄1号",
         "name": "莱兴公寓",
         "count": 2,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -34637,7 +34637,7 @@ var addresses = [
         "address": "斜土路780号",
         "name": "经宇商务楼",
         "count": 6,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -34647,7 +34647,7 @@ var addresses = [
         "address": "斜土路768号",
         "name": "致远大厦",
         "count": 26,
-        "style": 1
+        "style": 2
     },
     {
         "lnglat": [
@@ -34657,7 +34657,7 @@ var addresses = [
         "address": "斜土路788号",
         "name": "飞纶商务中心",
         "count": 2,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -34667,7 +34667,7 @@ var addresses = [
         "address": "斜土路791号",
         "name": "三毛集团办公楼",
         "count": 3,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -34677,7 +34677,7 @@ var addresses = [
         "address": "斜土路810弄",
         "name": "郁金香花苑",
         "count": 24,
-        "style": 1
+        "style": 2
     },
     {
         "lnglat": [
@@ -34687,7 +34687,7 @@ var addresses = [
         "address": "辛耕路81弄",
         "name": "永新世纪苑",
         "count": 26,
-        "style": 1
+        "style": 2
     },
     {
         "lnglat": [
@@ -34697,7 +34697,7 @@ var addresses = [
         "address": "新昌路477弄",
         "name": "上海滩新昌城",
         "count": 20,
-        "style": 1
+        "style": 2
     },
     {
         "lnglat": [
@@ -34707,7 +34707,7 @@ var addresses = [
         "address": "新场镇康新公路1588号",
         "name": "千禾创业园",
         "count": 3,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -34717,7 +34717,7 @@ var addresses = [
         "address": "新陈路303弄",
         "name": "莲泰苑",
         "count": 9,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -34727,7 +34727,7 @@ var addresses = [
         "address": "新成路261弄之1-18号",
         "name": "迎园东一坊",
         "count": 2,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -34737,7 +34737,7 @@ var addresses = [
         "address": "新村路1759弄",
         "name": "凯旋花园",
         "count": 32,
-        "style": 0
+        "style": 3
     },
     {
         "lnglat": [
@@ -34747,7 +34747,7 @@ var addresses = [
         "address": "新村路1321号",
         "name": "新村路1321号",
         "count": 2,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -34767,7 +34767,7 @@ var addresses = [
         "address": "新村路423弄",
         "name": "绿地普陀商务广场",
         "count": 21,
-        "style": 1
+        "style": 2
     },
     {
         "lnglat": [
@@ -34777,7 +34777,7 @@ var addresses = [
         "address": "新村路877号",
         "name": "大华齐成晟商务园",
         "count": 8,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -34797,7 +34797,7 @@ var addresses = [
         "address": "新二路999弄",
         "name": "四季绿城",
         "count": 44,
-        "style": 0
+        "style": 4
     },
     {
         "lnglat": [
@@ -34807,7 +34807,7 @@ var addresses = [
         "address": "新飞路1500号",
         "name": "上海市松江科技创业中心",
         "count": 9,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -34817,7 +34817,7 @@ var addresses = [
         "address": "新飞路1756号",
         "name": "翔展创客园",
         "count": 6,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -34827,7 +34827,7 @@ var addresses = [
         "address": "新二路183弄",
         "name": "馨良苑",
         "count": 27,
-        "style": 1
+        "style": 2
     },
     {
         "lnglat": [
@@ -34847,7 +34847,7 @@ var addresses = [
         "address": "新福路9号",
         "name": "连成大厦",
         "count": 6,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -34857,7 +34857,7 @@ var addresses = [
         "address": "新府中路1600号，华志路333弄",
         "name": "虹桥宝龙城",
         "count": 49,
-        "style": 0
+        "style": 4
     },
     {
         "lnglat": [
@@ -34867,7 +34867,7 @@ var addresses = [
         "address": "新格路599号",
         "name": "新格路599号商务楼",
         "count": 1,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -34877,7 +34877,7 @@ var addresses = [
         "address": "新沪路1083弄",
         "name": "上寓酒店公寓（唐鋆酒店公寓）",
         "count": 4,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -34907,7 +34907,7 @@ var addresses = [
         "address": "新华路2号",
         "name": "鸿发苑",
         "count": 2,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -34917,7 +34917,7 @@ var addresses = [
         "address": "新沪路250号",
         "name": "久华商务楼",
         "count": 2,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -34927,7 +34927,7 @@ var addresses = [
         "address": "新华路329弄47-71号",
         "name": "新华名门",
         "count": 4,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -34937,7 +34937,7 @@ var addresses = [
         "address": "新华路272弄",
         "name": "畅翠苑",
         "count": 2,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -34947,7 +34947,7 @@ var addresses = [
         "address": "新华路519号",
         "name": "新华御庭",
         "count": 9,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -34957,7 +34957,7 @@ var addresses = [
         "address": "新华路543号",
         "name": "上海新华大厦",
         "count": 2,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -34987,7 +34987,7 @@ var addresses = [
         "address": "新华路590弄6-16号",
         "name": "博园",
         "count": 6,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -34997,7 +34997,7 @@ var addresses = [
         "address": "新华路64弄",
         "name": "申新花苑",
         "count": 3,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -35007,7 +35007,7 @@ var addresses = [
         "address": "新华路664号",
         "name": "万宝国际商务中心",
         "count": 1,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -35017,7 +35017,7 @@ var addresses = [
         "address": "新华路666弄1-5号",
         "name": "申亚新华府",
         "count": 7,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -35027,7 +35027,7 @@ var addresses = [
         "address": "新华路668号",
         "name": "申畅国际商务楼",
         "count": 1,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -35037,7 +35037,7 @@ var addresses = [
         "address": "新华路699弄1-3号",
         "name": "新华嘉利公寓",
         "count": 9,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -35047,7 +35047,7 @@ var addresses = [
         "address": "新华路720号",
         "name": "交通公寓",
         "count": 3,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -35067,7 +35067,7 @@ var addresses = [
         "address": "新华路728号",
         "name": "华联发展大厦",
         "count": 2,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -35077,7 +35077,7 @@ var addresses = [
         "address": "新疆路500号",
         "name": "绿地海悦酒店公寓",
         "count": 1,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -35087,7 +35087,7 @@ var addresses = [
         "address": "新华路755号",
         "name": "凯新苑",
         "count": 2,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -35097,7 +35097,7 @@ var addresses = [
         "address": "新金桥路1122号",
         "name": "方正大厦",
         "count": 2,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -35117,7 +35117,7 @@ var addresses = [
         "address": "新嘉路1弄",
         "name": "瑞嘉苑小区",
         "count": 25,
-        "style": 1
+        "style": 2
     },
     {
         "lnglat": [
@@ -35127,7 +35127,7 @@ var addresses = [
         "address": "新金桥路1599弄B2栋",
         "name": "东方万国企业中心B2栋",
         "count": 4,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -35137,7 +35137,7 @@ var addresses = [
         "address": "新金桥路1888号36号楼",
         "name": "凯龙金领大厦",
         "count": 3,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -35147,7 +35147,7 @@ var addresses = [
         "address": "新金桥路201号",
         "name": "现代通信大厦",
         "count": 8,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -35157,7 +35157,7 @@ var addresses = [
         "address": "新金桥路255号",
         "name": "金桥商务公寓",
         "count": 8,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -35177,7 +35177,7 @@ var addresses = [
         "address": "新金桥路28号",
         "name": "新金桥大厦",
         "count": 4,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -35187,7 +35187,7 @@ var addresses = [
         "address": "新金桥路58号",
         "name": "银东大厦",
         "count": 4,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -35197,7 +35197,7 @@ var addresses = [
         "address": "新骏环路115号",
         "name": "寰启商务中心",
         "count": 1,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -35207,7 +35207,7 @@ var addresses = [
         "address": "新乐路158号",
         "name": "东湖公寓",
         "count": 2,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -35217,7 +35217,7 @@ var addresses = [
         "address": "新兰路9号",
         "name": "晓富金融大厦",
         "count": 5,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -35227,7 +35227,7 @@ var addresses = [
         "address": "新龙路1111弄",
         "name": "万科朗润园",
         "count": 62,
-        "style": 0
+        "style": 6
     },
     {
         "lnglat": [
@@ -35237,7 +35237,7 @@ var addresses = [
         "address": "新龙路1333弄",
         "name": "七宝万新国际中心",
         "count": 126,
-        "style": 0
+        "style": 9
     },
     {
         "lnglat": [
@@ -35247,7 +35247,7 @@ var addresses = [
         "address": "新龙路311弄6号",
         "name": "七宝宝龙城T6",
         "count": 3,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -35257,7 +35257,7 @@ var addresses = [
         "address": "新龙路399弄56号",
         "name": "七宝宝龙城",
         "count": 6,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -35267,7 +35267,7 @@ var addresses = [
         "address": "新庙三路669号",
         "name": "669科创园",
         "count": 2,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -35277,7 +35277,7 @@ var addresses = [
         "address": "新南街299弄",
         "name": "亚龙华泽新苑",
         "count": 20,
-        "style": 1
+        "style": 2
     },
     {
         "lnglat": [
@@ -35287,7 +35287,7 @@ var addresses = [
         "address": "新南街301弄",
         "name": "万宇阳光苑",
         "count": 21,
-        "style": 1
+        "style": 2
     },
     {
         "lnglat": [
@@ -35307,7 +35307,7 @@ var addresses = [
         "address": "新农河路508弄",
         "name": "上坤旭辉墅",
         "count": 42,
-        "style": 0
+        "style": 4
     },
     {
         "lnglat": [
@@ -35317,7 +35317,7 @@ var addresses = [
         "address": "新桥镇金都西路1000号",
         "name": "松港闵新创意园",
         "count": 6,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -35327,7 +35327,7 @@ var addresses = [
         "address": "新桥镇明中路881弄，1010弄",
         "name": "万科白马花园",
         "count": 28,
-        "style": 1
+        "style": 2
     },
     {
         "lnglat": [
@@ -35337,7 +35337,7 @@ var addresses = [
         "address": "新泉路66弄",
         "name": "万里欣苑",
         "count": 20,
-        "style": 1
+        "style": 2
     },
     {
         "lnglat": [
@@ -35347,7 +35347,7 @@ var addresses = [
         "address": "新市路251弄",
         "name": "曲阳名邸",
         "count": 10,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -35357,7 +35357,7 @@ var addresses = [
         "address": "新市路86号",
         "name": "灵峰公寓",
         "count": 2,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -35367,7 +35367,7 @@ var addresses = [
         "address": "新市南路780弄",
         "name": "望隆苑（望华苑）",
         "count": 5,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -35377,7 +35377,7 @@ var addresses = [
         "address": "新松江路1060号",
         "name": "恒杰商务大楼B座",
         "count": 5,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -35387,7 +35387,7 @@ var addresses = [
         "address": "新松江路1234号",
         "name": "恒杰商务大楼A座",
         "count": 6,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -35397,7 +35397,7 @@ var addresses = [
         "address": "新松江路1277号",
         "name": "东鼎商务大厦",
         "count": 39,
-        "style": 0
+        "style": 3
     },
     {
         "lnglat": [
@@ -35407,7 +35407,7 @@ var addresses = [
         "address": "新松江路1455号",
         "name": "东鼎名人府",
         "count": 71,
-        "style": 0
+        "style": 7
     },
     {
         "lnglat": [
@@ -35417,7 +35417,7 @@ var addresses = [
         "address": "新松江路887弄",
         "name": "单身公寓",
         "count": 6,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -35447,7 +35447,7 @@ var addresses = [
         "address": "新渔东路800号",
         "name": "莲森集团商务楼",
         "count": 1,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -35457,7 +35457,7 @@ var addresses = [
         "address": "新渔东路60号",
         "name": "安龙大楼",
         "count": 2,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -35467,7 +35467,7 @@ var addresses = [
         "address": "新郁路807号",
         "name": "兆地生活广场",
         "count": 1,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -35477,7 +35477,7 @@ var addresses = [
         "address": "新郁路846弄56号",
         "name": "兆地商务金座_B座",
         "count": 5,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -35487,7 +35487,7 @@ var addresses = [
         "address": "新源路1356号",
         "name": "上海正珏科技电子商务产业园",
         "count": 4,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -35497,7 +35497,7 @@ var addresses = [
         "address": "新源路1399弄",
         "name": "上海航天人才公寓",
         "count": 24,
-        "style": 1
+        "style": 2
     },
     {
         "lnglat": [
@@ -35517,7 +35517,7 @@ var addresses = [
         "address": "新闸路1001号",
         "name": "亚成公寓",
         "count": 2,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -35527,7 +35527,7 @@ var addresses = [
         "address": "新闸路1851号",
         "name": "新闸大厦",
         "count": 2,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -35537,7 +35537,7 @@ var addresses = [
         "address": "新闸路218号",
         "name": "中泰公寓",
         "count": 4,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -35557,7 +35557,7 @@ var addresses = [
         "address": "新镇街1058弄",
         "name": "东渡海派青城",
         "count": 22,
-        "style": 1
+        "style": 2
     },
     {
         "lnglat": [
@@ -35577,7 +35577,7 @@ var addresses = [
         "address": "新镇路603弄",
         "name": "东方花园二期",
         "count": 41,
-        "style": 0
+        "style": 4
     },
     {
         "lnglat": [
@@ -35587,7 +35587,7 @@ var addresses = [
         "address": "新镇街99弄",
         "name": "九城家天下商务楼",
         "count": 3,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -35597,7 +35597,7 @@ var addresses = [
         "address": "新中街119弄1-22号",
         "name": "新乐雅苑",
         "count": 9,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -35607,7 +35607,7 @@ var addresses = [
         "address": "新镇路888号",
         "name": "水景书香园",
         "count": 32,
-        "style": 0
+        "style": 3
     },
     {
         "lnglat": [
@@ -35627,7 +35627,7 @@ var addresses = [
         "address": "鑫都路2688号",
         "name": "天恒名城",
         "count": 62,
-        "style": 0
+        "style": 6
     },
     {
         "lnglat": [
@@ -35637,7 +35637,7 @@ var addresses = [
         "address": "新松江路925号",
         "name": "丰源大厦(上海)",
         "count": 2,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -35647,7 +35647,7 @@ var addresses = [
         "address": "邢家桥北路269号",
         "name": "天伦家园",
         "count": 4,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -35657,7 +35657,7 @@ var addresses = [
         "address": "行南路1150弄",
         "name": "南新西园",
         "count": 51,
-        "style": 0
+        "style": 5
     },
     {
         "lnglat": [
@@ -35667,7 +35667,7 @@ var addresses = [
         "address": "兴国路228号",
         "name": "嘉豪苑",
         "count": 2,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -35677,7 +35677,7 @@ var addresses = [
         "address": "行知路381弄",
         "name": "远景佳苑二期",
         "count": 24,
-        "style": 1
+        "style": 2
     },
     {
         "lnglat": [
@@ -35687,7 +35687,7 @@ var addresses = [
         "address": "兴虹路299弄",
         "name": "万科时一区二期（虹桥万科润园）",
         "count": 36,
-        "style": 0
+        "style": 3
     },
     {
         "lnglat": [
@@ -35707,7 +35707,7 @@ var addresses = [
         "address": "兴虹路399弄",
         "name": "万科润园时一区四期",
         "count": 31,
-        "style": 0
+        "style": 3
     },
     {
         "lnglat": [
@@ -35717,7 +35717,7 @@ var addresses = [
         "address": "行知路380弄",
         "name": "远景佳苑一期",
         "count": 8,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -35727,7 +35727,7 @@ var addresses = [
         "address": "兴梅路1199弄",
         "name": "春申景城二期",
         "count": 35,
-        "style": 0
+        "style": 3
     },
     {
         "lnglat": [
@@ -35737,7 +35737,7 @@ var addresses = [
         "address": "兴梅路485号",
         "name": "中环科技园",
         "count": 6,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -35747,7 +35747,7 @@ var addresses = [
         "address": "兴义路48号",
         "name": "新世纪广场",
         "count": 8,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -35767,7 +35767,7 @@ var addresses = [
         "address": "杏山路500弄",
         "name": "曹杨华庭",
         "count": 22,
-        "style": 1
+        "style": 2
     },
     {
         "lnglat": [
@@ -35777,7 +35777,7 @@ var addresses = [
         "address": "杏山路8号",
         "name": "银都名庭",
         "count": 5,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -35787,7 +35787,7 @@ var addresses = [
         "address": "幸福路111弄1-6号（新华路）",
         "name": "恒力苑",
         "count": 3,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -35797,7 +35797,7 @@ var addresses = [
         "address": "幸福路88号",
         "name": "浙海公寓",
         "count": 4,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -35807,7 +35807,7 @@ var addresses = [
         "address": "幸福路42号",
         "name": "福苑大厦",
         "count": 4,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -35817,7 +35817,7 @@ var addresses = [
         "address": "秀涓路338弄",
         "name": "崧泽华城华中苑3区",
         "count": 108,
-        "style": 0
+        "style": 9
     },
     {
         "lnglat": [
@@ -35827,7 +35827,7 @@ var addresses = [
         "address": "秀涓路46弄",
         "name": "观景雅苑",
         "count": 51,
-        "style": 0
+        "style": 5
     },
     {
         "lnglat": [
@@ -35847,7 +35847,7 @@ var addresses = [
         "address": "秀浦路2555号",
         "name": "漕河泾康桥商务绿洲（临港康桥商务绿洲）",
         "count": 26,
-        "style": 1
+        "style": 2
     },
     {
         "lnglat": [
@@ -35857,7 +35857,7 @@ var addresses = [
         "address": "秀沁路132弄",
         "name": "和瑞东苑",
         "count": 22,
-        "style": 1
+        "style": 2
     },
     {
         "lnglat": [
@@ -35867,7 +35867,7 @@ var addresses = [
         "address": "秀浦路2388号",
         "name": "上海康桥先进制造技术创业园",
         "count": 31,
-        "style": 0
+        "style": 3
     },
     {
         "lnglat": [
@@ -35877,7 +35877,7 @@ var addresses = [
         "address": "秀沁路238弄",
         "name": "和瑞西苑",
         "count": 26,
-        "style": 1
+        "style": 2
     },
     {
         "lnglat": [
@@ -35887,7 +35887,7 @@ var addresses = [
         "address": "秀水新路145弄",
         "name": "龙潭南苑",
         "count": 8,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -35907,7 +35907,7 @@ var addresses = [
         "address": "秀沿路1028弄",
         "name": "康桥城中花园（康桥半岛秀溪公寓）",
         "count": 135,
-        "style": 0
+        "style": 9
     },
     {
         "lnglat": [
@@ -35917,7 +35917,7 @@ var addresses = [
         "address": "秀文路908号(莘庄商务区内)",
         "name": "中铁诺德国际中心",
         "count": 26,
-        "style": 1
+        "style": 2
     },
     {
         "lnglat": [
@@ -35927,7 +35927,7 @@ var addresses = [
         "address": "秀沿路1668号",
         "name": "八元桥创新创业园",
         "count": 6,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -35937,7 +35937,7 @@ var addresses = [
         "address": "秀沿西路258弄",
         "name": "中海御景熙岸",
         "count": 31,
-        "style": 0
+        "style": 3
     },
     {
         "lnglat": [
@@ -35947,7 +35947,7 @@ var addresses = [
         "address": "秀沿西路68弄",
         "name": "保利林语溪",
         "count": 75,
-        "style": 0
+        "style": 7
     },
     {
         "lnglat": [
@@ -35957,7 +35957,7 @@ var addresses = [
         "address": "秀韵路105弄",
         "name": "灏景湾",
         "count": 5,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -35987,7 +35987,7 @@ var addresses = [
         "address": "徐虹中路20号",
         "name": "西岸创意园一期",
         "count": 2,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -35997,7 +35997,7 @@ var addresses = [
         "address": "徐汇区柳州路585弄",
         "name": "申德公寓",
         "count": 5,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -36017,7 +36017,7 @@ var addresses = [
         "address": "徐家汇路388号",
         "name": "瑞金新苑",
         "count": 6,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -36027,7 +36027,7 @@ var addresses = [
         "address": "徐家汇路518号",
         "name": "天天花园",
         "count": 9,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -36037,7 +36037,7 @@ var addresses = [
         "address": "徐家汇路1弄",
         "name": "新家坡园景苑",
         "count": 30,
-        "style": 1
+        "style": 3
     },
     {
         "lnglat": [
@@ -36047,7 +36047,7 @@ var addresses = [
         "address": "徐家汇路550号",
         "name": "宝鼎大厦",
         "count": 3,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -36057,7 +36057,7 @@ var addresses = [
         "address": "徐家汇路552弄1号",
         "name": "富源公寓",
         "count": 1,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -36067,7 +36067,7 @@ var addresses = [
         "address": "徐灵路300弄",
         "name": "二联馨苑",
         "count": 29,
-        "style": 1
+        "style": 2
     },
     {
         "lnglat": [
@@ -36077,7 +36077,7 @@ var addresses = [
         "address": "徐祥路368号",
         "name": "8090青年创业基地数字经济总部园",
         "count": 9,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -36087,7 +36087,7 @@ var addresses = [
         "address": "徐家汇路569号",
         "name": "帝庭爱仕大厦",
         "count": 4,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -36097,7 +36097,7 @@ var addresses = [
         "address": "徐家汇路558弄1号",
         "name": "双钱公寓",
         "count": 6,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -36117,7 +36117,7 @@ var addresses = [
         "address": "徐盈路588弄",
         "name": "锦绣逸庭",
         "count": 64,
-        "style": 0
+        "style": 6
     },
     {
         "lnglat": [
@@ -36137,7 +36137,7 @@ var addresses = [
         "address": "许昌路1560弄",
         "name": "伊东苑",
         "count": 3,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -36147,7 +36147,7 @@ var addresses = [
         "address": "宣化路28号",
         "name": "企业发展大厦",
         "count": 7,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -36167,7 +36167,7 @@ var addresses = [
         "address": "宣秋路129号",
         "name": "上海尧煊实业有限公司(园区)",
         "count": 7,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -36177,7 +36177,7 @@ var addresses = [
         "address": "宣化路300号",
         "name": "华宁国际大厦",
         "count": 6,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -36187,7 +36187,7 @@ var addresses = [
         "address": "学后街28号",
         "name": "银桥商务大楼",
         "count": 2,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -36197,7 +36197,7 @@ var addresses = [
         "address": "学前街111弄",
         "name": "沧海苑",
         "count": 4,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -36207,7 +36207,7 @@ var addresses = [
         "address": "学府街88弄",
         "name": "三湘世纪花城三期",
         "count": 26,
-        "style": 1
+        "style": 2
     },
     {
         "lnglat": [
@@ -36217,7 +36217,7 @@ var addresses = [
         "address": "宣秋路858号",
         "name": "盛镛智慧科技园",
         "count": 3,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -36227,7 +36227,7 @@ var addresses = [
         "address": "学院路32弄",
         "name": "圣莲大厦",
         "count": 4,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -36237,7 +36237,7 @@ var addresses = [
         "address": "延安东路1200号",
         "name": "电信世界",
         "count": 2,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -36247,7 +36247,7 @@ var addresses = [
         "address": "雪松路392号",
         "name": "锦翔大楼",
         "count": 4,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -36257,7 +36257,7 @@ var addresses = [
         "address": "延安东路222号",
         "name": "外滩中心",
         "count": 6,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -36277,7 +36277,7 @@ var addresses = [
         "address": "延安东路175号",
         "name": "旺角广场",
         "count": 6,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -36287,7 +36287,7 @@ var addresses = [
         "address": "延安东路618号",
         "name": "远洋商业大厦(二期)",
         "count": 2,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -36297,7 +36297,7 @@ var addresses = [
         "address": "延安东路550号",
         "name": "海洋大厦",
         "count": 4,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -36307,7 +36307,7 @@ var addresses = [
         "address": "延安东路700号",
         "name": "港泰广场",
         "count": 5,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -36317,7 +36317,7 @@ var addresses = [
         "address": "延安东路600-618号",
         "name": "远洋商业大厦(一期)",
         "count": 7,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -36327,7 +36327,7 @@ var addresses = [
         "address": "延安西路1030弄",
         "name": "佳信都市花园",
         "count": 30,
-        "style": 1
+        "style": 3
     },
     {
         "lnglat": [
@@ -36337,7 +36337,7 @@ var addresses = [
         "address": "延安西路1033号",
         "name": "大众金融大厦",
         "count": 6,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -36347,7 +36347,7 @@ var addresses = [
         "address": "延安东路45号",
         "name": "工商联大厦",
         "count": 3,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -36357,7 +36357,7 @@ var addresses = [
         "address": "延安西路1118号",
         "name": "龙之梦大厦(延安路)",
         "count": 21,
-        "style": 1
+        "style": 2
     },
     {
         "lnglat": [
@@ -36367,7 +36367,7 @@ var addresses = [
         "address": "延安西路1088号",
         "name": "长峰中心",
         "count": 39,
-        "style": 0
+        "style": 3
     },
     {
         "lnglat": [
@@ -36377,7 +36377,7 @@ var addresses = [
         "address": "延安西路1146号",
         "name": "新先锋商务中心",
         "count": 2,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -36387,7 +36387,7 @@ var addresses = [
         "address": "延安西路1221号",
         "name": "泛太大厦",
         "count": 2,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -36397,7 +36397,7 @@ var addresses = [
         "address": "延安西路1228弄2号",
         "name": "上海嘉利大厦",
         "count": 38,
-        "style": 0
+        "style": 3
     },
     {
         "lnglat": [
@@ -36407,7 +36407,7 @@ var addresses = [
         "address": "延安西路1228弄4号",
         "name": "嘉阳公寓",
         "count": 3,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -36417,7 +36417,7 @@ var addresses = [
         "address": "延安西路1228弄8号",
         "name": "嘉苑公寓",
         "count": 3,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -36427,7 +36427,7 @@ var addresses = [
         "address": "延安西路1235弄",
         "name": "佳达新苑",
         "count": 10,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -36437,7 +36437,7 @@ var addresses = [
         "address": "延安西路1262号",
         "name": "上生新所",
         "count": 4,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -36447,7 +36447,7 @@ var addresses = [
         "address": "延安西路1260号",
         "name": "延安公寓(延安西路)",
         "count": 1,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -36457,7 +36457,7 @@ var addresses = [
         "address": "延安西路1303号",
         "name": "上汽万众大厦",
         "count": 3,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -36467,7 +36467,7 @@ var addresses = [
         "address": "延安西路1326号",
         "name": "生物大厦",
         "count": 7,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -36477,7 +36477,7 @@ var addresses = [
         "address": "延安西路129号",
         "name": "华侨大厦",
         "count": 4,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -36487,7 +36487,7 @@ var addresses = [
         "address": "延安西路1355弄1、2号（定西路）",
         "name": "银都公寓",
         "count": 2,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -36497,7 +36497,7 @@ var addresses = [
         "address": "延安西路1399号",
         "name": "汇享1399",
         "count": 1,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -36507,7 +36507,7 @@ var addresses = [
         "address": "延安西路1328弄",
         "name": "今日丽园",
         "count": 6,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -36517,7 +36517,7 @@ var addresses = [
         "address": "延安西路1448弄",
         "name": "华融国际大厦",
         "count": 3,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -36527,7 +36527,7 @@ var addresses = [
         "address": "延安西路2067号",
         "name": "仲盛金融中心",
         "count": 4,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -36537,7 +36537,7 @@ var addresses = [
         "address": "延安西路1600号",
         "name": "禾森商务中心",
         "count": 2,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -36547,7 +36547,7 @@ var addresses = [
         "address": "延安西路2077号",
         "name": "金桥大厦",
         "count": 4,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -36557,7 +36557,7 @@ var addresses = [
         "address": "延安西路1590号",
         "name": "增泽世贸大楼",
         "count": 1,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -36567,7 +36567,7 @@ var addresses = [
         "address": "延安西路2201号",
         "name": "上海国际贸易中心",
         "count": 4,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -36577,7 +36577,7 @@ var addresses = [
         "address": "延安西路1566号",
         "name": "龙峰大厦",
         "count": 1,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -36587,7 +36587,7 @@ var addresses = [
         "address": "延安西路2299号",
         "name": "上海世贸商城",
         "count": 46,
-        "style": 0
+        "style": 4
     },
     {
         "lnglat": [
@@ -36597,7 +36597,7 @@ var addresses = [
         "address": "延安西路2633号",
         "name": "美丽华商务中心(美丽华商务大厦)",
         "count": 5,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -36607,7 +36607,7 @@ var addresses = [
         "address": "延安西路3062弄18号",
         "name": "华菱大厦",
         "count": 2,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -36617,7 +36617,7 @@ var addresses = [
         "address": "延安西路300号",
         "name": "静安大厦",
         "count": 4,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -36627,7 +36627,7 @@ var addresses = [
         "address": "延安西路3500号",
         "name": "南洋绿都",
         "count": 5,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -36637,7 +36637,7 @@ var addresses = [
         "address": "延安西路358号",
         "name": "美丽园大厦",
         "count": 3,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -36647,7 +36647,7 @@ var addresses = [
         "address": "延安西路376弄22号",
         "name": "永兴商务楼",
         "count": 2,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -36657,7 +36657,7 @@ var addresses = [
         "address": "延安西路396号",
         "name": "美丽园大酒店",
         "count": 3,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -36667,7 +36667,7 @@ var addresses = [
         "address": "延安西路548弄3-11号",
         "name": "申亚瑞庭",
         "count": 4,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -36677,7 +36677,7 @@ var addresses = [
         "address": "延安西路500号",
         "name": "嘉宁国际大厦",
         "count": 1,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -36687,7 +36687,7 @@ var addresses = [
         "address": "延安西路487/501号",
         "name": "政宁小区",
         "count": 2,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -36697,7 +36697,7 @@ var addresses = [
         "address": "延安西路688弄",
         "name": "华敏世纪广场_上海",
         "count": 22,
-        "style": 1
+        "style": 2
     },
     {
         "lnglat": [
@@ -36707,7 +36707,7 @@ var addresses = [
         "address": "延安西路777号",
         "name": "裕丰国际广场",
         "count": 2,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -36717,7 +36717,7 @@ var addresses = [
         "address": "延安西路719号",
         "name": "佳都大厦",
         "count": 2,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -36727,7 +36727,7 @@ var addresses = [
         "address": "延安西路895号",
         "name": "申亚金融广场",
         "count": 8,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -36737,7 +36737,7 @@ var addresses = [
         "address": "延安西路973、983号",
         "name": "五环大楼",
         "count": 3,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -36747,7 +36747,7 @@ var addresses = [
         "address": "延安中路658号",
         "name": "陕西大厦",
         "count": 3,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -36757,7 +36757,7 @@ var addresses = [
         "address": "延安中路839号",
         "name": "新民大楼",
         "count": 1,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -36777,7 +36777,7 @@ var addresses = [
         "address": "延安中路841号",
         "name": "东方海外大厦",
         "count": 7,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -36787,7 +36787,7 @@ var addresses = [
         "address": "延川路299弄",
         "name": "广德苑",
         "count": 4,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -36797,7 +36797,7 @@ var addresses = [
         "address": "延吉中路25弄",
         "name": "泰鸿新苑",
         "count": 8,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -36807,7 +36807,7 @@ var addresses = [
         "address": "延平路121号",
         "name": "三和大厦",
         "count": 4,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -36817,7 +36817,7 @@ var addresses = [
         "address": "延平路123弄",
         "name": "三和花园",
         "count": 8,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -36827,7 +36827,7 @@ var addresses = [
         "address": "延平路128号",
         "name": "盛达园区",
         "count": 1,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -36837,7 +36837,7 @@ var addresses = [
         "address": "延平路518弄",
         "name": "静安锦都公寓",
         "count": 2,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -36847,7 +36847,7 @@ var addresses = [
         "address": "延平路69号",
         "name": "延平大厦",
         "count": 1,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -36857,7 +36857,7 @@ var addresses = [
         "address": "延平路81号",
         "name": "金叶大楼",
         "count": 2,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -36867,7 +36867,7 @@ var addresses = [
         "address": "延平路98号",
         "name": "98创意园",
         "count": 2,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -36877,7 +36877,7 @@ var addresses = [
         "address": "延长路162弄",
         "name": "爱甸苑",
         "count": 3,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -36897,7 +36897,7 @@ var addresses = [
         "address": "延长西路633弄3号",
         "name": "志丹苑",
         "count": 2,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -36907,7 +36907,7 @@ var addresses = [
         "address": "延长西路555弄4、6、7号（广新路）",
         "name": "银都佳园",
         "count": 9,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -36917,7 +36917,7 @@ var addresses = [
         "address": "延长西路677弄",
         "name": "华延公寓",
         "count": 2,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -36927,7 +36927,7 @@ var addresses = [
         "address": "延长中路576号",
         "name": "新世纪公寓（延长中路）",
         "count": 6,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -36937,7 +36937,7 @@ var addresses = [
         "address": "延长西路220弄5号",
         "name": "浦安公寓",
         "count": 3,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -36947,7 +36947,7 @@ var addresses = [
         "address": "延长中路619号",
         "name": "延中大厦",
         "count": 7,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -36957,7 +36957,7 @@ var addresses = [
         "address": "延长中路625号",
         "name": "延长工业园",
         "count": 5,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -36967,7 +36967,7 @@ var addresses = [
         "address": "延长中路629弄",
         "name": "延铁家园",
         "count": 8,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -36977,7 +36977,7 @@ var addresses = [
         "address": "延长中路801号",
         "name": "新华文化科技园",
         "count": 9,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -36987,7 +36987,7 @@ var addresses = [
         "address": "严家桥路1号",
         "name": "宏慧音悦湾",
         "count": 7,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -36997,7 +36997,7 @@ var addresses = [
         "address": "严桥路58弄",
         "name": "由由新邸",
         "count": 33,
-        "style": 0
+        "style": 3
     },
     {
         "lnglat": [
@@ -37017,7 +37017,7 @@ var addresses = [
         "address": "雁荡路5号",
         "name": "金雁坊",
         "count": 4,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -37027,7 +37027,7 @@ var addresses = [
         "address": "阳城路280弄",
         "name": "阳城贵都",
         "count": 63,
-        "style": 0
+        "style": 6
     },
     {
         "lnglat": [
@@ -37037,7 +37037,7 @@ var addresses = [
         "address": "阳城路388弄",
         "name": "浦联佳苑",
         "count": 3,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -37067,7 +37067,7 @@ var addresses = [
         "address": "盐铁塘路272弄1-21号",
         "name": "永康城丽华园",
         "count": 22,
-        "style": 1
+        "style": 2
     },
     {
         "lnglat": [
@@ -37087,7 +37087,7 @@ var addresses = [
         "address": "杨高北路528号",
         "name": "招商中心大楼",
         "count": 2,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -37097,7 +37097,7 @@ var addresses = [
         "address": "杨高北路536号",
         "name": "乐非天地",
         "count": 4,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -37107,7 +37107,7 @@ var addresses = [
         "address": "杨高北路610号",
         "name": "三铭公寓",
         "count": 4,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -37117,7 +37117,7 @@ var addresses = [
         "address": "杨高南路1288号",
         "name": "中远龙阳公寓",
         "count": 9,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -37147,7 +37147,7 @@ var addresses = [
         "address": "杨高南路5135弄",
         "name": "日月豪庭",
         "count": 8,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -37157,7 +37157,7 @@ var addresses = [
         "address": "杨高南路729号",
         "name": "陆家嘴世纪金融广场",
         "count": 5,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -37167,7 +37167,7 @@ var addresses = [
         "address": "杨高南路2875号",
         "name": "康琳创意园",
         "count": 9,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -37177,7 +37177,7 @@ var addresses = [
         "address": "杨高中路2112号",
         "name": "界龙总部园",
         "count": 2,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -37187,7 +37187,7 @@ var addresses = [
         "address": "杨高中路2797号",
         "name": "联洋社区市民中心大楼",
         "count": 1,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -37197,7 +37197,7 @@ var addresses = [
         "address": "杨柳青路118弄",
         "name": "万都花园",
         "count": 10,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -37207,7 +37207,7 @@ var addresses = [
         "address": "杨辉路966弄",
         "name": "中粮禧瑞祥云",
         "count": 24,
-        "style": 1
+        "style": 2
     },
     {
         "lnglat": [
@@ -37217,7 +37217,7 @@ var addresses = [
         "address": "杨南路689弄",
         "name": "上海叠翠苑",
         "count": 6,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -37227,7 +37227,7 @@ var addresses = [
         "address": "杨树浦路1736弄",
         "name": "丰泰世纪公寓",
         "count": 10,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -37237,7 +37237,7 @@ var addresses = [
         "address": "杨树浦路248号",
         "name": "瑞丰国际大厦",
         "count": 8,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -37247,7 +37247,7 @@ var addresses = [
         "address": "杨树浦路2866号",
         "name": "上海国际时尚中心",
         "count": 6,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -37257,7 +37257,7 @@ var addresses = [
         "address": "杨树浦路2300号",
         "name": "知兴大厦",
         "count": 39,
-        "style": 0
+        "style": 3
     },
     {
         "lnglat": [
@@ -37267,7 +37267,7 @@ var addresses = [
         "address": "杨浦区黄兴路122号",
         "name": "光大信成大厦",
         "count": 3,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -37277,7 +37277,7 @@ var addresses = [
         "address": "杨树浦路2893号",
         "name": "海尚大厦",
         "count": 26,
-        "style": 1
+        "style": 2
     },
     {
         "lnglat": [
@@ -37287,7 +37287,7 @@ var addresses = [
         "address": "杨思路1121弄",
         "name": "东方悦居苑",
         "count": 32,
-        "style": 0
+        "style": 3
     },
     {
         "lnglat": [
@@ -37297,7 +37297,7 @@ var addresses = [
         "address": "杨泰路2158弄",
         "name": "远洋悦庭二期",
         "count": 66,
-        "style": 0
+        "style": 6
     },
     {
         "lnglat": [
@@ -37307,7 +37307,7 @@ var addresses = [
         "address": "杨泰路2158弄50-68号",
         "name": "远洋悦庭三期",
         "count": 64,
-        "style": 0
+        "style": 6
     },
     {
         "lnglat": [
@@ -37317,7 +37317,7 @@ var addresses = [
         "address": "杨泰路2158弄5-32号",
         "name": "远洋悦庭一期",
         "count": 68,
-        "style": 0
+        "style": 6
     },
     {
         "lnglat": [
@@ -37327,7 +37327,7 @@ var addresses = [
         "address": "杨新东路160号",
         "name": "世博树源",
         "count": 1,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -37337,7 +37337,7 @@ var addresses = [
         "address": "杨宅路255号",
         "name": "新发现才富园",
         "count": 1,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -37347,7 +37347,7 @@ var addresses = [
         "address": "杨新路88号",
         "name": "尚馥骊湾88文化创意园",
         "count": 5,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -37357,7 +37357,7 @@ var addresses = [
         "address": "杨鑫路98弄",
         "name": "禄德华苑",
         "count": 4,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -37367,7 +37367,7 @@ var addresses = [
         "address": "姚虹路299号",
         "name": "恒盛苑",
         "count": 20,
-        "style": 1
+        "style": 2
     },
     {
         "lnglat": [
@@ -37387,7 +37387,7 @@ var addresses = [
         "address": "耀元路58号",
         "name": "上海环球都会广场",
         "count": 8,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -37397,7 +37397,7 @@ var addresses = [
         "address": "耀华路550弄",
         "name": "耀华大楼",
         "count": 6,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -37407,7 +37407,7 @@ var addresses = [
         "address": "叶城路1118号",
         "name": "淮海国际广场(嘉定)",
         "count": 3,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -37417,7 +37417,7 @@ var addresses = [
         "address": "叶城路1128号",
         "name": "中青旅东方国际酒店",
         "count": 3,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -37427,7 +37427,7 @@ var addresses = [
         "address": "叶城路818号",
         "name": "嘉禾大厦_上海",
         "count": 7,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -37447,7 +37447,7 @@ var addresses = [
         "address": "一二八纪念东路518弄",
         "name": "象屿郦庭",
         "count": 27,
-        "style": 1
+        "style": 2
     },
     {
         "lnglat": [
@@ -37457,7 +37457,7 @@ var addresses = [
         "address": "叶联路699弄",
         "name": "南山雨果",
         "count": 67,
-        "style": 0
+        "style": 6
     },
     {
         "lnglat": [
@@ -37467,7 +37467,7 @@ var addresses = [
         "address": "一二八纪念路968号",
         "name": "宝山万达写字楼",
         "count": 32,
-        "style": 0
+        "style": 3
     },
     {
         "lnglat": [
@@ -37477,7 +37477,7 @@ var addresses = [
         "address": "杨南路399弄",
         "name": "翡翠上南苑上南翡翠",
         "count": 27,
-        "style": 1
+        "style": 2
     },
     {
         "lnglat": [
@@ -37487,7 +37487,7 @@ var addresses = [
         "address": "伊犁南路34弄",
         "name": "虹桥明珠公寓",
         "count": 4,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -37497,7 +37497,7 @@ var addresses = [
         "address": "伊犁南路111号",
         "name": "钱江商务广场",
         "count": 3,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -37517,7 +37517,7 @@ var addresses = [
         "address": "医学院路15号",
         "name": "嘉馨公寓",
         "count": 3,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -37527,7 +37527,7 @@ var addresses = [
         "address": "依玛路389弄",
         "name": "新城香溢璟庭",
         "count": 81,
-        "style": 0
+        "style": 8
     },
     {
         "lnglat": [
@@ -37537,7 +37537,7 @@ var addresses = [
         "address": "宜昌路588弄",
         "name": "大上海城市花园",
         "count": 32,
-        "style": 0
+        "style": 3
     },
     {
         "lnglat": [
@@ -37547,7 +37547,7 @@ var addresses = [
         "address": "宜川路351弄62-66号",
         "name": "展宏公寓",
         "count": 3,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -37557,7 +37557,7 @@ var addresses = [
         "address": "宜川路299号",
         "name": "宜乐荟",
         "count": 3,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -37567,7 +37567,7 @@ var addresses = [
         "address": "宜川路733弄",
         "name": "望景苑",
         "count": 41,
-        "style": 0
+        "style": 4
     },
     {
         "lnglat": [
@@ -37587,7 +37587,7 @@ var addresses = [
         "address": "宜山路1289号",
         "name": "克隆科技园",
         "count": 10,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -37597,7 +37597,7 @@ var addresses = [
         "address": "宜山路1009号",
         "name": "创新大厦",
         "count": 25,
-        "style": 1
+        "style": 2
     },
     {
         "lnglat": [
@@ -37607,7 +37607,7 @@ var addresses = [
         "address": "宜山路1768号",
         "name": "福维克大厦(耀光虹桥中心)",
         "count": 2,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -37617,7 +37617,7 @@ var addresses = [
         "address": "宜山路187号",
         "name": "南山大楼",
         "count": 3,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -37627,7 +37627,7 @@ var addresses = [
         "address": "宜山路1398号",
         "name": "皓顺大厦",
         "count": 7,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -37637,7 +37637,7 @@ var addresses = [
         "address": "宜山路2301弄",
         "name": "九歌商务中心",
         "count": 8,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -37647,7 +37647,7 @@ var addresses = [
         "address": "宜山路2016号",
         "name": "合川大厦",
         "count": 4,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -37657,7 +37657,7 @@ var addresses = [
         "address": "宜山路333号",
         "name": "汇鑫国际大厦",
         "count": 10,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -37667,7 +37667,7 @@ var addresses = [
         "address": "宜山路439号",
         "name": "七建大厦",
         "count": 2,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -37677,7 +37677,7 @@ var addresses = [
         "address": "宜山路425号",
         "name": "光启城",
         "count": 22,
-        "style": 1
+        "style": 2
     },
     {
         "lnglat": [
@@ -37687,7 +37687,7 @@ var addresses = [
         "address": "宜山路508号",
         "name": "景鸿大厦",
         "count": 7,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -37697,7 +37697,7 @@ var addresses = [
         "address": "宜山路520号",
         "name": "中华门大厦",
         "count": 2,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -37717,7 +37717,7 @@ var addresses = [
         "address": "宜山路655弄6号",
         "name": "高知楼_高级知识分子楼",
         "count": 3,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -37737,7 +37737,7 @@ var addresses = [
         "address": "宜山路888号",
         "name": "新银大厦",
         "count": 4,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -37747,7 +37747,7 @@ var addresses = [
         "address": "宜山路810号",
         "name": "上海贝岭大厦",
         "count": 8,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -37757,7 +37757,7 @@ var addresses = [
         "address": "宜山路900号",
         "name": "科产楼C楼",
         "count": 8,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -37767,7 +37767,7 @@ var addresses = [
         "address": "宜山路700号",
         "name": "普天科创产业园",
         "count": 67,
-        "style": 0
+        "style": 6
     },
     {
         "lnglat": [
@@ -37777,7 +37777,7 @@ var addresses = [
         "address": "宜山路889号",
         "name": "齐来大厦及齐来工业城",
         "count": 24,
-        "style": 1
+        "style": 2
     },
     {
         "lnglat": [
@@ -37787,7 +37787,7 @@ var addresses = [
         "address": "宜州路180号",
         "name": "华鑫天地",
         "count": 8,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -37797,7 +37797,7 @@ var addresses = [
         "address": "宜山路926号",
         "name": "新思大厦",
         "count": 3,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -37817,7 +37817,7 @@ var addresses = [
         "address": "逸仙路1277号",
         "name": "财景科技园",
         "count": 2,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -37827,7 +37827,7 @@ var addresses = [
         "address": "逸仙路1300号",
         "name": "悦樘公寓(殷高西路店)",
         "count": 1,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -37837,7 +37837,7 @@ var addresses = [
         "address": "逸仙路1321弄5支弄7支弄",
         "name": "幸之苑",
         "count": 7,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -37847,7 +37847,7 @@ var addresses = [
         "address": "逸仙路1328号",
         "name": "新业坊源创全球科创示范区（新业坊源创园区）",
         "count": 36,
-        "style": 0
+        "style": 3
     },
     {
         "lnglat": [
@@ -37857,7 +37857,7 @@ var addresses = [
         "address": "逸仙路158号",
         "name": "宝隆一方大厦",
         "count": 36,
-        "style": 0
+        "style": 3
     },
     {
         "lnglat": [
@@ -37887,7 +37887,7 @@ var addresses = [
         "address": "逸仙路3000号",
         "name": "上海国际工业设计中心",
         "count": 9,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -37897,7 +37897,7 @@ var addresses = [
         "address": "逸仙路300号",
         "name": "元和投资大厦",
         "count": 6,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -37927,7 +37927,7 @@ var addresses = [
         "address": "逸仙路661号",
         "name": "新海商务大厦",
         "count": 6,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -37937,7 +37937,7 @@ var addresses = [
         "address": "殷高西路10弄",
         "name": "景瑞站前大楼",
         "count": 3,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -37967,7 +37967,7 @@ var addresses = [
         "address": "殷行路1286号",
         "name": "上海嘉誉国际广场",
         "count": 8,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -37977,7 +37977,7 @@ var addresses = [
         "address": "银城中路501号",
         "name": "上海中心大厦(商场)",
         "count": 4,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -38007,7 +38007,7 @@ var addresses = [
         "address": "银城中路600弄",
         "name": "中粮海景壹号",
         "count": 6,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -38027,7 +38027,7 @@ var addresses = [
         "address": "银春路1799弄",
         "name": "夏朵园上海",
         "count": 78,
-        "style": 0
+        "style": 7
     },
     {
         "lnglat": [
@@ -38037,7 +38037,7 @@ var addresses = [
         "address": "银春路2200弄",
         "name": "万科马桥景城乐康苑",
         "count": 70,
-        "style": 0
+        "style": 7
     },
     {
         "lnglat": [
@@ -38047,7 +38047,7 @@ var addresses = [
         "address": "银都路2755号",
         "name": "福克斯连锁商务大厦（银都园区）",
         "count": 5,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -38057,7 +38057,7 @@ var addresses = [
         "address": "银都路2188弄",
         "name": "中海寰宇名邸",
         "count": 32,
-        "style": 0
+        "style": 3
     },
     {
         "lnglat": [
@@ -38067,7 +38067,7 @@ var addresses = [
         "address": "银都路398号",
         "name": "博济银都汇谷",
         "count": 2,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -38077,7 +38077,7 @@ var addresses = [
         "address": "银都路4277号",
         "name": "金地威新闵行科创园(银都路园)",
         "count": 8,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -38087,7 +38087,7 @@ var addresses = [
         "address": "银都路466号",
         "name": "上海聚科生物园区",
         "count": 6,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -38097,7 +38097,7 @@ var addresses = [
         "address": "银都路466弄23号",
         "name": "九润商务大厦(龙吴)",
         "count": 8,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -38107,7 +38107,7 @@ var addresses = [
         "address": "银都西路215号",
         "name": "歆翱创意园(东区)",
         "count": 6,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -38117,7 +38117,7 @@ var addresses = [
         "address": "银康路735弄",
         "name": "马桥景城元景富文苑",
         "count": 38,
-        "style": 0
+        "style": 3
     },
     {
         "lnglat": [
@@ -38127,7 +38127,7 @@ var addresses = [
         "address": "银康路750号",
         "name": "马桥景城和苑",
         "count": 44,
-        "style": 0
+        "style": 4
     },
     {
         "lnglat": [
@@ -38137,7 +38137,7 @@ var addresses = [
         "address": "银康路76弄",
         "name": "银春苑",
         "count": 38,
-        "style": 0
+        "style": 3
     },
     {
         "lnglat": [
@@ -38147,7 +38147,7 @@ var addresses = [
         "address": "银林路1002弄1~30号",
         "name": "#N/A",
         "count": 60,
-        "style": 0
+        "style": 6
     },
     {
         "lnglat": [
@@ -38157,7 +38157,7 @@ var addresses = [
         "address": "银秋路1351弄",
         "name": "保利雅苑闵行",
         "count": 36,
-        "style": 0
+        "style": 3
     },
     {
         "lnglat": [
@@ -38167,7 +38167,7 @@ var addresses = [
         "address": "银翔路655号",
         "name": "蓝天创业广场",
         "count": 5,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -38177,7 +38177,7 @@ var addresses = [
         "address": "银林路100弄",
         "name": "银康苑",
         "count": 82,
-        "style": 0
+        "style": 8
     },
     {
         "lnglat": [
@@ -38187,7 +38187,7 @@ var addresses = [
         "address": "银翔路799号",
         "name": "昌辉大厦",
         "count": 8,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -38197,7 +38197,7 @@ var addresses = [
         "address": "银翔路819弄1号",
         "name": "中暨大厦",
         "count": 6,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -38207,7 +38207,7 @@ var addresses = [
         "address": "银霄路39弄",
         "name": "浦东世纪花园二期",
         "count": 36,
-        "style": 0
+        "style": 3
     },
     {
         "lnglat": [
@@ -38217,7 +38217,7 @@ var addresses = [
         "address": "银樽路58弄",
         "name": "张江国际豪庭",
         "count": 25,
-        "style": 1
+        "style": 2
     },
     {
         "lnglat": [
@@ -38227,7 +38227,7 @@ var addresses = [
         "address": "英伦路396号",
         "name": "富立康大厦",
         "count": 3,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -38237,7 +38237,7 @@ var addresses = [
         "address": "银欣路38号",
         "name": "麒麟大厦",
         "count": 1,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -38247,7 +38247,7 @@ var addresses = [
         "address": "樱花路801弄",
         "name": "大唐盛世花园二期",
         "count": 84,
-        "style": 0
+        "style": 8
     },
     {
         "lnglat": [
@@ -38257,7 +38257,7 @@ var addresses = [
         "address": "樱花路802弄",
         "name": "大唐国际公寓",
         "count": 32,
-        "style": 0
+        "style": 3
     },
     {
         "lnglat": [
@@ -38267,7 +38267,7 @@ var addresses = [
         "address": "迎春路1355弄",
         "name": "浦东虹桥公寓",
         "count": 21,
-        "style": 1
+        "style": 2
     },
     {
         "lnglat": [
@@ -38277,7 +38277,7 @@ var addresses = [
         "address": "迎春路736弄",
         "name": "联洋新苑",
         "count": 4,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -38287,7 +38287,7 @@ var addresses = [
         "address": "迎勋北路8弄",
         "name": "唐城公寓",
         "count": 2,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -38317,7 +38317,7 @@ var addresses = [
         "address": "盈港东路8300弄",
         "name": "佳乐苑",
         "count": 21,
-        "style": 1
+        "style": 2
     },
     {
         "lnglat": [
@@ -38327,7 +38327,7 @@ var addresses = [
         "address": "盈港路453号",
         "name": "港隆国际大厦",
         "count": 7,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -38337,7 +38337,7 @@ var addresses = [
         "address": "营口路600弄",
         "name": "佳龙花园",
         "count": 60,
-        "style": 0
+        "style": 6
     },
     {
         "lnglat": [
@@ -38357,7 +38357,7 @@ var addresses = [
         "address": "营口路625弄",
         "name": "营口大厦",
         "count": 2,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -38367,7 +38367,7 @@ var addresses = [
         "address": "营口路488号",
         "name": "海尚杰座",
         "count": 8,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -38377,7 +38377,7 @@ var addresses = [
         "address": "永川路187号",
         "name": "经纬梦园",
         "count": 2,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -38387,7 +38387,7 @@ var addresses = [
         "address": "影振路299弄",
         "name": "安贝尔花园",
         "count": 59,
-        "style": 0
+        "style": 5
     },
     {
         "lnglat": [
@@ -38397,7 +38397,7 @@ var addresses = [
         "address": "永丰路270弄",
         "name": "玉龙苑",
         "count": 20,
-        "style": 1
+        "style": 2
     },
     {
         "lnglat": [
@@ -38417,7 +38417,7 @@ var addresses = [
         "address": "永和路201号",
         "name": "久合201",
         "count": 2,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -38427,7 +38427,7 @@ var addresses = [
         "address": "永和路455号",
         "name": "创景空间",
         "count": 3,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -38437,7 +38437,7 @@ var addresses = [
         "address": "永和路118弄",
         "name": "东方环球企业中心43号",
         "count": 21,
-        "style": 1
+        "style": 2
     },
     {
         "lnglat": [
@@ -38447,7 +38447,7 @@ var addresses = [
         "address": "永吉路9号",
         "name": "永吉广场",
         "count": 4,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -38457,7 +38457,7 @@ var addresses = [
         "address": "永嘉路158号",
         "name": "嘉嘉大楼",
         "count": 3,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -38467,7 +38467,7 @@ var addresses = [
         "address": "永嘉路570号",
         "name": "永嘉庭",
         "count": 6,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -38477,7 +38477,7 @@ var addresses = [
         "address": "永平南路198弄",
         "name": "东苑佳和园",
         "count": 66,
-        "style": 0
+        "style": 6
     },
     {
         "lnglat": [
@@ -38487,7 +38487,7 @@ var addresses = [
         "address": "永嘉路589号",
         "name": "永嘉大楼（上海）",
         "count": 1,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -38497,7 +38497,7 @@ var addresses = [
         "address": "永靖路501弄",
         "name": "嘉华居",
         "count": 4,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -38507,7 +38507,7 @@ var addresses = [
         "address": "永嘉路31号,35号",
         "name": "茂名大厦（上海）",
         "count": 3,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -38517,7 +38517,7 @@ var addresses = [
         "address": "永盛路1218号",
         "name": "金元大厦",
         "count": 4,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -38527,7 +38527,7 @@ var addresses = [
         "address": "永泰路2080弄",
         "name": "浦发绿城（南区）",
         "count": 7,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -38537,7 +38537,7 @@ var addresses = [
         "address": "永泰路595弄1-41号",
         "name": "金谊河畔一期",
         "count": 132,
-        "style": 0
+        "style": 9
     },
     {
         "lnglat": [
@@ -38557,7 +38557,7 @@ var addresses = [
         "address": "永泰路595弄42-68号",
         "name": "金谊河畔二期",
         "count": 84,
-        "style": 0
+        "style": 8
     },
     {
         "lnglat": [
@@ -38567,7 +38567,7 @@ var addresses = [
         "address": "永泰路1650弄",
         "name": "名嘉新苑",
         "count": 73,
-        "style": 0
+        "style": 7
     },
     {
         "lnglat": [
@@ -38577,7 +38577,7 @@ var addresses = [
         "address": "永兴路258弄1号楼",
         "name": "兴亚广场",
         "count": 1,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -38607,7 +38607,7 @@ var addresses = [
         "address": "永跃路782弄",
         "name": "永康城佳兴苑",
         "count": 28,
-        "style": 1
+        "style": 2
     },
     {
         "lnglat": [
@@ -38617,7 +38617,7 @@ var addresses = [
         "address": "友东路358号",
         "name": "闵欣大厦",
         "count": 3,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -38627,7 +38627,7 @@ var addresses = [
         "address": "友东路85号",
         "name": "友东路85号商务楼",
         "count": 2,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -38647,7 +38647,7 @@ var addresses = [
         "address": "友东路81号",
         "name": "友东路81号商务楼",
         "count": 5,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -38657,7 +38657,7 @@ var addresses = [
         "address": "永跃路555弄",
         "name": "永康城馨宁佳苑",
         "count": 24,
-        "style": 1
+        "style": 2
     },
     {
         "lnglat": [
@@ -38667,7 +38667,7 @@ var addresses = [
         "address": "友谊路1060号",
         "name": "璨阳文化科创园",
         "count": 2,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -38697,7 +38697,7 @@ var addresses = [
         "address": "友谊路1588弄",
         "name": "钢领",
         "count": 70,
-        "style": 0
+        "style": 7
     },
     {
         "lnglat": [
@@ -38727,7 +38727,7 @@ var addresses = [
         "address": "于塘南路82弄",
         "name": "盛世景庭",
         "count": 49,
-        "style": 0
+        "style": 4
     },
     {
         "lnglat": [
@@ -38737,7 +38737,7 @@ var addresses = [
         "address": "于塘南路280弄",
         "name": "恒大名都(上海)",
         "count": 45,
-        "style": 0
+        "style": 4
     },
     {
         "lnglat": [
@@ -38757,7 +38757,7 @@ var addresses = [
         "address": "余姚路288弄",
         "name": "鸿新商务楼(汇智创意园)",
         "count": 2,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -38767,7 +38767,7 @@ var addresses = [
         "address": "余姚路339号",
         "name": "百乐门商务楼",
         "count": 1,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -38777,7 +38777,7 @@ var addresses = [
         "address": "余姚路420号",
         "name": "荣瑞商务中心(汇智金昌园区)",
         "count": 3,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -38787,7 +38787,7 @@ var addresses = [
         "address": "余姚路456号",
         "name": "新都城公寓",
         "count": 1,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -38807,7 +38807,7 @@ var addresses = [
         "address": "余姚路500弄",
         "name": "家化绿苑",
         "count": 2,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -38817,7 +38817,7 @@ var addresses = [
         "address": "余姚路569号",
         "name": "美联大厦(上海)",
         "count": 4,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -38827,7 +38827,7 @@ var addresses = [
         "address": "俞泾港路15弄18，19号",
         "name": "乐业公寓",
         "count": 4,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -38837,7 +38837,7 @@ var addresses = [
         "address": "榆林路858弄",
         "name": "滨江晶典",
         "count": 10,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -38847,7 +38847,7 @@ var addresses = [
         "address": "渔港路399弄",
         "name": "朗诗里程",
         "count": 28,
-        "style": 1
+        "style": 2
     },
     {
         "lnglat": [
@@ -38857,7 +38857,7 @@ var addresses = [
         "address": "愚园路1155弄",
         "name": "愚园公馆",
         "count": 8,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -38867,7 +38867,7 @@ var addresses = [
         "address": "愚园路1203弄",
         "name": "仲信苑",
         "count": 2,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -38887,7 +38887,7 @@ var addresses = [
         "address": "愚园路1221弄1号",
         "name": "御华名苑",
         "count": 1,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -38897,7 +38897,7 @@ var addresses = [
         "address": "愚园路168号",
         "name": "环球世界大厦",
         "count": 7,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -38907,7 +38907,7 @@ var addresses = [
         "address": "愚园路172号",
         "name": "环球世界大厦B座",
         "count": 2,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -38917,7 +38917,7 @@ var addresses = [
         "address": "愚园路309号",
         "name": "紫安大厦",
         "count": 5,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -38937,7 +38937,7 @@ var addresses = [
         "address": "愚园路905-907号",
         "name": "新利商务楼",
         "count": 2,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -38947,7 +38947,7 @@ var addresses = [
         "address": "羽山路600弄",
         "name": "东方中华园(第五大道)",
         "count": 74,
-        "style": 0
+        "style": 7
     },
     {
         "lnglat": [
@@ -38957,7 +38957,7 @@ var addresses = [
         "address": "羽山路851弄",
         "name": "新城名庭",
         "count": 10,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -38967,7 +38967,7 @@ var addresses = [
         "address": "羽山路967弄",
         "name": "森林湾家园",
         "count": 10,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -38977,7 +38977,7 @@ var addresses = [
         "address": "羽山路998弄",
         "name": "景宏嘉园",
         "count": 23,
-        "style": 1
+        "style": 2
     },
     {
         "lnglat": [
@@ -38987,7 +38987,7 @@ var addresses = [
         "address": "玉兰路8号",
         "name": "盛第大厦",
         "count": 5,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -38997,7 +38997,7 @@ var addresses = [
         "address": "玉屏南路1号",
         "name": "玉屏大楼",
         "count": 2,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -39007,7 +39007,7 @@ var addresses = [
         "address": "玉屏南路113弄17号",
         "name": "锦屏公寓",
         "count": 2,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -39017,7 +39017,7 @@ var addresses = [
         "address": "玉屏南路498弄1-3号",
         "name": "安基大楼",
         "count": 6,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -39027,7 +39027,7 @@ var addresses = [
         "address": "玉屏南路9号",
         "name": "新联大楼",
         "count": 1,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -39037,7 +39037,7 @@ var addresses = [
         "address": "育才路555弄",
         "name": "西郊美德苑",
         "count": 7,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -39047,7 +39047,7 @@ var addresses = [
         "address": "御衡路68弄",
         "name": "锦绣华都",
         "count": 73,
-        "style": 0
+        "style": 7
     },
     {
         "lnglat": [
@@ -39057,7 +39057,7 @@ var addresses = [
         "address": "育英南街55弄",
         "name": "恒大御景湾(上海)",
         "count": 57,
-        "style": 0
+        "style": 5
     },
     {
         "lnglat": [
@@ -39067,7 +39067,7 @@ var addresses = [
         "address": "御桥路1978弄3号",
         "name": "地杰国际城F街坊",
         "count": 81,
-        "style": 0
+        "style": 8
     },
     {
         "lnglat": [
@@ -39077,7 +39077,7 @@ var addresses = [
         "address": "御桥路2066弄",
         "name": "地杰国际城E街坊",
         "count": 79,
-        "style": 0
+        "style": 7
     },
     {
         "lnglat": [
@@ -39087,7 +39087,7 @@ var addresses = [
         "address": "御桥路288弄",
         "name": "未来域",
         "count": 72,
-        "style": 0
+        "style": 7
     },
     {
         "lnglat": [
@@ -39097,7 +39097,7 @@ var addresses = [
         "address": "御水路150弄",
         "name": "万科金色城市2期悦庭(地杰国际C街坊)",
         "count": 42,
-        "style": 0
+        "style": 4
     },
     {
         "lnglat": [
@@ -39107,7 +39107,7 @@ var addresses = [
         "address": "御水路199弄",
         "name": "地杰国际城D街坊",
         "count": 30,
-        "style": 1
+        "style": 3
     },
     {
         "lnglat": [
@@ -39117,7 +39117,7 @@ var addresses = [
         "address": "御桥路1679弄",
         "name": "御桥河滨苑（万科海上传奇）",
         "count": 49,
-        "style": 0
+        "style": 4
     },
     {
         "lnglat": [
@@ -39127,7 +39127,7 @@ var addresses = [
         "address": "裕德路168号",
         "name": "徐汇商务大厦",
         "count": 8,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -39137,7 +39137,7 @@ var addresses = [
         "address": "裕民路1000弄",
         "name": "清水颐园",
         "count": 105,
-        "style": 0
+        "style": 9
     },
     {
         "lnglat": [
@@ -39147,7 +39147,7 @@ var addresses = [
         "address": "元江路3599号",
         "name": "福克斯创新园",
         "count": 4,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -39157,7 +39157,7 @@ var addresses = [
         "address": "园二路299弄",
         "name": "广盛佳苑",
         "count": 34,
-        "style": 0
+        "style": 3
     },
     {
         "lnglat": [
@@ -39167,7 +39167,7 @@ var addresses = [
         "address": "园丰路69号",
         "name": "联东U谷宝山科创中心",
         "count": 5,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -39177,7 +39177,7 @@ var addresses = [
         "address": "园区北路19号",
         "name": "上海雍臻公寓",
         "count": 4,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -39187,7 +39187,7 @@ var addresses = [
         "address": "元江路3399号",
         "name": "中臻科创园",
         "count": 6,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -39197,7 +39197,7 @@ var addresses = [
         "address": "园通路128号",
         "name": "东方智谷",
         "count": 5,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -39207,7 +39207,7 @@ var addresses = [
         "address": "原平路1028弄-1029弄",
         "name": "成亿花园",
         "count": 22,
-        "style": 1
+        "style": 2
     },
     {
         "lnglat": [
@@ -39217,7 +39217,7 @@ var addresses = [
         "address": "源深路836号",
         "name": "香榭丽花园",
         "count": 67,
-        "style": 0
+        "style": 6
     },
     {
         "lnglat": [
@@ -39227,7 +39227,7 @@ var addresses = [
         "address": "原平路383弄",
         "name": "永和丽园",
         "count": 5,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -39247,7 +39247,7 @@ var addresses = [
         "address": "月富路55弄",
         "name": "新城昱翠湾",
         "count": 134,
-        "style": 0
+        "style": 9
     },
     {
         "lnglat": [
@@ -39257,7 +39257,7 @@ var addresses = [
         "address": "月罗公路2333号",
         "name": "兰湖美域",
         "count": 95,
-        "style": 0
+        "style": 9
     },
     {
         "lnglat": [
@@ -39267,7 +39267,7 @@ var addresses = [
         "address": "月罗路2255号",
         "name": "博济上海美兰湖园",
         "count": 3,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -39277,7 +39277,7 @@ var addresses = [
         "address": "岳州路319弄",
         "name": "虹领公寓",
         "count": 2,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -39287,7 +39287,7 @@ var addresses = [
         "address": "岳阳路217号",
         "name": "岳阳公寓",
         "count": 4,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -39297,7 +39297,7 @@ var addresses = [
         "address": "岳州路399弄",
         "name": "紫虹嘉苑",
         "count": 10,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -39307,7 +39307,7 @@ var addresses = [
         "address": "云端路1389弄",
         "name": "海云苑",
         "count": 25,
-        "style": 1
+        "style": 2
     },
     {
         "lnglat": [
@@ -39317,7 +39317,7 @@ var addresses = [
         "address": "岳州路58号",
         "name": "岳洋大厦",
         "count": 1,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -39327,7 +39327,7 @@ var addresses = [
         "address": "云端路1388弄",
         "name": "凌波苑",
         "count": 6,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -39347,7 +39347,7 @@ var addresses = [
         "address": "云汉路1096弄",
         "name": "荷风华庭",
         "count": 23,
-        "style": 1
+        "style": 2
     },
     {
         "lnglat": [
@@ -39357,7 +39357,7 @@ var addresses = [
         "address": "云端路1565弄",
         "name": "雨浥苑",
         "count": 40,
-        "style": 0
+        "style": 4
     },
     {
         "lnglat": [
@@ -39367,7 +39367,7 @@ var addresses = [
         "address": "云谷路279弄",
         "name": "绿地嘉域生活中心",
         "count": 7,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -39407,7 +39407,7 @@ var addresses = [
         "address": "云锦路500号",
         "name": "绿地汇中心",
         "count": 24,
-        "style": 1
+        "style": 2
     },
     {
         "lnglat": [
@@ -39427,7 +39427,7 @@ var addresses = [
         "address": "云岭东路599弄",
         "name": "汇银金融商务楼",
         "count": 25,
-        "style": 1
+        "style": 2
     },
     {
         "lnglat": [
@@ -39437,7 +39437,7 @@ var addresses = [
         "address": "云岭东路651号",
         "name": "合星大厦",
         "count": 10,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -39447,7 +39447,7 @@ var addresses = [
         "address": "云岭西路600弄",
         "name": "金环商务花园二期",
         "count": 28,
-        "style": 1
+        "style": 2
     },
     {
         "lnglat": [
@@ -39457,7 +39457,7 @@ var addresses = [
         "address": "云南北路59号",
         "name": "六合大厦",
         "count": 1,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -39477,7 +39477,7 @@ var addresses = [
         "address": "云屏路1199弄",
         "name": "盘古天地一期（上海）",
         "count": 24,
-        "style": 1
+        "style": 2
     },
     {
         "lnglat": [
@@ -39487,7 +39487,7 @@ var addresses = [
         "address": "云山路1039弄",
         "name": "陆家嘴新景园(1039弄)",
         "count": 6,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -39517,7 +39517,7 @@ var addresses = [
         "address": "云山路999弄",
         "name": "云山星座苑",
         "count": 8,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -39527,7 +39527,7 @@ var addresses = [
         "address": "云山路1050弄",
         "name": "陆家嘴新景园(1050弄)",
         "count": 3,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -39537,7 +39537,7 @@ var addresses = [
         "address": "云台路183弄",
         "name": "昌里花园",
         "count": 31,
-        "style": 0
+        "style": 3
     },
     {
         "lnglat": [
@@ -39547,7 +39547,7 @@ var addresses = [
         "address": "云台路453号",
         "name": "金色国际公寓",
         "count": 8,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -39567,7 +39567,7 @@ var addresses = [
         "address": "云西路219弄",
         "name": "三花现代城二期（香梅苑）",
         "count": 50,
-        "style": 0
+        "style": 5
     },
     {
         "lnglat": [
@@ -39577,7 +39577,7 @@ var addresses = [
         "address": "运河北路258号",
         "name": "绿地方舟",
         "count": 3,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -39587,7 +39587,7 @@ var addresses = [
         "address": "蕴川路516号",
         "name": "泰德科技园（二期）",
         "count": 3,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -39597,7 +39597,7 @@ var addresses = [
         "address": "云山路835弄，839弄",
         "name": "黄山新城上海未来",
         "count": 62,
-        "style": 0
+        "style": 6
     },
     {
         "lnglat": [
@@ -39607,7 +39607,7 @@ var addresses = [
         "address": "薀川路516号",
         "name": "泰德商务大厦(上海)",
         "count": 3,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -39617,7 +39617,7 @@ var addresses = [
         "address": "枣阳路251弄80号2号楼",
         "name": "湾流国际青年社区华师大店",
         "count": 1,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -39627,7 +39627,7 @@ var addresses = [
         "address": "枣阳路530弄",
         "name": "枣阳路530弄公寓楼",
         "count": 8,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -39647,7 +39647,7 @@ var addresses = [
         "address": "枣阳路891弄",
         "name": "冠龙家园（风华水岸）",
         "count": 40,
-        "style": 0
+        "style": 4
     },
     {
         "lnglat": [
@@ -39657,7 +39657,7 @@ var addresses = [
         "address": "枣庄路959号",
         "name": "锋巢宫寓(百舸商务酒店)",
         "count": 2,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -39667,7 +39667,7 @@ var addresses = [
         "address": "泽悦路211弄",
         "name": "兰花清苑",
         "count": 22,
-        "style": 1
+        "style": 2
     },
     {
         "lnglat": [
@@ -39677,7 +39677,7 @@ var addresses = [
         "address": "泽悦路212弄",
         "name": "水仙雅苑",
         "count": 20,
-        "style": 1
+        "style": 2
     },
     {
         "lnglat": [
@@ -39687,7 +39687,7 @@ var addresses = [
         "address": "泽悦路325弄1-30号",
         "name": "茉莉雅苑",
         "count": 45,
-        "style": 0
+        "style": 4
     },
     {
         "lnglat": [
@@ -39697,7 +39697,7 @@ var addresses = [
         "address": "张衡路198弄10号",
         "name": "金鹤信息科技园",
         "count": 4,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -39707,7 +39707,7 @@ var addresses = [
         "address": "张家浜路37弄3号",
         "name": "京城大厦",
         "count": 3,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -39717,7 +39717,7 @@ var addresses = [
         "address": "张江高科技园区东区瑞庆路590号",
         "name": "7号地块张江东区现代医疗器械产业园",
         "count": 7,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -39727,7 +39727,7 @@ var addresses = [
         "address": "泽悦路88弄",
         "name": "桂花锦苑",
         "count": 48,
-        "style": 0
+        "style": 4
     },
     {
         "lnglat": [
@@ -39737,7 +39737,7 @@ var addresses = [
         "address": "张江高科技园区张衡路500弄",
         "name": "人才城",
         "count": 5,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -39747,7 +39747,7 @@ var addresses = [
         "address": "张江路1206号",
         "name": "张江科创园",
         "count": 6,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -39757,7 +39757,7 @@ var addresses = [
         "address": "张江路69号",
         "name": "戏剧谷",
         "count": 3,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -39767,7 +39767,7 @@ var addresses = [
         "address": "张江路665号",
         "name": "德宏大厦",
         "count": 3,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -39777,7 +39777,7 @@ var addresses = [
         "address": "张江路725号",
         "name": "德宏商务楼",
         "count": 1,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -39787,7 +39787,7 @@ var addresses = [
         "address": "张江路75号10幢",
         "name": "海德堡中心",
         "count": 1,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -39797,7 +39797,7 @@ var addresses = [
         "address": "张江镇郭守敬路351号",
         "name": "一标厂房（创e空间）",
         "count": 5,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -39807,7 +39807,7 @@ var addresses = [
         "address": "张江镇海趣路58号",
         "name": "海趣园",
         "count": 8,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -39817,7 +39817,7 @@ var addresses = [
         "address": "张扬路707号",
         "name": "生命人寿大厦",
         "count": 26,
-        "style": 1
+        "style": 2
     },
     {
         "lnglat": [
@@ -39837,7 +39837,7 @@ var addresses = [
         "address": "张杨北路2899弄",
         "name": "金地未未来",
         "count": 47,
-        "style": 0
+        "style": 4
     },
     {
         "lnglat": [
@@ -39847,7 +39847,7 @@ var addresses = [
         "address": "张杨路1050弄5号",
         "name": "梅竹大楼",
         "count": 2,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -39857,7 +39857,7 @@ var addresses = [
         "address": "张杨北路555弄",
         "name": "同方锦城",
         "count": 64,
-        "style": 0
+        "style": 6
     },
     {
         "lnglat": [
@@ -39867,7 +39867,7 @@ var addresses = [
         "address": "张杨路1328号",
         "name": "明竹公寓",
         "count": 2,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -39877,7 +39877,7 @@ var addresses = [
         "address": "张杨路1348号",
         "name": "春竹大楼",
         "count": 4,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -39897,7 +39897,7 @@ var addresses = [
         "address": "张杨路1515弄",
         "name": "陆家嘴国际华城",
         "count": 30,
-        "style": 1
+        "style": 3
     },
     {
         "lnglat": [
@@ -39907,7 +39907,7 @@ var addresses = [
         "address": "张杨路1518弄",
         "name": "金博尚品苑办公楼",
         "count": 4,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -39917,7 +39917,7 @@ var addresses = [
         "address": "张杨路1589、1591号",
         "name": "八方大厦",
         "count": 5,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -39947,7 +39947,7 @@ var addresses = [
         "address": "张杨路1673弄",
         "name": "生安花苑",
         "count": 28,
-        "style": 1
+        "style": 2
     },
     {
         "lnglat": [
@@ -39957,7 +39957,7 @@ var addresses = [
         "address": "张杨路188号",
         "name": "汤臣中心",
         "count": 5,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -39977,7 +39977,7 @@ var addresses = [
         "address": "张杨路2100弄",
         "name": "华阳苑",
         "count": 7,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -39997,7 +39997,7 @@ var addresses = [
         "address": "张杨路2389弄",
         "name": "置汇旭辉广场",
         "count": 8,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -40017,7 +40017,7 @@ var addresses = [
         "address": "张杨路2600弄",
         "name": "广洋华景苑",
         "count": 44,
-        "style": 0
+        "style": 4
     },
     {
         "lnglat": [
@@ -40027,7 +40027,7 @@ var addresses = [
         "address": "张杨路2771",
         "name": "信罗大厦",
         "count": 3,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -40037,7 +40037,7 @@ var addresses = [
         "address": "张杨路3080弄",
         "name": "名典苑",
         "count": 6,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -40057,7 +40057,7 @@ var addresses = [
         "address": "张杨路560、620号",
         "name": "恒瑞国际大厦",
         "count": 44,
-        "style": 0
+        "style": 4
     },
     {
         "lnglat": [
@@ -40067,7 +40067,7 @@ var addresses = [
         "address": "张杨路579号",
         "name": "三鑫世界商厦",
         "count": 5,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -40077,7 +40077,7 @@ var addresses = [
         "address": "张杨路628弄",
         "name": "东明广场",
         "count": 7,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -40087,7 +40087,7 @@ var addresses = [
         "address": "张杨路800号",
         "name": "长航大厦",
         "count": 4,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -40097,7 +40097,7 @@ var addresses = [
         "address": "张杨路655号",
         "name": "福兴大厦",
         "count": 4,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -40107,7 +40107,7 @@ var addresses = [
         "address": "张杨路828-838号",
         "name": "华都大厦(上海)",
         "count": 10,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -40117,7 +40117,7 @@ var addresses = [
         "address": "长安路1001号",
         "name": "长安大厦",
         "count": 6,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -40127,7 +40127,7 @@ var addresses = [
         "address": "章练塘路880弄",
         "name": "旭辉朗悦庭",
         "count": 46,
-        "style": 0
+        "style": 4
     },
     {
         "lnglat": [
@@ -40137,7 +40137,7 @@ var addresses = [
         "address": "长安路1138号",
         "name": "中房华东大厦",
         "count": 6,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -40147,7 +40147,7 @@ var addresses = [
         "address": "长安路550弄12号",
         "name": "安丰小区",
         "count": 1,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -40157,7 +40157,7 @@ var addresses = [
         "address": "长岛路1066弄",
         "name": "碧云新天地家园三期",
         "count": 27,
-        "style": 1
+        "style": 2
     },
     {
         "lnglat": [
@@ -40167,7 +40167,7 @@ var addresses = [
         "address": "长岛路1560弄",
         "name": "长岛花苑",
         "count": 25,
-        "style": 1
+        "style": 2
     },
     {
         "lnglat": [
@@ -40177,7 +40177,7 @@ var addresses = [
         "address": "长岛路625弄",
         "name": "同方锦城B区",
         "count": 3,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -40187,7 +40187,7 @@ var addresses = [
         "address": "长岛路638弄",
         "name": "龙腾苑",
         "count": 7,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -40197,7 +40197,7 @@ var addresses = [
         "address": "长虹路779弄",
         "name": "海上御景苑一期",
         "count": 40,
-        "style": 0
+        "style": 4
     },
     {
         "lnglat": [
@@ -40207,7 +40207,7 @@ var addresses = [
         "address": "长江路392号",
         "name": "KEY设计园区",
         "count": 2,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -40217,7 +40217,7 @@ var addresses = [
         "address": "长江南路180号",
         "name": "长江软件园",
         "count": 56,
-        "style": 0
+        "style": 5
     },
     {
         "lnglat": [
@@ -40227,7 +40227,7 @@ var addresses = [
         "address": "长江西路101号",
         "name": "上海节能环保园",
         "count": 4,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -40247,7 +40247,7 @@ var addresses = [
         "address": "长江西路1160弄",
         "name": "泗塘四村",
         "count": 10,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -40257,7 +40257,7 @@ var addresses = [
         "address": "长江西路1180号",
         "name": "泗塘大厦",
         "count": 7,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -40277,7 +40277,7 @@ var addresses = [
         "address": "长江西路1952弄2号（通河四村69号）",
         "name": "骏利财智园",
         "count": 1,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -40287,7 +40287,7 @@ var addresses = [
         "address": "长江西路2036弄1、2号",
         "name": "汇秀公寓",
         "count": 4,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -40297,7 +40297,7 @@ var addresses = [
         "address": "长江西路255号",
         "name": "上海国际节能环保园",
         "count": 3,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -40307,7 +40307,7 @@ var addresses = [
         "address": "长江西路755号",
         "name": "碧家国际社区(长江西路店)",
         "count": 2,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -40317,7 +40317,7 @@ var addresses = [
         "address": "长乐路801号",
         "name": "华尔登广场",
         "count": 3,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -40327,7 +40327,7 @@ var addresses = [
         "address": "长乐路989号",
         "name": "THE_CENTER世纪商贸广场",
         "count": 20,
-        "style": 1
+        "style": 2
     },
     {
         "lnglat": [
@@ -40337,7 +40337,7 @@ var addresses = [
         "address": "长江西路162、200号",
         "name": "湘源大厦",
         "count": 7,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -40347,7 +40347,7 @@ var addresses = [
         "address": "长临路1318弄",
         "name": "九英里城",
         "count": 46,
-        "style": 0
+        "style": 4
     },
     {
         "lnglat": [
@@ -40357,7 +40357,7 @@ var addresses = [
         "address": "长柳路58号",
         "name": "证大立方大厦",
         "count": 8,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -40367,7 +40367,7 @@ var addresses = [
         "address": "长宁路1018号",
         "name": "龙之梦购物中心大厦",
         "count": 59,
-        "style": 0
+        "style": 5
     },
     {
         "lnglat": [
@@ -40387,7 +40387,7 @@ var addresses = [
         "address": "长宁路1033号",
         "name": "联通大厦（上海）",
         "count": 6,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -40397,7 +40397,7 @@ var addresses = [
         "address": "长宁路1055号",
         "name": "汇都大楼",
         "count": 4,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -40407,7 +40407,7 @@ var addresses = [
         "address": "长宁路1189号",
         "name": "长宁来福士广场",
         "count": 1,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -40417,7 +40417,7 @@ var addresses = [
         "address": "长宁路1200号",
         "name": "贝多芬广场",
         "count": 4,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -40427,7 +40427,7 @@ var addresses = [
         "address": "长宁路1277弄",
         "name": "中山公寓",
         "count": 44,
-        "style": 0
+        "style": 4
     },
     {
         "lnglat": [
@@ -40447,7 +40447,7 @@ var addresses = [
         "address": "长宁路1387号",
         "name": "新发现梦园",
         "count": 2,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -40457,7 +40457,7 @@ var addresses = [
         "address": "长宁路1447号",
         "name": "遵义东大楼",
         "count": 2,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -40467,7 +40467,7 @@ var addresses = [
         "address": "长宁路1600弄",
         "name": "沈南小区",
         "count": 2,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -40477,7 +40477,7 @@ var addresses = [
         "address": "长宁路1515号",
         "name": "星火大厦",
         "count": 3,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -40487,7 +40487,7 @@ var addresses = [
         "address": "长宁路165号",
         "name": "华电商务楼",
         "count": 1,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -40497,7 +40497,7 @@ var addresses = [
         "address": "长宁路1898弄",
         "name": "虹桥河滨花园",
         "count": 9,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -40507,7 +40507,7 @@ var addresses = [
         "address": "长宁路405弄2号",
         "name": "花园村雅苑",
         "count": 1,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -40517,7 +40517,7 @@ var addresses = [
         "address": "长宁路378号",
         "name": "长宁大厦",
         "count": 3,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -40537,7 +40537,7 @@ var addresses = [
         "address": "长宁路1666弄",
         "name": "虹桥馨苑",
         "count": 20,
-        "style": 1
+        "style": 2
     },
     {
         "lnglat": [
@@ -40547,7 +40547,7 @@ var addresses = [
         "address": "长宁路515号",
         "name": "兴联大厦",
         "count": 6,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -40557,7 +40557,7 @@ var addresses = [
         "address": "长宁路546号",
         "name": "尚街Loft长宁会馆",
         "count": 5,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -40567,7 +40567,7 @@ var addresses = [
         "address": "长宁路855号",
         "name": "亨通国际大厦",
         "count": 23,
-        "style": 1
+        "style": 2
     },
     {
         "lnglat": [
@@ -40577,7 +40577,7 @@ var addresses = [
         "address": "长宁路599号",
         "name": "长宁区机关大厦",
         "count": 4,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -40587,7 +40587,7 @@ var addresses = [
         "address": "长宁路888号",
         "name": "兆丰嘉园",
         "count": 7,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -40597,7 +40597,7 @@ var addresses = [
         "address": "长宁路969号",
         "name": "兆丰花园",
         "count": 8,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -40607,7 +40607,7 @@ var addresses = [
         "address": "长宁支路125弄",
         "name": "长宁88金廷",
         "count": 32,
-        "style": 0
+        "style": 3
     },
     {
         "lnglat": [
@@ -40617,7 +40617,7 @@ var addresses = [
         "address": "长宁支路237弄1号",
         "name": "长芝大厦",
         "count": 3,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -40627,7 +40627,7 @@ var addresses = [
         "address": "长清北路1号",
         "name": "国新控股大厦",
         "count": 3,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -40637,7 +40637,7 @@ var addresses = [
         "address": "长清路1200弄",
         "name": "森宏购物广场商务楼",
         "count": 6,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -40647,7 +40647,7 @@ var addresses = [
         "address": "长清路12号",
         "name": "长清教师公寓",
         "count": 2,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -40657,7 +40657,7 @@ var addresses = [
         "address": "长寿路1112弄",
         "name": "水岸茗苑",
         "count": 23,
-        "style": 1
+        "style": 2
     },
     {
         "lnglat": [
@@ -40667,7 +40667,7 @@ var addresses = [
         "address": "长寿路1118号",
         "name": "悦达国际大厦",
         "count": 8,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -40677,7 +40677,7 @@ var addresses = [
         "address": "长寿路137号",
         "name": "财富时代广场",
         "count": 1,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -40687,7 +40687,7 @@ var addresses = [
         "address": "长寿路1076号",
         "name": "飞雕商务大厦",
         "count": 4,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -40697,7 +40697,7 @@ var addresses = [
         "address": "长寿路237号",
         "name": "工商银行大楼",
         "count": 1,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -40707,7 +40707,7 @@ var addresses = [
         "address": "长寿路285号",
         "name": "恒达大厦A幢",
         "count": 2,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -40717,7 +40717,7 @@ var addresses = [
         "address": "长寿路28弄",
         "name": "秋水云庐",
         "count": 41,
-        "style": 0
+        "style": 4
     },
     {
         "lnglat": [
@@ -40727,7 +40727,7 @@ var addresses = [
         "address": "长寿路30",
         "name": "荣年商务楼",
         "count": 2,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -40737,7 +40737,7 @@ var addresses = [
         "address": "长寿路360号",
         "name": "源达大厦",
         "count": 39,
-        "style": 0
+        "style": 3
     },
     {
         "lnglat": [
@@ -40747,7 +40747,7 @@ var addresses = [
         "address": "长寿路393号",
         "name": "昆仑商务大厦",
         "count": 2,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -40757,7 +40757,7 @@ var addresses = [
         "address": "长寿路457弄",
         "name": "锦海大厦(上海)",
         "count": 8,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -40767,7 +40767,7 @@ var addresses = [
         "address": "长寿路295弄8号",
         "name": "恒达公寓",
         "count": 1,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -40777,7 +40777,7 @@ var addresses = [
         "address": "长寿路468号",
         "name": "中环商务大厦",
         "count": 1,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -40787,7 +40787,7 @@ var addresses = [
         "address": "长寿路518弄",
         "name": "纺鑫苑",
         "count": 4,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -40797,7 +40797,7 @@ var addresses = [
         "address": "长寿路652号",
         "name": "景源时尚产业园",
         "count": 3,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -40807,7 +40807,7 @@ var addresses = [
         "address": "长寿路633弄3号",
         "name": "长寿大厦",
         "count": 4,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -40817,7 +40817,7 @@ var addresses = [
         "address": "长寿路748弄1号",
         "name": "湖南大厦",
         "count": 3,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -40827,7 +40827,7 @@ var addresses = [
         "address": "长寿路748弄2号",
         "name": "莘远大厦",
         "count": 3,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -40837,7 +40837,7 @@ var addresses = [
         "address": "长寿路800弄",
         "name": "苏堤春晓名苑",
         "count": 22,
-        "style": 1
+        "style": 2
     },
     {
         "lnglat": [
@@ -40847,7 +40847,7 @@ var addresses = [
         "address": "长寿路699号",
         "name": "国鑫大厦",
         "count": 5,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -40867,7 +40867,7 @@ var addresses = [
         "address": "长寿路888号",
         "name": "大众河滨酒店公寓",
         "count": 5,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -40877,7 +40877,7 @@ var addresses = [
         "address": "长寿路97号",
         "name": "世纪商务大厦",
         "count": 10,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -40887,7 +40887,7 @@ var addresses = [
         "address": "长水街277弄",
         "name": "信达蓝尊",
         "count": 10,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -40897,7 +40897,7 @@ var addresses = [
         "address": "长顺路36号",
         "name": "紫勋雅苑",
         "count": 22,
-        "style": 1
+        "style": 2
     },
     {
         "lnglat": [
@@ -40907,7 +40907,7 @@ var addresses = [
         "address": "长阳路1080号",
         "name": "上海国际设计交流中心",
         "count": 1,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -40917,7 +40917,7 @@ var addresses = [
         "address": "长阳路1529弄",
         "name": "旺增公寓",
         "count": 4,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -40927,7 +40927,7 @@ var addresses = [
         "address": "长阳路1616号",
         "name": "互联网教育大厦",
         "count": 4,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -40947,7 +40947,7 @@ var addresses = [
         "address": "长阳路2080号",
         "name": "宁武小区",
         "count": 2,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -40957,7 +40957,7 @@ var addresses = [
         "address": "长阳路235号",
         "name": "鼎立大厦",
         "count": 6,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -40967,7 +40967,7 @@ var addresses = [
         "address": "长阳路2467号",
         "name": "铭大创意广场",
         "count": 2,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -40977,7 +40977,7 @@ var addresses = [
         "address": "长阳路288号",
         "name": "兰侨大厦",
         "count": 3,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -40987,7 +40987,7 @@ var addresses = [
         "address": "长阳路666号",
         "name": "燕舞东方保利广场M楼",
         "count": 4,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -40997,7 +40997,7 @@ var addresses = [
         "address": "长阳路8号",
         "name": "建爱大厦",
         "count": 5,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -41007,7 +41007,7 @@ var addresses = [
         "address": "长逸路180号",
         "name": "逸隆广场",
         "count": 1,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -41017,7 +41017,7 @@ var addresses = [
         "address": "长逸路15号",
         "name": "复旦软件园",
         "count": 5,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -41037,7 +41037,7 @@ var addresses = [
         "address": "长逸路188号",
         "name": "复旦软件园二期",
         "count": 3,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -41057,7 +41057,7 @@ var addresses = [
         "address": "招贤路1181号",
         "name": "意安乐创中心",
         "count": 8,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -41067,7 +41067,7 @@ var addresses = [
         "address": "昭化路110号",
         "name": "增沁商务楼",
         "count": 2,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -41077,7 +41077,7 @@ var addresses = [
         "address": "昭化路118号",
         "name": "臻悦商苑",
         "count": 2,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -41087,7 +41087,7 @@ var addresses = [
         "address": "昭化路488号",
         "name": "金森大厦",
         "count": 3,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -41097,7 +41097,7 @@ var addresses = [
         "address": "昭化路68弄",
         "name": "晨飞公寓",
         "count": 1,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -41107,7 +41107,7 @@ var addresses = [
         "address": "肇家浜路407号",
         "name": "中科苑公寓",
         "count": 3,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -41117,7 +41117,7 @@ var addresses = [
         "address": "肇家浜路393号",
         "name": "兴南花园",
         "count": 2,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -41127,7 +41127,7 @@ var addresses = [
         "address": "赵屯浦路380弄",
         "name": "新塘苑",
         "count": 50,
-        "style": 0
+        "style": 5
     },
     {
         "lnglat": [
@@ -41137,7 +41137,7 @@ var addresses = [
         "address": "肇嘉浜路1033号",
         "name": "徐家汇国际大厦",
         "count": 6,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -41147,7 +41147,7 @@ var addresses = [
         "address": "肇嘉浜路1065号",
         "name": "飞雕国际大厦",
         "count": 3,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -41157,7 +41157,7 @@ var addresses = [
         "address": "肇嘉浜路1111号",
         "name": "美罗城",
         "count": 3,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -41167,7 +41167,7 @@ var addresses = [
         "address": "肇嘉浜路159号",
         "name": "友谊时代大厦",
         "count": 4,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -41177,7 +41177,7 @@ var addresses = [
         "address": "肇嘉浜路188弄",
         "name": "德玛公寓",
         "count": 4,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -41187,7 +41187,7 @@ var addresses = [
         "address": "肇嘉浜路201号",
         "name": "上海生产资料交易市场",
         "count": 2,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -41197,7 +41197,7 @@ var addresses = [
         "address": "肇嘉浜路201弄",
         "name": "衡园",
         "count": 32,
-        "style": 0
+        "style": 3
     },
     {
         "lnglat": [
@@ -41207,7 +41207,7 @@ var addresses = [
         "address": "肇嘉浜路258-268号",
         "name": "紫苑大厦",
         "count": 6,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -41217,7 +41217,7 @@ var addresses = [
         "address": "肇嘉浜路269弄",
         "name": "云福大厦",
         "count": 4,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -41227,7 +41227,7 @@ var addresses = [
         "address": "肇嘉浜路301号",
         "name": "工商大厦",
         "count": 1,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -41237,7 +41237,7 @@ var addresses = [
         "address": "肇嘉浜路288弄2号",
         "name": "中福商务楼",
         "count": 1,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -41247,7 +41247,7 @@ var addresses = [
         "address": "肇嘉浜路333号",
         "name": "亚太企业大楼",
         "count": 2,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -41257,7 +41257,7 @@ var addresses = [
         "address": "肇嘉浜路359号",
         "name": "航天科工集团大楼",
         "count": 2,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -41267,7 +41267,7 @@ var addresses = [
         "address": "肇嘉浜路366号",
         "name": "裕华大厦",
         "count": 1,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -41277,7 +41277,7 @@ var addresses = [
         "address": "肇嘉浜路376号",
         "name": "轻工大厦（上海）",
         "count": 2,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -41287,7 +41287,7 @@ var addresses = [
         "address": "肇嘉浜路383号",
         "name": "嘉乐公寓",
         "count": 4,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -41297,7 +41297,7 @@ var addresses = [
         "address": "肇嘉浜路446号",
         "name": "伊泰利大厦",
         "count": 10,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -41307,7 +41307,7 @@ var addresses = [
         "address": "肇嘉浜路539号",
         "name": "平华大厦",
         "count": 3,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -41317,7 +41317,7 @@ var addresses = [
         "address": "肇嘉浜路680号",
         "name": "上海金钟大厦",
         "count": 4,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -41327,7 +41327,7 @@ var addresses = [
         "address": "肇嘉浜路688弄",
         "name": "徐家汇景福苑",
         "count": 9,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -41337,7 +41337,7 @@ var addresses = [
         "address": "肇嘉浜路768号",
         "name": "欧江大厦",
         "count": 4,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -41347,7 +41347,7 @@ var addresses = [
         "address": "肇嘉浜路807号（东安路）",
         "name": "五洲国际大厦",
         "count": 6,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -41357,7 +41357,7 @@ var addresses = [
         "address": "肇嘉浜路789号",
         "name": "均瑶国际广场",
         "count": 4,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -41367,7 +41367,7 @@ var addresses = [
         "address": "肇嘉浜路96弄7号",
         "name": "沪筑汇",
         "count": 2,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -41377,7 +41377,7 @@ var addresses = [
         "address": "肇嘉浜路999弄",
         "name": "上海帝景苑",
         "count": 10,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -41397,7 +41397,7 @@ var addresses = [
         "address": "浙江中路400号",
         "name": "春申江大厦",
         "count": 1,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -41417,7 +41417,7 @@ var addresses = [
         "address": "浙桥路289弄2号",
         "name": "碧云公馆",
         "count": 7,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -41427,7 +41427,7 @@ var addresses = [
         "address": "浙江南路78号",
         "name": "东新商务大厦",
         "count": 3,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -41437,7 +41437,7 @@ var addresses = [
         "address": "真北路2150号",
         "name": "光学科技园区(宝岛眼镜)",
         "count": 3,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -41447,7 +41447,7 @@ var addresses = [
         "address": "真北路2500号",
         "name": "星河世纪广场",
         "count": 6,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -41457,7 +41457,7 @@ var addresses = [
         "address": "真北路2167号",
         "name": "鸿海大厦（上海）",
         "count": 7,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -41467,7 +41467,7 @@ var addresses = [
         "address": "真北路958号",
         "name": "天地科技广场",
         "count": 4,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -41477,7 +41477,7 @@ var addresses = [
         "address": "真北路3725弄11号",
         "name": "V领地青年社区真北路社区",
         "count": 2,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -41487,7 +41487,7 @@ var addresses = [
         "address": "真陈路788号",
         "name": "陕外物流商务楼",
         "count": 3,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -41507,7 +41507,7 @@ var addresses = [
         "address": "真大路520号",
         "name": "昇park文创园区",
         "count": 23,
-        "style": 1
+        "style": 2
     },
     {
         "lnglat": [
@@ -41517,7 +41517,7 @@ var addresses = [
         "address": "真大路551号",
         "name": "华生创谷文化创意产业园",
         "count": 23,
-        "style": 1
+        "style": 2
     },
     {
         "lnglat": [
@@ -41527,7 +41527,7 @@ var addresses = [
         "address": "真大路560号",
         "name": "永久1940iHUB创意产业园",
         "count": 2,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -41537,7 +41537,7 @@ var addresses = [
         "address": "真大路333弄",
         "name": "琉樽尚品",
         "count": 78,
-        "style": 0
+        "style": 7
     },
     {
         "lnglat": [
@@ -41547,7 +41547,7 @@ var addresses = [
         "address": "真光路1473弄3号",
         "name": "胜益商务中心",
         "count": 1,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -41557,7 +41557,7 @@ var addresses = [
         "address": "真光路1219号",
         "name": "新长征中环大厦",
         "count": 3,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -41577,7 +41577,7 @@ var addresses = [
         "address": "真华路1600弄",
         "name": "玉华东苑",
         "count": 6,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -41587,7 +41587,7 @@ var addresses = [
         "address": "真华路1801弄",
         "name": "梧桐城邦二期",
         "count": 92,
-        "style": 0
+        "style": 9
     },
     {
         "lnglat": [
@@ -41607,7 +41607,7 @@ var addresses = [
         "address": "真华路928号",
         "name": "大华虎城第三空间",
         "count": 87,
-        "style": 0
+        "style": 8
     },
     {
         "lnglat": [
@@ -41617,7 +41617,7 @@ var addresses = [
         "address": "真华路1989弄",
         "name": "梧桐城邦四期",
         "count": 8,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -41627,7 +41627,7 @@ var addresses = [
         "address": "真金路250弄",
         "name": "真金苑",
         "count": 41,
-        "style": 0
+        "style": 4
     },
     {
         "lnglat": [
@@ -41637,7 +41637,7 @@ var addresses = [
         "address": "真金路251弄",
         "name": "万里一期251弄",
         "count": 22,
-        "style": 1
+        "style": 2
     },
     {
         "lnglat": [
@@ -41647,7 +41647,7 @@ var addresses = [
         "address": "真华路999弄",
         "name": "水岸蓝桥",
         "count": 91,
-        "style": 0
+        "style": 9
     },
     {
         "lnglat": [
@@ -41657,7 +41657,7 @@ var addresses = [
         "address": "真金路457弄",
         "name": "凯旋华庭",
         "count": 10,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -41667,7 +41667,7 @@ var addresses = [
         "address": "真金路577弄，武威东路477弄，武威东路479弄",
         "name": "颐和华城",
         "count": 94,
-        "style": 0
+        "style": 9
     },
     {
         "lnglat": [
@@ -41677,7 +41677,7 @@ var addresses = [
         "address": "真南路3435弄",
         "name": "安达家园",
         "count": 4,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -41687,7 +41687,7 @@ var addresses = [
         "address": "真金路655弄",
         "name": "金华苑（上海）",
         "count": 8,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -41697,7 +41697,7 @@ var addresses = [
         "address": "真南路3489弄",
         "name": "阳光水岸苑",
         "count": 31,
-        "style": 0
+        "style": 3
     },
     {
         "lnglat": [
@@ -41707,7 +41707,7 @@ var addresses = [
         "address": "真南路822弄129号",
         "name": "李子园同济科技园",
         "count": 6,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -41717,7 +41717,7 @@ var addresses = [
         "address": "真南路708号",
         "name": "申环商务大楼",
         "count": 2,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -41727,7 +41727,7 @@ var addresses = [
         "address": "真南路895弄22-38号",
         "name": "真南路895弄",
         "count": 6,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -41737,7 +41737,7 @@ var addresses = [
         "address": "振兴东路15弄",
         "name": "成发苑",
         "count": 8,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -41747,7 +41747,7 @@ var addresses = [
         "address": "镇宁路111号",
         "name": "万宝国际广场（王子晶品）",
         "count": 2,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -41757,7 +41757,7 @@ var addresses = [
         "address": "镇宁路168号",
         "name": "美丽园酒店公寓",
         "count": 6,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -41767,7 +41767,7 @@ var addresses = [
         "address": "镇宁路233号",
         "name": "荣轩大厦",
         "count": 6,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -41787,7 +41787,7 @@ var addresses = [
         "address": "镇宁路525号",
         "name": "新东纺国际商务中心",
         "count": 2,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -41797,7 +41797,7 @@ var addresses = [
         "address": "镇宁路545弄15号",
         "name": "天星公寓（上海）",
         "count": 1,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -41807,7 +41807,7 @@ var addresses = [
         "address": "镇坪路48号",
         "name": "嘉富利大厦",
         "count": 4,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -41817,7 +41817,7 @@ var addresses = [
         "address": "镇宁路545弄7号",
         "name": "兴星公寓",
         "count": 1,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -41827,7 +41827,7 @@ var addresses = [
         "address": "镇宁路90-98号",
         "name": "爱俪轩大厦",
         "count": 4,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -41847,7 +41847,7 @@ var addresses = [
         "address": "正旭路599弄",
         "name": "凤凰城天境",
         "count": 76,
-        "style": 0
+        "style": 7
     },
     {
         "lnglat": [
@@ -41857,7 +41857,7 @@ var addresses = [
         "address": "镇泰路111弄",
         "name": "上海四季花城二期",
         "count": 34,
-        "style": 0
+        "style": 3
     },
     {
         "lnglat": [
@@ -41867,7 +41867,7 @@ var addresses = [
         "address": "正旭路733弄",
         "name": "凤凰城天悦",
         "count": 22,
-        "style": 1
+        "style": 2
     },
     {
         "lnglat": [
@@ -41877,7 +41877,7 @@ var addresses = [
         "address": "政旦东路8弄",
         "name": "财富商业广场",
         "count": 8,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -41887,7 +41887,7 @@ var addresses = [
         "address": "政德东路88号",
         "name": "椰泰公寓",
         "count": 2,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -41897,7 +41897,7 @@ var addresses = [
         "address": "政府路18号",
         "name": "波司登国际大厦",
         "count": 22,
-        "style": 1
+        "style": 2
     },
     {
         "lnglat": [
@@ -41917,7 +41917,7 @@ var addresses = [
         "address": "政和路388弄",
         "name": "仁恒怡庭",
         "count": 23,
-        "style": 1
+        "style": 2
     },
     {
         "lnglat": [
@@ -41927,7 +41927,7 @@ var addresses = [
         "address": "政和路999弄",
         "name": "合生江湾国际公寓",
         "count": 74,
-        "style": 0
+        "style": 7
     },
     {
         "lnglat": [
@@ -41937,7 +41937,7 @@ var addresses = [
         "address": "政立路415号",
         "name": "天盛广场",
         "count": 6,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -41947,7 +41947,7 @@ var addresses = [
         "address": "政青路399弄",
         "name": "文化名邸",
         "count": 5,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -41967,7 +41967,7 @@ var addresses = [
         "address": "政益路8号",
         "name": "五角丰达商务广场(五角丰达大厦)",
         "count": 28,
-        "style": 1
+        "style": 2
     },
     {
         "lnglat": [
@@ -41977,7 +41977,7 @@ var addresses = [
         "address": "芝川路100弄",
         "name": "芝川新苑（上海）",
         "count": 1,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -41987,7 +41987,7 @@ var addresses = [
         "address": "政益路47号48号",
         "name": "五角丰达商务广场（二期）",
         "count": 8,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -41997,7 +41997,7 @@ var addresses = [
         "address": "政悦路88弄",
         "name": "涵碧景苑",
         "count": 54,
-        "style": 0
+        "style": 5
     },
     {
         "lnglat": [
@@ -42007,7 +42007,7 @@ var addresses = [
         "address": "芷江西路788号",
         "name": "华舟大厦",
         "count": 4,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -42017,7 +42017,7 @@ var addresses = [
         "address": "止园路577号",
         "name": "和兰苑",
         "count": 4,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -42027,7 +42027,7 @@ var addresses = [
         "address": "志丹路10弄8号",
         "name": "长富大厦",
         "count": 2,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -42037,7 +42037,7 @@ var addresses = [
         "address": "志丹路97弄",
         "name": "西部大楼",
         "count": 8,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -42047,7 +42047,7 @@ var addresses = [
         "address": "志丹路155弄",
         "name": "西部名都花园",
         "count": 6,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -42057,7 +42057,7 @@ var addresses = [
         "address": "制造局路27号",
         "name": "紫宇大楼",
         "count": 1,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -42067,7 +42067,7 @@ var addresses = [
         "address": "制造局路287号",
         "name": "龙悦大厦",
         "count": 2,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -42077,7 +42077,7 @@ var addresses = [
         "address": "制造局路363弄",
         "name": "豫欣公寓",
         "count": 7,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -42087,7 +42087,7 @@ var addresses = [
         "address": "制造局路466号",
         "name": "裕和公寓",
         "count": 5,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -42097,7 +42097,7 @@ var addresses = [
         "address": "制造局路787号",
         "name": "黄浦区科技创业中心",
         "count": 2,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -42107,7 +42107,7 @@ var addresses = [
         "address": "制造局路833号",
         "name": "惠祥公寓",
         "count": 1,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -42117,7 +42117,7 @@ var addresses = [
         "address": "制造局路833弄8号",
         "name": "嘉登公寓",
         "count": 4,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -42127,7 +42127,7 @@ var addresses = [
         "address": "中漕路20号",
         "name": "中漕小区",
         "count": 1,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -42137,7 +42137,7 @@ var addresses = [
         "address": "中创路398号",
         "name": "佳钢科创园_中创路",
         "count": 4,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -42157,7 +42157,7 @@ var addresses = [
         "address": "中春路4999号",
         "name": "莘庄商务大楼",
         "count": 2,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -42187,7 +42187,7 @@ var addresses = [
         "address": "中春路7001号",
         "name": "明谷科技园",
         "count": 9,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -42207,7 +42207,7 @@ var addresses = [
         "address": "中创路68号",
         "name": "上海启迪漕河泾(中山)科技园",
         "count": 29,
-        "style": 1
+        "style": 2
     },
     {
         "lnglat": [
@@ -42227,7 +42227,7 @@ var addresses = [
         "address": "中春路7178号",
         "name": "欧西玛创新园区",
         "count": 8,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -42237,7 +42237,7 @@ var addresses = [
         "address": "中春路7628号",
         "name": "优房商务中心",
         "count": 3,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -42247,7 +42247,7 @@ var addresses = [
         "address": "中春路7658号",
         "name": "水清年华臻景苑",
         "count": 29,
-        "style": 1
+        "style": 2
     },
     {
         "lnglat": [
@@ -42257,7 +42257,7 @@ var addresses = [
         "address": "中春路8888弄",
         "name": "万科城市花园新区",
         "count": 4,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -42277,7 +42277,7 @@ var addresses = [
         "address": "中春路8889弄",
         "name": "万科城花新园",
         "count": 24,
-        "style": 1
+        "style": 2
     },
     {
         "lnglat": [
@@ -42287,7 +42287,7 @@ var addresses = [
         "address": "中华路429弄1-5号",
         "name": "绿地名人坊",
         "count": 28,
-        "style": 1
+        "style": 2
     },
     {
         "lnglat": [
@@ -42297,7 +42297,7 @@ var addresses = [
         "address": "中华路1359号",
         "name": "康宁商厦（大厦）",
         "count": 7,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -42317,7 +42317,7 @@ var addresses = [
         "address": "中华新路288号",
         "name": "绿洲雅宾利花园",
         "count": 24,
-        "style": 1
+        "style": 2
     },
     {
         "lnglat": [
@@ -42337,7 +42337,7 @@ var addresses = [
         "address": "中华新路588弄",
         "name": "中兴财富国际公寓",
         "count": 10,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -42347,7 +42347,7 @@ var addresses = [
         "address": "中江路879号",
         "name": "天地软件园",
         "count": 27,
-        "style": 1
+        "style": 2
     },
     {
         "lnglat": [
@@ -42367,7 +42367,7 @@ var addresses = [
         "address": "中江路888号",
         "name": "五芳斋大厦",
         "count": 3,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -42377,7 +42377,7 @@ var addresses = [
         "address": "中江路938号",
         "name": "中天新世纪商务大厦",
         "count": 4,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -42387,7 +42387,7 @@ var addresses = [
         "address": "中江路889号",
         "name": "曹杨商务大厦",
         "count": 36,
-        "style": 0
+        "style": 3
     },
     {
         "lnglat": [
@@ -42397,7 +42397,7 @@ var addresses = [
         "address": "中山北二路1121号",
         "name": "同济科技大厦",
         "count": 1,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -42407,7 +42407,7 @@ var addresses = [
         "address": "中山北二路1631号",
         "name": "曲阳邮政大厦",
         "count": 1,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -42427,7 +42427,7 @@ var addresses = [
         "address": "中山北路1017号",
         "name": "沪太办公楼",
         "count": 2,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -42437,7 +42437,7 @@ var addresses = [
         "address": "中山北路178号",
         "name": "钻石坊创意园",
         "count": 3,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -42447,7 +42447,7 @@ var addresses = [
         "address": "中山北路1799号",
         "name": "中一国际商务大厦",
         "count": 50,
-        "style": 0
+        "style": 5
     },
     {
         "lnglat": [
@@ -42457,7 +42457,7 @@ var addresses = [
         "address": "中山北路198号",
         "name": "申航大厦",
         "count": 6,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -42477,7 +42477,7 @@ var addresses = [
         "address": "中山北路2052号",
         "name": "振源大厦",
         "count": 48,
-        "style": 0
+        "style": 4
     },
     {
         "lnglat": [
@@ -42487,7 +42487,7 @@ var addresses = [
         "address": "中山北路2000号",
         "name": "中期大厦",
         "count": 7,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -42497,7 +42497,7 @@ var addresses = [
         "address": "中山北路2130号",
         "name": "万千大厦",
         "count": 5,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -42507,7 +42507,7 @@ var addresses = [
         "address": "中山北路2318号-2342号",
         "name": "中岚大楼",
         "count": 8,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -42527,7 +42527,7 @@ var addresses = [
         "address": "中山北路2790号",
         "name": "上海杰地大厦",
         "count": 8,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -42537,7 +42537,7 @@ var addresses = [
         "address": "中山北路2550号",
         "name": "上海有色金属交易中心(物贸大厦)",
         "count": 34,
-        "style": 0
+        "style": 3
     },
     {
         "lnglat": [
@@ -42547,7 +42547,7 @@ var addresses = [
         "address": "中山北路2900号",
         "name": "东方国际元中大厦",
         "count": 42,
-        "style": 0
+        "style": 4
     },
     {
         "lnglat": [
@@ -42557,7 +42557,7 @@ var addresses = [
         "address": "中山北路2911号",
         "name": "中关村科技大厦",
         "count": 10,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -42567,7 +42567,7 @@ var addresses = [
         "address": "中山北路3064号",
         "name": "绿洲广场",
         "count": 2,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -42587,7 +42587,7 @@ var addresses = [
         "address": "中山北路3323号",
         "name": "春之声大厦",
         "count": 3,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -42607,7 +42607,7 @@ var addresses = [
         "address": "中山北路3618弄",
         "name": "银城大厦(上海)",
         "count": 4,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -42617,7 +42617,7 @@ var addresses = [
         "address": "中山北路3751弄3号",
         "name": "悦樘公寓(华师大店)",
         "count": 2,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -42627,7 +42627,7 @@ var addresses = [
         "address": "中山北路3856弄2号",
         "name": "中环大厦",
         "count": 8,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -42647,7 +42647,7 @@ var addresses = [
         "address": "中山北路831弄1-5号",
         "name": "吉兴大厦",
         "count": 1,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -42657,7 +42657,7 @@ var addresses = [
         "address": "中山北路828号",
         "name": "科普大楼",
         "count": 2,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -42667,7 +42667,7 @@ var addresses = [
         "address": "中山北路835号",
         "name": "悦樘公寓(大宁店)",
         "count": 1,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -42687,7 +42687,7 @@ var addresses = [
         "address": "中山北一路1100弄",
         "name": "新华一村干休所",
         "count": 4,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -42697,7 +42697,7 @@ var addresses = [
         "address": "中山北一路1200号",
         "name": "明道大楼",
         "count": 6,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -42707,7 +42707,7 @@ var addresses = [
         "address": "中山北一路1200号1号楼",
         "name": "魔方公寓大柏树店",
         "count": 1,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -42717,7 +42717,7 @@ var addresses = [
         "address": "中山北一路1230号",
         "name": "柏树大厦",
         "count": 5,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -42727,7 +42727,7 @@ var addresses = [
         "address": "中山北一路1250号",
         "name": "沪办大厦",
         "count": 33,
-        "style": 0
+        "style": 3
     },
     {
         "lnglat": [
@@ -42737,7 +42737,7 @@ var addresses = [
         "address": "中山北一路160号",
         "name": "久乐大厦",
         "count": 2,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -42747,7 +42747,7 @@ var addresses = [
         "address": "中山北一路284号",
         "name": "上外中山大楼",
         "count": 4,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -42757,7 +42757,7 @@ var addresses = [
         "address": "中山北路864号",
         "name": "金甸大楼",
         "count": 1,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -42767,7 +42767,7 @@ var addresses = [
         "address": "中山北一路184号",
         "name": "上海怡景大厦",
         "count": 6,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -42777,7 +42777,7 @@ var addresses = [
         "address": "中山北一路805号",
         "name": "805公安大楼",
         "count": 3,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -42787,7 +42787,7 @@ var addresses = [
         "address": "中山东二路8号",
         "name": "外滩金延大楼",
         "count": 3,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -42797,7 +42797,7 @@ var addresses = [
         "address": "中山北一路865弄21号",
         "name": "阜和综合楼",
         "count": 1,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -42807,7 +42807,7 @@ var addresses = [
         "address": "中山南二路1007号",
         "name": "中煌大厦",
         "count": 4,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -42817,7 +42817,7 @@ var addresses = [
         "address": "中山南二路1057弄2号",
         "name": "协昌小区",
         "count": 6,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -42827,7 +42827,7 @@ var addresses = [
         "address": "中山南二路506号",
         "name": "泰莱商务楼",
         "count": 2,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -42837,7 +42837,7 @@ var addresses = [
         "address": "中山南二路508号",
         "name": "泰莱大厦",
         "count": 1,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -42847,7 +42847,7 @@ var addresses = [
         "address": "中山南二路595号",
         "name": "中南都市型工业园区",
         "count": 4,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -42857,7 +42857,7 @@ var addresses = [
         "address": "中山南二路900号",
         "name": "精文公寓",
         "count": 1,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -42867,7 +42867,7 @@ var addresses = [
         "address": "中山南二路932弄6号",
         "name": "龙山公寓",
         "count": 3,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -42877,7 +42877,7 @@ var addresses = [
         "address": "中山南二路999弄19号",
         "name": "中信中山大楼",
         "count": 3,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -42887,7 +42887,7 @@ var addresses = [
         "address": "中山南路1088号",
         "name": "南浦大楼",
         "count": 1,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -42897,7 +42897,7 @@ var addresses = [
         "address": "中山南路1228号",
         "name": "北方工业大厦",
         "count": 3,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -42907,7 +42907,7 @@ var addresses = [
         "address": "中山南路1358弄",
         "name": "中福花苑二期",
         "count": 67,
-        "style": 0
+        "style": 6
     },
     {
         "lnglat": [
@@ -42917,7 +42917,7 @@ var addresses = [
         "address": "中山南路1669弄69号",
         "name": "中山大楼",
         "count": 1,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -42927,7 +42927,7 @@ var addresses = [
         "address": "中山南路1877号",
         "name": "金中苑商务楼",
         "count": 2,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -42937,7 +42937,7 @@ var addresses = [
         "address": "中山南路200号",
         "name": "金外滩花园",
         "count": 24,
-        "style": 1
+        "style": 2
     },
     {
         "lnglat": [
@@ -42947,7 +42947,7 @@ var addresses = [
         "address": "中山南路318号",
         "name": "东方国际金融广场",
         "count": 22,
-        "style": 1
+        "style": 2
     },
     {
         "lnglat": [
@@ -42957,7 +42957,7 @@ var addresses = [
         "address": "中山南路268号",
         "name": "新源广场",
         "count": 4,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -42967,7 +42967,7 @@ var addresses = [
         "address": "中山南路398弄",
         "name": "海琪园",
         "count": 28,
-        "style": 1
+        "style": 2
     },
     {
         "lnglat": [
@@ -42977,7 +42977,7 @@ var addresses = [
         "address": "中山南路969号",
         "name": "谷泰滨江大厦",
         "count": 4,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -42987,7 +42987,7 @@ var addresses = [
         "address": "中山南路865号",
         "name": "临江花园大厦",
         "count": 2,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -42997,7 +42997,7 @@ var addresses = [
         "address": "中山南一路1065",
         "name": "天歌大地大厦",
         "count": 6,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -43007,7 +43007,7 @@ var addresses = [
         "address": "中山南一路528号",
         "name": "华西融创中心（上海滨江壹号院）",
         "count": 1,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -43027,7 +43027,7 @@ var addresses = [
         "address": "中山南一路892号",
         "name": "申龙大楼",
         "count": 4,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -43037,7 +43037,7 @@ var addresses = [
         "address": "中山南一路904号",
         "name": "中南公寓",
         "count": 4,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -43047,7 +43047,7 @@ var addresses = [
         "address": "中山西路1221号",
         "name": "锦绣花园（上海）",
         "count": 3,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -43057,7 +43057,7 @@ var addresses = [
         "address": "中山西路1231号",
         "name": "锦城公寓",
         "count": 3,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -43067,7 +43067,7 @@ var addresses = [
         "address": "中山西路1251弄",
         "name": "九九园",
         "count": 8,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -43077,7 +43077,7 @@ var addresses = [
         "address": "中山西路1279弄6号",
         "name": "国峰科技大厦（上海）",
         "count": 5,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -43087,7 +43087,7 @@ var addresses = [
         "address": "中山西路1281号",
         "name": "海螺大厦",
         "count": 8,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -43097,7 +43097,7 @@ var addresses = [
         "address": "中山西路1790号",
         "name": "兆丰虹桥公寓",
         "count": 1,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -43107,7 +43107,7 @@ var addresses = [
         "address": "中山西路179号，189弄",
         "name": "虹桥世家花园",
         "count": 8,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -43117,7 +43117,7 @@ var addresses = [
         "address": "中山西路1878号",
         "name": "凯托大厦",
         "count": 10,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -43127,7 +43127,7 @@ var addresses = [
         "address": "中山西路1919号",
         "name": "北科徐汇商都",
         "count": 2,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -43137,7 +43137,7 @@ var addresses = [
         "address": "中山西路1800号",
         "name": "兆丰环球大厦",
         "count": 50,
-        "style": 0
+        "style": 5
     },
     {
         "lnglat": [
@@ -43147,7 +43147,7 @@ var addresses = [
         "address": "中山西路1号",
         "name": "水云间(上海)",
         "count": 69,
-        "style": 0
+        "style": 6
     },
     {
         "lnglat": [
@@ -43167,7 +43167,7 @@ var addresses = [
         "address": "中山西路2006号",
         "name": "百第宜山大楼",
         "count": 5,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -43197,7 +43197,7 @@ var addresses = [
         "address": "中山西路2366号",
         "name": "华鼎广场",
         "count": 6,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -43207,7 +43207,7 @@ var addresses = [
         "address": "中山西路360号",
         "name": "宁定大楼",
         "count": 2,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -43217,7 +43217,7 @@ var addresses = [
         "address": "中山西路2368号",
         "name": "华鼎大厦",
         "count": 4,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -43227,7 +43227,7 @@ var addresses = [
         "address": "中山西路340号",
         "name": "科宁公寓",
         "count": 4,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -43237,7 +43237,7 @@ var addresses = [
         "address": "中山西路380号",
         "name": "家电大楼",
         "count": 2,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -43247,7 +43247,7 @@ var addresses = [
         "address": "中山西路483号",
         "name": "碧云公寓",
         "count": 3,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -43267,7 +43267,7 @@ var addresses = [
         "address": "中山西路750号",
         "name": "虹桥商务写字楼",
         "count": 1,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -43277,7 +43277,7 @@ var addresses = [
         "address": "中山西路800弄57号",
         "name": "紫虹大厦",
         "count": 2,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -43287,7 +43287,7 @@ var addresses = [
         "address": "中山西路699弄",
         "name": "上海虹桥绿郡",
         "count": 2,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -43297,7 +43297,7 @@ var addresses = [
         "address": "中山西路930号",
         "name": "云都虹桥大厦",
         "count": 4,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -43307,7 +43307,7 @@ var addresses = [
         "address": "中山西路933号",
         "name": "虹桥银城",
         "count": 24,
-        "style": 1
+        "style": 2
     },
     {
         "lnglat": [
@@ -43317,7 +43317,7 @@ var addresses = [
         "address": "中山西路999号",
         "name": "华闻国际大厦",
         "count": 45,
-        "style": 0
+        "style": 4
     },
     {
         "lnglat": [
@@ -43327,7 +43327,7 @@ var addresses = [
         "address": "中潭路33/91/99/100弄，远景路97弄",
         "name": "中远两湾城",
         "count": 194,
-        "style": 0
+        "style": 9
     },
     {
         "lnglat": [
@@ -43337,7 +43337,7 @@ var addresses = [
         "address": "中心路1450弄",
         "name": "华亭茗苑",
         "count": 26,
-        "style": 1
+        "style": 2
     },
     {
         "lnglat": [
@@ -43347,7 +43347,7 @@ var addresses = [
         "address": "中兴路1101号",
         "name": "昆泰大厦",
         "count": 1,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -43357,7 +43357,7 @@ var addresses = [
         "address": "中兴路373号",
         "name": "兴园373号",
         "count": 2,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -43367,7 +43367,7 @@ var addresses = [
         "address": "中谊路1215号",
         "name": "福克斯商务大厦",
         "count": 3,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -43377,7 +43377,7 @@ var addresses = [
         "address": "中谊路699号",
         "name": "华友大厦（上海）",
         "count": 4,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -43397,7 +43397,7 @@ var addresses = [
         "address": "众安路879弄",
         "name": "上海意得商城",
         "count": 140,
-        "style": 0
+        "style": 9
     },
     {
         "lnglat": [
@@ -43407,7 +43407,7 @@ var addresses = [
         "address": "众仁路375号",
         "name": "勇立大厦",
         "count": 3,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -43417,7 +43417,7 @@ var addresses = [
         "address": "重固镇大街588号",
         "name": "新世纪商业广场",
         "count": 5,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -43427,7 +43427,7 @@ var addresses = [
         "address": "众仁路399号",
         "name": "上海运通星财富广场",
         "count": 36,
-        "style": 0
+        "style": 3
     },
     {
         "lnglat": [
@@ -43437,7 +43437,7 @@ var addresses = [
         "address": "重庆南路310号",
         "name": "新电大厦",
         "count": 1,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -43447,7 +43447,7 @@ var addresses = [
         "address": "周邓公路6600弄",
         "name": "海尚乐苑",
         "count": 35,
-        "style": 0
+        "style": 3
     },
     {
         "lnglat": [
@@ -43457,7 +43457,7 @@ var addresses = [
         "address": "周家嘴路1299弄",
         "name": "上海大花园",
         "count": 60,
-        "style": 0
+        "style": 6
     },
     {
         "lnglat": [
@@ -43467,7 +43467,7 @@ var addresses = [
         "address": "周东路782弄22支弄",
         "name": "日月星城（上海）",
         "count": 6,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -43477,7 +43477,7 @@ var addresses = [
         "address": "周家嘴路2001弄",
         "name": "东银茗苑",
         "count": 27,
-        "style": 1
+        "style": 2
     },
     {
         "lnglat": [
@@ -43487,7 +43487,7 @@ var addresses = [
         "address": "周家嘴路2000弄",
         "name": "锦丽斯公寓",
         "count": 2,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -43497,7 +43497,7 @@ var addresses = [
         "address": "周家嘴路2188弄",
         "name": "泰鸿苑",
         "count": 3,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -43507,7 +43507,7 @@ var addresses = [
         "address": "周家嘴路2809号",
         "name": "凤城巷三期",
         "count": 4,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -43517,7 +43517,7 @@ var addresses = [
         "address": "周家嘴路3255号",
         "name": "上海船舶大楼",
         "count": 1,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -43527,7 +43527,7 @@ var addresses = [
         "address": "周家嘴路338弄",
         "name": "馨虹苑",
         "count": 9,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -43547,7 +43547,7 @@ var addresses = [
         "address": "周家嘴路3158弄",
         "name": "双阳公寓",
         "count": 9,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -43557,7 +43557,7 @@ var addresses = [
         "address": "周市路416号",
         "name": "慧晶国际公寓",
         "count": 6,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -43567,7 +43567,7 @@ var addresses = [
         "address": "周市路39弄",
         "name": "粤亮湾景苑",
         "count": 8,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -43587,7 +43587,7 @@ var addresses = [
         "address": "朱金公路801号",
         "name": "百士威大楼",
         "count": 6,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -43597,7 +43597,7 @@ var addresses = [
         "address": "朱家角路158弄",
         "name": "大发融悦华庭",
         "count": 78,
-        "style": 0
+        "style": 7
     },
     {
         "lnglat": [
@@ -43617,7 +43617,7 @@ var addresses = [
         "address": "株洲路168弄",
         "name": "城城金岛苑",
         "count": 4,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -43627,7 +43627,7 @@ var addresses = [
         "address": "株洲路388弄",
         "name": "建明花苑",
         "count": 4,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -43637,7 +43637,7 @@ var addresses = [
         "address": "株洲路9弄",
         "name": "菁鸿锦庭",
         "count": 9,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -43647,7 +43647,7 @@ var addresses = [
         "address": "竹柏路500弄",
         "name": "保利蔚蓝林语",
         "count": 43,
-        "style": 0
+        "style": 4
     },
     {
         "lnglat": [
@@ -43657,7 +43657,7 @@ var addresses = [
         "address": "珠城路158号",
         "name": "解放日报大厦C座",
         "count": 2,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -43677,7 +43677,7 @@ var addresses = [
         "address": "竹笛路388弄",
         "name": "宝菊清水园",
         "count": 20,
-        "style": 1
+        "style": 2
     },
     {
         "lnglat": [
@@ -43687,7 +43687,7 @@ var addresses = [
         "address": "竹林路101号",
         "name": "陆家嘴基金大厦",
         "count": 1,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -43697,7 +43697,7 @@ var addresses = [
         "address": "竹柳路50弄135号",
         "name": "安居锦竹苑",
         "count": 26,
-        "style": 1
+        "style": 2
     },
     {
         "lnglat": [
@@ -43707,7 +43707,7 @@ var addresses = [
         "address": "竹盈路160号",
         "name": "浪潮科创园",
         "count": 1,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -43717,7 +43717,7 @@ var addresses = [
         "address": "竹盈路339弄",
         "name": "卓越E时代创业中心",
         "count": 4,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -43727,7 +43727,7 @@ var addresses = [
         "address": "竹园路518号",
         "name": "德宏商务中心",
         "count": 1,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -43747,7 +43747,7 @@ var addresses = [
         "address": "颛兴东路1058号",
         "name": "红园企业总部园",
         "count": 2,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -43757,7 +43757,7 @@ var addresses = [
         "address": "颛兴东路1280弄1-4号",
         "name": "南滨江科创园",
         "count": 8,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -43767,7 +43767,7 @@ var addresses = [
         "address": "颛兴东路1331号",
         "name": "TMT大厦",
         "count": 7,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -43777,7 +43777,7 @@ var addresses = [
         "address": "颛兴东路1313号",
         "name": "云部落大厦",
         "count": 7,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -43787,7 +43787,7 @@ var addresses = [
         "address": "颛兴东路1550弄",
         "name": "剑桥馨苑",
         "count": 40,
-        "style": 0
+        "style": 4
     },
     {
         "lnglat": [
@@ -43797,7 +43797,7 @@ var addresses = [
         "address": "颛兴东路745号",
         "name": "拉法叶园区B楼墨空间",
         "count": 4,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -43807,7 +43807,7 @@ var addresses = [
         "address": "颛兴东路999弄",
         "name": "阳明创业园",
         "count": 6,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -43827,7 +43827,7 @@ var addresses = [
         "address": "紫乐路8号",
         "name": "魔方公寓虹中路店",
         "count": 1,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -43837,7 +43837,7 @@ var addresses = [
         "address": "颛兴路666弄",
         "name": "日月华城",
         "count": 20,
-        "style": 1
+        "style": 2
     },
     {
         "lnglat": [
@@ -43847,7 +43847,7 @@ var addresses = [
         "address": "紫藤路266弄",
         "name": "龙柏易居",
         "count": 5,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -43857,7 +43857,7 @@ var addresses = [
         "address": "紫藤路99弄",
         "name": "紫藤居",
         "count": 6,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -43867,7 +43867,7 @@ var addresses = [
         "address": "紫薇路667弄",
         "name": "阳光花城",
         "count": 28,
-        "style": 1
+        "style": 2
     },
     {
         "lnglat": [
@@ -43877,7 +43877,7 @@ var addresses = [
         "address": "紫秀路100号",
         "name": "虹桥总部1号",
         "count": 30,
-        "style": 1
+        "style": 3
     },
     {
         "lnglat": [
@@ -43887,7 +43887,7 @@ var addresses = [
         "address": "紫云西路28弄",
         "name": "翠庭",
         "count": 10,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -43907,7 +43907,7 @@ var addresses = [
         "address": "紫云西路50弄",
         "name": "虹桥紫云苑二期",
         "count": 4,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -43917,7 +43917,7 @@ var addresses = [
         "address": "紫云西路89弄",
         "name": "虹桥紫云苑",
         "count": 6,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -43927,7 +43927,7 @@ var addresses = [
         "address": "走马塘路1228弄",
         "name": "保利熙悦",
         "count": 40,
-        "style": 0
+        "style": 4
     },
     {
         "lnglat": [
@@ -43937,7 +43937,7 @@ var addresses = [
         "address": "祖冲之路1559号",
         "name": "创意大厦（上海）",
         "count": 2,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -43947,7 +43947,7 @@ var addresses = [
         "address": "遵义路107号",
         "name": "安泰大厦",
         "count": 8,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -43957,7 +43957,7 @@ var addresses = [
         "address": "祖冲之路295号",
         "name": "夏新大楼",
         "count": 2,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -43967,7 +43967,7 @@ var addresses = [
         "address": "遵义路797号",
         "name": "虹桥国际大厦",
         "count": 8,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -43977,7 +43977,7 @@ var addresses = [
         "address": "遵义南路88号",
         "name": "协泰中心",
         "count": 6,
-        "style": 2
+        "style": 0
     },
     {
         "lnglat": [
@@ -43987,6 +43987,6 @@ var addresses = [
         "address": "遵义南路8号",
         "name": "锦明大厦",
         "count": 29,
-        "style": 1
+        "style": 2
     }
 ]
