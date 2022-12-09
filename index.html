@@ -118,6 +118,11 @@
             marker.setLabel({ content: e.data.name + ',' + e.data.address + ',' + e.data.count })
         });
 
+        mass.on('touch', function (e) {
+            marker.setPosition(e.data.lnglat);
+            marker.setLabel({ content: e.data.name + ',' + e.data.address + ',' + e.data.count })
+        });
+
         mass.setMap(map);
     </script>
 </body>
