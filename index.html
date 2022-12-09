@@ -58,13 +58,13 @@
         // 创建地图实例
         var map = new AMap.Map("container", {
             zoom: 13,
-            // center: position,
+            center: [121.472644,31.231706],
             resizeEnable: true
         });
 
-        var geocoder = new AMap.Geocoder({
-            city: "上海", //城市设为北京，默认：“全国”
-        });
+        // var geocoder = new AMap.Geocoder({
+        //     city: "上海", //城市设为北京，默认：“全国”
+        // });
         var style = []
         for (let index = 0; index < 10; index++) {
             style.push(
