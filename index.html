@@ -78,7 +78,8 @@
 
         // var markers = []
         // for (let index = 0; index < summary.length; index++) {
-        //     geoCode(summary[index])
+        //     setTimeout(geoCode(summary[index]),300)
+
         // }
 
         // function geoCode(a) {
@@ -113,7 +114,20 @@
             geolocation.getCurrentPosition();
         });
 
-        var mass = new AMap.MassMarks(addresses, {
+        var morethanfourty = []
+        for (let index = 0; index < addresses.length; index++) {
+            // if (addresses[index].count >=20 && (addresses[index].name.indexOf('大厦')>0 ||addresses[index].name.indexOf('中心')>0)) {
+            // if (addresses[index].count >= 10) {
+                var t =Math.floor(addresses[index].count / 10)
+                if(t>10) {
+                    t=9
+                }
+                addresses[index].style = t
+                morethanfourty.push(addresses[index])
+            // }
+
+        }
+        var mass = new AMap.MassMarks(morethanfourty, {
             opacity: 0.8,
             zIndex: 111,
             cursor: 'pointer',
