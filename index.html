@@ -48,11 +48,12 @@
 </head>
 
 <body>
+     
     <div id="container"></div>
     <script type="text/javascript" src="./addresses.js"></script>
     <script type="text/javascript" src="./fenzhong.js"></script>
     <script type="text/javascript"
-        src="https://webapi.amap.com/maps?v=1.4.15&key=ade154cd66fa7d3a25fdbb216debbd9a&plugin=AMap.Geocoder"></script>
+        src="https://webapi.amap.com/maps?v=2.0&key=ade154cd66fa7d3a25fdbb216debbd9a"></script>
     <script type="text/javascript">
 
         // 创建地图实例
@@ -78,8 +79,7 @@
 
         // var markers = []
         // for (let index = 0; index < summary.length; index++) {
-        //     setTimeout(geoCode(summary[index]),300)
-
+        //     geoCode(summary[index])
         // }
 
         // function geoCode(a) {
@@ -142,7 +142,8 @@
         // });
 
         mass.on('click', function (e) {
-            marker.setPosition(e.data.lnglat);
+            var lnglat = e.data.lnglat.split(',')
+            marker.setPosition(lnglat);
             marker.setLabel({ content: e.data.name + ',' + e.data.address + ',' + e.data.count })
         });
 
